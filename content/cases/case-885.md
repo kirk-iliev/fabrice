@@ -1,0 +1,14 @@
+---
+title: "Case 885 — Case 885"
+date: 1967-09-22
+location: "Case 885"
+tags: [case, humanoid, CE3]
+source: Passport to Magonia
+---
+
+## Case 885 — September 22, 1967
+
+Caracas (Venezuela), Near Caracas, a race track em- night ployee was attacked by a very strong creature that choked him, but ran away when a horse was heard neighing frantically in the stable. Thirty min later, a horse was attacked, and an employee saw a dwarf, 1 m tall, "zoom" out of the building. (Lor. Il] 84)
+
+**Source:** Passport to Magonia  
+**Case:** 885

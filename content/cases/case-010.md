@@ -1,0 +1,14 @@
+---
+title: "Case 010 — 1896 Arolla, near Zermatt (Swiss Alps)"
+date: unknown
+location: "1896 Arolla, near Zermatt (Swiss Alps)"
+tags: [case, humanoid, CE3]
+source: Passport to Magonia
+---
+
+## 1896 Arolla, near Zermatt (Swiss Alps) — Unknown date
+
+Author Aleister Crowley was walking in the mountains when he sud- denly saw two little men. He made a gesture to them, but they did not seem to pay attention and disap- peared among the rocks. (Magick Without Tears, by A. Crowley)
+
+**Source:** Passport to Magonia  
+**Case:** 10
