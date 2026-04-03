@@ -1,14 +1,14 @@
 ---
-title: "Case 034 — Case 34"
-date: unknown
-location: "Case 34"
-tags: [case, landing, CE2]
+title: "Case 034 — 1908 Coast of Delaware"
+date: 1908
+location: "1908 Coast of Delaware"
+tags: [case, humanoid, CE3]
 source: Passport to Magonia
 ---
 
-## Case 34 — Unknown date
+## 1908 Coast of Delaware — 1908
 
-Mar., 1945 Aleutian Islands. Aboard the US attack transport "Delarof," 14 sailors saw a dark sphere rise out of the ocean, follow a curved trajectory, and fly away after circling their ship. (Evidence 30)
+The English ship piloted by Capt. Urghart, was going to Philadelphia when it was surrounded by a thick, luminous cloud which "magnetized" everything on board. The com- pass was observed to swing wildly. When seamen tried oO move some chains on the bridge, they found that hey were glued to the metal floor. Suddenly the cloud rose and was seen above the sea for some time. (197)
 
 **Source:** Passport to Magonia  
 **Case:** 34

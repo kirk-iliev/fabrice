@@ -1,23 +1,130 @@
 [
   {
+    "case_number": 1,
+    "date": "1868-07",
+    "date_display": "July 1868",
+    "time": "",
+    "location": "Copiago (Chile)",
+    "description": "A strange “aerial construction\" bearing lights and making engine noises flew low over this town. Local people also described it as a giant bird covered with large scales producing a me- tallic noise. Although not an actual landing, this is the first instance of close observation of an unknown object at low altitude in the nineteenth century. (Fort 638, Anatomy 11)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "landing",
+      "vehicle-interference",
+      "CE2"
+    ]
+  },
+  {
     "case_number": 2,
-    "date": "1897-04-22",
-    "date_display": "April 22, 1897",
-    "time": "2400",
-    "location": "Josserand (Texas)",
-    "description": "Franck Nichols, who lived 3 km east of Josserand and was one of its most respected citizens, was awakened by a machine noise. Looking outside, he saw a heavy. lighted object land in his wheat field. He walked toward it, was stopped by two men who asked permission to draw water from his well. He then had a discussion with a half-dozen men, the crew of the strange machine. He was told how it worked but could not follow the explanation. (193; Magonia)",
+    "date": "1872-12-07",
+    "date_display": "December 7, 1872",
+    "time": "0100",
+    "location": "Banbury (Great Britain)",
+    "description": "At King's Sutton an object hours resembling a haystack flew on an irregular course. Sometimes high, sometimes very low, it was accom- panied by fire and dense smoke. It produced the same effect as a tornado, felling trees and walls. It sud- denly vanished. (Fort 189)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "CE1"
+    ]
+  },
+  {
+    "case_number": 3,
+    "date": "1877",
+    "date_display": "1877",
+    "time": "",
+    "location": "1877 Aldershot (Great Britain)",
+    "description": "A strange being dressed in tight-fitting clothes and shining helmet soared over the heads of two sentries, who fired without result. The apparition stunned them with something de- scribed as \"blue fire.\" (FSR 61, 3; Magonia)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
       "humanoid",
-      "landing",
       "CE3"
     ]
   },
   {
+    "case_number": 4,
+    "date": "1879-05-15",
+    "date_display": "May 15, 1879",
+    "time": "2140",
+    "location": "Persian Gulf",
+    "description": "Two very large \"wheels\" were seen spinning in the air and slowly coming to the surface of the sea. Estimated diameter: 40 m. Distance be- tween the objects: 150 m. Speed: 80 km/h. Duration: 35 min. Witnesses aboard the ship \"Vultur.\" (Round- up 147; Anatomy 12)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "CE1"
+    ]
+  },
+  {
+    "case_number": 5,
+    "date": "1880",
+    "date_display": "1880",
+    "time": "",
+    "location": "1880 Eastern Venezuela",
+    "description": "A 14-year-old boy saw a luminous ball descending from the sky and hovering near him. He felt somehow \"drawn\" to it, but succeeded in backing away in spite of his terror. (Lor. Ill 206)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "CE1"
+    ]
+  },
+  {
+    "case_number": 6,
+    "date": "1880-03-26",
+    "date_display": "March 26, 1880",
+    "time": "",
+    "location": "Lamy (New Mexico)",
+    "description": "Four men walking near Galis- evening teo Junction were surprised as they heard voices com- ing from a \"strange balloon,\" which flew, over them. It was shaped like a fish and seemed to be guided by a large fanlike device. There were eight to ten figures aboard. Their language was not understood. The ob- ject flew low over Galisteo Junction and rose rapidly toward the east. (FSR 65, 3)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "humanoid",
+      "CE3"
+    ]
+  },
+  {
+    "case_number": 7,
+    "date": "1881-06-11",
+    "date_display": "June 11, 1881",
+    "time": "0400",
+    "location": "Between Melbourne and Sydney at sea (Australia)",
+    "description": "The two sons of the Prince of Wales, one of (hem the future king of England, were cruising aboard \"La Bacchante” when an object resembling a fully lighted ship was seen (\"a phantom vessel all aglow\"). (Fort 637, Anatomy 12)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "landing",
+      "CE2"
+    ]
+  },
+  {
+    "case_number": 8,
+    "date": "1885-11-02",
+    "date_display": "November 2, 1885",
+    "time": "",
+    "location": "Scutari (Turkey)",
+    "description": "A luminous object circled the har- dawn bor. Altitude: 5-6 m. the whole town. Duration: I-IV2 min, as a bluish-green flame. Then plunged into the sea. Made several circles above the ferryboat pier. (LDLN 48; Anatomy 14)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "CE1"
+    ]
+  },
+  {
+    "case_number": 9,
+    "date": "1887-11-12",
+    "date_display": "November 12, 1887",
+    "time": "2400",
+    "location": "Cape Race (Atlantic Ocean)",
+    "description": "A huge sphere of fire was observed rising out of the ocean by witnesses aboard the \"Siberian.\" It rose to an altitude of 16 m, flew against the wind, and came close to the ship, then \"dashed off\" toward the southeast. Duration: 5 min. (LDLN 48; Anatomy 14)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "CE1"
+    ]
+  },
+  {
     "case_number": 10,
-    "date": "",
-    "date_display": "",
+    "date": "1896",
+    "date_display": "1896",
     "time": "",
     "location": "1896 Arolla, near Zermatt (Swiss Alps)",
     "description": "Author Aleister Crowley was walking in the mountains when he sud- denly saw two little men. He made a gesture to them, but they did not seem to pay attention and disap- peared among the rocks. (Magick Without Tears, by A. Crowley)",
@@ -254,6 +361,21 @@
     ]
   },
   {
+    "case_number": 27,
+    "date": "1897-04-22",
+    "date_display": "April 22, 1897",
+    "time": "2400",
+    "location": "Josserand (Texas)",
+    "description": "Franck Nichols, who lived 3 km east of Josserand and was one of its most respected citizens, was awakened by a machine noise. Looking outside, he saw a heavy. lighted object land in his wheat field. He walked toward it, was stopped by two men who asked permission to draw water from his well. He then had a discussion with a half-dozen men, the crew of the strange machine. He was told how it worked but could not follow the explanation. (193; Magonia)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "humanoid",
+      "landing",
+      "CE3"
+    ]
+  },
+  {
     "case_number": 28,
     "date": "1897-04-23",
     "date_display": "April 23, 1897",
@@ -324,8 +446,8 @@
   },
   {
     "case_number": 33,
-    "date": "",
-    "date_display": "",
+    "date": "1904",
+    "date_display": "1904",
     "time": "",
     "location": "1904 Rolling Prairie (Indiana)",
     "description": "Tom Darby, with his brother and mother. saw two whitish-blue objects about 400 m away, from a point situated 3 km north of Rolling Prairie. The objects hovered 2 or 3 m above ground, flew toward a barn, came closer to each other, and were hidden from view by a hill. (Ilarlle 164)",
@@ -337,16 +459,16 @@
   },
   {
     "case_number": 34,
-    "date": "",
-    "date_display": "",
+    "date": "1908",
+    "date_display": "1908",
     "time": "",
-    "location": "",
-    "description": "Mar., 1945 Aleutian Islands. Aboard the US attack transport \"Delarof,\" 14 sailors saw a dark sphere rise out of the ocean, follow a curved trajectory, and fly away after circling their ship. (Evidence 30)",
+    "location": "1908 Coast of Delaware",
+    "description": "The English ship piloted by Capt. Urghart, was going to Philadelphia when it was surrounded by a thick, luminous cloud which \"magnetized\" everything on board. The com- pass was observed to swing wildly. When seamen tried oO move some chains on the bridge, they found that hey were glued to the metal floor. Suddenly the cloud rose and was seen above the sea for some time. (197)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
-      "landing",
-      "CE2"
+      "humanoid",
+      "CE3"
     ]
   },
   {
@@ -393,11 +515,11 @@
   },
   {
     "case_number": 38,
-    "date": "",
-    "date_display": "",
+    "date": "1910",
+    "date_display": "1910",
     "time": "2300",
-    "location": "",
-    "description": "Jan., 1910 Invercargill (New Zealand). Several witnesses— among them the vicar, the mayor, and a policeman —saw a cigar-shaped object hovering at 30 m alti- tude. A man appeared at a lateral door and was heard shouting some words in an unknown language. The opening closed, and the object accelerated and was lost to sight. {Stuart 24)",
+    "location": "Invercargill (New Zealand)",
+    "description": "Several witnesses— among them the vicar, the mayor, and a policeman —saw a cigar-shaped object hovering at 30 m alti- tude. A man appeared at a lateral door and was heard shouting some words in an unknown language. The opening closed, and the object accelerated and was lost to sight. {Stuart 24)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -407,10 +529,10 @@
   },
   {
     "case_number": 39,
-    "date": "",
-    "date_display": "",
+    "date": "1914-06",
+    "date_display": "June 1914",
     "time": "0400",
-    "location": "June, 1914 Hamburg (Germany)",
+    "location": "Hamburg (Germany)",
     "description": "Gustav Herwagen opened the door of his house and saw in a field a shining cigar- shnped object wilh illuminated windows. Near it were four or five dwarfs 1.20 m tall, clad in light clothing. He approached them, but they went aboard the ob- ject as soon as they appeared to be aware of his pres- ence. A door closed, and the craft took off silently, climbing vertically. (Nachrichten April, 62)",
     "source": "Passport to Magonia",
     "tags": [
@@ -421,11 +543,11 @@
   },
   {
     "case_number": 40,
-    "date": "",
-    "date_display": "",
+    "date": "1914",
+    "date_display": "1914",
     "time": "",
-    "location": "",
-    "description": "Aug., 1914 Georgian Bay (Canada). William }. Kiehl and seven other persons saw a spherical craft on the surface of the water. On its deck were two small men wearing green-purple clothes. They seemed to be busy with a hose, plunging it into the water. On the opposite side were three men dressed in light brown, wearing square masks down to their shoulders. Seeing the witnesses, they reentered the craft except for one dwarf, wearing shoes with a curved, pointed tip, who remained out- side while the craft rose 3 m above the water and shot upward, leaving a short trail. (199)",
+    "location": "Georgian Bay (Canada)",
+    "description": "William }. Kiehl and seven other persons saw a spherical craft on the surface of the water. On its deck were two small men wearing green-purple clothes. They seemed to be busy with a hose, plunging it into the water. On the opposite side were three men dressed in light brown, wearing square masks down to their shoulders. Seeing the witnesses, they reentered the craft except for one dwarf, wearing shoes with a curved, pointed tip, who remained out- side while the craft rose 3 m above the water and shot upward, leaving a short trail. (199)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -449,11 +571,11 @@
   },
   {
     "case_number": 42,
-    "date": "",
-    "date_display": "",
+    "date": "1917",
+    "date_display": "1917",
     "time": "",
-    "location": "",
-    "description": "Oct., 1917 Youngstown (Pennsylvania). John Boback, 17, was walking along the railroad tracks between Youngs- town and Mt. Braddock when he saw a saucer-shaped object with a platform and rows of lights, sitting in a field 30 m to his left. He watched the object for 1-2 min until it took off with a high-pitched sound, rising gradually like a slow plane. Its size was that of an average car. The top of the object was a dome with elongated windows through which figures could be seen. (Ilartle 157)",
+    "location": "Youngstown (Pennsylvania)",
+    "description": "John Boback, 17, was walking along the railroad tracks between Youngs- town and Mt. Braddock when he saw a saucer-shaped object with a platform and rows of lights, sitting in a field 30 m to his left. He watched the object for 1-2 min until it took off with a high-pitched sound, rising gradually like a slow plane. Its size was that of an average car. The top of the object was a dome with elongated windows through which figures could be seen. (Ilartle 157)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -463,8 +585,8 @@
   },
   {
     "case_number": 43,
-    "date": "",
-    "date_display": "",
+    "date": "1921",
+    "date_display": "1921",
     "time": "",
     "location": "1921 Marseilles (France)",
     "description": "Undocumented report of an “abduction” by two beings. (Quincy)",
@@ -477,8 +599,8 @@
   },
   {
     "case_number": 44,
-    "date": "",
-    "date_display": "",
+    "date": "1922",
+    "date_display": "1922",
     "time": "0500",
     "location": "",
     "description": "Feb.22,1922 Hubbell (Nebraska). William C. Lamb was follow- ing strange tracks when he heard a high-pitched sound and saw a circular object intercepting starlight. It became brilliantly lighted and landed in a hollow. Soon afterward, a creature over 2.4 m tall was seen flying from the direction where the object had landed. It left tracks in the snow, which Lamb followed with- out results. (Anatomy 22)",
@@ -519,10 +641,10 @@
   },
   {
     "case_number": 47,
-    "date": "",
-    "date_display": "",
+    "date": "1929-07",
+    "date_display": "July 1929",
     "time": "",
-    "location": "July, 1929 Robsart (Canada)",
+    "location": "Robsart (Canada)",
     "description": "Five persons, among them Einar Rostivold, saw a huge ball of light giving off fiery colors, 25 km from Robsart. It landed slowly, van- ished gradually after illuminating the whole country- side for 30 min. (Fate Jan., 58)",
     "source": "Passport to Magonia",
     "tags": [
@@ -533,8 +655,8 @@
   },
   {
     "case_number": 48,
-    "date": "",
-    "date_display": "",
+    "date": "1933",
+    "date_display": "1933",
     "time": "",
     "location": "Summer, 1933 Chrysville (Pennsylvania)",
     "description": "A man observed a faint Morning violet light in a field between this town and Morres- town. Walking to it, he found an ovoid object 3 m in diameter and 2 m thick with a circular opening similar to a vault door. Pushing it, he found the room full of violet light and observed many instruments, no oc- cupant. Smell of ammonia. (APRO July, 64)",
@@ -547,8 +669,8 @@
   },
   {
     "case_number": 49,
-    "date": "",
-    "date_display": "",
+    "date": "1938",
+    "date_display": "1938",
     "time": "",
     "location": "",
     "description": "Fall, 1938 (or following year) Juminda (Estonian coast). Two persons saw a strange \"frog-man” | m tall, with a round head, no neck, and a hump in front of the body. The mouth was a large. straight slit, the eyes were like smaller slits. ITic skin was brown-green, compared to pegamoid, hands normal. Hie creature walked in a peculiar \"but elegant\" fashion, the head waving up and down while the legs moved \"carefully.\". When pursued, the creature accelerated very fast, with feet \"fluttering.\" About 100 m away it vanished com- pletely. (Personal)",
@@ -561,10 +683,10 @@
   },
   {
     "case_number": 50,
-    "date": "",
-    "date_display": "",
+    "date": "1943",
+    "date_display": "1943",
     "time": "0400",
-    "location": "Sept, 1943 Oncativo (Argentina)",
+    "location": "Oncativo (Argentina)",
     "description": "Navarro Ocampo, driving be- tween Rosario and Cordoba, saw a large, saucer-shaped object on the ground 500 m to the left of the road. It glowed with a bluish-green light. made a whistling sound, rose to 100 m altitude, then left at fantastic speed. A strange metal block is said to have been found at the spot. (GEPA Dec, 68)",
     "source": "Passport to Magonia",
     "tags": [
@@ -574,8 +696,8 @@
   },
   {
     "case_number": 51,
-    "date": "",
-    "date_display": "",
+    "date": "1944-08",
+    "date_display": "August 1944",
     "time": "",
     "location": "",
     "description": "End Aug., 1944 Mattoon (Illinois). A mysterious man appeared at windows, as if in search of someone. He stunned wit- nesses by pointing at them a device that \"made con- sciousness dissolve\" and left a strange cloying smell behind. (FSR 61, 3; Magonia)",
@@ -587,8 +709,8 @@
   },
   {
     "case_number": 52,
-    "date": "",
-    "date_display": "",
+    "date": "1945",
+    "date_display": "1945",
     "time": "",
     "location": "1945 Habbebishopsheim (Germany)",
     "description": "An American soldier saw a disk-shaped object come down rapidly, oscillate, and land. The site could not be found in the dark. The event took place 35 km northwest of the town. (Atic)",
@@ -601,15 +723,29 @@
   },
   {
     "case_number": 53,
-    "date": "",
-    "date_display": "",
+    "date": "1945",
+    "date_display": "1945",
     "time": "",
-    "location": "",
-    "description": "Mar., 1945 Belfast (Maine). A man out hunting observed an elongated object flying very slowly, tilted toward the earth, It crashed into some trees at the end of a clear- ing. The enormous craft seemed undamaged as it rested briefly on the ground, then lifted again with a humming sound, started to spin, released a shower of fine silvery threads, and rose straight up, disap- pearing in seconds. (FS May, 59)",
+    "location": "Belfast (Maine)",
+    "description": "A man out hunting observed an elongated object flying very slowly, tilted toward the earth, It crashed into some trees at the end of a clear- ing. The enormous craft seemed undamaged as it rested briefly on the ground, then lifted again with a humming sound, started to spin, released a shower of fine silvery threads, and rose straight up, disap- pearing in seconds. (FS May, 59)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
       "CE1"
+    ]
+  },
+  {
+    "case_number": 54,
+    "date": "1945",
+    "date_display": "1945",
+    "time": "",
+    "location": "Aleutian Islands",
+    "description": "Aboard the US attack transport \"Delarof,\" 14 sailors saw a dark sphere rise out of the ocean, follow a curved trajectory, and fly away after circling their ship. (Evidence 30)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "landing",
+      "CE2"
     ]
   },
   {
@@ -739,8 +875,8 @@
   },
   {
     "case_number": 64,
-    "date": "",
-    "date_display": "",
+    "date": "1948",
+    "date_display": "1948",
     "time": "",
     "location": "1948 Swastika (Canada)",
     "description": "Mr. Galbraith twice saw an ob- ject land. The first time, it was a disk-shaped craft with a humanoid figure—the second time, cigar- shaped with three figures. (Quincy)",
@@ -795,11 +931,11 @@
   },
   {
     "case_number": 68,
-    "date": "",
-    "date_display": "",
+    "date": "1949",
+    "date_display": "1949",
     "time": "",
-    "location": "",
-    "description": "Feb., 1949 Pucusana (Peru). C. A. V., oil employee, an company 1630 30, was driving to Lima when he saw a shiny disk at ground level. He walked toward it for 10 min. Three figures came out as he was 20 m away. They looked like mummies, had joined legs and one large foot. They \"slid\" along the ground. They were covered with a strange \"towely\" skin, asked the witness where they were, had a lengthy discussion with him, and took him for a trip in their craft. (Lor. Il] 122)",
+    "location": "Pucusana (Peru)",
+    "description": "C. A. V., oil employee, an company 1630 30, was driving to Lima when he saw a shiny disk at ground level. He walked toward it for 10 min. Three figures came out as he was 20 m away. They looked like mummies, had joined legs and one large foot. They \"slid\" along the ground. They were covered with a strange \"towely\" skin, asked the witness where they were, had a lengthy discussion with him, and took him for a trip in their craft. (Lor. Il] 122)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -840,8 +976,8 @@
   },
   {
     "case_number": 71,
-    "date": "",
-    "date_display": "",
+    "date": "1949",
+    "date_display": "1949",
     "time": "",
     "location": "Fall, 1949 Tulsa (Oklahoma)",
     "description": "Don plant superin- tendent with Southwestern Porcelain Steel Corp., saw an object fall in front of his car as his radio was blocked. He applied the brakes; object vanished. (KeyhoeS)",
@@ -854,10 +990,10 @@
   },
   {
     "case_number": 72,
-    "date": "",
-    "date_display": "",
+    "date": "1950",
+    "date_display": "1950",
     "time": "",
-    "location": "Jan, 29,1950 South Table Mountain (Colorado)",
+    "location": "South Table Mountain (Colorado)",
     "description": "Mr. Quintana of Denver saw a silvery-green ovoid object hovering about 15 m above a slope and landing slowly in a small ravine. Then it shot upward at very high speed. Its diameter was about 20 m, and it had a revolving middle band. A greenish light flashed under it, and the witness felt a rush of air and a pungent smell. (FS July, 59)",
     "source": "Passport to Magonia",
     "tags": [
@@ -884,10 +1020,10 @@
   },
   {
     "case_number": 74,
-    "date": "",
-    "date_display": "",
+    "date": "1950",
+    "date_display": "1950",
     "time": "",
-    "location": "Apr, 1950 Juneau (Alaska)",
+    "location": "Juneau (Alaska)",
     "description": "Mikel Konrad made a movie of eight disks he saw landing and taking off 60 km north of Juneau. (Quincy)",
     "source": "Passport to Magonia",
     "tags": [
@@ -915,11 +1051,24 @@
     "date_display": "April 8, 1950",
     "time": "",
     "location": "River Road, near Amarillo (Texas)",
-    "description": "David, 12, and afternoon Charles, 9; Lightfoot saw a disk land behind a hill and touched it. It was the size of a car tire, about 30 cm high, with a rounded top that rotated and a pivot between the base and the top. It took off very fast. The faces and arms of the boys later became red. (200) Apr. 20,1950 Lufkin (Texas). Jack Robertson was driving about night 13 km west of town when he saw a round object about 3 m in diameter hovering about 7 m above him with a dull red glow. It took off with a \"swooshing roar\" as sparks flew from a slot under it. Minutes later the witness felt a burning sensation on his face. (FS July, 59)",
+    "description": "David, 12, and afternoon Charles, 9; Lightfoot saw a disk land behind a hill and touched it. It was the size of a car tire, about 30 cm high, with a rounded top that rotated and a pivot between the base and the top. It took off very fast. The faces and arms of the boys later became red. (200)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
       "landing",
+      "CE2"
+    ]
+  },
+  {
+    "case_number": 77,
+    "date": "1950-04-20",
+    "date_display": "April 20, 1950",
+    "time": "",
+    "location": "Lufkin (Texas)",
+    "description": "Jack Robertson was driving about night 13 km west of town when he saw a round object about 3 m in diameter hovering about 7 m above him with a dull red glow. It took off with a \"swooshing roar\" as sparks flew from a slot under it. Minutes later the witness felt a burning sensation on his face. (FS July, 59)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
       "trace-evidence",
       "CE2"
     ]
@@ -967,8 +1116,8 @@
   },
   {
     "case_number": 81,
-    "date": "",
-    "date_display": "",
+    "date": "1950",
+    "date_display": "1950",
     "time": "",
     "location": "duly 20,1950 Porto Novo (Brazil)",
     "description": "Mr. Campello and_ several others in a car saw two huge, silvery objects by the side of the road, one on a hillock, the other on flat ground, about 50 m away from each other. They came within 600 m of the objects, which went away at \"an incredible speed.\" causing a rush of air that rocked the car. (SBEDV 30)",
@@ -995,8 +1144,8 @@
   },
   {
     "case_number": 83,
-    "date": "",
-    "date_display": "",
+    "date": "1951-09",
+    "date_display": "September 1951",
     "time": "",
     "location": "Central Australia",
     "description": "A group of Unmatjera aborigines Sept., 1951 observed a shiny circular object land near a similar craft, about 12 m in diameter. Several min later, a dwarf dressed in a shiny suit and having \"a round, shiny head\" came out of one craft and entered the other; both took off with a buzzing sound. (Edwards 93)",
@@ -1037,11 +1186,11 @@
   },
   {
     "case_number": 86,
-    "date": "",
-    "date_display": "",
+    "date": "1951",
+    "date_display": "1951",
     "time": "0300",
-    "location": "",
-    "description": "Dec., 1951 Peru (Nebraska). A man from Lincoln was driving to Indiana when he saw a blue light in the northwest sky. It vanished to the southeast. The witness missed a turn, had to go back toward Auburn, and had reached a point northwest of Peru when he saw an orange glow in the sky. Coming near, he observed the glow came from a cauldron-shaped object on the ground, about 12 m from the road. lie stopped to examine the object, which measured about 10 m diameter and seemed to be made of cast iron. Thirty cm from the top was a row of windows, 25 cm in diameter, from which the orange light was coming. On the other side was a blue flamelike glow. There was no noise, no sign of life or activity, and no an- tenna or protrusion. The witness drove away. (Atic)",
+    "location": "Peru (Nebraska)",
+    "description": "A man from Lincoln was driving to Indiana when he saw a blue light in the northwest sky. It vanished to the southeast. The witness missed a turn, had to go back toward Auburn, and had reached a point northwest of Peru when he saw an orange glow in the sky. Coming near, he observed the glow came from a cauldron-shaped object on the ground, about 12 m from the road. lie stopped to examine the object, which measured about 10 m diameter and seemed to be made of cast iron. Thirty cm from the top was a row of windows, 25 cm in diameter, from which the orange light was coming. On the other side was a blue flamelike glow. There was no noise, no sign of life or activity, and no an- tenna or protrusion. The witness drove away. (Atic)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -1051,10 +1200,10 @@
   },
   {
     "case_number": 87,
-    "date": "",
-    "date_display": "",
+    "date": "1951",
+    "date_display": "1951",
     "time": "",
-    "location": "Dec, 1951 Red Springs (North Carolina)",
+    "location": "Red Springs (North Carolina)",
     "description": "Sam Coley and his two children saw an object with a human-looking occupant. (Humanoids 52)",
     "source": "Passport to Magonia",
     "tags": [
@@ -1065,11 +1214,11 @@
   },
   {
     "case_number": 88,
-    "date": "",
-    "date_display": "",
+    "date": "1952",
+    "date_display": "1952",
     "time": "2230",
     "location": "",
-    "description": "Jan, 1952 Weston (Wyoming), A 38-year-old rancher saw a \"shooting star\" that suddenly stopped in mid-air be- tween him and a mountain. It was seen spinning in a clockwise direction. It had one red window period- ically facing the observer. It went down toward the Little Powder River and came up again. The witness turned his car to send light signals, to which the object seemed to respond by stopping its red window facing the witness's location. Spinning resumed, the object rose and came down. A similar craft arrived, and both went into the deep valley, out of sight. (Atic)",
+    "description": "Weston (Wyoming), A 38-year-old rancher saw a \"shooting star\" that suddenly stopped in mid-air be- tween him and a mountain. It was seen spinning in a clockwise direction. It had one red window period- ically facing the observer. It went down toward the Little Powder River and came up again. The witness turned his car to send light signals, to which the object seemed to respond by stopping its red window facing the witness's location. Spinning resumed, the object rose and came down. A similar craft arrived, and both went into the deep valley, out of sight. (Atic)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -1078,8 +1227,8 @@
   },
   {
     "case_number": 89,
-    "date": "",
-    "date_display": "",
+    "date": "1952",
+    "date_display": "1952",
     "time": "",
     "location": "Kiirly 1952 Goose Bay (Labrador)",
     "description": "A fiery, spherical object made a right angle turn during an observation by a C-54 crew flying from Westover to Goose Bay. It was also seen from the ground by the control tower and by two men who plunged to the earth when the object made a low pass at them. It went away at 2247. (Quincy)",
@@ -1092,8 +1241,8 @@
   },
   {
     "case_number": 90,
-    "date": "",
-    "date_display": "",
+    "date": "1952",
+    "date_display": "1952",
     "time": "0300",
     "location": "Summer, 1952 Itenhaem (Brazil)",
     "description": "A woman was awakened by a thunderclap and a strong bluish light. As she got out, she saw a large number of hovering disk-shaped ma- chines resembling \"inverted soup plates” 200 m away at an altitude of about 1 m. She observed them for 30 min, saw two figures standing on one of the craft and looking at the sky. They went back inside, and shortly thereafter the \"fleet\" took off, one object at a time. (FSR68, 1)",
@@ -1106,8 +1255,8 @@
   },
   {
     "case_number": 91,
-    "date": "",
-    "date_display": "",
+    "date": "1952",
+    "date_display": "1952",
     "time": "",
     "location": "Summer, 1952 Martin County (Texas)",
     "description": "Mrs. Rogers saw an object descend slowly and pass across a pasture at 7 m alti- tude. She stopped her car and observed it was \"wob- bling\" in mid-air, was shaped like a turtle, and showed three oarlike protrusions that moved slowly. Esti- mated dimensions: 5 by 4 m, | m thick. It was greenish-gray in color, emitted a blue flame, but showed no other light. (Barker 78)",
@@ -1305,11 +1454,11 @@
   },
   {
     "case_number": 105,
-    "date": "",
-    "date_display": "",
+    "date": "1952",
+    "date_display": "1952",
     "time": "",
-    "location": "",
-    "description": "Nov., 1952 Dublin (Ireland). A child was burned when a strange disk, 25 cm in diameter, landed near Dublin. (Per- sonal )",
+    "location": "Dublin (Ireland)",
+    "description": "A child was burned when a strange disk, 25 cm in diameter, landed near Dublin. (Per- sonal )",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -1347,8 +1496,8 @@
   },
   {
     "case_number": 108,
-    "date": "",
-    "date_display": "",
+    "date": "1953-01-29",
+    "date_display": "January 29, 1953",
     "time": "",
     "location": "Conway (South Carolina)",
     "description": "Hearing a commotion in Jan, 29,1953 his barn, a farmer observed an object about 7 m long and 4 m wide at treetop level. It was light gray in color and lit up inside. It resembled a half egg. The witness fired his gun at the object. Numerous livestock died \"mysteriously\" in the area after the sighting. (Personal)",
@@ -1517,11 +1666,11 @@
   },
   {
     "case_number": 120,
-    "date": "",
-    "date_display": "",
+    "date": "1953",
+    "date_display": "1953",
     "time": "",
-    "location": "",
-    "description": "Nov., 1953 Gjersjoen Bridge (Norway). Mr. Trygve, Mrs. nuflot, and a neighbor saw an object rise from behind ;i hill, oscillate over a lake, follow their car, ami slop ahead of them just above the ground. They stopped, felt \"pricklings\" until the craft took off vertically. A watch stopped working, and numerous people vouch for the fact that the paint on the car changed from dark beige to bright green. (APRO Mar., 62; FSR 56, 5)",
+    "location": "Gjersjoen Bridge (Norway)",
+    "description": "Mr. Trygve, Mrs. nuflot, and a neighbor saw an object rise from behind ;i hill, oscillate over a lake, follow their car, ami slop ahead of them just above the ground. They stopped, felt \"pricklings\" until the craft took off vertically. A watch stopped working, and numerous people vouch for the fact that the paint on the car changed from dark beige to bright green. (APRO Mar., 62; FSR 56, 5)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -1530,10 +1679,10 @@
   },
   {
     "case_number": 121,
-    "date": "",
-    "date_display": "",
+    "date": "1953",
+    "date_display": "1953",
     "time": "",
-    "location": "Dec, 1953 Sherbrook (Canada)",
+    "location": "Sherbrook (Canada)",
     "description": "Mrs. Orfei heard a knock at the door in the middle of the night and obtained no answer when she asked who it was. When more furi- ous knocks were heard, her Alsatian dog jumped to- ward the door, but suddenly retreated, trembling as if terrified and retired to a corner. Mrs, Orfei went to an upper floor and saw two \"indescribable\" shadows go away from the house. A while later a big, round object took off 100 m away with a blue-green lightning. The police found broken bushes as evidence of an enormous weight. (Oltre il Cielo, Vol. I)",
     "source": "Passport to Magonia",
     "tags": [
@@ -1571,11 +1720,11 @@
   },
   {
     "case_number": 124,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "",
-    "location": "",
-    "description": "Feb., 1954 Todd River Downs (Australia). A native was riding a horse over a low ridge when a spherical object about 13 m in diameter \"nearly skittled me off my horse.” t went up suddenly with a heavy wind, rumbling and emitting four columns of smoke. (Wilkins U 211)",
+    "location": "Todd River Downs (Australia)",
+    "description": "A native was riding a horse over a low ridge when a spherical object about 13 m in diameter \"nearly skittled me off my horse.” t went up suddenly with a heavy wind, rumbling and emitting four columns of smoke. (Wilkins U 211)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -1584,11 +1733,11 @@
   },
   {
     "case_number": 125,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "",
-    "location": "",
-    "description": "Feb., 1954 Peakskill (New York). Mr. and Mrs. Forster stated hey saw a craft on the ground, with a woman close by. She was wearing luminous clothing, a sort of hood, anil Ilm k glasses and held a tube in one hand and a box in the oilier. Mrs. Foister had to be taken lo the hospital in ,i itfltt of shock. ( B;iiko )",
+    "location": "Peakskill (New York)",
+    "description": "Mr. and Mrs. Forster stated hey saw a craft on the ground, with a woman close by. She was wearing luminous clothing, a sort of hood, anil Ilm k glasses and held a tube in one hand and a box in the oilier. Mrs. Foister had to be taken lo the hospital in ,i itfltt of shock. ( B;iiko )",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -1597,10 +1746,10 @@
   },
   {
     "case_number": 126,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "1700",
-    "location": "Mar, 1954 Santa Maria (Brazil)",
+    "location": "Santa Maria (Brazil)",
     "description": "Rubem Hellwig was driving when he saw a football-shaped machine, the size of a Volkswagen, on the ground. He walked toward it and met two men of slim build, normal height, their faces brownish, wearing no helmets. One was inside the object while the other collected grass samples. They spoke to Hellwig in a strange language, and yet he said he understood they were asking for ammonia. He directed them to a nearby town. The craft van- ished silently and instantly with blue and yellow flames. (1; Humanoids 33)",
     "source": "Passport to Magonia",
     "tags": [
@@ -1611,11 +1760,11 @@
   },
   {
     "case_number": 127,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "",
-    "location": "",
-    "description": "Mar., 1954 Santa Maria (Brazil). Rubem Hellwig again saw a early strange machine the next day. He observed a tall, fair- complexioned man and two women, who had light brown skin, long black hair, dark, slanted eyes. All three wore one-piece garments of a fabric resembling suede, with zippers. They told Hellwig that they were scientists, spoke of the natural riches of Brazil, and expressed surprise that he did not run away. (1; Humanoids 33)",
+    "location": "Santa Maria (Brazil)",
+    "description": "Rubem Hellwig again saw a early strange machine the next day. He observed a tall, fair- complexioned man and two women, who had light brown skin, long black hair, dark, slanted eyes. All three wore one-piece garments of a fabric resembling suede, with zippers. They told Hellwig that they were scientists, spoke of the natural riches of Brazil, and expressed surprise that he did not run away. (1; Humanoids 33)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -1643,12 +1792,25 @@
     "date_display": "May 18, 1954",
     "time": "1900",
     "location": "",
-    "description": "Cannon Air Force Base {New Mexico). Two persons witnessed the landing of a lens-shaped object the size of a house. It came to the ground near the railroad tracks, kicking up a small sand storm in the desert. One witness first decided to approach it, then ran away in fear. (Binder) no Bruton (Great Britain). Nigel Frapple was cycling May 20,1954 home from dance in Wincanton. At Redlynch a 0200 crossroads, he glow in a field and saw an orange observed it from a hedge. It came from a huge object 35 m away, less than 7 m above the ground, which made a throbbing sound. After 1 min, it moved to- ward the northwest, accelerating and climbing. (2; Humanoids 3)",
+    "description": "Cannon Air Force Base {New Mexico). Two persons witnessed the landing of a lens-shaped object the size of a house. It came to the ground near the railroad tracks, kicking up a small sand storm in the desert. One witness first decided to approach it, then ran away in fear. (Binder)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "landing",
+      "CE2"
+    ]
+  },
+  {
+    "case_number": 130,
+    "date": "1954-05-20",
+    "date_display": "May 20, 1954",
+    "time": "",
+    "location": "Bruton (Great Britain)",
+    "description": "Nigel Frapple was cycling May 20,1954 home from dance in Wincanton. At Redlynch a 0200 crossroads, he glow in a field and saw an orange observed it from a hedge. It came from a huge object 35 m away, less than 7 m above the ground, which made a throbbing sound. After 1 min, it moved to- ward the northwest, accelerating and climbing. (2; Humanoids 3)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
       "humanoid",
-      "landing",
       "CE3"
     ]
   },
@@ -1724,8 +1886,8 @@
   },
   {
     "case_number": 136,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "",
     "location": "",
     "description": "Aug.23,1954 Varennw, near Diges (France). Approximate date. A strange object hovered low over the house of Mr. Lucas and left straight up. (4)",
@@ -2364,8 +2526,8 @@
   },
   {
     "case_number": 182,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "",
     "location": "Oct",
     "description": "| 1954 Bressuirc (France), Angclo Girardo, 55, a stockyard dawn employee, was going to work when he saw a circular craft 3 m diameter and a small figure wearing a diving suit, standing close by. The object took off at a fan- tastic speed. (32; M 130)",
@@ -2501,10 +2663,10 @@
   },
   {
     "case_number": 192,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "",
-    "location": "Oct, 4,1954 Montceau-les-Mines (France)",
+    "location": "Montceau-les-Mines (France)",
     "description": "At Les Chavannes, 830 about 20 people, among them Remy Gaudicourt of Sanvignes, saw a circular, luminous object rise from the vicinity of the railroad tracks. It took off vertically. (M._ 138)",
     "source": "Passport to Magonia",
     "tags": [
@@ -2523,6 +2685,20 @@
     "tags": [
       "case",
       "CE1"
+    ]
+  },
+  {
+    "case_number": 194,
+    "date": "1954",
+    "date_display": "1954",
+    "time": "2000",
+    "location": "Poncey-sur-Lignon (France)",
+    "description": "Mrs. Fourncret, a house- wife, ran away as an orange, circular object 3 m in diameter swung in mid-air and landed near her farm. When Messrs. Girardot and Vincent arrived with rifles, they found that the earth had been \"sucked up\" over a quadrilateral area. Francois Boiiillcr con- firmed he had seen a luminous object in flight. Ex- ensive investigation by French Air Force and police. (37, M 134; Anatomy 71)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "landing",
+      "CE2"
     ]
   },
   {
@@ -2637,11 +2813,11 @@
   },
   {
     "case_number": 203,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "",
     "location": "",
-    "description": "Oct, 7,1954 Hennezis (France), The two Lanssellin children wit- nessed the landing of a luminous, red object shaped like a half-egg, and saw two occupants who looked like normal men. (M 145)",
+    "description": "Hennezis (France), The two Lanssellin children wit- nessed the landing of a luminous, red object shaped like a half-egg, and saw two occupants who looked like normal men. (M 145)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -3206,10 +3382,10 @@
   },
   {
     "case_number": 244,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "2230",
-    "location": "Oct, 12,1954 Leguevin (France)",
+    "location": "Leguevin (France)",
     "description": "Jean Marty, 42, mechanic, was in his shop when he saw a luminous disk about 6.5 m diameter and 2.5 m thick, land. He tried to approach it, but the craft rose vertically and silently at an amaz- ing speed. (62, 63)",
     "source": "Passport to Magonia",
     "tags": [
@@ -4346,11 +4522,11 @@
   },
   {
     "case_number": 326,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "0700",
-    "location": "",
-    "description": "Nov, 3.1954 Oued Beth (Morocco). Maroc-Presse reported that one of its employees, Mr. E., driver of a delivery truck, \"a man of sane judgment and excellent eyesight,\" observed an object flying over the Beth River. \"I am positive it was not an aircraft or any known machine, but a circular, flat craft which had the appearance of copper. It flew normally for some time, then it sud- denly flipped over. Therefore, I was able to see the whole disk and was amazed when it came down into a field where it landed on edge, very gently. Almost im- mediately it rose into the sky at great speed, resumed its horizontal position and was soon lost to sight.” (95)",
+    "location": "Oued Beth (Morocco)",
+    "description": "Maroc-Presse reported that one of its employees, Mr. E., driver of a delivery truck, \"a man of sane judgment and excellent eyesight,\" observed an object flying over the Beth River. \"I am positive it was not an aircraft or any known machine, but a circular, flat craft which had the appearance of copper. It flew normally for some time, then it sud- denly flipped over. Therefore, I was able to see the whole disk and was amazed when it came down into a field where it landed on edge, very gently. Almost im- mediately it rose into the sky at great speed, resumed its horizontal position and was soon lost to sight.” (95)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -4503,8 +4679,8 @@
   },
   {
     "case_number": 337,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "",
     "location": "Novy",
     "description": "13,1954 Buchy (France). At intersection of Routes N28 and N319, Mr. R. L., of Rouen, saw a luminous craft take off while he felt pricklings and was paralyzed. The engine of the car slowed down but did not stall. (Quincy)",
@@ -4602,8 +4778,8 @@
   },
   {
     "case_number": 344,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "0200",
     "location": "Noy",
     "description": "28,1954 Caracas (Venezuela). G. Gonzales and Jose Ponce, truck drivers, found their road blocked by a luminous sphere over 3 m diameter, hovering 2 m above ground. A small creature with claws and glowing eyes came toward them. Gonzales grabbed it, found it strangely light (ess than 20 kg), and observed its body was very hard and covered with fur. But the creature pushed him back, while two other dwarfs emerged from the bushes and leaped into the sphere, carrying stones and other samples. Gonzales was blinded by a light from the craft, and the strange beings flew away. (Lor. I 52)",
@@ -4616,11 +4792,11 @@
   },
   {
     "case_number": 345,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "",
     "location": "",
-    "description": "Dec, 1954 Guanare (Venezuela), Early in December, the di- rector of Barquisimeto College was chased by a lumi- nous disk as he was driving near Guanare. He fired at the object with his revolver, without effect. He stopped another car in which a lawyer and two police- men were traveling. All four saw the machine fly away. (Lor. I 43)",
+    "description": "Guanare (Venezuela), Early in December, the di- rector of Barquisimeto College was chased by a lumi- nous disk as he was driving near Guanare. He fired at the object with his revolver, without effect. He stopped another car in which a lawyer and two police- men were traveling. All four saw the machine fly away. (Lor. I 43)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -4798,10 +4974,10 @@
   },
   {
     "case_number": 358,
-    "date": "",
-    "date_display": "",
+    "date": "1954",
+    "date_display": "1954",
     "time": "2100",
-    "location": "Dec, 29,1954 Bru (France)",
+    "location": "Bru (France)",
     "description": "Near Gardonne, Mr. Gamba saw an oval red object 50 m away. When he tried to approach it, he found he was unable to move. As soon as this \"paralysis\" subsided, he ran to get his brothers and came back to the craft, which turned white, then red. It rose and flew away toward the east. It had been on the ground for at least 15 min. Strange traces were found, as if the ground had been dug up. Small trees near the river were found damaged, as if they had been cut with a knife. (103)",
     "source": "Passport to Magonia",
     "tags": [
@@ -5063,8 +5239,8 @@
   },
   {
     "case_number": 377,
-    "date": "",
-    "date_display": "",
+    "date": "1956",
+    "date_display": "1956",
     "time": "",
     "location": "Ook, 28,1956 Galloway (England)",
     "description": "A disk with a row of blue lights on the periphery slowly maneuvered above a car on a deserted road. (Evidence 135, 146)",
@@ -5174,11 +5350,11 @@
   },
   {
     "case_number": 385,
-    "date": "",
-    "date_display": "",
+    "date": "1956",
+    "date_display": "1956",
     "time": "2030",
-    "location": "",
-    "description": "Sept., 1956 Cabo Frio (Brazil). O. Guarichi was walking on the beach with his dogs when he saw an object come from the sea and land. Two men, 1.80 m tall, wearing metallic-looking uniforms, emerged. One of them picked up objects from the beach. There was an ex- change of gestures with the witness. One of the dogs turned away when the witness approached the craft, which was 20 m wide, 3 m high, and showed flashing lights as it left. (Nachrichten Mar., 61)",
+    "location": "Cabo Frio (Brazil)",
+    "description": "O. Guarichi was walking on the beach with his dogs when he saw an object come from the sea and land. Two men, 1.80 m tall, wearing metallic-looking uniforms, emerged. One of them picked up objects from the beach. There was an ex- change of gestures with the witness. One of the dogs turned away when the witness approached the craft, which was 20 m wide, 3 m high, and showed flashing lights as it left. (Nachrichten Mar., 61)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -5203,10 +5379,10 @@
   },
   {
     "case_number": 387,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "2200",
-    "location": "Feb, 9,1957 Georgetown (Connecticut)",
+    "location": "Georgetown (Connecticut)",
     "description": "Approximate date. Ina Salter was driving on Route 53 in a desolate area when she encountered a cigar-shaped object about 5 m long, showing several portholes, which was hovering close to the ground to the left of the road. The portholes, about 50 cm in diameter, were illuminated with a yellowish light, and there were shadows moving be- hind. As she passed the object, it took off straight up, hovered for a few seconds, then rose out of sight. (APRO Mar, 62)",
     "source": "Passport to Magonia",
     "tags": [
@@ -5272,10 +5448,10 @@
   },
   {
     "case_number": 392,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "0600",
-    "location": "May, 1957 Milford (Pennsylvania)",
+    "location": "Milford (Pennsylvania)",
     "description": "Frances Stichler, who lived on a farm, was working in her barn when she heard a whirring sound and saw a bowl-shaped object, 7 m in diameter, with a rim over 1 m wide, about 5 m above ground, It stopped with one side tilted toward her. A man dressed in a loose, shiny, gray suit, wearing a tight-fitting helmet, was facing her from inside the object. He seemed of average height, had deep-set eyes, tanned skin, and a long face with a \"quizzical” expression. Almost immediately the object left toward the southeast. (108; Humanoids 57)",
     "source": "Passport to Magonia",
     "tags": [
@@ -5329,8 +5505,8 @@
   },
   {
     "case_number": 396,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "1910",
     "location": "duly 25,1957 Sao Sebastiao (Brazil)",
     "description": "Mr. Joao Guimaraes, who is a professor at the Catholic Faculty of Law in Santos, was sitting near the shore when he saw a hat-shaped, luminous craft approach from the sea and land near him. From it came a metallic stairway. Two normal men with long, fair hair hanging to their shoulders, a youthful appearance and wearing one-piece suits. came down, gave no verbal answers to his questions, but invited him \"telepathically\" to come aboard the craft. Inside the illuminated compartment, he sat on a circular scat with the crew. The machine rose for a short flight. On his return, Guimaraes found that his watch no longer worked. {I liimanoids 36, I'SR 57, 6)",
@@ -5386,11 +5562,11 @@
   },
   {
     "case_number": 400,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "",
-    "location": "",
-    "description": "Sept., 1957 Campinas (Brazil). A man suddenly fell, as if para- lyzed, and his two companions then observed an ob- ject shaped like a disk with a dome on top and another dome under it, 50 m away. A door opened and three men, 170 m tall, wearing close-fitting, iridescent clothing, and who walked as if on skis, appeared to make a check of the craft and the surroundings. They gathered samples in a large box. The witnesses saw small portholes and a tripod landing gear. The craft took off after 20 min. (Nachrichten July, 60)",
+    "location": "Campinas (Brazil)",
+    "description": "A man suddenly fell, as if para- lyzed, and his two companions then observed an ob- ject shaped like a disk with a dome on top and another dome under it, 50 m away. A door opened and three men, 170 m tall, wearing close-fitting, iridescent clothing, and who walked as if on skis, appeared to make a check of the craft and the surroundings. They gathered samples in a large box. The witnesses saw small portholes and a tripod landing gear. The craft took off after 20 min. (Nachrichten July, 60)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -5474,11 +5650,11 @@
   },
   {
     "case_number": 406,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "",
-    "location": "",
-    "description": "Oct., 1957 Niquelandia (Brazil). At the Gabiroba farm, owners A. Santinoni and S. de Oliveira were blinded by a beam from a round object at ground level. The light was green and yellow. When they came near, all went dark and the object vanished. (Round-up 205)",
+    "location": "Niquelandia (Brazil)",
+    "description": "At the Gabiroba farm, owners A. Santinoni and S. de Oliveira were blinded by a beam from a round object at ground level. The light was green and yellow. When they came near, all went dark and the object vanished. (Round-up 205)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -5632,11 +5808,11 @@
   },
   {
     "case_number": 417,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "2300",
-    "location": "",
-    "description": "Nov., 1957 Provencal (Louisiana). Haskell Raper, Jr, was driv- ing home on a rainy night when he saw a large, lighted object on the road ahead, which he thought was a truck. Suddenly the object flashed a beam of light directly at the car, apparently exerting a strong pressure and slowing it to a stop 5 m away. The object was then described as oval, 5 m long, 3 m high, army green in color. It bore lettering beginning with the letters UN, followed by some numbers. A sort of heat wave filled the car, and the witness ran out in panic as the vehicle caught fire. The object rose with the sound of a dicsel engine. Raper ran to the town, less than 2 km away. and reported the incident. The car. a 1956 Ford, was completely destroyed. (FS Oct., 58)",
+    "location": "Provencal (Louisiana)",
+    "description": "Haskell Raper, Jr, was driv- ing home on a rainy night when he saw a large, lighted object on the road ahead, which he thought was a truck. Suddenly the object flashed a beam of light directly at the car, apparently exerting a strong pressure and slowing it to a stop 5 m away. The object was then described as oval, 5 m long, 3 m high, army green in color. It bore lettering beginning with the letters UN, followed by some numbers. A sort of heat wave filled the car, and the witness ran out in panic as the vehicle caught fire. The object rose with the sound of a dicsel engine. Raper ran to the town, less than 2 km away. and reported the incident. The car. a 1956 Ford, was completely destroyed. (FS Oct., 58)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -5906,8 +6082,8 @@
   },
   {
     "case_number": 436,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "0200",
     "location": "Novy",
     "description": "8,1957 Sloanville (New York). A cigar-shaped object 70 m long was observed less than 7 m above ground. (M 264; 117)",
@@ -5987,8 +6163,8 @@
   },
   {
     "case_number": 442,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "1030",
     "location": "Novy",
     "description": "18,1957 Maracaja (Brazil). Farmers Joao Ernani and Pedro Zilli heard a strange humming sound, then saw two aluminum-colored disks 200 m away. Near them were six men of average height, slim build, dressed in \"dark gray suits glued to their bodies.\" The disks were about 3.5 m wide, hovering 1 m above ground, They rose with a sharp whistling sound, while coconut trees below them bent double. Three more disks rose from behind the trees, and all five flew toward the Atlantic. (Humanoids 36)",
@@ -6015,8 +6191,8 @@
   },
   {
     "case_number": 444,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "",
     "location": "Noy",
     "description": "22,1957 Gesten (Denmark). A shop owner saw a pyramid- shaped, luminous, transparent object fly fast across he road. As it was above 250 m away, he clearly saw two figures who looked like human beings, sitting one behind the other aboard the craft. (Personal)",
@@ -6058,10 +6234,10 @@
   },
   {
     "case_number": 447,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "",
-    "location": "Dec, 1957 El Cajon (California)",
+    "location": "El Cajon (California)",
     "description": "Edmund Rucker was awak- night ened by a roaring noise and saw a strange object land near his house. \"Its windows were lighted, and I saw strange-looking heads there.\" An opening became visible and four creatures emerged. They had large heads, dome-like foreheads, and bulging eyeballs. They delivered a message to the witness in English, stating that they had philanthropic and scientific purposes. (FS July, 58)",
     "source": "Passport to Magonia",
     "tags": [
@@ -6088,10 +6264,10 @@
   },
   {
     "case_number": 449,
-    "date": "",
-    "date_display": "",
+    "date": "1957",
+    "date_display": "1957",
     "time": "",
-    "location": "Dec, 11,1957 Chestnut (Louisiana)",
+    "location": "Chestnut (Louisiana)",
     "description": "Mary Louise Tobin, a school- eacher, was driving on State Highway 1 when she saw an object that she compared to the rising sun, in the vicinity of a smoking car. The driver, an elderly lady, came out with a child who seemed to have suffered burns. The unknown object went away. The disabled car did not catch on fire. (FS July, 58)",
     "source": "Passport to Magonia",
     "tags": [
@@ -6158,11 +6334,11 @@
   },
   {
     "case_number": 454,
-    "date": "",
-    "date_display": "",
+    "date": "1958",
+    "date_display": "1958",
     "time": "0130",
-    "location": "",
-    "description": "Jan., 1958 Depew (New York). A lady who was driving on the New York State Thruway during a snow storm saw a large shape with a tall, luminous pole on the side of the road. Her car stalled, and the lights went off, Two figures, looking like animals or huge insects, were observed near the pole. They soon disappeared, and the object took off spinning. The witness was then able to start her car. She noted that the snow at the site had been melted and the grass was warm. (Binder; Magonia)",
+    "location": "Depew (New York)",
+    "description": "A lady who was driving on the New York State Thruway during a snow storm saw a large shape with a tall, luminous pole on the side of the road. Her car stalled, and the lights went off, Two figures, looking like animals or huge insects, were observed near the pole. They soon disappeared, and the object took off spinning. The witness was then able to start her car. She noted that the snow at the site had been melted and the grass was warm. (Binder; Magonia)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -6189,8 +6365,8 @@
   },
   {
     "case_number": 456,
-    "date": "",
-    "date_display": "",
+    "date": "1958",
+    "date_display": "1958",
     "time": "",
     "location": "Jan",
     "description": "/,1958 Aston (Great Britain). Two figures again appeared to Mrs. Appleton and spoke to her in English (see Case 443). (Humanoids 4)",
@@ -6302,11 +6478,11 @@
   },
   {
     "case_number": 464,
-    "date": "",
-    "date_display": "",
+    "date": "1958",
+    "date_display": "1958",
     "time": "0600",
-    "location": "",
-    "description": "Apr., 1958 Maceio (Brazil). Near Paripueira, jeweler Wilson Lustosa and numerous fishermen saw an object hover- ing 15m above the sea, 40 m away. It was lens-shaped, about 12 m thick, and showed portholes with a glow- ing red light. Below the object the water seemed to be \"poiling” or attracted upward, while a soft, whirring sound was heard. For one hour the object kept going up and down. (SBEDV)",
+    "location": "Maceio (Brazil)",
+    "description": "Near Paripueira, jeweler Wilson Lustosa and numerous fishermen saw an object hover- ing 15m above the sea, 40 m away. It was lens-shaped, about 12 m thick, and showed portholes with a glow- ing red light. Below the object the water seemed to be \"poiling” or attracted upward, while a soft, whirring sound was heard. For one hour the object kept going up and down. (SBEDV)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -6441,11 +6617,11 @@
   },
   {
     "case_number": 474,
-    "date": "",
-    "date_display": "",
+    "date": "1958",
+    "date_display": "1958",
     "time": "0500",
-    "location": "",
-    "description": "Nov., 1958 Bracmar (Scotland). Two soldiers of the Territorial Army on an exercise near Ballater heard a \"gurgling noise\" and saw two figures, over 2 m tall, dressed in peculiar suits. As they fled, they heard a \"swishing\" noise and saw a large disk flying at ground level, which then swooped over their heads and away, pulsating and leaving a sparkling trail. Witnesses were in a state of shock. (Ilumanoids 5)",
+    "location": "Bracmar (Scotland)",
+    "description": "Two soldiers of the Territorial Army on an exercise near Ballater heard a \"gurgling noise\" and saw two figures, over 2 m tall, dressed in peculiar suits. As they fled, they heard a \"swishing\" noise and saw a large disk flying at ground level, which then swooped over their heads and away, pulsating and leaving a sparkling trail. Witnesses were in a state of shock. (Ilumanoids 5)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -6527,11 +6703,11 @@
   },
   {
     "case_number": 480,
-    "date": "",
-    "date_display": "",
+    "date": "1959",
+    "date_display": "1959",
     "time": "1715",
-    "location": "",
-    "description": "Jan., 1959 Stratford on-Avon (Great Britain). Leonard Hewins, of Tredington, saw a fiery, round object come down from the east and land 100 m away. While a blue haze formed, three figures emerged from the object and seemed to sit down with clumsy movements. The wit- ness was unable to move until the craft and its occu- pants took off swiftly, leaving a trail of stars. (FSR 67,5)",
+    "location": "Stratford on-Avon (Great Britain)",
+    "description": "Leonard Hewins, of Tredington, saw a fiery, round object come down from the east and land 100 m away. While a blue haze formed, three figures emerged from the object and seemed to sit down with clumsy movements. The wit- ness was unable to move until the craft and its occu- pants took off swiftly, leaving a trail of stars. (FSR 67,5)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -6542,11 +6718,11 @@
   },
   {
     "case_number": 481,
-    "date": "",
-    "date_display": "",
+    "date": "1959",
+    "date_display": "1959",
     "time": "",
     "location": "",
-    "description": "Feb., 1959 Umiat (Alaska), 350 km east of Umiat, trappers saw a red, disk-shaped object less than 4 km away, going up and down, sometimes nearly touching the ground. It circled and went away, (FSR 59, 3)",
+    "description": "Umiat (Alaska), 350 km east of Umiat, trappers saw a red, disk-shaped object less than 4 km away, going up and down, sometimes nearly touching the ground. It circled and went away, (FSR 59, 3)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -6555,10 +6731,10 @@
   },
   {
     "case_number": 482,
-    "date": "",
-    "date_display": "",
+    "date": "1959",
+    "date_display": "1959",
     "time": "",
-    "location": "Feb, 28,1959 Cedar City (Iowa)",
+    "location": "Cedar City (Iowa)",
     "description": "Private Gerry Irwin stopped his car to investigate what he thought was a crashing plane. He was later found unconscious. Sequels of the incident (fainting, amnesia and his return to the site in a trancelike state) are sometimes quoted as evi- dence of psychological experience correlated with the observation of the luminous object, Irwin deserted, and his subsequent whereabouts arc unknown. (121; Lorenzen, Magonia)",
     "source": "Passport to Magonia",
     "tags": [
@@ -6568,10 +6744,10 @@
   },
   {
     "case_number": 483,
-    "date": "",
-    "date_display": "",
+    "date": "1959",
+    "date_display": "1959",
     "time": "",
-    "location": "Mar, 1959 Kolobreg (Poland)",
+    "location": "Kolobreg (Poland)",
     "description": "On the Polish coast, not far from Kolobreg, soldiers saw the sea become turbulent as a riangular object, 4 m in size, emerged, circled the barracks, and flew away at high speed. (122)",
     "source": "Passport to Magonia",
     "tags": [
@@ -6824,8 +7000,8 @@
   },
   {
     "case_number": 501,
-    "date": "",
-    "date_display": "",
+    "date": "1960",
+    "date_display": "1960",
     "time": "",
     "location": "Spring, 1960 Syracuse (New York)",
     "description": "An electronics engineer was night fishing when he heard a shrill, whirring sound and saw a round object. with a rotating light on top, land on the shore. The sound gradually stopped, an open- ing became visible, and two dwarfs with oversized heads came out with a hose and pumped water from the river. Later they appeared to play like children. Their bodies glowed with lights of changing colors. (Binder)",
@@ -6925,11 +7101,11 @@
   },
   {
     "case_number": 508,
-    "date": "",
-    "date_display": "",
+    "date": "1960",
+    "date_display": "1960",
     "time": "0920",
-    "location": "",
-    "description": "Aug., 1960 Hamburg (Germany). Mrs. K. St. Bereits was in her garden when she saw an object coming down at great speed. Arriving at ground level, it came toward her, appearing as a disk standing on edge, 7 m in diameter, with a pulsating halo of yellow light. Three beams of light came from a central opening. A sort of haze and \"gas stream\" was also described. (Nachrichten Jan., 61; FSR 61, 4)",
+    "location": "Hamburg (Germany)",
+    "description": "Mrs. K. St. Bereits was in her garden when she saw an object coming down at great speed. Arriving at ground level, it came toward her, appearing as a disk standing on edge, 7 m in diameter, with a pulsating halo of yellow light. Three beams of light came from a central opening. A sort of haze and \"gas stream\" was also described. (Nachrichten Jan., 61; FSR 61, 4)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -6952,11 +7128,11 @@
   },
   {
     "case_number": 510,
-    "date": "",
-    "date_display": "",
+    "date": "1960",
+    "date_display": "1960",
     "time": "",
     "location": "",
-    "description": "Oct., 1960 Yariguarenda Jungle (Argentina' New apparitions of a monstrous \"cyclops.\" (129)",
+    "description": "Yariguarenda Jungle (Argentina' New apparitions of a monstrous \"cyclops.\" (129)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -6980,11 +7156,11 @@
   },
   {
     "case_number": 512,
-    "date": "1960-12-09",
-    "date_display": "December 9, 1960",
+    "date": "1960",
+    "date_display": "1960",
     "time": "0245",
-    "location": "Nov, 13,1960 La Londe (France)",
-    "description": "Remi Carbonnicr, 48, was awakened by a green light illuminating his room. He went to the window and saw a bright, round object, 6 m in diameter, resting on three legs on the railroad tracks 300 m away. It was emitting orange flashes. A dome on top of the object started spinning, the legs disappeared, and the object rose vertically above the trees, without noise. Less than 20 sec later, it had cleared the hill and was lost to sight in the southwest. The next day the witness went to the site and found no trace, but his dog turned around and ran away. (131) SB Dec. 9,1960 Carignan (France). A dog barked at a glowing object 2030 resting in a park. Three witnesses observed it from separate locations. It appeared as an oval, luminous craft, 4 m in diameter, inside which vague shadows were seen. It took off toward the north. A circle of yellowed grass was found at the site. (Ouranos 27)",
+    "location": "La Londe (France)",
+    "description": "Remi Carbonnicr, 48, was awakened by a green light illuminating his room. He went to the window and saw a bright, round object, 6 m in diameter, resting on three legs on the railroad tracks 300 m away. It was emitting orange flashes. A dome on top of the object started spinning, the legs disappeared, and the object rose vertically above the trees, without noise. Less than 20 sec later, it had cleared the hill and was lost to sight in the southwest. The next day the witness went to the site and found no trace, but his dog turned around and ran away. (131)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -6993,18 +7169,44 @@
     ]
   },
   {
+    "case_number": 513,
+    "date": "1960-12-09",
+    "date_display": "December 9, 1960",
+    "time": "2030",
+    "location": "Carignan (France)",
+    "description": "A dog barked at a glowing object resting in a park. Three witnesses observed it from separate locations. It appeared as an oval, luminous craft, 4 m in diameter, inside which vague shadows were seen. It took off toward the north. A circle of yellowed grass was found at the site. (Ouranos 27)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "CE1"
+    ]
+  },
+  {
     "case_number": 514,
     "date": "1961-01-01",
     "date_display": "January 1, 1961",
     "time": "",
     "location": "La Victoria (Venezuela)",
-    "description": "A government topographer,. Adolfo P. Pisani, was passed by a truck as he was driving on the Andean Highway. A brilliant disk with the appearance of blue steel swooped down very close to the hood of the truck and then flew away. The truck was pulled up nearly 1 m above the road and over- turned in a sandbank. The driver escaped with minor injuries. (Lor. I 250) S15 Jan. 22,1961 Cestas-Gazinet (France). An electronics professor at 1830 Bordeaux University and three school teachers ob- served an elongated, glowing, orange object. Inter- ference with car ignition was noted. One witness was said to have felt a slight indisposition and to have heard or somehow perceived the word \"ZEMU\" re- peated twice. (Ouranos 26)",
+    "description": "A government topographer,. Adolfo P. Pisani, was passed by a truck as he was driving on the Andean Highway. A brilliant disk with the appearance of blue steel swooped down very close to the hood of the truck and then flew away. The truck was pulled up nearly 1 m above the road and over- turned in a sandbank. The driver escaped with minor injuries. (Lor. I 250)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
       "humanoid",
-      "vehicle-interference",
       "CE3"
+    ]
+  },
+  {
+    "case_number": 515,
+    "date": "1961-01-22",
+    "date_display": "January 22, 1961",
+    "time": "1830",
+    "location": "Cestas-Gazinet (France)",
+    "description": "An electronics professor at Bordeaux University and three school teachers ob- served an elongated, glowing, orange object. Inter- ference with car ignition was noted. One witness was said to have felt a slight indisposition and to have heard or somehow perceived the word \"ZEMU\" re- peated twice. (Ouranos 26)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "vehicle-interference",
+      "CE2"
     ]
   },
   {
@@ -7207,21 +7409,34 @@
     "date_display": "April 11, 1962",
     "time": "",
     "location": "Saronno (Italy)",
-    "description": "Between Saronno and Legnano, I. evening Benazzi and three other witnesses saw a peculiar craft fly above them and land on the road. It was intensely luminous. (APRO Sept., 62) 53] Apr. 30,1962 Mount Etna (Italy). Eugenio Siragusa, 43, claimed night o have met two men of normal height, clad in diving suits, with belts emitting intermittent yellow-green- blue light, who delivered to him a peace message in talian. The voice had a metallic tone. Also observed was a very dazzling object, 15 m in diameter. (FSR 63,1)",
+    "description": "Between Saronno and Legnano, I. evening Benazzi and three other witnesses saw a peculiar craft fly above them and land on the road. It was intensely luminous. (APRO Sept., 62)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "landing",
+      "CE2"
+    ]
+  },
+  {
+    "case_number": 531,
+    "date": "1962-04-30",
+    "date_display": "April 30, 1962",
+    "time": "",
+    "location": "Mount Etna (Italy)",
+    "description": "Eugenio Siragusa, 43, claimed night o have met two men of normal height, clad in diving suits, with belts emitting intermittent yellow-green- blue light, who delivered to him a peace message in talian. The voice had a metallic tone. Also observed was a very dazzling object, 15 m in diameter. (FSR 63,1)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
       "humanoid",
-      "landing",
       "CE3"
     ]
   },
   {
     "case_number": 532,
-    "date": "",
-    "date_display": "",
+    "date": "1962",
+    "date_display": "1962",
     "time": "0400",
-    "location": "May, 1962 ujuy (Argentina)",
+    "location": "ujuy (Argentina)",
     "description": "Approximate date. Four people, whose car had run out of gas. were waiting in a driz- zling rain when a bright light, first thought to be from a car, approached them. It turned out to be a low- flying object that landed. It was round with a blink- ing light, and stayed there about one hour before aking off at high speed (APRO July, 63)",
     "source": "Passport to Magonia",
     "tags": [
@@ -7388,11 +7603,11 @@
   },
   {
     "case_number": 544,
-    "date": "",
-    "date_display": "",
+    "date": "1962",
+    "date_display": "1962",
     "time": "2145",
-    "location": "",
-    "description": "Sept., 1962 Orland (California). A. T. Gray, a dairy rancher, hought some lights in a field were those of a car. When coming nearer, he realized the object was ob- ong with blunt edges and hovered about 7 m above he ground, making no noise. When Gray was 50 m away, the object came toward him, rose, and took off oward the southwest. (APRO July, 63)",
+    "location": "Orland (California)",
+    "description": "A. T. Gray, a dairy rancher, hought some lights in a field were those of a car. When coming nearer, he realized the object was ob- ong with blunt edges and hovered about 7 m above he ground, making no noise. When Gray was 50 m away, the object came toward him, rose, and took off oward the southwest. (APRO July, 63)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -7487,11 +7702,11 @@
   },
   {
     "case_number": 551,
-    "date": "",
-    "date_display": "",
+    "date": "1962",
+    "date_display": "1962",
     "time": "",
-    "location": "",
-    "description": "Nov., 1962 Var (France). A garage owner was driving through a evening rainstorm when he suddenly saw a group of figures 80 m away. He slowed down as they went away jerkily, and observed that they were bizarre, birdlike creatures. As they rushed toward the car, he drove past them in terror, and saw them going back toward a luminous, blue object hovering in a field. They en- tered it as if \"sucked into it,\" and a dull sound was heard before the object flew off. (FSR 68, 6)",
+    "location": "Var (France)",
+    "description": "A garage owner was driving through a evening rainstorm when he suddenly saw a group of figures 80 m away. He slowed down as they went away jerkily, and observed that they were bizarre, birdlike creatures. As they rushed toward the car, he drove past them in terror, and saw them going back toward a luminous, blue object hovering in a field. They en- tered it as if \"sucked into it,\" and a dull sound was heard before the object flew off. (FSR 68, 6)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -7599,8 +7814,8 @@
   },
   {
     "case_number": 559,
-    "date": "",
-    "date_display": "",
+    "date": "1963",
+    "date_display": "1963",
     "time": "",
     "location": "an, 28,1963 Shilton (Great Britain)",
     "description": "Mary Sharp and Mrs. E. L. 720 Sharp saw an object on the ground. It had four win- dows, emitted a yellow-orange light, and eventually left toward Rugby. (Atic)",
@@ -7612,8 +7827,8 @@
   },
   {
     "case_number": 560,
-    "date": "",
-    "date_display": "",
+    "date": "1963",
+    "date_display": "1963",
     "time": "",
     "location": "an",
     "description": "28,1963 Mamina (Chile). A former Chilean Air Force officer, night who was driving a truck, observed two disk-shaped objects that followed him for over ten min. (Atic)",
@@ -7625,8 +7840,8 @@
   },
   {
     "case_number": 561,
-    "date": "",
-    "date_display": "",
+    "date": "1963",
+    "date_display": "1963",
     "time": "",
     "location": "an",
     "description": "31,1963 Ganada de Algosaray (Argentina). An object was re- ported to have landed. The Lopez brothers found traces in the grass and evidence of intense heat. Police investigation. A whitish powder was also found at the site. (FSR66, 1)",
@@ -7640,10 +7855,10 @@
   },
   {
     "case_number": 562,
-    "date": "",
-    "date_display": "",
+    "date": "1963",
+    "date_display": "1963",
     "time": "",
-    "location": "Feb, 5,1963 Ascension (Paraguay)",
+    "location": "Ascension (Paraguay)",
     "description": "Approximate date. A student, Anastasio Lenven, saw an object land on the school grounds. In a different observation, several residents, including an official of the Ministry of the Interior, saw an object flying at very high speed over Ascension. (Atic)",
     "source": "Passport to Magonia",
     "tags": [
@@ -7912,8 +8127,8 @@
   },
   {
     "case_number": 582,
-    "date": "",
-    "date_display": "",
+    "date": "1963",
+    "date_display": "1963",
     "time": "0900",
     "location": "1963 Whidbey Island (Washington)",
     "description": "A middle-aged woman, who had seen a strange craft hovering near her house the previous July, observed a gray-colored object, 3.5 m long, hovering less than 2 m above ground, Through the transparent front part she could see three figures. Suddenly one of the occupants was standing on the grass. He was clothed in \"asbestos- textured coveralls.\" and neither the face, nor the hands, nor the feet was visible. When she asked, \"What do you want?\" the answer, in English, was: \"One of our party knows you; we will return.\" The object then decreased in size, tilted, partially sank into the ground, grew to its previous si/c, and de parted to the east, producing steam. a flash, and a noise. (FSR 64, 6)",
@@ -7984,8 +8199,8 @@
   },
   {
     "case_number": 587,
-    "date": "",
-    "date_display": "",
+    "date": "1963",
+    "date_display": "1963",
     "time": "",
     "location": "Noy",
     "description": "15,1963 Bloomingdale (New Jersey). Peter Valko and Jim Keosian ran toward a strange object that appeared about to land, but it (Binder)",
@@ -8012,10 +8227,10 @@
   },
   {
     "case_number": 589,
-    "date": "",
-    "date_display": "",
+    "date": "1963",
+    "date_display": "1963",
     "time": "",
-    "location": "Dec, 1963 Japan (exact location unknown)",
+    "location": "Japan (exact location unknown)",
     "description": "A Japanese man re- ported the landing of an object, from which emerged a being who spoke to him in a language he could not understand, climbed aboard again, and flew away. (LDLN67)",
     "source": "Passport to Magonia",
     "tags": [
@@ -8314,8 +8529,8 @@
   },
   {
     "case_number": 610,
-    "date": "",
-    "date_display": "",
+    "date": "1964",
+    "date_display": "1964",
     "time": "",
     "location": "June 5;1964 Pajasblancas (Argentina)",
     "description": "A 42-year-old doctor and his wife were 30 km away from the airport when an intensely bright object appeared on the road ahead. They drove very close to it and saw three men dressed in gray, one of whom told him in Spanish that \"they had a mission on Earth.\" (Humanoids 39)",
@@ -8455,8 +8670,8 @@
   },
   {
     "case_number": 620,
-    "date": "",
-    "date_display": "",
+    "date": "1964",
+    "date_display": "1964",
     "time": "",
     "location": "duly 30,1964 Flemington (New Jersey)",
     "description": "A whitish, elliptical object followed a car, then landed in a field. The driver got out to observe it, but when the object started in his direction, he became afraid and drove off. (NICAP Sept., 64)",
@@ -8552,11 +8767,11 @@
   },
   {
     "case_number": 627,
-    "date": "",
-    "date_display": "",
+    "date": "1964",
+    "date_display": "1964",
     "time": "2300",
-    "location": "",
-    "description": "Nov., 1964 Saint-Alexis de Montcalm (Canada). Mr. Lebel ob- served a lighted object at treetop level, about 700 m away. At the site, a wide circle of crushed vegetation was found, three branches were broken, and a pole was calcined. (LDLN 76)",
+    "location": "Saint-Alexis de Montcalm (Canada)",
+    "description": "Mr. Lebel ob- served a lighted object at treetop level, about 700 m away. At the site, a wide circle of crushed vegetation was found, three branches were broken, and a pole was calcined. (LDLN 76)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -8610,10 +8825,10 @@
   },
   {
     "case_number": 631,
-    "date": "",
-    "date_display": "",
+    "date": "1965",
+    "date_display": "1965",
     "time": "2400",
-    "location": "Jan, 14,1965 Norfolk (Virginia)",
+    "location": "Norfolk (Virginia)",
     "description": "James Myers saw an object rise from the ground, appearing as a bright, circular silvery craft. {Fate July, 65)",
     "source": "Passport to Magonia",
     "tags": [
@@ -8765,11 +8980,11 @@
   },
   {
     "case_number": 642,
-    "date": "",
-    "date_display": "",
+    "date": "1965",
+    "date_display": "1965",
     "time": "",
-    "location": "",
-    "description": "Apr., 1965 Monte Grande (Argentina). Felipe Martinez., 37, reported that he was paralyzed during the landing of a silent, large, egg-shaped object, from which emerged a small man, about 1 m tall, wearing a hdmci linked to the object by three cables. The being spoke slowly and with difficulty in Spanish. 40)",
+    "location": "Monte Grande (Argentina)",
+    "description": "Felipe Martinez., 37, reported that he was paralyzed during the landing of a silent, large, egg-shaped object, from which emerged a small man, about 1 m tall, wearing a hdmci linked to the object by three cables. The being spoke slowly and with difficulty in Spanish. 40)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -9790,11 +10005,11 @@
   },
   {
     "case_number": 714,
-    "date": "",
-    "date_display": "",
+    "date": "1965",
+    "date_display": "1965",
     "time": "",
-    "location": "",
-    "description": "Nov., 1965 Broken Hill (Zambia). Eric Williams saw a large ob- dusk ject, 30 m in diameter, 15 m high, about 75 m away. He reported seeing clearly a row of portholes illumi- nated with a greenish light. (FSR 66, 4)",
+    "location": "Broken Hill (Zambia)",
+    "description": "Eric Williams saw a large ob- dusk ject, 30 m in diameter, 15 m high, about 75 m away. He reported seeing clearly a row of portholes illumi- nated with a greenish light. (FSR 66, 4)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -9936,7 +10151,20 @@
     "date_display": "January 29, 1966",
     "time": "0010",
     "location": "Rexburg (Idaho)",
-    "description": "Two civilians returning from a sporting event observed what they first thought was he moon. After driving for about I km, they saw that it was a flat, well-defined object, which had blocked he road. The object was the size of a truck and cast an intense yellow-orange light on the ground. The witnesses turned around and drove back to Rexburg. (Atic) 725, Feb. 6,1966 Aluche (Spain). Vicente Ortuno and another man 2000 observed a bright orange disk, about 11 m in diameter, with three legs, which came down, landed, and took off again at high speed on the \"El Relajal\" estate. (FSR 63, 3)",
+    "description": "Two civilians returning from a sporting event observed what they first thought was he moon. After driving for about I km, they saw that it was a flat, well-defined object, which had blocked he road. The object was the size of a truck and cast an intense yellow-orange light on the ground. The witnesses turned around and drove back to Rexburg. (Atic)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "CE1"
+    ]
+  },
+  {
+    "case_number": 725,
+    "date": "1966-02-06",
+    "date_display": "February 6, 1966",
+    "time": "2000",
+    "location": "Aluche (Spain)",
+    "description": "Vicente Ortuno and another man observed a bright orange disk, about 11 m in diameter, with three legs, which came down, landed, and took off again at high speed on the \"El Relajal\" estate. (FSR 63, 3)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -10146,11 +10374,24 @@
     "date_display": "March 30, 1966",
     "time": "",
     "location": "Pecos (Texas)",
-    "description": "An elongated object about 30 m long and 9 m high was reported to have landed near a high- way for 5 min. (NICAP Mar., 66) Mar. 30,1966 Lexisburg (Indiana). A civilian woman and her four 2035 children observed an oval object crossing the road as they were driving south about 15 km north of Lexis- burg. It came close to the car, and a pulsating sound was heard, increasing in frequency as the object came nearer, but it seemed to come through the car radio rather than directly from the object. The witness drove away in fear, but was followed for 13 km by the object, whose color suddenly changed from reddish- orange to bluish-white before accelerating out of sight. (Atic)",
+    "description": "An elongated object about 30 m long and 9 m high was reported to have landed near a high- way for 5 min. (NICAP Mar., 66)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
       "landing",
+      "CE2"
+    ]
+  },
+  {
+    "case_number": 741,
+    "date": "1966-03-30",
+    "date_display": "March 30, 1966",
+    "time": "2035",
+    "location": "Lexisburg (Indiana)",
+    "description": "A civilian woman and her four children observed an oval object crossing the road as they were driving south about 15 km north of Lexis- burg. It came close to the car, and a pulsating sound was heard, increasing in frequency as the object came nearer, but it seemed to come through the car radio rather than directly from the object. The witness drove away in fear, but was followed for 13 km by the object, whose color suddenly changed from reddish- orange to bluish-white before accelerating out of sight. (Atic)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
       "vehicle-interference",
       "CE2"
     ]
@@ -10683,8 +10924,8 @@
   },
   {
     "case_number": 780,
-    "date": "",
-    "date_display": "",
+    "date": "1966",
+    "date_display": "1966",
     "time": "0220",
     "location": "Tuly 13,1966 Fontcdcra (Italy)",
     "description": "Camillo Faieta, 35, a lineman, was on duty when a light dazzled him, and he observed that it came from an object on a small island on the Fmissario Canal. Two little men were seen briefly on the ground before the departure of the object. There are four other witnesses. (LDLN 86; FSR 67, 1)",
@@ -10850,11 +11091,11 @@
   },
   {
     "case_number": 792,
-    "date": "",
-    "date_display": "",
+    "date": "1966",
+    "date_display": "1966",
     "time": "0330",
-    "location": "",
-    "description": "Sept., 1966 El Campo (Texas). A police officer was driving at nearly 200 km/h toward the north on Route 71 when he suddenly saw an object on the road ahead and another one following his car. The first one looked like a flaming car and was the size of a 3-story house. It flew away as the policeman was about to hit it (168)",
+    "location": "El Campo (Texas)",
+    "description": "A police officer was driving at nearly 200 km/h toward the north on Route 71 when he suddenly saw an object on the road ahead and another one following his car. The first one looked like a flaming car and was the size of a 3-story house. It flew away as the policeman was about to hit it (168)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
@@ -11196,8 +11437,8 @@
   },
   {
     "case_number": 817,
-    "date": "",
-    "date_display": "",
+    "date": "1967",
+    "date_display": "1967",
     "time": "0145",
     "location": "Feb",
     "description": "II, 1967 Milford (Ohio). Miss Hiklebrand, 19, and Michael McKce fled when they saw a large, shiny object off the road. Returning to the scene with a policeman, they found broken branches at the site. (APRO Jan., 67)",
@@ -11619,12 +11860,25 @@
     "date_display": "June 1, 1967",
     "time": "2330",
     "location": "Richmond (Virginia)",
-    "description": "John Norton, 7, had to be taken to a hospital after observing a disk-shaped, buzzing object, the size of a Volkswagen, with green and red lights, which landed in a clearing and took of \"like lightning.\" (NICAP May, 67) June 7,1967 Itajuba (Brazil). A vehicle stalled in the vicinity of 0130 a brilliant, transparent, mushroom-shaped object, aboard which occupants with catlike faces were seen. Under the object was a quadrangular protuberance. (FSR 68, 6)",
+    "description": "John Norton, 7, had to be taken to a hospital after observing a disk-shaped, buzzing object, the size of a Volkswagen, with green and red lights, which landed in a clearing and took of \"like lightning.\" (NICAP May, 67)",
+    "source": "Passport to Magonia",
+    "tags": [
+      "case",
+      "landing",
+      "CE2"
+    ]
+  },
+  {
+    "case_number": 848,
+    "date": "1967-06-07",
+    "date_display": "June 7, 1967",
+    "time": "0130",
+    "location": "Itajuba (Brazil)",
+    "description": "A vehicle stalled in the vicinity of a brilliant, transparent, mushroom-shaped object, aboard which occupants with catlike faces were seen. Under the object was a quadrangular protuberance. (FSR 68, 6)",
     "source": "Passport to Magonia",
     "tags": [
       "case",
       "humanoid",
-      "landing",
       "vehicle-interference",
       "CE3"
     ]
@@ -11673,8 +11927,8 @@
   },
   {
     "case_number": 852,
-    "date": "",
-    "date_display": "",
+    "date": "1967",
+    "date_display": "1967",
     "time": "",
     "location": "duly 5,1967 Clifton (Great Britain)",
     "description": "One hundred persons claimed to have seen a silvery disk-shaped object, about 10 m long, land in the area. (FSR 67, 5)",
@@ -11687,8 +11941,8 @@
   },
   {
     "case_number": 853,
-    "date": "",
-    "date_display": "",
+    "date": "1967",
+    "date_display": "1967",
     "time": "2330",
     "location": "duly 7,1967 Milan (Italy)",
     "description": "Antonio Brambila and another man saw a glow coming from a disk, 6.5 m in diameter and 2.5 m high, with a dome on top and four telescopic legs, which emitted a strange vibration. (LDLN 91)",
@@ -11783,8 +12037,8 @@
   },
   {
     "case_number": 860,
-    "date": "",
-    "date_display": "",
+    "date": "1967",
+    "date_display": "1967",
     "time": "2215",
     "location": "duly 31,1967 Churchville (New York)",
     "description": "A guard, Sidney Zipkin, 50, was driving through a large parking lot when he ob- served a cigar-shaped object, 16 m long, with green lights under it, land on the pavement. He stopped his truck within 30 m of the object, with the headlights aimed on it, and was surprised to sec two dwarfs dressed in shiny black uniforms rush by the vehicle and enter the craft, which took of straight up. (184)",
@@ -12275,8 +12529,8 @@
   },
   {
     "case_number": 895,
-    "date": "",
-    "date_display": "",
+    "date": "1967",
+    "date_display": "1967",
     "time": "",
     "location": "Noy",
     "description": "3,1967 San Jeronimo (Argentina). Carlos Spini and another man saw a luminous, blue, circular object land nearby, as they were examining some cows. It took off when they came near. (Personal)",
@@ -12432,10 +12686,10 @@
   },
   {
     "case_number": 906,
-    "date": "",
-    "date_display": "",
+    "date": "1968",
+    "date_display": "1968",
     "time": "2400",
-    "location": "May, 1968 Chascomus (Brazil)",
+    "location": "Chascomus (Brazil)",
     "description": "Gerardo Vidal and his wife were driving along Route 2 when they were caught in \"a dense fog\" and lost consciousness for 48 hours. When they came to, it was daytime, and the car, whose paint was badly scorched, was parked in an un- known road. They spoke to local people and found that they were in Mexico. (FSR 68, 5; Magonia)",
     "source": "Passport to Magonia",
     "tags": [
@@ -12446,10 +12700,10 @@
   },
   {
     "case_number": 907,
-    "date": "",
-    "date_display": "",
+    "date": "1968-06",
+    "date_display": "June 1968",
     "time": "0050",
-    "location": "June, 1968 Carlos Paz (Argentina)",
+    "location": "Carlos Paz (Argentina)",
     "description": "Pedro Pretzel, 39, motel owner, observed an object 50 m away on road 20, showing two powerful red headlights. Arriving at his room, the witness found his daughter unconscious. When she came to, she said that a blond man, 2 m tall, wearing a blue, bright suit, and holding a pale- blue sphere in his hand, had appeared and spoken to her. (LDLN95)",
     "source": "Passport to Magonia",
     "tags": [

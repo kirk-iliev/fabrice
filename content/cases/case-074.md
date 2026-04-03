@@ -1,12 +1,12 @@
 ---
-title: "Case 074 — Apr, 1950 Juneau (Alaska)"
-date: unknown
-location: "Apr, 1950 Juneau (Alaska)"
+title: "Case 074 — Juneau (Alaska)"
+date: 1950
+location: "Juneau (Alaska)"
 tags: [case, landing, CE2]
 source: Passport to Magonia
 ---
 
-## Apr, 1950 Juneau (Alaska) — Unknown date
+## Juneau (Alaska) — 1950
 
 Mikel Konrad made a movie of eight disks he saw landing and taking off 60 km north of Juneau. (Quincy)
 

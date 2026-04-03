@@ -58,7 +58,7 @@ REMAP = {
     (198, 1966, 1966): 798,
     (716, 1966, 1966): 776,
     (718, 1966, 1966): 778,
-    (34,  1908, 1908): 34,  # Keep as 34 — investigate separately
+    (34,  1945, 1945): 54,   # OCR read "54" as "34"; real case 34 is 1908
 }
 
 # Cases 374-384 and 922-923 are exact duplicates from double-scanned PDF pages
@@ -101,6 +101,12 @@ def repair_date(case: dict) -> dict:
             case["location"] = clean_loc
         return case
 
+    # Last resort: year-only (e.g. "1908 Coast of Delaware" where year is in location)
+    m3 = re.search(r'\b(1[89]\d{2}|20\d{2})\b', text)
+    if m3:
+        case["date"] = m3.group(1)
+        case["date_display"] = m3.group(1)
+
     return case
 
 
@@ -126,11 +132,15 @@ def case_to_markdown(case: dict) -> str:
     if time:
         heading += f" ({time})"
 
+    # Escape double quotes in YAML string fields to prevent parse errors
+    title_yaml    = title.replace('"', '\\"')
+    location_yaml = location.replace('"', '\\"')
+
     return (
         f'---\n'
-        f'title: "{title}"\n'
+        f'title: "{title_yaml}"\n'
         f'date: {date}\n'
-        f'location: "{location}"\n'
+        f'location: "{location_yaml}"\n'
         f'tags: {tags_yaml}\n'
         f'source: Passport to Magonia\n'
         f'---\n\n'
@@ -158,7 +168,19 @@ def main():
 
     for n, entries in by_num.items():
         if len(entries) == 1:
-            fixed[n] = entries[0]
+            e = entries[0]
+            yr = get_year(e)
+            # Apply REMAP even for single-entry case numbers (e.g. only the
+            # mislabelled version was found, with no real duplicate)
+            remapped = False
+            for (wrong_n, yr_min, yr_max), correct_n in REMAP.items():
+                if wrong_n == n and yr_min <= yr <= yr_max and correct_n != n:
+                    e["case_number"] = correct_n
+                    fixed[correct_n] = e
+                    remapped = True
+                    break
+            if not remapped:
+                fixed[n] = e
             continue
 
         # Multiple entries for same case number

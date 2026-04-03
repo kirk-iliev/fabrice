@@ -1,14 +1,14 @@
 ---
-title: "Case 002 — Josserand (Texas)"
-date: 1897-04-22
-location: "Josserand (Texas)"
-tags: [case, humanoid, landing, CE3]
+title: "Case 002 — Banbury (Great Britain)"
+date: 1872-12-07
+location: "Banbury (Great Britain)"
+tags: [case, CE1]
 source: Passport to Magonia
 ---
 
-## Josserand (Texas) — April 22, 1897 (2400)
+## Banbury (Great Britain) — December 7, 1872 (0100)
 
-Franck Nichols, who lived 3 km east of Josserand and was one of its most respected citizens, was awakened by a machine noise. Looking outside, he saw a heavy. lighted object land in his wheat field. He walked toward it, was stopped by two men who asked permission to draw water from his well. He then had a discussion with a half-dozen men, the crew of the strange machine. He was told how it worked but could not follow the explanation. (193; Magonia)
+At King's Sutton an object hours resembling a haystack flew on an irregular course. Sometimes high, sometimes very low, it was accom- panied by fire and dense smoke. It produced the same effect as a tornado, felling trees and walls. It sud- denly vanished. (Fort 189)
 
 **Source:** Passport to Magonia  
 **Case:** 2

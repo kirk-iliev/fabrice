@@ -35,13 +35,21 @@ MONTH_MAP = {
 
 TIME_QUALIFIERS = {"night", "dawn", "dusk", "evening", "early", "morning", "afternoon"}
 
-# Matches "Oct. 4,1965" / "Sept. 11,1964" / "Nov., 1964" / "1897" etc.
+# Matches "Oct. 4,1965" / "Sept. 11,1964" / "Nov., 1964" / "Mar., 1945" / "1897" etc.
 DATE_RE = re.compile(
-    r"^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)\.?\s+(\d{1,2}[,.]?\s*\d{4}|\d{4}|\d{1,2}[,.]?\s*\d{4})",
+    r"^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)\.?[,]?\s+(\d{1,2}[,.]?\s*\d{4}|\d{4}|\d{1,2}[,.]?\s*\d{4})",
     re.IGNORECASE,
 )
 TIME_RE = re.compile(r"^(\d{4})\s+(.*)", re.DOTALL)
-CASE_NUM_RE = re.compile(r"^\d{1,3}$")
+CASE_NUM_RE = re.compile(r"^\d{1,3}[,.]?$")
+
+# Known OCR misreads of case number lines (confirmed from ocr_lines.txt inspection)
+OCR_CASE_NUM_FIXES = {
+    "SB":   513,   # 5→S, 1 dropped, 3→B
+    "S15":  515,   # 5→S
+    "53]":  531,   # 1→]
+    "no":   130,   # 130→no (1→n, 30→o in bad scan)
+}
 
 
 # ---------------------------------------------------------------------------
@@ -176,17 +184,31 @@ def clean_lines(lines: list[str]) -> list[str]:
 # Case splitting
 # ---------------------------------------------------------------------------
 
+def _parse_case_num(line: str) -> int | None:
+    """Return case number if line is a case boundary, else None."""
+    s = line.strip()
+    # Known OCR misreads
+    if s in OCR_CASE_NUM_FIXES:
+        return OCR_CASE_NUM_FIXES[s]
+    # Digits with optional trailing punctuation (e.g. "725,")
+    if CASE_NUM_RE.match(s):
+        n = int(s.rstrip(",."))
+        if 1 <= n <= 923:
+            return n
+    return None
+
+
 def split_into_cases(lines: list[str]) -> list[dict]:
     """Identify case-number boundaries and return list of {number, lines}."""
     cases = []
     i = 0
     while i < len(lines):
-        if CASE_NUM_RE.match(lines[i]) and 1 <= int(lines[i]) <= 923:
-            n = int(lines[i])
+        n = _parse_case_num(lines[i])
+        if n is not None:
             block = []
             j = i + 1
             while j < len(lines):
-                if CASE_NUM_RE.match(lines[j]) and 1 <= int(lines[j]) <= 923:
+                if _parse_case_num(lines[j]) is not None:
                     break
                 block.append(lines[j])
                 j += 1
@@ -243,7 +265,7 @@ def split_date_and_text(line: str) -> tuple[str, str]:
     return ("Sept. 11,1964", "Ulysses (Oklahoma). Karen...").
     """
     m = re.match(
-        r"((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)\.?\s+"
+        r"((?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)\.?[,]?\s+"
         r"(?:\d{1,2}[,.]?\s*)?\d{4}[,.]?)\s*(.*)",
         line, re.IGNORECASE | re.DOTALL,
     )

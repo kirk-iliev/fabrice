@@ -1,7 +1,7 @@
 ---
-title: "Case 153 — Becar, near Diges and "Les Michauts" or "Les Joli- vets" (France)"
+title: "Case 153 — Becar, near Diges and \"Les Michauts\" or \"Les Joli- vets\" (France)"
 date: 1954-09-24
-location: "Becar, near Diges and "Les Michauts" or "Les Joli- vets" (France)"
+location: "Becar, near Diges and \"Les Michauts\" or \"Les Joli- vets\" (France)"
 tags: [case, humanoid, trace-evidence, CE3]
 source: Passport to Magonia
 ---
