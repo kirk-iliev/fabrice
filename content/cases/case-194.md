@@ -2,7 +2,8 @@
 title: "Case 194 — Poncey-sur-Lignon (France)"
 date: 1954
 location: "Poncey-sur-Lignon (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

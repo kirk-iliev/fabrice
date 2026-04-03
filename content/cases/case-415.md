@@ -2,7 +2,8 @@
 title: "Case 415 — Petropolis (Brazil)"
 date: 1957-10-25
 location: "Petropolis (Brazil)"
-tags: [case, humanoid, CE3]
+country: "Brazil"
+tags: [case, humanoid, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

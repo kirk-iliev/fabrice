@@ -2,7 +2,8 @@
 title: "Case 379 — McKinney (Texas)"
 date: 1956-04-06
 location: "McKinney (Texas)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

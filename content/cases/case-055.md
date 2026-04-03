@@ -2,7 +2,8 @@
 title: "Case 055 — Douglas (Arizona)"
 date: 1947-06-10
 location: "Douglas (Arizona)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 189 — Lezignan (France)"
 date: 1954-10-04
 location: "Lezignan (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 591 — Vereeniging (South Africa)"
 date: 1963-12-14
 location: "Vereeniging (South Africa)"
-tags: [case, CE1]
+country: "South Africa"
+tags: [case, CE1, south-africa, africa]
 source: Passport to Magonia
 ---
 

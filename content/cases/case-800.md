@@ -2,7 +2,8 @@
 title: "Case 800 — Potomac (Maryland)"
 date: 1966-10-05
 location: "Potomac (Maryland)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

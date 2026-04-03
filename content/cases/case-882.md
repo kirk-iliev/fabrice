@@ -2,7 +2,8 @@
 title: "Case 882 — Alamosa (Colorado)"
 date: 1967-09-15
 location: "Alamosa (Colorado)"
-tags: [case, trace-evidence, vehicle-interference, CE2]
+country: "United States"
+tags: [case, trace-evidence, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

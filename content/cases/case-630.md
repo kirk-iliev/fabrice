@@ -2,7 +2,8 @@
 title: "Case 630 — Blame Air Force Base (Washington)"
 date: 1965-01-12
 location: "Blame Air Force Base (Washington)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

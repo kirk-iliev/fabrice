@@ -2,7 +2,8 @@
 title: "Case 563 — Willow Grove (Australia)"
 date: 1963-02-15
 location: "Willow Grove (Australia)"
-tags: [case, CE1]
+country: "Australia"
+tags: [case, CE1, australia, oceania]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 326 — Oued Beth (Morocco)"
 date: 1954
 location: "Oued Beth (Morocco)"
-tags: [case, humanoid, landing, CE3]
+country: "Morocco"
+tags: [case, humanoid, landing, CE3, morocco, africa]
 source: Passport to Magonia
 ---
 

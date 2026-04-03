@@ -2,7 +2,8 @@
 title: "Case 217 — Rinkerode (Germany)"
 date: 1954-10-09
 location: "Rinkerode (Germany)"
-tags: [case, humanoid, landing, CE3]
+country: "Germany"
+tags: [case, humanoid, landing, CE3, germany, europe]
 source: Passport to Magonia
 ---
 

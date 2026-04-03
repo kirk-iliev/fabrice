@@ -2,7 +2,8 @@
 title: "Case 642 — Monte Grande (Argentina)"
 date: 1965
 location: "Monte Grande (Argentina)"
-tags: [case, humanoid, landing, CE3]
+country: "Argentina"
+tags: [case, humanoid, landing, CE3, argentina, south-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 545 — Mount Manfre (Italy)"
 date: 1962-09-05
 location: "Mount Manfre (Italy)"
-tags: [case, humanoid, CE3]
+country: "Italy"
+tags: [case, humanoid, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

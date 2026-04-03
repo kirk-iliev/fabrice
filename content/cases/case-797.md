@@ -2,7 +2,8 @@
 title: "Case 797 — Stirum (North Dakota)"
 date: 1966-09-13
 location: "Stirum (North Dakota)"
-tags: [case, landing, trace-evidence, CE2]
+country: "United States"
+tags: [case, landing, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

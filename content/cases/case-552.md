@@ -2,7 +2,8 @@
 title: "Case 552 — Bologna (Italy)"
 date: 1962-12-09
 location: "Bologna (Italy)"
-tags: [case, humanoid, landing, CE3]
+country: "Italy"
+tags: [case, humanoid, landing, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

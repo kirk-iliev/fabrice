@@ -19,6 +19,194 @@ import os
 import re
 import sys
 
+# ---------------------------------------------------------------------------
+# Geography lookup tables
+# ---------------------------------------------------------------------------
+
+US_STATES = {
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
+    "connecticut", "delaware", "florida", "georgia", "hawaii", "idaho",
+    "illinois", "indiana", "iowa", "kansas", "kentucky", "louisiana",
+    "maine", "maryland", "massachusetts", "michigan", "minnesota",
+    "mississippi", "missouri", "montana", "nebraska", "nevada",
+    "new hampshire", "new jersey", "new mexico", "new york",
+    "north carolina", "north dakota", "ohio", "oklahoma", "oregon",
+    "pennsylvania", "rhode island", "south carolina", "south dakota",
+    "tennessee", "texas", "utah", "vermont", "virginia", "washington",
+    "west virginia", "wisconsin", "wyoming",
+    # territories / DC
+    "district of columbia", "puerto rico", "guam",
+}
+
+# Maps the parenthetical in a location string to (country, region)
+# Keys are lowercase; matched against the extracted parenthetical token.
+COUNTRY_MAP = {
+    # North America
+    "united states": ("United States", "north-america"),
+    "usa":           ("United States", "north-america"),
+    "canada":        ("Canada",        "north-america"),
+    "mexico":        ("Mexico",        "north-america"),
+    # Central / Caribbean
+    "cuba":          ("Cuba",          "central-america-caribbean"),
+    "venezuela":     ("Venezuela",     "south-america"),
+    "brazil":        ("Brazil",        "south-america"),
+    "argentina":     ("Argentina",     "south-america"),
+    "chile":         ("Chile",         "south-america"),
+    "peru":          ("Peru",          "south-america"),
+    "colombia":      ("Colombia",      "south-america"),
+    "bolivia":       ("Bolivia",       "south-america"),
+    "uruguay":       ("Uruguay",       "south-america"),
+    # Europe
+    "france":        ("France",        "europe"),
+    "great britain": ("Great Britain", "europe"),
+    "england":       ("Great Britain", "europe"),
+    "united kingdom":("Great Britain", "europe"),
+    "scotland":      ("Great Britain", "europe"),
+    "wales":         ("Great Britain", "europe"),
+    "ireland":       ("Ireland",       "europe"),
+    "germany":       ("Germany",       "europe"),
+    "west germany":  ("Germany",       "europe"),
+    "east germany":  ("Germany",       "europe"),
+    "italy":         ("Italy",         "europe"),
+    "spain":         ("Spain",         "europe"),
+    "portugal":      ("Portugal",      "europe"),
+    "netherlands":   ("Netherlands",   "europe"),
+    "belgium":       ("Belgium",       "europe"),
+    "switzerland":   ("Switzerland",   "europe"),
+    "austria":       ("Austria",       "europe"),
+    "sweden":        ("Sweden",        "europe"),
+    "norway":        ("Norway",        "europe"),
+    "denmark":       ("Denmark",       "europe"),
+    "finland":       ("Finland",       "europe"),
+    "greece":        ("Greece",        "europe"),
+    "yugoslavia":    ("Yugoslavia",    "europe"),
+    "hungary":       ("Hungary",       "europe"),
+    "czechoslovakia":("Czechoslovakia","europe"),
+    "poland":        ("Poland",        "europe"),
+    "romania":       ("Romania",       "europe"),
+    "bulgaria":      ("Bulgaria",      "europe"),
+    "ussr":          ("USSR",          "europe"),
+    "soviet union":  ("USSR",          "europe"),
+    "russia":        ("Russia",        "europe"),
+    "gulf of guinea":("Atlantic Ocean","africa"),
+    "coast of delaware": ("United States", "north-america"),
+    "aleutian islands":  ("United States", "north-america"),
+    "persian gulf":  ("Persian Gulf",  "middle-east"),
+    # Middle East / Africa
+    "turkey":        ("Turkey",        "middle-east"),
+    "iran":          ("Iran",          "middle-east"),
+    "iraq":          ("Iraq",          "middle-east"),
+    "israel":        ("Israel",        "middle-east"),
+    "egypt":         ("Egypt",         "africa"),
+    "south africa":  ("South Africa",  "africa"),
+    "nigeria":       ("Nigeria",       "africa"),
+    # Asia / Pacific
+    "japan":         ("Japan",         "asia"),
+    "china":         ("China",         "asia"),
+    "india":         ("India",         "asia"),
+    "pakistan":      ("Pakistan",      "asia"),
+    "australia":     ("Australia",     "oceania"),
+    "new zealand":   ("New Zealand",   "oceania"),
+    "philippines":   ("Philippines",   "asia"),
+    "indonesia":     ("Indonesia",     "asia"),
+    "vietnam":       ("Vietnam",       "asia"),
+    "korea":         ("Korea",         "asia"),
+    # Africa
+    "morocco":       ("Morocco",       "africa"),
+    "algeria":       ("Algeria",       "africa"),
+    "libya":         ("Libya",         "africa"),
+    "mozambique":    ("Mozambique",    "africa"),
+    "zambia":        ("Zambia",        "africa"),
+    "gabon":         ("Gabon",         "africa"),
+    "rhodesia":      ("Rhodesia",      "africa"),
+    "tunisia":       ("Tunisia",       "africa"),
+    # Middle East
+    "lebanon":       ("Lebanon",       "middle-east"),
+    "jordan":        ("Jordan",        "middle-east"),
+    "persia":        ("Iran",          "middle-east"),
+    "saudi arabia":  ("Saudi Arabia",  "middle-east"),
+    # Asia / Pacific
+    "annam":         ("Vietnam",       "asia"),
+    "new guinea":    ("Papua New Guinea", "oceania"),
+    "fiji islands":  ("Fiji",          "oceania"),
+    "fiji":          ("Fiji",          "oceania"),
+    # Europe (islands/regions)
+    "sardinia":      ("Italy",         "europe"),
+    "sicily":        ("Italy",         "europe"),
+    "swiss alps":    ("Switzerland",   "europe"),
+    "eire":          ("Ireland",       "europe"),
+    # Americas
+    "san salvador":  ("El Salvador",   "central-america-caribbean"),
+    "paraguay":      ("Paraguay",      "south-america"),
+    "tierra del fuego": ("Argentina",  "south-america"),
+    # Canada regions
+    "nova scotia":   ("Canada",        "north-america"),
+    "labrador":      ("Canada",        "north-america"),
+    "newfoundland":  ("Canada",        "north-america"),
+    "ontario":       ("Canada",        "north-america"),
+    "quebec":        ("Canada",        "north-america"),
+    "british columbia": ("Canada",     "north-america"),
+    "alberta":       ("Canada",        "north-america"),
+    "manitoba":      ("Canada",        "north-america"),
+    "azores":        ("Portugal",      "europe"),
+    # Catch-all ocean
+    "atlantic ocean":("Atlantic Ocean","oceania"),
+    "pacific ocean": ("Pacific Ocean", "oceania"),
+}
+
+# OCR misreads of US state names
+US_STATES_OCR = {
+    "lowa":     "iowa",
+    "ilinois":  "illinois",
+    "ihlinois": "illinois",
+    "ihinois":  "illinois",
+    "illinols": "illinois",
+}
+
+
+def infer_country_region(location: str) -> tuple[str, str]:
+    """
+    Given a location string like 'Lufkin (Texas)' or 'Scutari (Turkey)',
+    return (country, region) or ("", "") if unknown.
+    """
+    if not location:
+        return "", ""
+
+    # Extract parenthetical: "Foo (Bar)" → "Bar"
+    m = re.search(r"\(([^)]+)\)", location)
+    paren = m.group(1).strip() if m else location.strip()
+    key = paren.lower()
+
+    # Fix known OCR misreads of state names before lookup
+    key = US_STATES_OCR.get(key, key)
+
+    # US state check
+    if key in US_STATES:
+        return "United States", "north-america"
+
+    # Direct country map lookup
+    if key in COUNTRY_MAP:
+        return COUNTRY_MAP[key]
+
+    # Multi-word fallback: try progressively shorter suffixes of the location
+    # e.g. "near Foo, South Africa" → try "south africa"
+    words = key.split()
+    for length in range(len(words), 0, -1):
+        candidate = " ".join(words[-length:])
+        if candidate in COUNTRY_MAP:
+            return COUNTRY_MAP[candidate]
+
+    # Comma fallback: "Pennsylvania, exact location unknown" → try first token
+    first_token = key.split(",")[0].strip()
+    if first_token != key:
+        first_token = US_STATES_OCR.get(first_token, first_token)
+        if first_token in US_STATES:
+            return "United States", "north-america"
+        if first_token in COUNTRY_MAP:
+            return COUNTRY_MAP[first_token]
+
+    return "", ""
+
 CASES_JSON = os.path.join(os.path.dirname(__file__), "cases.json")
 OUTPUT_DIR  = os.path.join(os.path.dirname(__file__), "..", "content", "cases")
 
@@ -120,11 +308,21 @@ def case_to_markdown(case: dict) -> str:
     n        = case["case_number"]
     num_str  = str(n).zfill(3)
     location = case["location"] or f"Case {n}"
-    date     = case["date"] or "unknown"
+    date     = case["date"] or ""
     display  = case.get("date_display") or "Unknown date"
     time     = case.get("time", "")
     desc     = case.get("description", "")
-    tags     = case.get("tags", ["case"])
+    tags     = list(case.get("tags", ["case"]))
+
+    country, region = infer_country_region(location)
+
+    # Add country and region tags (avoid duplicates)
+    if country:
+        country_tag = country.lower().replace(" ", "-")
+        if country_tag not in tags:
+            tags.append(country_tag)
+    if region and region not in tags:
+        tags.append(region)
 
     title     = f"Case {num_str} — {location}"
     tags_yaml = "[" + ", ".join(tags) + "]"
@@ -135,12 +333,19 @@ def case_to_markdown(case: dict) -> str:
     # Escape double quotes in YAML string fields to prevent parse errors
     title_yaml    = title.replace('"', '\\"')
     location_yaml = location.replace('"', '\\"')
+    country_yaml  = country.replace('"', '\\"')
+
+    # Only emit date field when we have a real date — omitting it prevents
+    # Quartz from falling back to file-modification time (today's date)
+    date_line    = f'date: {date}\n' if date else ''
+    country_line = f'country: "{country_yaml}"\n' if country else ''
 
     return (
         f'---\n'
         f'title: "{title_yaml}"\n'
-        f'date: {date}\n'
+        f'{date_line}'
         f'location: "{location_yaml}"\n'
+        f'{country_line}'
         f'tags: {tags_yaml}\n'
         f'source: Passport to Magonia\n'
         f'---\n\n'

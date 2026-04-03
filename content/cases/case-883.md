@@ -2,7 +2,8 @@
 title: "Case 883 — Winsted (Connecticut)"
 date: 1967-09-15
 location: "Winsted (Connecticut)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

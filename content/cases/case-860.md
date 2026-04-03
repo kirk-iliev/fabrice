@@ -2,7 +2,8 @@
 title: "Case 860 — duly 31,1967 Churchville (New York)"
 date: 1967
 location: "duly 31,1967 Churchville (New York)"
-tags: [case, humanoid, landing, vehicle-interference, CE3]
+country: "United States"
+tags: [case, humanoid, landing, vehicle-interference, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

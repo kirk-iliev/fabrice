@@ -2,7 +2,8 @@
 title: "Case 271 — [Thin le Moutiers (France)"
 date: 1954-10-16
 location: "[Thin le Moutiers (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

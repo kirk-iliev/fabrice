@@ -2,7 +2,8 @@
 title: "Case 887 — Oberhrendingen (Switzerland)"
 date: 1967-10-11
 location: "Oberhrendingen (Switzerland)"
-tags: [case, landing, CE2]
+country: "Switzerland"
+tags: [case, landing, CE2, switzerland, europe]
 source: Passport to Magonia
 ---
 

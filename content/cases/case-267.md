@@ -2,7 +2,8 @@
 title: "Case 267 — Southend (Great Britain)"
 date: 1954-10-15
 location: "Southend (Great Britain)"
-tags: [case, humanoid, landing, CE3]
+country: "Great Britain"
+tags: [case, humanoid, landing, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

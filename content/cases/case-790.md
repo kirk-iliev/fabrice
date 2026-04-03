@@ -2,7 +2,8 @@
 title: "Case 790 — Niteroi (Brazil)"
 date: 1966-08-20
 location: "Niteroi (Brazil)"
-tags: [case, humanoid, CE3]
+country: "Brazil"
+tags: [case, humanoid, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

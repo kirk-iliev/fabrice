@@ -2,7 +2,8 @@
 title: "Case 476 — Cojutepeque (San Salvador)"
 date: 1958-11-23
 location: "Cojutepeque (San Salvador)"
-tags: [case, humanoid, landing, vehicle-interference, CE3]
+country: "El Salvador"
+tags: [case, humanoid, landing, vehicle-interference, CE3, el-salvador, central-america-caribbean]
 source: Passport to Magonia
 ---
 

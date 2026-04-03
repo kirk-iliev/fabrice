@@ -2,7 +2,8 @@
 title: "Case 309 — Arraye-et-Han (France)"
 date: 1954-10-25
 location: "Arraye-et-Han (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

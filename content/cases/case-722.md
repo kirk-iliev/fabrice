@@ -2,7 +2,8 @@
 title: "Case 722 — Bolazec (France)"
 date: 1966-01-16
 location: "Bolazec (France)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "France"
+tags: [case, landing, vehicle-interference, CE2, france, europe]
 source: Passport to Magonia
 ---
 

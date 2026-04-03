@@ -2,7 +2,8 @@
 title: "Case 849 — Price Hill (Ohio)"
 date: 1967-06-11
 location: "Price Hill (Ohio)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

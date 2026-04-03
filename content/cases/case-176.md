@@ -2,7 +2,8 @@
 title: "Case 176 — Bergerac (France)"
 date: 1954-10-01
 location: "Bergerac (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

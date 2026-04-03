@@ -2,7 +2,8 @@
 title: "Case 325 — Cremona (Italy)"
 date: 1954-11-02
 location: "Cremona (Italy)"
-tags: [case, humanoid, CE3]
+country: "Italy"
+tags: [case, humanoid, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 429 — Knoxville (Tennessee)"
 date: 1957-11-06
 location: "Knoxville (Tennessee)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

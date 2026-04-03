@@ -2,7 +2,8 @@
 title: "Case 827 — Belt (Montana)"
 date: 1967-03-24
 location: "Belt (Montana)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

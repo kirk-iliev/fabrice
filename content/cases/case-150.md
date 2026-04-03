@@ -2,7 +2,8 @@
 title: "Case 150 — Santa Maria Airport (Azores)"
 date: 1954-09-20
 location: "Santa Maria Airport (Azores)"
-tags: [case, humanoid, landing, CE3]
+country: "Portugal"
+tags: [case, humanoid, landing, CE3, portugal, europe]
 source: Passport to Magonia
 ---
 

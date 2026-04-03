@@ -2,7 +2,8 @@
 title: "Case 138 — Boston Creek (Canada)"
 date: 1954-08-27
 location: "Boston Creek (Canada)"
-tags: [case, landing, trace-evidence, CE2]
+country: "Canada"
+tags: [case, landing, trace-evidence, CE2, canada, north-america]
 source: Passport to Magonia
 ---
 

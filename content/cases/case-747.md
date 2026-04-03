@@ -2,7 +2,8 @@
 title: "Case 747 — Liberty (Missouri)"
 date: 1966-04-01
 location: "Liberty (Missouri)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

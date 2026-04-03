@@ -2,7 +2,8 @@
 title: "Case 548 — Barcelos (Brazil)"
 date: 1962-09-18
 location: "Barcelos (Brazil)"
-tags: [case, humanoid, CE3]
+country: "Brazil"
+tags: [case, humanoid, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

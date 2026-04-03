@@ -2,7 +2,8 @@
 title: "Case 343 — Calcerosa (Italy)"
 date: 1954-11-25
 location: "Calcerosa (Italy)"
-tags: [case, humanoid, CE3]
+country: "Italy"
+tags: [case, humanoid, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

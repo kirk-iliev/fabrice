@@ -2,7 +2,8 @@
 title: "Case 040 — Georgian Bay (Canada)"
 date: 1914
 location: "Georgian Bay (Canada)"
-tags: [case, humanoid, CE3]
+country: "Canada"
+tags: [case, humanoid, CE3, canada, north-america]
 source: Passport to Magonia
 ---
 

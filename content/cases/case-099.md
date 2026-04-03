@@ -2,7 +2,8 @@
 title: "Case 099 — Lamberton (North Carolina)"
 date: 1952-08-27
 location: "Lamberton (North Carolina)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

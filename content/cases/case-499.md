@@ -2,7 +2,8 @@
 title: "Case 499 — Fort William (Canada)"
 date: 1959-10-25
 location: "Fort William (Canada)"
-tags: [case, CE1]
+country: "Canada"
+tags: [case, CE1, canada, north-america]
 source: Passport to Magonia
 ---
 

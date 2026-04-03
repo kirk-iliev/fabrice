@@ -2,7 +2,8 @@
 title: "Case 266 — Nimes-Courbessac Airfield (France)"
 date: 1954-10-15
 location: "Nimes-Courbessac Airfield (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

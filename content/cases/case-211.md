@@ -2,7 +2,8 @@
 title: "Case 211 — Teheran (Iran)"
 date: 1954-10-08
 location: "Teheran (Iran)"
-tags: [case, humanoid, CE3]
+country: "Iran"
+tags: [case, humanoid, CE3, iran, middle-east]
 source: Passport to Magonia
 ---
 

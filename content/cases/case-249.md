@@ -2,7 +2,8 @@
 title: "Case 249 — Bourrasole (France)"
 date: 1954-10-13
 location: "Bourrasole (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

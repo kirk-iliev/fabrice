@@ -2,7 +2,8 @@
 title: "Case 054 — Aleutian Islands"
 date: 1945
 location: "Aleutian Islands"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

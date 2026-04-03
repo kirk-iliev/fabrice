@@ -2,7 +2,8 @@
 title: "Case 079 — Ely (Nevada)"
 date: 1950-05-07
 location: "Ely (Nevada)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

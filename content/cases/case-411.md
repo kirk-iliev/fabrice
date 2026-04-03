@@ -2,7 +2,8 @@
 title: "Case 411 — Roulon (France)"
 date: 1957-10-11
 location: "Roulon (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

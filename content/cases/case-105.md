@@ -2,7 +2,8 @@
 title: "Case 105 — Dublin (Ireland)"
 date: 1952
 location: "Dublin (Ireland)"
-tags: [case, landing, trace-evidence, CE2]
+country: "Ireland"
+tags: [case, landing, trace-evidence, CE2, ireland, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 725 — Aluche (Spain)"
 date: 1966-02-06
 location: "Aluche (Spain)"
-tags: [case, landing, CE2]
+country: "Spain"
+tags: [case, landing, CE2, spain, europe]
 source: Passport to Magonia
 ---
 

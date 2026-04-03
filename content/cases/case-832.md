@@ -2,7 +2,8 @@
 title: "Case 832 — Jonestown (Pennsylvania)"
 date: 1967-04-05
 location: "Jonestown (Pennsylvania)"
-tags: [case, vehicle-interference, CE2]
+country: "United States"
+tags: [case, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

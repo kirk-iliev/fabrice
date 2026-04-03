@@ -2,7 +2,8 @@
 title: "Case 032 — Gulf of Guinea"
 date: 1902-10-28
 location: "Gulf of Guinea"
-tags: [case, CE1]
+country: "Atlantic Ocean"
+tags: [case, CE1, atlantic-ocean, africa]
 source: Passport to Magonia
 ---
 

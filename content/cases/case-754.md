@@ -2,7 +2,8 @@
 title: "Case 754 — Daniels Park (Colorado)"
 date: 1966-04-07
 location: "Daniels Park (Colorado)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

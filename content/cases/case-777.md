@@ -2,7 +2,8 @@
 title: "Case 777 — Hamburg (New York)"
 date: 1966-06-23
 location: "Hamburg (New York)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

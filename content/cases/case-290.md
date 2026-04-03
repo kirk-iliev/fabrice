@@ -2,7 +2,8 @@
 title: "Case 290 — Issenheim (France)"
 date: 1954-10-20
 location: "Issenheim (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 424 — Scotia (Nebraska)"
 date: 1957-11-05
 location: "Scotia (Nebraska)"
-tags: [case, landing, trace-evidence, CE2]
+country: "United States"
+tags: [case, landing, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 871 — Sydney-Melbourne Road (Australia)"
 date: 1967-08-24
 location: "Sydney-Melbourne Road (Australia)"
-tags: [case, humanoid, CE3]
+country: "Australia"
+tags: [case, humanoid, CE3, australia, oceania]
 source: Passport to Magonia
 ---
 

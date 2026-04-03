@@ -2,7 +2,8 @@
 title: "Case 480 — Stratford on-Avon (Great Britain)"
 date: 1959
 location: "Stratford on-Avon (Great Britain)"
-tags: [case, humanoid, landing, CE3]
+country: "Great Britain"
+tags: [case, humanoid, landing, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

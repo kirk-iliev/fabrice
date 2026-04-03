@@ -2,7 +2,8 @@
 title: "Case 048 — Summer, 1933 Chrysville (Pennsylvania)"
 date: 1933
 location: "Summer, 1933 Chrysville (Pennsylvania)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

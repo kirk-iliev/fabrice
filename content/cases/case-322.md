@@ -2,7 +2,8 @@
 title: "Case 322 — Muro Lucano (Italy)"
 date: 1954-10-30
 location: "Muro Lucano (Italy)"
-tags: [case, CE1]
+country: "Italy"
+tags: [case, CE1, italy, europe]
 source: Passport to Magonia
 ---
 

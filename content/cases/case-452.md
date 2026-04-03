@@ -2,7 +2,8 @@
 title: "Case 452 — Ponte Poran (Brazil)"
 date: 1957-12-21
 location: "Ponte Poran (Brazil)"
-tags: [case, humanoid, CE3]
+country: "Brazil"
+tags: [case, humanoid, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

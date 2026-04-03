@@ -2,7 +2,8 @@
 title: "Case 312 — Les Metairies (France)"
 date: 1954-10-26
 location: "Les Metairies (France)"
-tags: [case, vehicle-interference, CE2]
+country: "France"
+tags: [case, vehicle-interference, CE2, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 568 — Richards Bay (South Africa)"
 date: 1963-03-13
 location: "Richards Bay (South Africa)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "South Africa"
+tags: [case, landing, vehicle-interference, CE2, south-africa, africa]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 258 — Chazey Wood (France)"
 date: 1954-10-14
 location: "Chazey Wood (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 384 — Panorama City (California)"
 date: 1956-07-20
 location: "Panorama City (California)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

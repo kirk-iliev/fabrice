@@ -2,7 +2,8 @@
 title: "Case 529 — San Casciano (Italy)"
 date: 1962-04-10
 location: "San Casciano (Italy)"
-tags: [case, humanoid, CE3]
+country: "Italy"
+tags: [case, humanoid, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

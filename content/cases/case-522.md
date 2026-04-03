@@ -2,7 +2,8 @@
 title: "Case 522 — Kansas City (Kansas)"
 date: 1961-08-12
 location: "Kansas City (Kansas)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

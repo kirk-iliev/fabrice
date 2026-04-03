@@ -2,7 +2,8 @@
 title: "Case 283 — Pont l'Abbe d'Amoult (France)"
 date: 1954-10-18
 location: "Pont l'Abbe d'Amoult (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

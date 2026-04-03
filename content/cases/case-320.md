@@ -2,7 +2,8 @@
 title: "Case 320 — Grosseto (Italy)"
 date: 1954-10-27
 location: "Grosseto (Italy)"
-tags: [case, humanoid, CE3]
+country: "Italy"
+tags: [case, humanoid, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

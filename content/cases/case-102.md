@@ -2,7 +2,8 @@
 title: "Case 102 — Frametown (West Virginia)"
 date: 1952-09-13
 location: "Frametown (West Virginia)"
-tags: [case, humanoid, trace-evidence, vehicle-interference, CE3]
+country: "United States"
+tags: [case, humanoid, trace-evidence, vehicle-interference, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

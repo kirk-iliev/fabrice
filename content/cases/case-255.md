@@ -2,7 +2,8 @@
 title: "Case 255 — Meral (France)"
 date: 1954-10-14
 location: "Meral (France)"
-tags: [case, humanoid, landing, trace-evidence, CE3]
+country: "France"
+tags: [case, humanoid, landing, trace-evidence, CE3, france, europe]
 source: Passport to Magonia
 ---
 

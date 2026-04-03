@@ -2,7 +2,8 @@
 title: "Case 064 — 1948 Swastika (Canada)"
 date: 1948
 location: "1948 Swastika (Canada)"
-tags: [case, humanoid, landing, CE3]
+country: "Canada"
+tags: [case, humanoid, landing, CE3, canada, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 414 — Francisco de Sales (Brazil)"
 date: 1957-10-16
 location: "Francisco de Sales (Brazil)"
-tags: [case, humanoid, landing, trace-evidence, vehicle-interference, CE3]
+country: "Brazil"
+tags: [case, humanoid, landing, trace-evidence, vehicle-interference, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

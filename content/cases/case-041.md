@@ -2,7 +2,8 @@
 title: "Case 041 — Gallipoli (Turkey)"
 date: 1915-08-21
 location: "Gallipoli (Turkey)"
-tags: [case, humanoid, CE3]
+country: "Turkey"
+tags: [case, humanoid, CE3, turkey, middle-east]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 276 — Siena (Italy)"
 date: 1954-10-16
 location: "Siena (Italy)"
-tags: [case, landing, CE2]
+country: "Italy"
+tags: [case, landing, CE2, italy, europe]
 source: Passport to Magonia
 ---
 

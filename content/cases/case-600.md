@@ -2,7 +2,8 @@
 title: "Case 600 — Baker (California)"
 date: 1964-04-30
 location: "Baker (California)"
-tags: [case, humanoid, trace-evidence, CE3]
+country: "United States"
+tags: [case, humanoid, trace-evidence, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

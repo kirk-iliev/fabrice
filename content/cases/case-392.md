@@ -2,7 +2,8 @@
 title: "Case 392 — Milford (Pennsylvania)"
 date: 1957
 location: "Milford (Pennsylvania)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 593 — Epping (Great Britain)"
 date: 1963-12-27
 location: "Epping (Great Britain)"
-tags: [case, trace-evidence, CE2]
+country: "Great Britain"
+tags: [case, trace-evidence, CE2, great-britain, europe]
 source: Passport to Magonia
 ---
 

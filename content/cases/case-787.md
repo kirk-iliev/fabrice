@@ -2,7 +2,8 @@
 title: "Case 787 — Barinas (Venezuela)"
 date: 1966-08-18
 location: "Barinas (Venezuela)"
-tags: [case, CE1]
+country: "Venezuela"
+tags: [case, CE1, venezuela, south-america]
 source: Passport to Magonia
 ---
 

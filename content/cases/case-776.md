@@ -2,7 +2,8 @@
 title: "Case 776 — Mount Mitchell (North Carolina)"
 date: 1966-06-18
 location: "Mount Mitchell (North Carolina)"
-tags: [case, landing, trace-evidence, CE2]
+country: "United States"
+tags: [case, landing, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 169 — Dhubri (india)"
 date: 1954-10-01
 location: "Dhubri (india)"
-tags: [case, landing, CE2]
+country: "India"
+tags: [case, landing, CE2, india, asia]
 source: Passport to Magonia
 ---
 

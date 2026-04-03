@@ -2,7 +2,8 @@
 title: "Case 328 — La Coruna (Spain)"
 date: 1954-11-05
 location: "La Coruna (Spain)"
-tags: [case, CE1]
+country: "Spain"
+tags: [case, CE1, spain, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 462 — Healdsburg (California)"
 date: 1958-03-14
 location: "Healdsburg (California)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

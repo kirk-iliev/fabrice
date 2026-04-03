@@ -2,7 +2,8 @@
 title: "Case 264 — Luino (Italy)"
 date: 1954-10-15
 location: "Luino (Italy)"
-tags: [case, CE1]
+country: "Italy"
+tags: [case, CE1, italy, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 006 — Lamy (New Mexico)"
 date: 1880-03-26
 location: "Lamy (New Mexico)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

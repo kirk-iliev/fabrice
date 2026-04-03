@@ -2,7 +2,8 @@
 title: "Case 709 — Minot (North Dakota)"
 date: 1965-10-13
 location: "Minot (North Dakota)"
-tags: [case, landing, trace-evidence, CE2]
+country: "United States"
+tags: [case, landing, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

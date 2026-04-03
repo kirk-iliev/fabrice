@@ -2,7 +2,8 @@
 title: "Case 073 — Lago Argentino (Argentina)"
 date: 1950-03-18
 location: "Lago Argentino (Argentina)"
-tags: [case, humanoid, landing, trace-evidence, CE3]
+country: "Argentina"
+tags: [case, humanoid, landing, trace-evidence, CE3, argentina, south-america]
 source: Passport to Magonia
 ---
 

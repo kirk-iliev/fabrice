@@ -2,7 +2,8 @@
 title: "Case 367 — Salon, near Aries (France)"
 date: 1955-08-01
 location: "Salon, near Aries (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

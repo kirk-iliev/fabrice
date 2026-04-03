@@ -2,7 +2,8 @@
 title: "Case 901 — Yarmouth (Canada)"
 date: 1967-11-29
 location: "Yarmouth (Canada)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "Canada"
+tags: [case, landing, vehicle-interference, CE2, canada, north-america]
 source: Passport to Magonia
 ---
 

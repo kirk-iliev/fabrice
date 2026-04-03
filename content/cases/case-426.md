@@ -2,7 +2,8 @@
 title: "Case 426 — Seoul (Korea)"
 date: 1957-11-06
 location: "Seoul (Korea)"
-tags: [case, CE1]
+country: "Korea"
+tags: [case, CE1, korea, asia]
 source: Passport to Magonia
 ---
 

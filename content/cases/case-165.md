@@ -2,7 +2,8 @@
 title: "Case 165 — Marcilly-sur-Vienne (France)"
 date: 1954-09-30
 location: "Marcilly-sur-Vienne (France)"
-tags: [case, humanoid, landing, CE3]
+country: "France"
+tags: [case, humanoid, landing, CE3, france, europe]
 source: Passport to Magonia
 ---
 

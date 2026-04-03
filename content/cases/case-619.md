@@ -2,7 +2,8 @@
 title: "Case 619 — Lake Chclan (Washington)"
 date: 1964-07-28
 location: "Lake Chclan (Washington)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 665 — Goonumbla (Australia)"
 date: 1965-07-30
 location: "Goonumbla (Australia)"
-tags: [case, landing, CE2]
+country: "Australia"
+tags: [case, landing, CE2, australia, oceania]
 source: Passport to Magonia
 ---
 

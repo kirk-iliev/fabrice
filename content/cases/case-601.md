@@ -2,7 +2,8 @@
 title: "Case 601 — Canyon Ferry (Montana)"
 date: 1964-04-30
 location: "Canyon Ferry (Montana)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

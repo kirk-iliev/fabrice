@@ -2,7 +2,8 @@
 title: "Case 047 — Robsart (Canada)"
 date: 1929-07
 location: "Robsart (Canada)"
-tags: [case, landing, CE2]
+country: "Canada"
+tags: [case, landing, CE2, canada, north-america]
 source: Passport to Magonia
 ---
 

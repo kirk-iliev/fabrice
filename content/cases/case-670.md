@@ -2,7 +2,8 @@
 title: "Case 670 — Carnarvon (Australia)"
 date: 1965-08-03
 location: "Carnarvon (Australia)"
-tags: [case, landing, CE2]
+country: "Australia"
+tags: [case, landing, CE2, australia, oceania]
 source: Passport to Magonia
 ---
 

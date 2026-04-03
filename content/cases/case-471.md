@@ -2,7 +2,8 @@
 title: "Case 471 — Sheffield Lake (Ohio)"
 date: 1958-09-21
 location: "Sheffield Lake (Ohio)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

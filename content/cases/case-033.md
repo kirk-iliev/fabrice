@@ -2,7 +2,8 @@
 title: "Case 033 — 1904 Rolling Prairie (Indiana)"
 date: 1904
 location: "1904 Rolling Prairie (Indiana)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

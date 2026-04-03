@@ -2,7 +2,8 @@
 title: "Case 080 — Steep Rock Lake (Canada)"
 date: 1950-07-02
 location: "Steep Rock Lake (Canada)"
-tags: [case, humanoid, CE3]
+country: "Canada"
+tags: [case, humanoid, CE3, canada, north-america]
 source: Passport to Magonia
 ---
 

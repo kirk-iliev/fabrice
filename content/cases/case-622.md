@@ -2,7 +2,8 @@
 title: "Case 622 — Lynn (Massachusetts)"
 date: 1964-08-25
 location: "Lynn (Massachusetts)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

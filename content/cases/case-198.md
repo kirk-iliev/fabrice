@@ -2,7 +2,8 @@
 title: "Case 198 — Mertrud (France)"
 date: 1954-10-05
 location: "Mertrud (France)"
-tags: [case, humanoid, trace-evidence, CE3]
+country: "France"
+tags: [case, humanoid, trace-evidence, CE3, france, europe]
 source: Passport to Magonia
 ---
 

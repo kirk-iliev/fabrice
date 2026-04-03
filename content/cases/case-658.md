@@ -2,7 +2,8 @@
 title: "Case 658 — Chanaral (Chile)"
 date: 1965-07-19
 location: "Chanaral (Chile)"
-tags: [case, landing, CE2]
+country: "Chile"
+tags: [case, landing, CE2, chile, south-america]
 source: Passport to Magonia
 ---
 

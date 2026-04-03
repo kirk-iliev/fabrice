@@ -2,7 +2,8 @@
 title: "Case 173 — Jussey (France)"
 date: 1954-10-01
 location: "Jussey (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

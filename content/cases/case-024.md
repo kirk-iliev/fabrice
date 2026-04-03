@@ -2,7 +2,8 @@
 title: "Case 024 — Leroy (Kansas)"
 date: 1897-04-19
 location: "Leroy (Kansas)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

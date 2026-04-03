@@ -2,7 +2,8 @@
 title: "Case 900 — Rio de Janeiro (Brazil)"
 date: 1967-11-24
 location: "Rio de Janeiro (Brazil)"
-tags: [case, humanoid, trace-evidence, CE3]
+country: "Brazil"
+tags: [case, humanoid, trace-evidence, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

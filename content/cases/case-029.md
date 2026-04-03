@@ -2,7 +2,8 @@
 title: "Case 029 — Merkel (Texas)"
 date: 1897-04-25
 location: "Merkel (Texas)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 025 — Homan (Arkansas)"
 date: 1897-04-20
 location: "Homan (Arkansas)"
-tags: [case, humanoid, vehicle-interference, CE3]
+country: "United States"
+tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

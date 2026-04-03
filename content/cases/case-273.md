@@ -2,7 +2,8 @@
 title: "Case 273 — Mazaye (France)"
 date: 1954-10-16
 location: "Mazaye (France)"
-tags: [case, vehicle-interference, CE2]
+country: "France"
+tags: [case, vehicle-interference, CE2, france, europe]
 source: Passport to Magonia
 ---
 

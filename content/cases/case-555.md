@@ -2,7 +2,8 @@
 title: "Case 555 — Verbania (Italy)"
 date: 1962-12-19
 location: "Verbania (Italy)"
-tags: [case, humanoid, CE3]
+country: "Italy"
+tags: [case, humanoid, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

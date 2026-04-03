@@ -2,7 +2,8 @@
 title: "Case 851 — Suomussalmi (Finland)"
 date: 1967-06-20
 location: "Suomussalmi (Finland)"
-tags: [case, landing, CE2]
+country: "Finland"
+tags: [case, landing, CE2, finland, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 802 — Fork (West Virginia)"
 date: 1966-10-14
 location: "Fork (West Virginia)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

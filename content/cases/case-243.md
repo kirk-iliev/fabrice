@@ -2,7 +2,8 @@
 title: "Case 243 — Montlucon (France)"
 date: 1954-10-12
 location: "Montlucon (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

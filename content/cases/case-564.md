@@ -2,7 +2,8 @@
 title: "Case 564 — Lecce (Italy)"
 date: 1963-02-20
 location: "Lecce (Italy)"
-tags: [case, CE1]
+country: "Italy"
+tags: [case, CE1, italy, europe]
 source: Passport to Magonia
 ---
 

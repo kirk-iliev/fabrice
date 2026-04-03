@@ -2,7 +2,8 @@
 title: "Case 533 — Pampa Province (Argentina)"
 date: 1962-05-12
 location: "Pampa Province (Argentina)"
-tags: [case, trace-evidence, CE2]
+country: "Argentina"
+tags: [case, trace-evidence, CE2, argentina, south-america]
 source: Passport to Magonia
 ---
 

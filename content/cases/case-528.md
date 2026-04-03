@@ -2,7 +2,8 @@
 title: "Case 528 — Aston Clinton (Great Britain)"
 date: 1962-02-09
 location: "Aston Clinton (Great Britain)"
-tags: [case, CE1]
+country: "Great Britain"
+tags: [case, CE1, great-britain, europe]
 source: Passport to Magonia
 ---
 

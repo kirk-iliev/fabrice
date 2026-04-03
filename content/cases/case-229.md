@@ -2,7 +2,8 @@
 title: "Case 229 — Saillat-sur Vienne (France)"
 date: 1954-10-10
 location: "Saillat-sur Vienne (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

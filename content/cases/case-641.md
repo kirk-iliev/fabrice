@@ -2,7 +2,8 @@
 title: "Case 641 — Fort Myers (Florida)"
 date: 1965-03-15
 location: "Fort Myers (Florida)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

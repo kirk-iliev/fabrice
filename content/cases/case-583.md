@@ -2,7 +2,8 @@
 title: "Case 583 — Monte Maiz (Argentina)"
 date: 1963-10-12
 location: "Monte Maiz (Argentina)"
-tags: [case, humanoid, trace-evidence, CE3]
+country: "Argentina"
+tags: [case, humanoid, trace-evidence, CE3, argentina, south-america]
 source: Passport to Magonia
 ---
 

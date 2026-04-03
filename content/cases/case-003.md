@@ -2,7 +2,8 @@
 title: "Case 003 — 1877 Aldershot (Great Britain)"
 date: 1877
 location: "1877 Aldershot (Great Britain)"
-tags: [case, humanoid, CE3]
+country: "Great Britain"
+tags: [case, humanoid, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

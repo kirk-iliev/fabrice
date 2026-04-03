@@ -2,7 +2,8 @@
 title: "Case 026 — Rockland (Texas)"
 date: 1897-04-22
 location: "Rockland (Texas)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

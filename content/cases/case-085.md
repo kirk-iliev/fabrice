@@ -2,7 +2,8 @@
 title: "Case 085 — Mojave (California)"
 date: 1951-11-02
 location: "Mojave (California)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

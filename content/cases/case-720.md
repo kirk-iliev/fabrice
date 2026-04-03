@@ -2,7 +2,8 @@
 title: "Case 720 — Herman (Minnesota)"
 date: 1965-12-20
 location: "Herman (Minnesota)"
-tags: [case, trace-evidence, vehicle-interference, CE2]
+country: "United States"
+tags: [case, trace-evidence, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

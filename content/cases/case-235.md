@@ -2,7 +2,8 @@
 title: "Case 235 — Heimersdorf (France)"
 date: 1954-10-11
 location: "Heimersdorf (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

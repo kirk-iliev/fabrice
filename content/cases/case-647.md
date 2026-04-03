@@ -2,7 +2,8 @@
 title: "Case 647 — Geradton (Australia)"
 date: 1965-05-24
 location: "Geradton (Australia)"
-tags: [case, vehicle-interference, CE2]
+country: "Australia"
+tags: [case, vehicle-interference, CE2, australia, oceania]
 source: Passport to Magonia
 ---
 

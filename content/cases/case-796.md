@@ -2,7 +2,8 @@
 title: "Case 796 — Franklin Springs (New York)"
 date: 1966-09-09
 location: "Franklin Springs (New York)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

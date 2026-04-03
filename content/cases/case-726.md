@@ -2,7 +2,8 @@
 title: "Case 726 — Brunswick Naval Air Station (Maine)"
 date: 1966-02-16
 location: "Brunswick Naval Air Station (Maine)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

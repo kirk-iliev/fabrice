@@ -2,7 +2,8 @@
 title: "Case 368 — Chardon Road (Ohio)"
 date: 1955-08-01
 location: "Chardon Road (Ohio)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

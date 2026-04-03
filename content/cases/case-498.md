@@ -2,7 +2,8 @@
 title: "Case 498 — Glenora (Canada)"
 date: 1959-10-02
 location: "Glenora (Canada)"
-tags: [case, humanoid, CE3]
+country: "Canada"
+tags: [case, humanoid, CE3, canada, north-america]
 source: Passport to Magonia
 ---
 

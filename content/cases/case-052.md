@@ -2,7 +2,8 @@
 title: "Case 052 — 1945 Habbebishopsheim (Germany)"
 date: 1945
 location: "1945 Habbebishopsheim (Germany)"
-tags: [case, landing, CE2]
+country: "Germany"
+tags: [case, landing, CE2, germany, europe]
 source: Passport to Magonia
 ---
 

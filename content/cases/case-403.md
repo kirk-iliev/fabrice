@@ -2,7 +2,8 @@
 title: "Case 403 — Point Pleasant (New Jersey)"
 date: 1957-09-19
 location: "Point Pleasant (New Jersey)"
-tags: [case, landing, trace-evidence, CE2]
+country: "United States"
+tags: [case, landing, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

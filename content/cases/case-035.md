@@ -2,7 +2,8 @@
 title: "Case 035 — Podkamennaia Toungouska (USSR)"
 date: 1908-06-30
 location: "Podkamennaia Toungouska (USSR)"
-tags: [case, humanoid, CE3]
+country: "USSR"
+tags: [case, humanoid, CE3, ussr, europe]
 source: Passport to Magonia
 ---
 

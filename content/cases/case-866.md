@@ -2,7 +2,8 @@
 title: "Case 866 — Caracas (Venezuela)"
 date: 1967-08-07
 location: "Caracas (Venezuela)"
-tags: [case, humanoid, CE3]
+country: "Venezuela"
+tags: [case, humanoid, CE3, venezuela, south-america]
 source: Passport to Magonia
 ---
 

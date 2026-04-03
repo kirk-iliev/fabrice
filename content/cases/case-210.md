@@ -2,7 +2,8 @@
 title: "Case 210 — Bompas (France)"
 date: 1954-10-07
 location: "Bompas (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

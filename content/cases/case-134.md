@@ -2,7 +2,8 @@
 title: "Case 134 — Oslo (Norway)"
 date: 1954-07-20
 location: "Oslo (Norway)"
-tags: [case, humanoid, CE3]
+country: "Norway"
+tags: [case, humanoid, CE3, norway, europe]
 source: Passport to Magonia
 ---
 

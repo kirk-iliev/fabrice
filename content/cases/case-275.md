@@ -2,7 +2,8 @@
 title: "Case 275 — Dompierre (France)"
 date: 1954-10-16
 location: "Dompierre (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

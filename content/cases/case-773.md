@@ -2,7 +2,8 @@
 title: "Case 773 — Milan (Michigan)"
 date: 1966-06-13
 location: "Milan (Michigan)"
-tags: [case, vehicle-interference, CE2]
+country: "United States"
+tags: [case, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

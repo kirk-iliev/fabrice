@@ -2,7 +2,8 @@
 title: "Case 650 — Valensole (France)"
 date: 1965-07-01
 location: "Valensole (France)"
-tags: [case, humanoid, trace-evidence, CE3]
+country: "France"
+tags: [case, humanoid, trace-evidence, CE3, france, europe]
 source: Passport to Magonia
 ---
 

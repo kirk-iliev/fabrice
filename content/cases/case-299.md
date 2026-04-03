@@ -2,7 +2,8 @@
 title: "Case 299 — Criteuil-la-Madeleine (France)"
 date: 1954-10-21
 location: "Criteuil-la-Madeleine (France)"
-tags: [case, humanoid, trace-evidence, vehicle-interference, CE3]
+country: "France"
+tags: [case, humanoid, trace-evidence, vehicle-interference, CE3, france, europe]
 source: Passport to Magonia
 ---
 

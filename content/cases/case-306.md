@@ -2,7 +2,8 @@
 title: "Case 306 — Biozat (France)"
 date: 1954-10-24
 location: "Biozat (France)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "France"
+tags: [case, landing, vehicle-interference, CE2, france, europe]
 source: Passport to Magonia
 ---
 

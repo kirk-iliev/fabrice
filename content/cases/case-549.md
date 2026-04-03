@@ -2,7 +2,8 @@
 title: "Case 549 — Horsetooth Reservoir (Colorado)"
 date: 1962-10-24
 location: "Horsetooth Reservoir (Colorado)"
-tags: [case, humanoid, landing, trace-evidence, CE3]
+country: "United States"
+tags: [case, humanoid, landing, trace-evidence, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

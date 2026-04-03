@@ -2,7 +2,8 @@
 title: "Case 780 — Tuly 13,1966 Fontcdcra (Italy)"
 date: 1966
 location: "Tuly 13,1966 Fontcdcra (Italy)"
-tags: [case, humanoid, landing, CE3]
+country: "Italy"
+tags: [case, humanoid, landing, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

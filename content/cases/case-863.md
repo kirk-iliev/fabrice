@@ -2,7 +2,8 @@
 title: "Case 863 — Recife (Venezuela)"
 date: 1967-08-04
 location: "Recife (Venezuela)"
-tags: [case, vehicle-interference, CE2]
+country: "Venezuela"
+tags: [case, vehicle-interference, CE2, venezuela, south-america]
 source: Passport to Magonia
 ---
 

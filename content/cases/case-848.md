@@ -2,7 +2,8 @@
 title: "Case 848 — Itajuba (Brazil)"
 date: 1967-06-07
 location: "Itajuba (Brazil)"
-tags: [case, humanoid, vehicle-interference, CE3]
+country: "Brazil"
+tags: [case, humanoid, vehicle-interference, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

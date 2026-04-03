@@ -2,7 +2,8 @@
 title: "Case 494 — Brion (Spain)"
 date: 1959-08-12
 location: "Brion (Spain)"
-tags: [case, landing, trace-evidence, vehicle-interference, CE2]
+country: "Spain"
+tags: [case, landing, trace-evidence, vehicle-interference, CE2, spain, europe]
 source: Passport to Magonia
 ---
 

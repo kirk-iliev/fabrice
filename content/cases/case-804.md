@@ -2,7 +2,8 @@
 title: "Case 804 — Parkcrsburg (West Virginia)"
 date: 1966-11-02
 location: "Parkcrsburg (West Virginia)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 734 — Temple (Oklahoma)"
 date: 1966-03-23
 location: "Temple (Oklahoma)"
-tags: [case, humanoid, landing, vehicle-interference, CE3]
+country: "United States"
+tags: [case, humanoid, landing, vehicle-interference, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

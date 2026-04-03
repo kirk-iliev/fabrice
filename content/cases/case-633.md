@@ -2,7 +2,8 @@
 title: "Case 633 — Williamsburg (Virginia)"
 date: 1965-01-23
 location: "Williamsburg (Virginia)"
-tags: [case, vehicle-interference, CE2]
+country: "United States"
+tags: [case, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

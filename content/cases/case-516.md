@@ -2,7 +2,8 @@
 title: "Case 516 — Bowna (Australia)"
 date: 1961-03-10
 location: "Bowna (Australia)"
-tags: [case, humanoid, CE3]
+country: "Australia"
+tags: [case, humanoid, CE3, australia, oceania]
 source: Passport to Magonia
 ---
 

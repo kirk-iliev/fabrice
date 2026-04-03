@@ -2,7 +2,8 @@
 title: "Case 611 — Lawrenceville (Illinois)"
 date: 1964-06-08
 location: "Lawrenceville (Illinois)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

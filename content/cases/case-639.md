@@ -2,7 +2,8 @@
 title: "Case 639 — Corvallis (Oregon)"
 date: 1965-03-04
 location: "Corvallis (Oregon)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

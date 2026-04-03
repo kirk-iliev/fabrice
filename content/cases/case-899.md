@@ -2,7 +2,8 @@
 title: "Case 899 — Yerecoin (Australia)"
 date: 1967-11-16
 location: "Yerecoin (Australia)"
-tags: [case, landing, trace-evidence, CE2]
+country: "Australia"
+tags: [case, landing, trace-evidence, CE2, australia, oceania]
 source: Passport to Magonia
 ---
 

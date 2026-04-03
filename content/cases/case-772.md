@@ -2,7 +2,8 @@
 title: "Case 772 — Westport (Connecticut)"
 date: 1966-06-11
 location: "Westport (Connecticut)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

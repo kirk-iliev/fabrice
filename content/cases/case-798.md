@@ -2,7 +2,8 @@
 title: "Case 798 — Crane's Beach (Massachusetts)"
 date: 1966-09-17
 location: "Crane's Beach (Massachusetts)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

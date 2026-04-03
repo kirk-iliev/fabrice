@@ -2,7 +2,8 @@
 title: "Case 281 — Cape Massulo (Italy)"
 date: 1954-10-17
 location: "Cape Massulo (Italy)"
-tags: [case, humanoid, landing, CE3]
+country: "Italy"
+tags: [case, humanoid, landing, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

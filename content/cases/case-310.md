@@ -2,7 +2,8 @@
 title: "Case 310 — Angouleme (France)"
 date: 1954-10-26
 location: "Angouleme (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

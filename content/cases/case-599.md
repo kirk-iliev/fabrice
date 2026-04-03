@@ -2,7 +2,8 @@
 title: "Case 599 — Anthony (New Mexico)"
 date: 1964-04-28
 location: "Anthony (New Mexico)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

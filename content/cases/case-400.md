@@ -2,7 +2,8 @@
 title: "Case 400 — Campinas (Brazil)"
 date: 1957
 location: "Campinas (Brazil)"
-tags: [case, humanoid, landing, CE3]
+country: "Brazil"
+tags: [case, humanoid, landing, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

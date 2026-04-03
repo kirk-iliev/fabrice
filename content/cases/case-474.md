@@ -2,7 +2,8 @@
 title: "Case 474 — Bracmar (Scotland)"
 date: 1958
 location: "Bracmar (Scotland)"
-tags: [case, humanoid, landing, CE3]
+country: "Great Britain"
+tags: [case, humanoid, landing, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

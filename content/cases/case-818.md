@@ -2,7 +2,8 @@
 title: "Case 818 — Chippenham (Great Britain)"
 date: 1967-02-22
 location: "Chippenham (Great Britain)"
-tags: [case, humanoid, landing, CE3]
+country: "Great Britain"
+tags: [case, humanoid, landing, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

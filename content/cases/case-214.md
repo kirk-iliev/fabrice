@@ -2,7 +2,8 @@
 title: "Case 214 — Montaren (France)"
 date: 1954-10-09
 location: "Montaren (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

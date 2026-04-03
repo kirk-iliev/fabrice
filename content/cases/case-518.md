@@ -2,7 +2,8 @@
 title: "Case 518 — Union Mills (Indiana)"
 date: 1961-05-03
 location: "Union Mills (Indiana)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

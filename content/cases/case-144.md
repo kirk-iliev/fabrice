@@ -2,7 +2,8 @@
 title: "Case 144 — Quarouble (France)"
 date: 1954-09-10
 location: "Quarouble (France)"
-tags: [case, humanoid, trace-evidence, CE3]
+country: "France"
+tags: [case, humanoid, trace-evidence, CE3, france, europe]
 source: Passport to Magonia
 ---
 

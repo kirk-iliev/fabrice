@@ -2,7 +2,8 @@
 title: "Case 143 — Mourieras (France)"
 date: 1954-09-10
 location: "Mourieras (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

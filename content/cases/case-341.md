@@ -2,7 +2,8 @@
 title: "Case 341 — Forli (Italy)"
 date: 1954-11-14
 location: "Forli (Italy)"
-tags: [case, vehicle-interference, CE2]
+country: "Italy"
+tags: [case, vehicle-interference, CE2, italy, europe]
 source: Passport to Magonia
 ---
 

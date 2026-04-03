@@ -2,7 +2,8 @@
 title: "Case 409 — Schenectady (New York)"
 date: 1957-10-10
 location: "Schenectady (New York)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

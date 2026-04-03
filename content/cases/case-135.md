@@ -2,7 +2,8 @@
 title: "Case 135 — Hemmingford (Canada)"
 date: 1954-08-10
 location: "Hemmingford (Canada)"
-tags: [case, trace-evidence, CE2]
+country: "Canada"
+tags: [case, trace-evidence, CE2, canada, north-america]
 source: Passport to Magonia
 ---
 

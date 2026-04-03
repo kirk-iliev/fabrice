@@ -2,7 +2,8 @@
 title: "Case 416 — Longchaumois (France)"
 date: 1957-10-31
 location: "Longchaumois (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 509 — Labrador"
 date: 1960-09-23
 location: "Labrador"
-tags: [case, CE1]
+country: "Canada"
+tags: [case, CE1, canada, north-america]
 source: Passport to Magonia
 ---
 

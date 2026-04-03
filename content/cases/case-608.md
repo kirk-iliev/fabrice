@@ -2,7 +2,8 @@
 title: "Case 608 — Hobbs (New Mexico)"
 date: 1964-06-02
 location: "Hobbs (New Mexico)"
-tags: [case, trace-evidence, CE2]
+country: "United States"
+tags: [case, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 122 — Quanrico Marine Base (Virginia)"
 date: 1953-12-31
 location: "Quanrico Marine Base (Virginia)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

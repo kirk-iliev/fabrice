@@ -2,7 +2,8 @@
 title: "Case 663 — Grouzies (France)"
 date: 1965-07-29
 location: "Grouzies (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

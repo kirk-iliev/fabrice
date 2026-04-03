@@ -1,6 +1,5 @@
 ---
 title: "Case 348 — Dec"
-date: unknown
 location: "Dec"
 tags: [case, humanoid, CE3]
 source: Passport to Magonia

@@ -2,7 +2,8 @@
 title: "Case 346 — Bassoues (France)"
 date: 1954-12-01
 location: "Bassoues (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

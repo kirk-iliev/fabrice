@@ -2,7 +2,8 @@
 title: "Case 876 — Hato Viejo Farm (Venezuela)"
 date: 1967-09-02
 location: "Hato Viejo Farm (Venezuela)"
-tags: [case, humanoid, CE3]
+country: "Venezuela"
+tags: [case, humanoid, CE3, venezuela, south-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 893 — Boyup Brook (Australia)"
 date: 1967-10-30
 location: "Boyup Brook (Australia)"
-tags: [case, CE1]
+country: "Australia"
+tags: [case, CE1, australia, oceania]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 628 — Harrisonburg (Virginia)"
 date: 1964-12-21
 location: "Harrisonburg (Virginia)"
-tags: [case, landing, trace-evidence, CE2]
+country: "United States"
+tags: [case, landing, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

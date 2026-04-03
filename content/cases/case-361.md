@@ -2,7 +2,8 @@
 title: "Case 361 — Branch Hill (Ohio)"
 date: 1955-03
 location: "Branch Hill (Ohio)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

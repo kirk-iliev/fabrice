@@ -2,7 +2,8 @@
 title: "Case 785 — Rushville (Indiana)"
 date: 1966-08-01
 location: "Rushville (Indiana)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

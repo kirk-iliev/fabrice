@@ -2,7 +2,8 @@
 title: "Case 394 — Beaucourt-sur-Ancre (France)"
 date: 1957-05-10
 location: "Beaucourt-sur-Ancre (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 566 — Crystal Lake (Montana)"
 date: 1963-03-09
 location: "Crystal Lake (Montana)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

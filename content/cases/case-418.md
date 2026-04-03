@@ -2,7 +2,8 @@
 title: "Case 418 — Canadian (Texas)"
 date: 1957-11-02
 location: "Canadian (Texas)"
-tags: [case, humanoid, landing, vehicle-interference, CE3]
+country: "United States"
+tags: [case, humanoid, landing, vehicle-interference, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

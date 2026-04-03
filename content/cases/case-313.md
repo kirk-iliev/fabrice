@@ -2,7 +2,8 @@
 title: "Case 313 — Heiteren (France)"
 date: 1954-10-26
 location: "Heiteren (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

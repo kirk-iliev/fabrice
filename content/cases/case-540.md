@@ -2,7 +2,8 @@
 title: "Case 540 — Camba Punat Airport (Argentina)"
 date: 1962-08-02
 location: "Camba Punat Airport (Argentina)"
-tags: [case, landing, CE2]
+country: "Argentina"
+tags: [case, landing, CE2, argentina, south-america]
 source: Passport to Magonia
 ---
 

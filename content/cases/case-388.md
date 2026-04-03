@@ -2,7 +2,8 @@
 title: "Case 388 — Baudette (Minnesota)"
 date: 1957-03-08
 location: "Baudette (Minnesota)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

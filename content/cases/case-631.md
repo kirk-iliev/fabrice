@@ -2,7 +2,8 @@
 title: "Case 631 — Norfolk (Virginia)"
 date: 1965
 location: "Norfolk (Virginia)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

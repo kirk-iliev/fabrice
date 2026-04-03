@@ -2,7 +2,8 @@
 title: "Case 623 — Cofico (Argentina)"
 date: 1964-09-05
 location: "Cofico (Argentina)"
-tags: [case, humanoid, CE3]
+country: "Argentina"
+tags: [case, humanoid, CE3, argentina, south-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 778 — Chaclacayo (Peru)"
 date: 1966-07-05
 location: "Chaclacayo (Peru)"
-tags: [case, humanoid, CE3]
+country: "Peru"
+tags: [case, humanoid, CE3, peru, south-america]
 source: Passport to Magonia
 ---
 

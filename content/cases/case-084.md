@@ -2,7 +2,8 @@
 title: "Case 084 — Australia"
 date: 1951-10-26
 location: "Australia"
-tags: [case, landing, CE2]
+country: "Australia"
+tags: [case, landing, CE2, australia, oceania]
 source: Passport to Magonia
 ---
 

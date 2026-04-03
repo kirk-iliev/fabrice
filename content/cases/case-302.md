@@ -2,7 +2,8 @@
 title: "Case 302 — San Giovanni Vesuviano (Italy)"
 date: 1954-10-23
 location: "San Giovanni Vesuviano (Italy)"
-tags: [case, CE1]
+country: "Italy"
+tags: [case, CE1, italy, europe]
 source: Passport to Magonia
 ---
 

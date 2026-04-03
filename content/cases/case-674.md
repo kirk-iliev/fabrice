@@ -2,7 +2,8 @@
 title: "Case 674 — Trapua (Brazil)"
 date: 1965-08-04
 location: "Trapua (Brazil)"
-tags: [case, landing, trace-evidence, CE2]
+country: "Brazil"
+tags: [case, landing, trace-evidence, CE2, brazil, south-america]
 source: Passport to Magonia
 ---
 

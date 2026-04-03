@@ -2,7 +2,8 @@
 title: "Case 506 — Siracusa (Italy)"
 date: 1960-05-19
 location: "Siracusa (Italy)"
-tags: [case, humanoid, vehicle-interference, CE3]
+country: "Italy"
+tags: [case, humanoid, vehicle-interference, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

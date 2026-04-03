@@ -2,7 +2,8 @@
 title: "Case 300 — Pouzou (France)"
 date: 1954-10-21
 location: "Pouzou (France)"
-tags: [case, vehicle-interference, CE2]
+country: "France"
+tags: [case, vehicle-interference, CE2, france, europe]
 source: Passport to Magonia
 ---
 

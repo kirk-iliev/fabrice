@@ -2,7 +2,8 @@
 title: "Case 671 — Chena (Chile)"
 date: 1965-08-04
 location: "Chena (Chile)"
-tags: [case, humanoid, landing, CE3]
+country: "Chile"
+tags: [case, humanoid, landing, CE3, chile, south-america]
 source: Passport to Magonia
 ---
 

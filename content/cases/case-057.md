@@ -2,7 +2,8 @@
 title: "Case 057 — Spokane (Washington)"
 date: 1947-06-21
 location: "Spokane (Washington)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

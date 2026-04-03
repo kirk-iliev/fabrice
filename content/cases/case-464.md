@@ -2,7 +2,8 @@
 title: "Case 464 — Maceio (Brazil)"
 date: 1958
 location: "Maceio (Brazil)"
-tags: [case, humanoid, CE3]
+country: "Brazil"
+tags: [case, humanoid, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

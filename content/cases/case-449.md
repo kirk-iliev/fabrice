@@ -2,7 +2,8 @@
 title: "Case 449 — Chestnut (Louisiana)"
 date: 1957
 location: "Chestnut (Louisiana)"
-tags: [case, humanoid, trace-evidence, CE3]
+country: "United States"
+tags: [case, humanoid, trace-evidence, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

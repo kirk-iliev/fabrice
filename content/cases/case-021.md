@@ -2,7 +2,8 @@
 title: "Case 021 — Springfield (Illinois)"
 date: 1897-04-15
 location: "Springfield (Illinois)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

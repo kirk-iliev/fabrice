@@ -2,7 +2,8 @@
 title: "Case 062 — Twin Falls, Smoke River Canyon (Idaho)"
 date: 1947-08-13
 location: "Twin Falls, Smoke River Canyon (Idaho)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

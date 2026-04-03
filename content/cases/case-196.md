@@ -1,6 +1,5 @@
 ---
 title: "Case 196 — Oct"
-date: unknown
 location: "Oct"
 tags: [case, humanoid, CE3]
 source: Passport to Magonia

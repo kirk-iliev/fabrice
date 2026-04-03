@@ -2,7 +2,8 @@
 title: "Case 002 — Banbury (Great Britain)"
 date: 1872-12-07
 location: "Banbury (Great Britain)"
-tags: [case, CE1]
+country: "Great Britain"
+tags: [case, CE1, great-britain, europe]
 source: Passport to Magonia
 ---
 

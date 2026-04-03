@@ -2,7 +2,8 @@
 title: "Case 771 — Sandusky Road (Ohio)"
 date: 1966-06-08
 location: "Sandusky Road (Ohio)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

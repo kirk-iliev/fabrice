@@ -2,7 +2,8 @@
 title: "Case 826 — Butler (Pennsylvania)"
 date: 1967-03-20
 location: "Butler (Pennsylvania)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 537 — Verona (Italy)"
 date: 1962-06-26
 location: "Verona (Italy)"
-tags: [case, CE1]
+country: "Italy"
+tags: [case, CE1, italy, europe]
 source: Passport to Magonia
 ---
 

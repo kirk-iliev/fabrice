@@ -2,7 +2,8 @@
 title: "Case 390 — Pacific Ocean, near Japan"
 date: 1957-04-19
 location: "Pacific Ocean, near Japan"
-tags: [case, humanoid, CE3]
+country: "Japan"
+tags: [case, humanoid, CE3, japan, asia]
 source: Passport to Magonia
 ---
 

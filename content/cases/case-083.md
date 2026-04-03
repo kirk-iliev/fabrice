@@ -2,7 +2,8 @@
 title: "Case 083 — Central Australia"
 date: 1951-09
 location: "Central Australia"
-tags: [case, humanoid, landing, CE3]
+country: "Australia"
+tags: [case, humanoid, landing, CE3, australia, oceania]
 source: Passport to Magonia
 ---
 

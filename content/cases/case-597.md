@@ -2,7 +2,8 @@
 title: "Case 597 — Socorro (New Mexico)"
 date: 1964-04-24
 location: "Socorro (New Mexico)"
-tags: [case, humanoid, landing, trace-evidence, CE3]
+country: "United States"
+tags: [case, humanoid, landing, trace-evidence, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

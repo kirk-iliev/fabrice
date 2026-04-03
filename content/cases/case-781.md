@@ -2,7 +2,8 @@
 title: "Case 781 — Rebouillon (France)"
 date: 1966-07-17
 location: "Rebouillon (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

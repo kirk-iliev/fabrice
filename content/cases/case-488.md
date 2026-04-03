@@ -2,7 +2,8 @@
 title: "Case 488 — Tres Lomas (Argentina)"
 date: 1959-05-20
 location: "Tres Lomas (Argentina)"
-tags: [case, trace-evidence, CE2]
+country: "Argentina"
+tags: [case, trace-evidence, CE2, argentina, south-america]
 source: Passport to Magonia
 ---
 

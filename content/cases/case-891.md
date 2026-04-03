@@ -2,7 +2,8 @@
 title: "Case 891 — Reading (Great Britain)"
 date: 1967-10-26
 location: "Reading (Great Britain)"
-tags: [case, vehicle-interference, CE2]
+country: "Great Britain"
+tags: [case, vehicle-interference, CE2, great-britain, europe]
 source: Passport to Magonia
 ---
 

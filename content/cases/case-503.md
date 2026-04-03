@@ -2,7 +2,8 @@
 title: "Case 503 — Lacamp (Louisiana)"
 date: 1960-04-18
 location: "Lacamp (Louisiana)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

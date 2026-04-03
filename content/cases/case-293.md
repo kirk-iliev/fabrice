@@ -2,7 +2,8 @@
 title: "Case 293 — Saint-Valery (France)"
 date: 1954-10-20
 location: "Saint-Valery (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

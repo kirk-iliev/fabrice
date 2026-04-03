@@ -2,7 +2,8 @@
 title: "Case 511 — Warminster (Great Britain)"
 date: 1960-11-13
 location: "Warminster (Great Britain)"
-tags: [case, humanoid, landing, CE3]
+country: "Great Britain"
+tags: [case, humanoid, landing, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 340 — Wasmes (Belgium)"
 date: 1954-11-14
 location: "Wasmes (Belgium)"
-tags: [case, trace-evidence, CE2]
+country: "Belgium"
+tags: [case, trace-evidence, CE2, belgium, europe]
 source: Passport to Magonia
 ---
 

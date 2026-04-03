@@ -2,7 +2,8 @@
 title: "Case 868 — Ogema (Wisconsin)"
 date: 1967-08-12
 location: "Ogema (Wisconsin)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

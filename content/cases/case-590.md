@@ -2,7 +2,8 @@
 title: "Case 590 — Cosford (Great Britain)"
 date: 1963-12-10
 location: "Cosford (Great Britain)"
-tags: [case, humanoid, landing, CE3]
+country: "Great Britain"
+tags: [case, humanoid, landing, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

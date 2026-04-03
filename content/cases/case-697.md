@@ -2,7 +2,8 @@
 title: "Case 697 — Alto Purus (Brazil)"
 date: 1965-09-08
 location: "Alto Purus (Brazil)"
-tags: [case, landing, CE2]
+country: "Brazil"
+tags: [case, landing, CE2, brazil, south-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 364 — Puy-Saint-Gulmier (France)"
 date: 1955-05-31
 location: "Puy-Saint-Gulmier (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

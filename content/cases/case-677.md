@@ -2,7 +2,8 @@
 title: "Case 677 — Baden (Pennsylvania)"
 date: 1965-08-13
 location: "Baden (Pennsylvania)"
-tags: [case, trace-evidence, CE2]
+country: "United States"
+tags: [case, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

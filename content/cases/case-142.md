@@ -2,7 +2,8 @@
 title: "Case 142 — Harponville (France)"
 date: 1954-09-07
 location: "Harponville (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

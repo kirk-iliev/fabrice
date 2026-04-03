@@ -2,7 +2,8 @@
 title: "Case 352 — Chico (Venezuela)"
 date: 1954-12-10
 location: "Chico (Venezuela)"
-tags: [case, humanoid, landing, CE3]
+country: "Venezuela"
+tags: [case, humanoid, landing, CE3, venezuela, south-america]
 source: Passport to Magonia
 ---
 

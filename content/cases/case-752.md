@@ -2,7 +2,8 @@
 title: "Case 752 — Kittery (Maine)"
 date: 1966-04-05
 location: "Kittery (Maine)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

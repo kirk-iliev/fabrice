@@ -2,7 +2,8 @@
 title: "Case 402 — Smithfield (Australia)"
 date: 1957-09-16
 location: "Smithfield (Australia)"
-tags: [case, humanoid, CE3]
+country: "Australia"
+tags: [case, humanoid, CE3, australia, oceania]
 source: Passport to Magonia
 ---
 

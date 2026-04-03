@@ -2,7 +2,8 @@
 title: "Case 865 — Hidalgo (Mexico)"
 date: 1967-08-06
 location: "Hidalgo (Mexico)"
-tags: [case, CE1]
+country: "Mexico"
+tags: [case, CE1, mexico, north-america]
 source: Passport to Magonia
 ---
 

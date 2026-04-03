@@ -2,7 +2,8 @@
 title: "Case 702 — Silverton (South Africa)"
 date: 1965-09-15
 location: "Silverton (South Africa)"
-tags: [case, humanoid, landing, trace-evidence, vehicle-interference, CE3]
+country: "South Africa"
+tags: [case, humanoid, landing, trace-evidence, vehicle-interference, CE3, south-africa, africa]
 source: Passport to Magonia
 ---
 

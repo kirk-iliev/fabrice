@@ -2,7 +2,8 @@
 title: "Case 645 — New London (Minnesota)"
 date: 1965-04-26
 location: "New London (Minnesota)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

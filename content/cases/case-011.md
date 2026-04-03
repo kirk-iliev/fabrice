@@ -2,7 +2,8 @@
 title: "Case 011 — Sioux City (lowa)"
 date: 1897-03-26
 location: "Sioux City (lowa)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

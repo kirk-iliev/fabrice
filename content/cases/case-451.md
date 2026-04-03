@@ -2,7 +2,8 @@
 title: "Case 451 — Old Saybrook (Connecticut)"
 date: 1957-12-18
 location: "Old Saybrook (Connecticut)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

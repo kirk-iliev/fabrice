@@ -2,7 +2,8 @@
 title: "Case 507 — Chinthurst Hill (Great Britain)"
 date: 1960-05-25
 location: "Chinthurst Hill (Great Britain)"
-tags: [case, CE1]
+country: "Great Britain"
+tags: [case, CE1, great-britain, europe]
 source: Passport to Magonia
 ---
 

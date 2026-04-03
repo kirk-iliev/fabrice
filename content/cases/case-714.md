@@ -2,7 +2,8 @@
 title: "Case 714 — Broken Hill (Zambia)"
 date: 1965
 location: "Broken Hill (Zambia)"
-tags: [case, CE1]
+country: "Zambia"
+tags: [case, CE1, zambia, africa]
 source: Passport to Magonia
 ---
 

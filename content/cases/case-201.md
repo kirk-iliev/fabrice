@@ -2,7 +2,8 @@
 title: "Case 201 — La Fere (France)"
 date: 1954-10-06
 location: "La Fere (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 676 — Grand Forks (North Dakota)"
 date: 1965-08-09
 location: "Grand Forks (North Dakota)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 213 — Huy (Belgium)"
 date: 1954-10-09
 location: "Huy (Belgium)"
-tags: [case, landing, CE2]
+country: "Belgium"
+tags: [case, landing, CE2, belgium, europe]
 source: Passport to Magonia
 ---
 

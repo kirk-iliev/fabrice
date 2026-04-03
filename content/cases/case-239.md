@@ -2,7 +2,8 @@
 title: "Case 239 — Birac (France)"
 date: 1954-10-11
 location: "Birac (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

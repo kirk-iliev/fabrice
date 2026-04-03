@@ -2,7 +2,8 @@
 title: "Case 793 — Texas"
 date: 1966-09-03
 location: "Texas"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

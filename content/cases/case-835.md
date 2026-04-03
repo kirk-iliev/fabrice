@@ -2,7 +2,8 @@
 title: "Case 835 — Boraure (Venezuela)"
 date: 1967-04-16
 location: "Boraure (Venezuela)"
-tags: [case, landing, CE2]
+country: "Venezuela"
+tags: [case, landing, CE2, venezuela, south-america]
 source: Passport to Magonia
 ---
 

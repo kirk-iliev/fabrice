@@ -2,7 +2,8 @@
 title: "Case 304 — Ain-cl-Turck (Algeria)"
 date: 1954-10-24
 location: "Ain-cl-Turck (Algeria)"
-tags: [case, humanoid, CE3]
+country: "Algeria"
+tags: [case, humanoid, CE3, algeria, africa]
 source: Passport to Magonia
 ---
 

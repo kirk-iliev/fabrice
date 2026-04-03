@@ -2,7 +2,8 @@
 title: "Case 354 — San Carlos (Venezuela)"
 date: 1954-12-16
 location: "San Carlos (Venezuela)"
-tags: [case, humanoid, CE3]
+country: "Venezuela"
+tags: [case, humanoid, CE3, venezuela, south-america]
 source: Passport to Magonia
 ---
 

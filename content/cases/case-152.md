@@ -2,7 +2,8 @@
 title: "Case 152 — Lencouacq (France)"
 date: 1954-09-23
 location: "Lencouacq (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

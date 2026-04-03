@@ -2,7 +2,8 @@
 title: "Case 360 — San Sebastian (Spain)"
 date: 1955-01-05
 location: "San Sebastian (Spain)"
-tags: [case, landing, CE2]
+country: "Spain"
+tags: [case, landing, CE2, spain, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 114 — Wolin (Poland)"
 date: 1953-07-31
 location: "Wolin (Poland)"
-tags: [case, landing, CE2]
+country: "Poland"
+tags: [case, landing, CE2, poland, europe]
 source: Passport to Magonia
 ---
 

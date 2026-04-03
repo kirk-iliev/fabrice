@@ -2,7 +2,8 @@
 title: "Case 594 — Monticello (Wisconsin)"
 date: 1964-04-03
 location: "Monticello (Wisconsin)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

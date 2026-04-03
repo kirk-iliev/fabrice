@@ -2,7 +2,8 @@
 title: "Case 009 — Cape Race (Atlantic Ocean)"
 date: 1887-11-12
 location: "Cape Race (Atlantic Ocean)"
-tags: [case, CE1]
+country: "Atlantic Ocean"
+tags: [case, CE1, atlantic-ocean, oceania]
 source: Passport to Magonia
 ---
 

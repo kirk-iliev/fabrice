@@ -2,7 +2,8 @@
 title: "Case 819 — Linstead (Maryland)"
 date: 1967-02-23
 location: "Linstead (Maryland)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

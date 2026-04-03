@@ -2,7 +2,8 @@
 title: "Case 034 — 1908 Coast of Delaware"
 date: 1908
 location: "1908 Coast of Delaware"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

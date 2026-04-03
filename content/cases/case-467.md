@@ -1,8 +1,8 @@
 ---
 title: "Case 467 — May Bogota (Colombia)"
-date: unknown
 location: "May Bogota (Colombia)"
-tags: [case, humanoid, CE3]
+country: "Colombia"
+tags: [case, humanoid, CE3, colombia, south-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 824 — Follansbee (Virginia)"
 date: 1967-03-09
 location: "Follansbee (Virginia)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

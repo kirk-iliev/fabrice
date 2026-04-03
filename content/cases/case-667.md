@@ -2,7 +2,8 @@
 title: "Case 667 — justin (Texas)"
 date: 1965-08-02
 location: "justin (Texas)"
-tags: [case, landing, trace-evidence, CE2]
+country: "United States"
+tags: [case, landing, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

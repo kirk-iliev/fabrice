@@ -2,7 +2,8 @@
 title: "Case 413 — Covington (Indiana)"
 date: 1957-10-15
 location: "Covington (Indiana)"
-tags: [case, vehicle-interference, CE2]
+country: "United States"
+tags: [case, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

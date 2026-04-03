@@ -2,7 +2,8 @@
 title: "Case 448 — Woodward (Oklahoma)"
 date: 1957-12-08
 location: "Woodward (Oklahoma)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "United States"
+tags: [case, landing, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

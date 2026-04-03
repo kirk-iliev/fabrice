@@ -2,7 +2,8 @@
 title: "Case 862 — Caracas (Venezuela)"
 date: 1967-08-03
 location: "Caracas (Venezuela)"
-tags: [case, humanoid, landing, CE3]
+country: "Venezuela"
+tags: [case, humanoid, landing, CE3, venezuela, south-america]
 source: Passport to Magonia
 ---
 

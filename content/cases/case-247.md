@@ -2,7 +2,8 @@
 title: "Case 247 — Vielmur (France)"
 date: 1954-10-12
 location: "Vielmur (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

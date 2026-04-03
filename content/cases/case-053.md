@@ -2,7 +2,8 @@
 title: "Case 053 — Belfast (Maine)"
 date: 1945
 location: "Belfast (Maine)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

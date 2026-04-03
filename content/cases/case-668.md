@@ -1,6 +1,5 @@
 ---
 title: "Case 668 — Aug"
-date: unknown
 location: "Aug"
 tags: [case, CE1]
 source: Passport to Magonia

@@ -2,7 +2,8 @@
 title: "Case 751 — Lycoming (New York)"
 date: 1966-04-05
 location: "Lycoming (New York)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

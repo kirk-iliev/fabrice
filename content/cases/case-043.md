@@ -2,7 +2,8 @@
 title: "Case 043 — 1921 Marseilles (France)"
 date: 1921
 location: "1921 Marseilles (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

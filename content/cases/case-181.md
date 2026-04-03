@@ -2,7 +2,8 @@
 title: "Case 181 — Guebling (France)"
 date: 1954-10-02
 location: "Guebling (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

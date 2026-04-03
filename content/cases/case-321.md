@@ -2,7 +2,8 @@
 title: "Case 321 — Mesples (France)"
 date: 1954-10-29
 location: "Mesples (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

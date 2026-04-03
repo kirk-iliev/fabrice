@@ -2,7 +2,8 @@
 title: "Case 620 — duly 30,1964 Flemington (New Jersey)"
 date: 1964
 location: "duly 30,1964 Flemington (New Jersey)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 742 — Mansfield (Ohio)"
 date: 1966-03-30
 location: "Mansfield (Ohio)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

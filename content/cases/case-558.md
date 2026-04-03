@@ -2,7 +2,8 @@
 title: "Case 558 — San Pietro (Italy)"
 date: 1963-01-11
 location: "San Pietro (Italy)"
-tags: [case, humanoid, landing, CE3]
+country: "Italy"
+tags: [case, humanoid, landing, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

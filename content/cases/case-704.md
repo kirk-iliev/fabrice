@@ -2,7 +2,8 @@
 title: "Case 704 — Fredonia (New York)"
 date: 1965-09-27
 location: "Fredonia (New York)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

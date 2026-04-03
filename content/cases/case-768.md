@@ -2,7 +2,8 @@
 title: "Case 768 — Atafona Campos (Brazil)"
 date: 1966-05-10
 location: "Atafona Campos (Brazil)"
-tags: [case, trace-evidence, CE2]
+country: "Brazil"
+tags: [case, trace-evidence, CE2, brazil, south-america]
 source: Passport to Magonia
 ---
 

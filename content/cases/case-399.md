@@ -2,7 +2,8 @@
 title: "Case 399 — Cecil Naval Air Station (Florida)"
 date: 1957-08-22
 location: "Cecil Naval Air Station (Florida)"
-tags: [case, vehicle-interference, CE2]
+country: "United States"
+tags: [case, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 366 — Plessiel Airfield, near Abbeville (France)"
 date: 1955-07-18
 location: "Plessiel Airfield, near Abbeville (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

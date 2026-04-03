@@ -2,7 +2,8 @@
 title: "Case 767 — Marisela Caracas (Venezuela)"
 date: 1966-05-10
 location: "Marisela Caracas (Venezuela)"
-tags: [case, humanoid, landing, CE3]
+country: "Venezuela"
+tags: [case, humanoid, landing, CE3, venezuela, south-america]
 source: Passport to Magonia
 ---
 

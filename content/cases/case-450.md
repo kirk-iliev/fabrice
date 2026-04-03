@@ -2,7 +2,8 @@
 title: "Case 450 — Ellsworth (Wisconsin)"
 date: 1957-12-11
 location: "Ellsworth (Wisconsin)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

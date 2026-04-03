@@ -2,7 +2,8 @@
 title: "Case 914 — Botucatu (Brazil)"
 date: 1968-07-01
 location: "Botucatu (Brazil)"
-tags: [case, CE1]
+country: "Brazil"
+tags: [case, CE1, brazil, south-america]
 source: Passport to Magonia
 ---
 

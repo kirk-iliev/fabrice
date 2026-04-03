@@ -2,7 +2,8 @@
 title: "Case 269 — Fouesnant (France)"
 date: 1954-10-15
 location: "Fouesnant (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

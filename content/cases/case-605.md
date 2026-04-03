@@ -2,7 +2,8 @@
 title: "Case 605 — Massillon (Ohio)"
 date: 1964-05-17
 location: "Massillon (Ohio)"
-tags: [case, landing, trace-evidence, vehicle-interference, CE2]
+country: "United States"
+tags: [case, landing, trace-evidence, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 404 — Yellow Falls (Texas)"
 date: 1957-09-26
 location: "Yellow Falls (Texas)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

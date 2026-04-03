@@ -2,7 +2,8 @@
 title: "Case 618 — Sherburne (New York)"
 date: 1964-07-27
 location: "Sherburne (New York)"
-tags: [case, trace-evidence, vehicle-interference, CE2]
+country: "United States"
+tags: [case, trace-evidence, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

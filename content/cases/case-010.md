@@ -2,7 +2,8 @@
 title: "Case 010 — 1896 Arolla, near Zermatt (Swiss Alps)"
 date: 1896
 location: "1896 Arolla, near Zermatt (Swiss Alps)"
-tags: [case, humanoid, CE3]
+country: "Switzerland"
+tags: [case, humanoid, CE3, switzerland, europe]
 source: Passport to Magonia
 ---
 

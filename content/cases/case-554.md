@@ -2,7 +2,8 @@
 title: "Case 554 — Milan (Italy)"
 date: 1962-12-17
 location: "Milan (Italy)"
-tags: [case, humanoid, CE3]
+country: "Italy"
+tags: [case, humanoid, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

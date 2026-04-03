@@ -2,7 +2,8 @@
 title: "Case 635 — South Brighton (New Zealand)"
 date: 1965-02-03
 location: "South Brighton (New Zealand)"
-tags: [case, landing, trace-evidence, CE2]
+country: "New Zealand"
+tags: [case, landing, trace-evidence, CE2, new-zealand, oceania]
 source: Passport to Magonia
 ---
 

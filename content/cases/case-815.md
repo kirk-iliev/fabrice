@@ -2,7 +2,8 @@
 title: "Case 815 — Boadilla del Monte (Spain)"
 date: 1967-02-01
 location: "Boadilla del Monte (Spain)"
-tags: [case, landing, CE2]
+country: "Spain"
+tags: [case, landing, CE2, spain, europe]
 source: Passport to Magonia
 ---
 

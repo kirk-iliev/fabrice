@@ -2,7 +2,8 @@
 title: "Case 614 — Arica (Chile)"
 date: 1964-06-15
 location: "Arica (Chile)"
-tags: [case, humanoid, landing, CE3]
+country: "Chile"
+tags: [case, humanoid, landing, CE3, chile, south-america]
 source: Passport to Magonia
 ---
 

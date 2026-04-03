@@ -2,7 +2,8 @@
 title: "Case 519 — Savona (Italy)"
 date: 1961-06-03
 location: "Savona (Italy)"
-tags: [case, humanoid, CE3]
+country: "Italy"
+tags: [case, humanoid, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

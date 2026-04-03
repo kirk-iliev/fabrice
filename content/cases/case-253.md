@@ -2,7 +2,8 @@
 title: "Case 253 — Biot (France)"
 date: 1954-10-14
 location: "Biot (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

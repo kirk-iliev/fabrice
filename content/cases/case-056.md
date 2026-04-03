@@ -2,7 +2,8 @@
 title: "Case 056 — Maury Island, near Tacoma (Washington)"
 date: 1947-06-21
 location: "Maury Island, near Tacoma (Washington)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

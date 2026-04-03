@@ -2,7 +2,8 @@
 title: "Case 008 — Scutari (Turkey)"
 date: 1885-11-02
 location: "Scutari (Turkey)"
-tags: [case, CE1]
+country: "Turkey"
+tags: [case, CE1, turkey, middle-east]
 source: Passport to Magonia
 ---
 

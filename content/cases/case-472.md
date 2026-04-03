@@ -2,7 +2,8 @@
 title: "Case 472 — Union Dale (Pennsylvania)"
 date: 1958-10-27
 location: "Union Dale (Pennsylvania)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

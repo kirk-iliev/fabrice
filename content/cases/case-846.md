@@ -2,7 +2,8 @@
 title: "Case 846 — Arbonne (France)"
 date: 1967-05-24
 location: "Arbonne (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

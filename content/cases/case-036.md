@@ -2,7 +2,8 @@
 title: "Case 036 — Caerphilly (Wales)"
 date: 1909-05-18
 location: "Caerphilly (Wales)"
-tags: [case, humanoid, CE3]
+country: "Great Britain"
+tags: [case, humanoid, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

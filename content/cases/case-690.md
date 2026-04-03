@@ -2,7 +2,8 @@
 title: "Case 690 — La Blanquilla (Venezuela)"
 date: 1965-08-30
 location: "La Blanquilla (Venezuela)"
-tags: [case, CE1]
+country: "Venezuela"
+tags: [case, CE1, venezuela, south-america]
 source: Passport to Magonia
 ---
 

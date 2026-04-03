@@ -2,7 +2,8 @@
 title: "Case 842 — Saint George (Utah)"
 date: 1967-05-11
 location: "Saint George (Utah)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 497 — Wallingford (Kentucky)"
 date: 1959-09-07
 location: "Wallingford (Kentucky)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

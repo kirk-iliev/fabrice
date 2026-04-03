@@ -2,7 +2,8 @@
 title: "Case 717 — Cyrus (Minnesota)"
 date: 1965-11-16
 location: "Cyrus (Minnesota)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

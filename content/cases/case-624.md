@@ -1,6 +1,5 @@
 ---
 title: "Case 624 — Sept"
-date: unknown
 location: "Sept"
 tags: [case, humanoid, landing, CE3]
 source: Passport to Magonia

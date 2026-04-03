@@ -2,7 +2,8 @@
 title: "Case 795 — Durand (Wisconsin)"
 date: 1966-09-07
 location: "Durand (Wisconsin)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

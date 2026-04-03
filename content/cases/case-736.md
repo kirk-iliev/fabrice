@@ -2,7 +2,8 @@
 title: "Case 736 — Bangor (Maine)"
 date: 1966-03-25
 location: "Bangor (Maine)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

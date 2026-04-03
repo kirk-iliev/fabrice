@@ -2,7 +2,8 @@
 title: "Case 440 — Madison (Ohio)"
 date: 1957-11-10
 location: "Madison (Ohio)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

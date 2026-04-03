@@ -2,7 +2,8 @@
 title: "Case 482 — Cedar City (Iowa)"
 date: 1959
 location: "Cedar City (Iowa)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 813 — Coffeen (IHinois)"
 date: 1967-01-26
 location: "Coffeen (IHinois)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

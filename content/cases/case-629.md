@@ -2,7 +2,8 @@
 title: "Case 629 — Auckland (New Zealand)"
 date: 1964-12-28
 location: "Auckland (New Zealand)"
-tags: [case, landing, CE2]
+country: "New Zealand"
+tags: [case, landing, CE2, new-zealand, oceania]
 source: Passport to Magonia
 ---
 

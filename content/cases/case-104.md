@@ -2,7 +2,8 @@
 title: "Case 104 — Marignane Airport (France)"
 date: 1952-10-27
 location: "Marignane Airport (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

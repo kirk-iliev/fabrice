@@ -2,7 +2,8 @@
 title: "Case 303 — [ripoli (Libya)"
 date: 1954-10-23
 location: "[ripoli (Libya)"
-tags: [case, humanoid, landing, CE3]
+country: "Libya"
+tags: [case, humanoid, landing, CE3, libya, africa]
 source: Passport to Magonia
 ---
 

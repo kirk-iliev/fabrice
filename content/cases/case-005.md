@@ -2,7 +2,8 @@
 title: "Case 005 — 1880 Eastern Venezuela"
 date: 1880
 location: "1880 Eastern Venezuela"
-tags: [case, CE1]
+country: "Venezuela"
+tags: [case, CE1, venezuela, south-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 097 — West Palm Beach (Florida)"
 date: 1952-08-19
 location: "West Palm Beach (Florida)"
-tags: [case, humanoid, trace-evidence, CE3]
+country: "United States"
+tags: [case, humanoid, trace-evidence, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

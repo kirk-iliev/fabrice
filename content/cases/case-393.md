@@ -2,7 +2,8 @@
 title: "Case 393 — Pajasblancas Airport (Argentina)"
 date: 1957-05-01
 location: "Pajasblancas Airport (Argentina)"
-tags: [case, humanoid, CE3]
+country: "Argentina"
+tags: [case, humanoid, CE3, argentina, south-america]
 source: Passport to Magonia
 ---
 

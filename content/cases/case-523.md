@@ -2,7 +2,8 @@
 title: "Case 523 — Toulouse (France)"
 date: 1961-08-25
 location: "Toulouse (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

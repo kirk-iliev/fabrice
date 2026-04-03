@@ -2,7 +2,8 @@
 title: "Case 224 — Mahallat (Persia)"
 date: 1954-10-10
 location: "Mahallat (Persia)"
-tags: [case, landing, CE2]
+country: "Iran"
+tags: [case, landing, CE2, iran, middle-east]
 source: Passport to Magonia
 ---
 

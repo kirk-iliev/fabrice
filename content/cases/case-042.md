@@ -2,7 +2,8 @@
 title: "Case 042 — Youngstown (Pennsylvania)"
 date: 1917
 location: "Youngstown (Pennsylvania)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

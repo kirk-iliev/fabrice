@@ -2,7 +2,8 @@
 title: "Case 581 — Saskatoon (Canada)"
 date: 1963-09-19
 location: "Saskatoon (Canada)"
-tags: [case, CE1]
+country: "Canada"
+tags: [case, CE1, canada, north-america]
 source: Passport to Magonia
 ---
 

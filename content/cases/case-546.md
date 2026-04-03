@@ -2,7 +2,8 @@
 title: "Case 546 — Overfield (Great Britain)"
 date: 1962-09-13
 location: "Overfield (Great Britain)"
-tags: [case, CE1]
+country: "Great Britain"
+tags: [case, CE1, great-britain, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 731 — Dexter (Michigan)"
 date: 1966-03-20
 location: "Dexter (Michigan)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

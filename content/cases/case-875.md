@@ -2,7 +2,8 @@
 title: "Case 875 — Cussac (France)"
 date: 1967-08-29
 location: "Cussac (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

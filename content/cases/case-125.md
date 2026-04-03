@@ -2,7 +2,8 @@
 title: "Case 125 — Peakskill (New York)"
 date: 1954
 location: "Peakskill (New York)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 840 — Edmonton (Canada)"
 date: 1967-05-07
 location: "Edmonton (Canada)"
-tags: [case, trace-evidence, CE2]
+country: "Canada"
+tags: [case, trace-evidence, CE2, canada, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 455 — Stavanger (Norway)"
 date: 1958-01-04
 location: "Stavanger (Norway)"
-tags: [case, humanoid, landing, trace-evidence, CE3]
+country: "Norway"
+tags: [case, humanoid, landing, trace-evidence, CE3, norway, europe]
 source: Passport to Magonia
 ---
 

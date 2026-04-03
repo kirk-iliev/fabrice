@@ -2,7 +2,8 @@
 title: "Case 028 — McKinney Bayou (Arkansas)"
 date: 1897-04-23
 location: "McKinney Bayou (Arkansas)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

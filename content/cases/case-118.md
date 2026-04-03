@@ -2,7 +2,8 @@
 title: "Case 118 — Brovst (Denmark)"
 date: 1953-09-12
 location: "Brovst (Denmark)"
-tags: [case, humanoid, CE3]
+country: "Denmark"
+tags: [case, humanoid, CE3, denmark, europe]
 source: Passport to Magonia
 ---
 

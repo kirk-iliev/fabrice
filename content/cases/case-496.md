@@ -2,7 +2,8 @@
 title: "Case 496 — Werdehl-Eveking (Germany)"
 date: 1959-08-25
 location: "Werdehl-Eveking (Germany)"
-tags: [case, landing, CE2]
+country: "Germany"
+tags: [case, landing, CE2, germany, europe]
 source: Passport to Magonia
 ---
 

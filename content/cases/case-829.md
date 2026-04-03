@@ -2,7 +2,8 @@
 title: "Case 829 — Altona (Canada)"
 date: 1967-03-26
 location: "Altona (Canada)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "Canada"
+tags: [case, landing, vehicle-interference, CE2, canada, north-america]
 source: Passport to Magonia
 ---
 

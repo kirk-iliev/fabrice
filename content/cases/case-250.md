@@ -2,7 +2,8 @@
 title: "Case 250 — Saint-Ambroix (France)"
 date: 1954-10-14
 location: "Saint-Ambroix (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

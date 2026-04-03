@@ -2,7 +2,8 @@
 title: "Case 669 — Lake Hefner (Oklahoma)"
 date: 1965-08-03
 location: "Lake Hefner (Oklahoma)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 844 — Falcon Lake (Canada)"
 date: 1967-05-20
 location: "Falcon Lake (Canada)"
-tags: [case, landing, trace-evidence, CE2]
+country: "Canada"
+tags: [case, landing, trace-evidence, CE2, canada, north-america]
 source: Passport to Magonia
 ---
 

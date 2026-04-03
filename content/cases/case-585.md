@@ -2,7 +2,8 @@
 title: "Case 585 — Daylston (Australia)"
 date: 1963-10-31
 location: "Daylston (Australia)"
-tags: [case, landing, CE2]
+country: "Australia"
+tags: [case, landing, CE2, australia, oceania]
 source: Passport to Magonia
 ---
 

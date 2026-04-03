@@ -2,7 +2,8 @@
 title: "Case 046 — Fermcneuve (Canada)"
 date: 1929-06-12
 location: "Fermcneuve (Canada)"
-tags: [case, humanoid, CE3]
+country: "Canada"
+tags: [case, humanoid, CE3, canada, north-america]
 source: Passport to Magonia
 ---
 

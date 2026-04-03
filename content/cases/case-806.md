@@ -2,7 +2,8 @@
 title: "Case 806 — Bayonne (New Jersey)"
 date: 1966-11-19
 location: "Bayonne (New Jersey)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

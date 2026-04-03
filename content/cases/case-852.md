@@ -2,7 +2,8 @@
 title: "Case 852 — duly 5,1967 Clifton (Great Britain)"
 date: 1967
 location: "duly 5,1967 Clifton (Great Britain)"
-tags: [case, landing, CE2]
+country: "Great Britain"
+tags: [case, landing, CE2, great-britain, europe]
 source: Passport to Magonia
 ---
 

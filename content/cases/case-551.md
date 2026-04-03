@@ -2,7 +2,8 @@
 title: "Case 551 — Var (France)"
 date: 1962
 location: "Var (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

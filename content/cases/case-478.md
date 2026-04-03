@@ -2,7 +2,8 @@
 title: "Case 478 — Clermont-Ferrand (France)"
 date: 1958-12-20
 location: "Clermont-Ferrand (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

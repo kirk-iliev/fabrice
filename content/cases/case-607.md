@@ -2,7 +2,8 @@
 title: "Case 607 — Millinocket (Maine)"
 date: 1964-05-24
 location: "Millinocket (Maine)"
-tags: [case, vehicle-interference, CE2]
+country: "United States"
+tags: [case, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

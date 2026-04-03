@@ -2,7 +2,8 @@
 title: "Case 065 — Indianapolis (Indiana)"
 date: 1948-07-29
 location: "Indianapolis (Indiana)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

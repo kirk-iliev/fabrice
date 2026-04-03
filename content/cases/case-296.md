@@ -2,7 +2,8 @@
 title: "Case 296 — Pons (France)"
 date: 1954-10-21
 location: "Pons (France)"
-tags: [case, humanoid, landing, CE3]
+country: "France"
+tags: [case, humanoid, landing, CE3, france, europe]
 source: Passport to Magonia
 ---
 

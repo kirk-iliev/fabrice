@@ -2,7 +2,8 @@
 title: "Case 068 — Pucusana (Peru)"
 date: 1949
 location: "Pucusana (Peru)"
-tags: [case, humanoid, landing, CE3]
+country: "Peru"
+tags: [case, humanoid, landing, CE3, peru, south-america]
 source: Passport to Magonia
 ---
 

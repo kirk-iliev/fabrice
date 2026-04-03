@@ -2,7 +2,8 @@
 title: "Case 423 — New York City (New York)"
 date: 1957-11-05
 location: "New York City (New York)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

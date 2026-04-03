@@ -2,7 +2,8 @@
 title: "Case 588 — Saltwood (Great Britain)"
 date: 1963-11-16
 location: "Saltwood (Great Britain)"
-tags: [case, humanoid, CE3]
+country: "Great Britain"
+tags: [case, humanoid, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

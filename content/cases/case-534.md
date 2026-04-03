@@ -2,7 +2,8 @@
 title: "Case 534 — Uncativo (Argentina)"
 date: 1962-05-03
 location: "Uncativo (Argentina)"
-tags: [case, landing, CE2]
+country: "Argentina"
+tags: [case, landing, CE2, argentina, south-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 857 — Boardman (Ohio)"
 date: 1967-07-18
 location: "Boardman (Ohio)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

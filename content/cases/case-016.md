@@ -2,7 +2,8 @@
 title: "Case 016 — Gas City (Indiana)"
 date: 1897-04-14
 location: "Gas City (Indiana)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

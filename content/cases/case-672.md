@@ -2,7 +2,8 @@
 title: "Case 672 — Dallas (Texas)"
 date: 1965-08-04
 location: "Dallas (Texas)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

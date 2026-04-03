@@ -2,7 +2,8 @@
 title: "Case 505 — Paracuru (Brazil)"
 date: 1960-05-14
 location: "Paracuru (Brazil)"
-tags: [case, humanoid, landing, CE3]
+country: "Brazil"
+tags: [case, humanoid, landing, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

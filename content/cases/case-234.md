@@ -2,7 +2,8 @@
 title: "Case 234 — Sassier, near La Carie (France)"
 date: 1954-10-11
 location: "Sassier, near La Carie (France)"
-tags: [case, humanoid, vehicle-interference, CE3]
+country: "France"
+tags: [case, humanoid, vehicle-interference, CE3, france, europe]
 source: Passport to Magonia
 ---
 

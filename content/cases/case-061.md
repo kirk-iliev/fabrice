@@ -2,7 +2,8 @@
 title: "Case 061 — Bauru, near Pitanga (Brazil)"
 date: 1947-07-23
 location: "Bauru, near Pitanga (Brazil)"
-tags: [case, humanoid, landing, CE3]
+country: "Brazil"
+tags: [case, humanoid, landing, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

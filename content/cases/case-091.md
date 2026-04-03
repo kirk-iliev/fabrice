@@ -2,7 +2,8 @@
 title: "Case 091 — Summer, 1952 Martin County (Texas)"
 date: 1952
 location: "Summer, 1952 Martin County (Texas)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

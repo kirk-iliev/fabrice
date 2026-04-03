@@ -2,7 +2,8 @@
 title: "Case 574 — Charlton (Great Britain)"
 date: 1963-07-15
 location: "Charlton (Great Britain)"
-tags: [case, trace-evidence, CE2]
+country: "Great Britain"
+tags: [case, trace-evidence, CE2, great-britain, europe]
 source: Passport to Magonia
 ---
 

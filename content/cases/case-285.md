@@ -2,7 +2,8 @@
 title: "Case 285 — Royan (France)"
 date: 1954-10-18
 location: "Royan (France)"
-tags: [case, humanoid, landing, CE3]
+country: "France"
+tags: [case, humanoid, landing, CE3, france, europe]
 source: Passport to Magonia
 ---
 

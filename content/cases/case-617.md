@@ -2,7 +2,8 @@
 title: "Case 617 — Conklin (New York)"
 date: 1964-07-16
 location: "Conklin (New York)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

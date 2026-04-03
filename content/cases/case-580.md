@@ -2,7 +2,8 @@
 title: "Case 580 — Sagrada Famila (Brazil)"
 date: 1963-08-28
 location: "Sagrada Famila (Brazil)"
-tags: [case, humanoid, trace-evidence, CE3]
+country: "Brazil"
+tags: [case, humanoid, trace-evidence, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

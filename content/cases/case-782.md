@@ -2,7 +2,8 @@
 title: "Case 782 — Vancehars (North Carolina)"
 date: 1966-07-25
 location: "Vancehars (North Carolina)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

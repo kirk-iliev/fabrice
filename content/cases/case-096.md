@@ -2,7 +2,8 @@
 title: "Case 096 — Enid (Oklahoma)"
 date: 1952-07-29
 location: "Enid (Oklahoma)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

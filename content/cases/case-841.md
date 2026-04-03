@@ -2,7 +2,8 @@
 title: "Case 841 — Marliens (France)"
 date: 1967-05-09
 location: "Marliens (France)"
-tags: [case, trace-evidence, vehicle-interference, CE2]
+country: "France"
+tags: [case, trace-evidence, vehicle-interference, CE2, france, europe]
 source: Passport to Magonia
 ---
 

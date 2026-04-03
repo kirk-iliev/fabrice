@@ -2,7 +2,8 @@
 title: "Case 765 — Ashby (Massachusetts)"
 date: 1966-04-24
 location: "Ashby (Massachusetts)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

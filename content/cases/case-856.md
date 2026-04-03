@@ -2,7 +2,8 @@
 title: "Case 856 — Belfast (Northern Ireland)"
 date: 1967-07-17
 location: "Belfast (Northern Ireland)"
-tags: [case, humanoid, landing, CE3]
+country: "Ireland"
+tags: [case, humanoid, landing, CE3, ireland, europe]
 source: Passport to Magonia
 ---
 

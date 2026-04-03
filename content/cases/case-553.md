@@ -2,7 +2,8 @@
 title: "Case 553 — Chumbicha (Argentina)"
 date: 1962-12-11
 location: "Chumbicha (Argentina)"
-tags: [case, CE1]
+country: "Argentina"
+tags: [case, CE1, argentina, south-america]
 source: Passport to Magonia
 ---
 

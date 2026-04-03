@@ -2,7 +2,8 @@
 title: "Case 739 — Fayetteville (Tennessee)"
 date: 1966-03-28
 location: "Fayetteville (Tennessee)"
-tags: [case, vehicle-interference, CE2]
+country: "United States"
+tags: [case, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

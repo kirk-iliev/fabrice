@@ -2,7 +2,8 @@
 title: "Case 715 — New York City (New York)"
 date: 1965-11-09
 location: "New York City (New York)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

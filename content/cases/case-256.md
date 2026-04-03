@@ -2,7 +2,8 @@
 title: "Case 256 — Saint-Germain-du-Bois (France)"
 date: 1954-10-14
 location: "Saint-Germain-du-Bois (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

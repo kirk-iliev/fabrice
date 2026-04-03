@@ -2,7 +2,8 @@
 title: "Case 801 — Newton (Illinois)"
 date: 1966-10-14
 location: "Newton (Illinois)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

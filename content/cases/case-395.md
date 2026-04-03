@@ -2,7 +2,8 @@
 title: "Case 395 — Uriman (Venezuela)"
 date: 1957-06-05
 location: "Uriman (Venezuela)"
-tags: [case, humanoid, landing, CE3]
+country: "Venezuela"
+tags: [case, humanoid, landing, CE3, venezuela, south-america]
 source: Passport to Magonia
 ---
 

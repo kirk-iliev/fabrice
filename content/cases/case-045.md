@@ -2,7 +2,8 @@
 title: "Case 045 — Barmouth (Wales)"
 date: 1922-09-09
 location: "Barmouth (Wales)"
-tags: [case, CE1]
+country: "Great Britain"
+tags: [case, CE1, great-britain, europe]
 source: Passport to Magonia
 ---
 

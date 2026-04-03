@@ -2,7 +2,8 @@
 title: "Case 297 — Melito (Italy)"
 date: 1954-10-21
 location: "Melito (Italy)"
-tags: [case, humanoid, landing, CE3]
+country: "Italy"
+tags: [case, humanoid, landing, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

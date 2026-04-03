@@ -2,7 +2,8 @@
 title: "Case 582 — 1963 Whidbey Island (Washington)"
 date: 1963
 location: "1963 Whidbey Island (Washington)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

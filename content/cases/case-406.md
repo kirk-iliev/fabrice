@@ -2,7 +2,8 @@
 title: "Case 406 — Niquelandia (Brazil)"
 date: 1957
 location: "Niquelandia (Brazil)"
-tags: [case, landing, CE2]
+country: "Brazil"
+tags: [case, landing, CE2, brazil, south-america]
 source: Passport to Magonia
 ---
 

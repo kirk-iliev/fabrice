@@ -2,7 +2,8 @@
 title: "Case 604 — Rio Vista (California)"
 date: 1964-05-13
 location: "Rio Vista (California)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

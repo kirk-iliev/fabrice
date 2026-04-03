@@ -2,7 +2,8 @@
 title: "Case 737 — Attigneville (France)"
 date: 1966-03-26
 location: "Attigneville (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

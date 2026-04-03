@@ -2,7 +2,8 @@
 title: "Case 501 — Spring, 1960 Syracuse (New York)"
 date: 1960
 location: "Spring, 1960 Syracuse (New York)"
-tags: [case, humanoid, landing, vehicle-interference, CE3]
+country: "United States"
+tags: [case, humanoid, landing, vehicle-interference, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

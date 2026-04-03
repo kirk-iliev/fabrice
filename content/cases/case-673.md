@@ -2,7 +2,8 @@
 title: "Case 673 — Abilene (Kansas)"
 date: 1965-08-04
 location: "Abilene (Kansas)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "United States"
+tags: [case, landing, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

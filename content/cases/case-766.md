@@ -2,7 +2,8 @@
 title: "Case 766 — Follansbee (West Virginia)"
 date: 1966-04-26
 location: "Follansbee (West Virginia)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 636 — Torrent (Argentina)"
 date: 1965-02-04
 location: "Torrent (Argentina)"
-tags: [case, humanoid, landing, CE3]
+country: "Argentina"
+tags: [case, humanoid, landing, CE3, argentina, south-america]
 source: Passport to Magonia
 ---
 

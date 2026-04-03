@@ -2,7 +2,8 @@
 title: "Case 710 — Ponte Praia (Brazil)"
 date: 1965-10-18
 location: "Ponte Praia (Brazil)"
-tags: [case, landing, CE2]
+country: "Brazil"
+tags: [case, landing, CE2, brazil, south-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 760 — Bellingham (Massachusetts)"
 date: 1966-04-19
 location: "Bellingham (Massachusetts)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 872 — Catia la Mar (Venezuela)"
 date: 1967-08-25
 location: "Catia la Mar (Venezuela)"
-tags: [case, humanoid, CE3]
+country: "Venezuela"
+tags: [case, humanoid, CE3, venezuela, south-america]
 source: Passport to Magonia
 ---
 

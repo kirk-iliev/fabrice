@@ -2,7 +2,8 @@
 title: "Case 130 — Bruton (Great Britain)"
 date: 1954-05-20
 location: "Bruton (Great Britain)"
-tags: [case, humanoid, CE3]
+country: "Great Britain"
+tags: [case, humanoid, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

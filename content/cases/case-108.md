@@ -2,7 +2,8 @@
 title: "Case 108 — Conway (South Carolina)"
 date: 1953-01-29
 location: "Conway (South Carolina)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

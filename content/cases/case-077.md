@@ -2,7 +2,8 @@
 title: "Case 077 — Lufkin (Texas)"
 date: 1950-04-20
 location: "Lufkin (Texas)"
-tags: [case, trace-evidence, CE2]
+country: "United States"
+tags: [case, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

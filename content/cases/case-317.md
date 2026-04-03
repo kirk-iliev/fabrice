@@ -2,7 +2,8 @@
 title: "Case 317 — Les-Jonquerets-de-Livet (France)"
 date: 1954-10-27
 location: "Les-Jonquerets-de-Livet (France)"
-tags: [case, humanoid, vehicle-interference, CE3]
+country: "France"
+tags: [case, humanoid, vehicle-interference, CE3, france, europe]
 source: Passport to Magonia
 ---
 

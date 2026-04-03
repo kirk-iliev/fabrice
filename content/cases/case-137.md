@@ -2,7 +2,8 @@
 title: "Case 137 — Lugrin, near Thonon (France)"
 date: 1954-08-23
 location: "Lugrin, near Thonon (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

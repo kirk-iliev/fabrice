@@ -2,7 +2,8 @@
 title: "Case 022 — Downs Township (Illinois)"
 date: 1897-04-16
 location: "Downs Township (Illinois)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

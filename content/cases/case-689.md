@@ -2,7 +2,8 @@
 title: "Case 689 — Callao a (Peru)"
 date: 1965-08-25
 location: "Callao a (Peru)"
-tags: [case, landing, CE2]
+country: "Peru"
+tags: [case, landing, CE2, peru, south-america]
 source: Passport to Magonia
 ---
 

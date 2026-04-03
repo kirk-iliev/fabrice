@@ -2,7 +2,8 @@
 title: "Case 892 — Dympep (India)"
 date: 1967-10-27
 location: "Dympep (India)"
-tags: [case, CE1]
+country: "India"
+tags: [case, CE1, india, asia]
 source: Passport to Magonia
 ---
 

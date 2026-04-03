@@ -2,7 +2,8 @@
 title: "Case 298 — Ran ton (Great Britain)"
 date: 1954-10-21
 location: "Ran ton (Great Britain)"
-tags: [case, humanoid, CE3]
+country: "Great Britain"
+tags: [case, humanoid, CE3, great-britain, europe]
 source: Passport to Magonia
 ---
 

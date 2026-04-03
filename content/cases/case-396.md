@@ -2,7 +2,8 @@
 title: "Case 396 — duly 25,1957 Sao Sebastiao (Brazil)"
 date: 1957
 location: "duly 25,1957 Sao Sebastiao (Brazil)"
-tags: [case, humanoid, landing, CE3]
+country: "Brazil"
+tags: [case, humanoid, landing, CE3, brazil, south-america]
 source: Passport to Magonia
 ---
 

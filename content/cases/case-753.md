@@ -2,7 +2,8 @@
 title: "Case 753 — Alto (Tennessee)"
 date: 1966-04-05
 location: "Alto (Tennessee)"
-tags: [case, humanoid, CE3]
+country: "United States"
+tags: [case, humanoid, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

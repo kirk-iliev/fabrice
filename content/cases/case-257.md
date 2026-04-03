@@ -2,7 +2,8 @@
 title: "Case 257 — Chazey Wood (France)"
 date: 1954-10-14
 location: "Chazey Wood (France)"
-tags: [case, vehicle-interference, CE2]
+country: "France"
+tags: [case, vehicle-interference, CE2, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 921 — France"
 date: 1968-11-02
 location: "France"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

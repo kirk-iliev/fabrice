@@ -2,7 +2,8 @@
 title: "Case 693 — Exeter (New Hampshire)"
 date: 1965-09-03
 location: "Exeter (New Hampshire)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

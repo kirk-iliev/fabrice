@@ -2,7 +2,8 @@
 title: "Case 682 — Mount Airy (North Carolina)"
 date: 1965-08-20
 location: "Mount Airy (North Carolina)"
-tags: [case, trace-evidence, CE2]
+country: "United States"
+tags: [case, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

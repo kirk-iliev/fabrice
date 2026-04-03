@@ -2,7 +2,8 @@
 title: "Case 513 — Carignan (France)"
 date: 1960-12-09
 location: "Carignan (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

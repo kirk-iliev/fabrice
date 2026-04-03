@@ -2,7 +2,8 @@
 title: "Case 375 — Boisseuges (France)"
 date: 1955-09-16
 location: "Boisseuges (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

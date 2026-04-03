@@ -1,6 +1,5 @@
 ---
 title: "Case 141 — Sept"
-date: unknown
 location: "Sept"
 tags: [case, CE1]
 source: Passport to Magonia

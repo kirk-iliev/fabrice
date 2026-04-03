@@ -2,7 +2,8 @@
 title: "Case 666 — Belluco (Chile)"
 date: 1965-07-31
 location: "Belluco (Chile)"
-tags: [case, landing, CE2]
+country: "Chile"
+tags: [case, landing, CE2, chile, south-america]
 source: Passport to Magonia
 ---
 

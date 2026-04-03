@@ -2,7 +2,8 @@
 title: "Case 705 — Arequipa (Peru)"
 date: 1965-09-29
 location: "Arequipa (Peru)"
-tags: [case, humanoid, CE3]
+country: "Peru"
+tags: [case, humanoid, CE3, peru, south-america]
 source: Passport to Magonia
 ---
 

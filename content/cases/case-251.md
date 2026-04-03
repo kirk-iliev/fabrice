@@ -2,7 +2,8 @@
 title: "Case 251 — Shamsabad (Iran)"
 date: 1954-10-14
 location: "Shamsabad (Iran)"
-tags: [case, CE1]
+country: "Iran"
+tags: [case, CE1, iran, middle-east]
 source: Passport to Magonia
 ---
 

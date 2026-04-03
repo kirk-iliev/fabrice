@@ -1,6 +1,5 @@
 ---
 title: "Case 362 — Mar"
-date: unknown
 location: "Mar"
 tags: [case, CE1]
 source: Passport to Magonia

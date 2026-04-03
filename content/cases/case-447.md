@@ -2,7 +2,8 @@
 title: "Case 447 — El Cajon (California)"
 date: 1957
 location: "El Cajon (California)"
-tags: [case, humanoid, landing, CE3]
+country: "United States"
+tags: [case, humanoid, landing, CE3, united-states, north-america]
 source: Passport to Magonia
 ---
 

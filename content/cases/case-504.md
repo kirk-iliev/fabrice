@@ -2,7 +2,8 @@
 title: "Case 504 — Sarasota (Florida)"
 date: 1960-05-04
 location: "Sarasota (Florida)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 490 — Boianai (New Guinea)"
 date: 1959-06-26
 location: "Boianai (New Guinea)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "Papua New Guinea"
+tags: [case, landing, vehicle-interference, CE2, papua-new-guinea, oceania]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 013 — Everest (Kansas)"
 date: 1897-04-01
 location: "Everest (Kansas)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

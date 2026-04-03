@@ -2,7 +2,8 @@
 title: "Case 359 — Melbourne (Australia)"
 date: 1955-01-03
 location: "Melbourne (Australia)"
-tags: [case, CE1]
+country: "Australia"
+tags: [case, CE1, australia, oceania]
 source: Passport to Magonia
 ---
 

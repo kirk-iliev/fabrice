@@ -2,7 +2,8 @@
 title: "Case 861 — Conrado (Brazil)"
 date: 1967-08-03
 location: "Conrado (Brazil)"
-tags: [case, vehicle-interference, CE2]
+country: "Brazil"
+tags: [case, vehicle-interference, CE2, brazil, south-america]
 source: Passport to Magonia
 ---
 

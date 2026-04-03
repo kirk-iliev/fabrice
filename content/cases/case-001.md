@@ -2,7 +2,8 @@
 title: "Case 001 — Copiago (Chile)"
 date: 1868-07
 location: "Copiago (Chile)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "Chile"
+tags: [case, landing, vehicle-interference, CE2, chile, south-america]
 source: Passport to Magonia
 ---
 

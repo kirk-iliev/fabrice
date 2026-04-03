@@ -2,7 +2,8 @@
 title: "Case 686 — Bury's Bridge (Eire)"
 date: 1965-08-21
 location: "Bury's Bridge (Eire)"
-tags: [case, CE1]
+country: "Ireland"
+tags: [case, CE1, ireland, europe]
 source: Passport to Magonia
 ---
 

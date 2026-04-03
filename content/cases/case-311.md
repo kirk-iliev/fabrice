@@ -2,7 +2,8 @@
 title: "Case 311 — La Madicre (France)"
 date: 1954-10-26
 location: "La Madicre (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

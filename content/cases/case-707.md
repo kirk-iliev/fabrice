@@ -2,7 +2,8 @@
 title: "Case 707 — Southington (Connecticut)"
 date: 1965-10-04
 location: "Southington (Connecticut)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

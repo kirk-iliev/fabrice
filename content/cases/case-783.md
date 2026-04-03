@@ -2,7 +2,8 @@
 title: "Case 783 — Montsoreau (France)"
 date: 1966-07-28
 location: "Montsoreau (France)"
-tags: [case, trace-evidence, CE2]
+country: "France"
+tags: [case, trace-evidence, CE2, france, europe]
 source: Passport to Magonia
 ---
 

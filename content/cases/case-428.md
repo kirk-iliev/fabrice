@@ -2,7 +2,8 @@
 title: "Case 428 — Lake County (Ohio)"
 date: 1957-11-06
 location: "Lake County (Ohio)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

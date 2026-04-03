@@ -2,7 +2,8 @@
 title: "Case 422 — New Castle (Indiana)"
 date: 1957-11-05
 location: "New Castle (Indiana)"
-tags: [case, vehicle-interference, CE2]
+country: "United States"
+tags: [case, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

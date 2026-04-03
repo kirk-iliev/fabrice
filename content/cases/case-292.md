@@ -2,7 +2,8 @@
 title: "Case 292 — Lusigny Forest (France)"
 date: 1954-10-20
 location: "Lusigny Forest (France)"
-tags: [case, CE1]
+country: "France"
+tags: [case, CE1, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 307 — Plemet (France)"
 date: 1954-10-25
 location: "Plemet (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 696 — San Joaquin (Peru)"
 date: 1965-09-07
 location: "San Joaquin (Peru)"
-tags: [case, landing, trace-evidence, CE2]
+country: "Peru"
+tags: [case, landing, trace-evidence, CE2, peru, south-america]
 source: Passport to Magonia
 ---
 

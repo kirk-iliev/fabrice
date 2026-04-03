@@ -2,7 +2,8 @@
 title: "Case 612 — Penberville (Ohio)"
 date: 1964-06-13
 location: "Penberville (Ohio)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

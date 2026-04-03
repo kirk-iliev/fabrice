@@ -2,7 +2,8 @@
 title: "Case 106 — Castclfranco (Italy)"
 date: 1952-11-18
 location: "Castclfranco (Italy)"
-tags: [case, humanoid, CE3]
+country: "Italy"
+tags: [case, humanoid, CE3, italy, europe]
 source: Passport to Magonia
 ---
 

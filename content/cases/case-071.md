@@ -2,7 +2,8 @@
 title: "Case 071 — Fall, 1949 Tulsa (Oklahoma)"
 date: 1949
 location: "Fall, 1949 Tulsa (Oklahoma)"
-tags: [case, vehicle-interference, CE2]
+country: "United States"
+tags: [case, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

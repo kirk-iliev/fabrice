@@ -2,7 +2,8 @@
 title: "Case 248 — Crocq (France)"
 date: 1954-10-13
 location: "Crocq (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

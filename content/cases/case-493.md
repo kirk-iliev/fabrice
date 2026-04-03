@@ -2,7 +2,8 @@
 title: "Case 493 — Sombrero (Tierra del Fuego)"
 date: 1959-08-09
 location: "Sombrero (Tierra del Fuego)"
-tags: [case, vehicle-interference, CE2]
+country: "Argentina"
+tags: [case, vehicle-interference, CE2, argentina, south-america]
 source: Passport to Magonia
 ---
 

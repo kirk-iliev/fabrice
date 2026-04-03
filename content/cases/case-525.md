@@ -2,7 +2,8 @@
 title: "Case 525 — La Porte (Indiana)"
 date: 1961-09-30
 location: "La Porte (Indiana)"
-tags: [case, landing, CE2]
+country: "United States"
+tags: [case, landing, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,8 @@
 title: "Case 278 — O Alvito (Portugal)"
 date: 1954-10-17
 location: "O Alvito (Portugal)"
-tags: [case, CE1]
+country: "Portugal"
+tags: [case, CE1, portugal, europe]
 source: Passport to Magonia
 ---
 

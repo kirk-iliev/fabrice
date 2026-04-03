@@ -2,7 +2,8 @@
 title: "Case 858 — jewish Creek (Florida)"
 date: 1967-07-21
 location: "jewish Creek (Florida)"
-tags: [case, landing, trace-evidence, CE2]
+country: "United States"
+tags: [case, landing, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

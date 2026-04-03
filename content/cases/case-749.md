@@ -2,7 +2,8 @@
 title: "Case 749 — Wycheproof (Australia)"
 date: 1966-04-05
 location: "Wycheproof (Australia)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "Australia"
+tags: [case, landing, vehicle-interference, CE2, australia, oceania]
 source: Passport to Magonia
 ---
 

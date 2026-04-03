@@ -2,7 +2,8 @@
 title: "Case 812 — Winsted (Minnesota)"
 date: 1967-01-25
 location: "Winsted (Minnesota)"
-tags: [case, landing, vehicle-interference, CE2]
+country: "United States"
+tags: [case, landing, vehicle-interference, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

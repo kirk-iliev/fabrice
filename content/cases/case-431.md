@@ -2,7 +2,8 @@
 title: "Case 431 — Boerne (Texas)"
 date: 1957-11-06
 location: "Boerne (Texas)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

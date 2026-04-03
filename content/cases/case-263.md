@@ -2,7 +2,8 @@
 title: "Case 263 — Saint-Pierre-Haltc (France)"
 date: 1954-10-15
 location: "Saint-Pierre-Haltc (France)"
-tags: [case, landing, CE2]
+country: "France"
+tags: [case, landing, CE2, france, europe]
 source: Passport to Magonia
 ---
 

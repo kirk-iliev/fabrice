@@ -2,7 +2,8 @@
 title: "Case 432 — Baskatong Lake (Canada)"
 date: 1957-11-06
 location: "Baskatong Lake (Canada)"
-tags: [case, vehicle-interference, CE2]
+country: "Canada"
+tags: [case, vehicle-interference, CE2, canada, north-america]
 source: Passport to Magonia
 ---
 

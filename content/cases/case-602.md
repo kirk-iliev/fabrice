@@ -2,7 +2,8 @@
 title: "Case 602 — Comstock (Minnesota)"
 date: 1964-05-05
 location: "Comstock (Minnesota)"
-tags: [case, trace-evidence, CE2]
+country: "United States"
+tags: [case, trace-evidence, CE2, united-states, north-america]
 source: Passport to Magonia
 ---
 

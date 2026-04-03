@@ -2,7 +2,8 @@
 title: "Case 595 — Lordsbury (New Mexico)"
 date: 1964-04-22
 location: "Lordsbury (New Mexico)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 

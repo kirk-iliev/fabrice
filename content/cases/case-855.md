@@ -2,7 +2,8 @@
 title: "Case 855 — Are-sous-Cicon (France)"
 date: 1967-07-17
 location: "Are-sous-Cicon (France)"
-tags: [case, humanoid, CE3]
+country: "France"
+tags: [case, humanoid, CE3, france, europe]
 source: Passport to Magonia
 ---
 

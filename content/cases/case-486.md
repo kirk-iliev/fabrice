@@ -2,7 +2,8 @@
 title: "Case 486 — Svendborg (Denmark)"
 date: 1959-04-15
 location: "Svendborg (Denmark)"
-tags: [case, landing, CE2]
+country: "Denmark"
+tags: [case, landing, CE2, denmark, europe]
 source: Passport to Magonia
 ---
 

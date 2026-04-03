@@ -2,7 +2,8 @@
 title: "Case 093 — Hasselbach (Germany)"
 date: 1952-07-11
 location: "Hasselbach (Germany)"
-tags: [case, humanoid, CE3]
+country: "Germany"
+tags: [case, humanoid, CE3, germany, europe]
 source: Passport to Magonia
 ---
 

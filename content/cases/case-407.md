@@ -2,7 +2,8 @@
 title: "Case 407 — Francisco de Sales (Brazil)"
 date: 1957-10-05
 location: "Francisco de Sales (Brazil)"
-tags: [case, CE1]
+country: "Brazil"
+tags: [case, CE1, brazil, south-america]
 source: Passport to Magonia
 ---
 

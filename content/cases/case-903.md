@@ -2,7 +2,8 @@
 title: "Case 903 — Holmes County (Ohio)"
 date: 1967-12-22
 location: "Holmes County (Ohio)"
-tags: [case, CE1]
+country: "United States"
+tags: [case, CE1, united-states, north-america]
 source: Passport to Magonia
 ---
 
