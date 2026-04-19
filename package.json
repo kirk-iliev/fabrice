@@ -1,15 +1,15 @@
 {
-  "name": "@jackyzha0/quartz",
-  "description": "🌱 publish your digital garden and notes as a website",
+  "name": "fabrice",
+  "description": "Vallée's UFO Catalog — Passport to Magonia",
   "private": true,
-  "version": "4.5.2",
+  "version": "1.0.0",
   "type": "module",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "kirk-iliev <kirkiliev0@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://kirk-iliev.github.io/fabrice",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git"
+    "url": "https://github.com/kirk-iliev/fabrice.git"
   },
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
