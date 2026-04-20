@@ -4,18 +4,18 @@ title: Fabrice — Vallée's UFO Catalog
 
 # Fabrice
 
-A searchable wiki of UFO close encounter cases drawn from Jacques Vallée's *Passport to Magonia* (1969) — 923 cases spanning 1897 to 1968.
+A searchable, cross-referenced wiki of UFO close encounter cases and anomalies drawn from the works of Jacques Vallée, starting with *Passport to Magonia* and *Wonders in the Sky*, but intended to grow into a generalized dataset of his extensive research.
 
 ## Browse Cases
 
 - [[cases/]] — Full case index
-- [By tag](/tags/) — Filter by CE1, CE2, CE3, landing, humanoid, trace-evidence, and more
+- [By tag](/tags/) — Filter by geographic location, classification (CE1, CE2, CE3), phenomena (humanoid, trace-evidence), and more
 
 ## About
 
-*Passport to Magonia* catalogs 923 UFO close encounter reports collected by Jacques Vallée, organized chronologically. Each case includes the date, location, witness description, and original source citation.
+This project was built to digitize and structure the vast catalogs of unexplained aerial phenomena and close encounters collected by Jacques Vallée and his collaborators. Currently, the database contains over 1,450 cases spanning from Antiquity to the modern era.
 
-This wiki was built to make the appendix searchable and cross-referenced. Cases sharing locations, dates, or phenomena are linked automatically via Quartz backlinks and tags.
+Each case includes the date, location, a detailed description, and the original source citation. By standardizing this data, the wiki makes historical and modern reports fully searchable and cross-referenced. Cases sharing locations, dates, or specific phenomena are linked automatically via Quartz backlinks and tags.
 
 ### Tag Guide
 
@@ -29,6 +29,8 @@ This wiki was built to make the appendix searchable and cross-referenced. Cases 
 | `trace-evidence` | Physical traces found at site |
 | `vehicle-interference` | Car engine, lights, or radio affected |
 
-## Source
+## Primary Sources
 
-Vallée, Jacques. *Passport to Magonia: From Folklore to Flying Saucers*. Henry Regnery Company, 1969.
+- Vallée, Jacques. *Passport to Magonia: From Folklore to Flying Saucers*. Henry Regnery Company, 1969.
+- Vallée, Jacques, and Chris Aubeck. *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times*. TarcherPerigee, 2010.
+

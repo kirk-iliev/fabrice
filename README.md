@@ -1,25 +1,24 @@
 # Fabrice — Vallée's UFO Catalog
 
-A searchable wiki of UFO close encounter cases drawn from Jacques Vallée's *Passport to Magonia* (1969). This project uses [Quartz](https://quartz.jzhao.xyz/) as its publishing engine to organize 923 cases spanning 1897 to 1968.
+A searchable, cross-referenced wiki of UFO close encounter cases and anomalies drawn from the works of Jacques Vallée. This project uses [Quartz](https://quartz.jzhao.xyz/) as its publishing engine to organize over 1,450 cases spanning from Antiquity to the modern era.
 
 🔗 **Live Site:** [https://kirk-iliev.github.io/fabrice](https://kirk-iliev.github.io/fabrice)
 
 ## About
 
-*Passport to Magonia* catalogs 923 UFO close encounter reports collected by Jacques Vallée, organized chronologically. This project digitizes the appendix, making it searchable and cross-referenced by location, date, and phenomenon type.
+This project digitizes and structures the vast catalogs of unexplained aerial phenomena collected by Jacques Vallée and his collaborators. While it currently heavily features cases from *Passport to Magonia* (1969) and *Wonders in the Sky* (2010), it is intended to grow into a generalized dataset representing his extensive research.
 
 ### Features
 
-- **Searchable Index:** Quick access to all 923 cases.
-- **Categorization:** Cases are tagged by classification (CE1, CE2, CE3), phenomena (humanoid, trace-evidence), and more.
+- **Searchable Index:** Quick access to a rapidly growing database of cases.
+- **Categorization:** Cases are tagged by classification (CE1, CE2, CE3), phenomena (humanoid, trace-evidence), and exact geographic locations.
 - **Geographic & Chronological Linking:** Quartz backlinks and tags connect cases sharing locations or timeframes.
 
 ## Project Structure
 
 - `content/`: The Markdown files for each case and site pages.
-- `extract/`: Python scripts used for OCR processing and data extraction from the source PDF.
+- `extract/`: Python scripts used for OCR processing, text parsing, and data extraction from source materials.
 - `quartz/`: The underlying Quartz engine and UI components.
-- `JacquesValleePassporttoMagonia.pdf`: The original source material.
 
 ## Development
 
@@ -42,12 +41,11 @@ This project requires [Node.js](https://nodejs.org/) (v18 or higher).
 
 ## Data Extraction
 
-The cases are extracted from the provided PDF using the scripts in the `extract/` directory.
+The cases are extracted from provided source texts using the scripts in the `extract/` directory.
 
-- `extract_cases.py`: Parses the text and creates initial JSON.
-- `fix_cases.py`: Cleans up OCR errors and formats data.
+- `extract_cases.py` / `wonders_parser.py`: Parses raw text and creates structured JSON.
 - `json_to_markdown.py`: Generates the Quartz-compatible Markdown files in `content/cases/`.
 
 ## License
 
-The code for this project is licensed under the [MIT License](LICENSE.txt). The content is based on the work of Jacques Vallée.
+The code for this project is licensed under the [MIT License](LICENSE.txt). The content is based on the research and works of Jacques Vallée.
