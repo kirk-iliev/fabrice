@@ -1,0 +1,16 @@
+---
+title: "W034 — Rome, Italy: A bright circle in the midday sky"
+date: 14 April 1054
+location: "Rome, Italy"
+tags: ["case", "wonders-in-the-sky", "rome", "italy"]
+source: Wonders in the Sky
+---
+
+## Rome, Italy — 14 April 1054
+
+### A bright circle in the midday sky
+
+In their paper "Do We Need to Redate the Birth of the Crab Nebula?" astronomers Guidoboni, Marmo, and Polcaro quote from the Tractatus de Ecclesia S. Petri Aldeburgensi, written by a monk or a clerk of the church of St. Peter in the town of Oudenburg, in present-day Belgium, regarding aerial phenomena observed at the time of the death of Pope Leo IX. They argue that the event described was a supernova, which is possible but unlikely. "The most blessed Pope Leo, after the beginning of the construction of the aforementioned church of St. Peter, in the following year, on the 18th day before the first of May (i.e., 14 April 1054), a Monday, around midday, happily departed this world. And at the same time and hour as his leaving of the flesh, not only in Rome, where his body lies, but also all over the world appeared to men a circle in the sky of extraordinary brightness which lasted for about half an hour. Perhaps the Lord wished to say that he [the Pope] was worthy to receive a crown in Heaven between those who love Him." The supernova that gave rise to the Crab Nebula was first seen by Chinese astronomers who noted a "guest star" in the constellation Taurus on July 4, 1054, fully three months after the Rome sighting. Simon Mitton lists 5 independent preserved FarEast records of this event (one of 75 authentic guest stars - novae and supernovae, excluding comets - systematically recorded by Chinese astronomers between 532 BC and 1064 AD). This star became about 4 times brighter than Venus in its brightest light, or about magnitude -6, and was visible in daylight for 23 days. It was probably also recorded by Anasazi Indian artists (in present-day Arizona and New Mexico), as findings in Navaho Canyon and White Mesa as well as in the Chaco Canyon National Park (New Mexico) indicate. th The astronomers note that the English translation of the Latin terms "circulus" and "corona" is not perfect, because they do not convey the original sense of "disc" that the Flemish writer expressed in his text. "The fact that corona was conceived as a bright disk (or shield) makes us understand that also circulus in this context must mean the same object. In conclusion, the Flemish chronicler saw a bright disk in the sky, and not a halo. Furthermore, we can observe that in this document, the author describes the phenomenon in neutral terms, unaffected by any set of beliefs: the disk-like shape, the intense brightness and the duration of the phenomenon are all elements common to very different cultures. The author separates the description of the phenomenon from his cautious symbolic interpretation, showing a clear awareness of the different levels of discourse." Note that the text of the Tractatus does not give the correct date for the Pope's death, which was 19 April 1054.
+
+**Source:** E. Guibodoni, C. Marmo and V.F. Polcaro, "Do we Need to Redate the Birth of the Carb Nebula?" Memorie della Societa Astronomica Italiana 65 (1994): 624.
+**Case:** W034

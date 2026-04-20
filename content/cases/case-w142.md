@@ -1,0 +1,16 @@
+---
+title: "W142 — Porco, Peru: An unexplained "comet" is taken as an omen"
+date: 13 January 1553
+location: "Porco, Peru"
+tags: ["case", "wonders-in-the-sky", "porco", "peru"]
+source: Wonders in the Sky
+---
+
+## Porco, Peru — 13 January 1553
+
+### An unexplained "comet" is taken as an omen
+
+Nicolas de Martinez Arzanz y Vela, author of Historic de la Villa Imperial de Potosi (1705), writes in Chapter 2: "As Don Sebastian and his allies were getting the people and the weapons ready to carry out the revolt in this Town, and Captain Francisco Hernandez Giron in his divisioil of Chaqui...was also preparing for his...there appeared in the sky, above Porco, three suns and two moons in the middle of a great ring, and within it two blue and red arches. On the same day there appeared above this rich Imperial Hill and Town another two arches of various colors and a notable comet as red as blood. Enrico Martinez, His Majesty's Cosmologist in the Peruvian Kingdom, says the following (...) "'On Friday January 13th 1553, fifty two days before General Hinojosa was killed, at seven o'clock in the morning there appeared in the sky, in Porco, the large ring that passes through the middle of the natural sun and through the other Suns and Moons; it was stretching towards the west, and was entirely white, a span in thickness; this ring seemed to be half a league in diameter. The natural sun was a little red, almost like blood, and the two at its side very red, just like blood, so much so that the brightness and fire caused those who saw it to avert their eyes. The two Moons at the front were like white Moons, slightly red; the two Arches that appeared were blue and red, as they usually appear; the small arch was wider than the blue one.'" So far it seems we are dealing with an unusual, but perfectly natural, atmospheric phenomenon. More interesting is the so-called "comet" that was seen in connection with it: "The comet that appeared outside the ring was very fiery and blood-red, with a formidable curly head and the tail was similar. This comet was seen in Porco and in all the surrounding areas. The comet was seen for seven days at dawn over the rich land of Potosi, with another two arches, one very white which looked like polished silver, and the other was above this one and was almost blood-red and was as bright as fire..." This description does not match a cometary object, and at 7 A.M. this could hardly have been an aurora borealis. The social reaction to the phenomenon is even more interesting: "The astonished Indians, covering their faces and spitting in the air, cried: Aacca, Aucca, maiccan Apuhuanuncca. These words signified some bad event, abominable action or frightful ruin, which is all conveyed by the word Aucca, a name they also give to any visible or invisible enemy (...) The death of the great Apuc followed that of Francisco Hernandez Giron, who, with the income from his villages, was to appear like the Sun three times in the bloody victories he had; and twice like the Moon, in the waning of his fortune with his imprisonment and death." The complex phenomena described here could only be accounted for by a combination of very unusual atmospheric circumstances.
+
+**Source:** 
+**Case:** W142

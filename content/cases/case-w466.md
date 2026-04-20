@@ -1,0 +1,16 @@
+---
+title: "W466 — Galilee: The Star of Bethlehem"
+date: Circa 5 BC
+location: "Galilee: The Star of Bethlehem"
+tags: ["case", "wonders-in-the-sky", "galilee-the-star-of-bethlehem"]
+source: Wonders in the Sky
+---
+
+## Galilee: The Star of Bethlehem — Circa 5 BC
+
+### 
+
+The birth of Christ presents us with a remarkable, if controversial, report of an extraordinary star. It is often cited in the UFO literature as an example of the relationship between signs in the sky, celestial beings and human reproduction. A very bright object was reportedly seen in the sky, leading the three Magi to the place where Jesus was born. Many possible explanations have been advanced for this "Star of Bethlehem," thought by some to be Venus, or a nova. The lack of a precise date or even year for the birth of Jesus makes it difficult to reach a definite conclusion about the nature of this celestial object. Fig. 45: The Star of Bethlehem The New Testament describes an encounter between a young woman named Mary and an entity from the sky, described as an angel: "The angel Gabriel was sent by God to a town in Galilee called Nazareth, to a virgin betrothed to a man named Joseph, of the House of David; and the virgin's name was Mary. He went in and said to her, Rejoice, so highly favored! The Lord is with you.'" "She was deeply disturbed by these words and asked herself what this greeting could mean, but the angel said to her, 'Mary, do not be afraid; you have won God's favor. Listen! You are to conceive and bear a Son, and you must name him Jesus. He will be great and will be called Son of the Most High.The Lord God will give him the throne of his ancestor David; he will rule over the House of Jacob forever and his reign will have no end." (Luke 1:26-38) This scene has inspired numerous painters, who consistently show a light above Mary, sometimes associated with a bird, and the angel speaking to her. We will return t(? the question of artistic representation of such events in Part III. Interestingly, the thirteenth-century Golden Legend of Jacques de Voragine, an authoritative source on the lives of the Saints and the chronology of Catholic feasts, questions the nature of the star: "Some say that it was the Holy Ghost, Who had taken this form in order to guide the Magi. Others think it was an angel who also appeared to the shepherds. Still others, with whom we agree, are of the opinion that it was a heavenly body newly created, and that once it had fulfilled its mission, it was absorbed once more into the matter of the universe." Ca. 28 AD, Jerusalem: Judas enters a luminous cloud "Look, you have been told everything," Jesus says to Judas after whispering secrets to his friend and most loyal follower. "Lift up your eyes and look at the cloud and the light within it and the stars surrounding it. The star that leads the way is your star." Judas lifted his eyes and saw the luminous cloud, and he entered it.
+
+**Source:** The Gospel of Judas, a newly-deciphered Coptic codex released in 2006 by the National Geographic Society, Washington, D.C.
+**Case:** W466

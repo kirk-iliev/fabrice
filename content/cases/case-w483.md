@@ -1,0 +1,16 @@
+---
+title: "W483 — Lindsey, England: Miracles from Heaven chase the Devil away"
+date: Circa 685
+location: "Lindsey, England"
+tags: ["case", "wonders-in-the-sky", "lindsey", "england"]
+source: Wonders in the Sky
+---
+
+## Lindsey, England — Circa 685
+
+### Miracles from Heaven chase the Devil away
+
+How a light from Heaven stood all night over King Oswald's relics, and how those possessed with devils were healed by them: "I think we ought not to pass over in silence the miracles and signs from Heaven that were shown when King Oswald's bones were found, and translated into the church where they are now preserved. "It was revealed by a sign from Heaven with how much reverence they ought to be received by all the faithful; for all that night, a pillar of light, reaching from the wagon &p to heaven, was visible in almost every part of the province of Lindsey. Hereupon, in the morning, the brethren of that monastery who had refused it the day before, began themselves earnestly to pray that those holy relics, beloved of God, might be laid among them. (...) Then they poured out the water in which they had washed the bones, in a corner of the cemetery. From that time, the very earth which received that holy water had the power of saving grace in casting out devils from the bodies of persons possessed. "Lastly, there came to visit her (the queen) a certain venerable abbess, who is still living, called Ethelhild, the sister of the holy men, Ethelwinand Aldwin, the first of whom was bishop in the province of Lindsey, the other abbot of the monastery of Peartaneu; not far from which was the monastery of Ethelhild. When this lady was come, in a conversation between her and the queen, the discourse turning upon Oswald, she said, that she also had that night seen the light over his relics reaching up to heaven. The queen thereupon added, that the very dust of the pavement on which the water that washed the bones had been poured out, had already healed many sick persons. "The abbess thereupon desired that some of that health-bringing dust might be given her, and, receiving it, she tied it up in a cloth, and, putting it into a casket, returned home. "Some time after, when she was in her monastery, there came to it a guest, who was wont to be grievously tormented with an unclean spirit at night; he being hospitably entertained, when he had gone to bed after supper, was suddenly seized by the Devil, and began to cry out, to gnash his teeth, to foam at the mouth, and to writhe and distort his limbs. (...) When no hope appeared of easing him in his ravings, the abbess bethought herself of the dust, and immediately bade her handmaiden go and fetch her the casket in which it was. As soon as she came with it, as she had been bidden, and was entering the hall of the house, in the inner part whereof the possessed person was writhing in torment, he suddenly became silent, and laid down his head, as if he had been falling asleep, stretching out all his limbs to rest. 'Silence fell upon all and intent they gazed,' anxiously waiting to see the end of the matter. And after about the space of an hour the man that had been tormented sat up, and fetching a deep sigh, said, 'Now I am whole, for I am restored to my senses.'"
+
+**Source:** Bede the Venerable, Ecclesiastical History of England, op. cit.
+**Case:** W483

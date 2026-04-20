@@ -1,0 +1,16 @@
+---
+title: "W495 — Bingen, Germany: Figures within fiery flying disks"
+date: 1141
+location: "Bingen, Germany"
+tags: ["case", "wonders-in-the-sky", "bingen", "germany"]
+source: Wonders in the Sky
+---
+
+## Bingen, Germany — 1141
+
+### Figures within fiery flying disks
+
+Sainte Hildegard, 41, reports: "Heaven was opened and a fiery light of exceeding brilliance permeated my whole brain" Hildegard of Bingen (1098-1179) was a remarkable woman, a pioneer in many fields. At a time when few women wrote, Hildegard produced major works of theology and visionary texts. Kristina Lerman, writing on the UCSB (Santa Barbara) website, observed: "When few women were accorded respect, she was consulted by and advised bishops, popes, and kings. "She used the curative powers of natural objects for healing, and wrote treatises about natural history and medicinal uses of plants, animals, trees and stones. She is the first composer whose biography is known. She founded a vibrant convent, where her musical plays were performed. Revival of interest in this extraordinary woman of the middle ages was initiated by musicologists and historians of science and religion." As a girl, Hildegard started to have visions of luminous objects at the age of three. She soon realized she was unique in this ability and hid this gift for many years. Fig. 50: Visionary painting by Sainte Hildegard However, in 1141, Hildegard had a vision of God that gave her instant understanding of the meaning of the religious texts, and commanded her to write down everything she would observe: "And it came to pass... when I was 42years and 7 months old, that the heavens wer&* opened and a blinding light of exceptional brilliance flowed through my entire brain. And so it kindled my whole heart and breast like a flame, not burning but warming... " It is now generally agreed that Sainte Hildegard suffered from migraine, and that her experiences were a result of this condition. The way she describes her visions, the precursors and the debilitating aftereffects, points to classic symptoms of migraine sufferers. Although a number of visual hallucinations may occur, the more common ones described are the "scotomata" that often follow perceptions of phosphenes in the visual field. Scintillating scotomata are also associated with areas of total blindness in the visual field, something Hildegard might have been describing when she spoke of points of intense light, and also the "extinguished stars." Migraine attacks are usually followed by sickness, paralysis, blindness - all reported by Hildegard, and when they pass, by a period of rebound and feeling better than before, a euphoria also described by her. Among the strangest and most intense symptoms of migraine aura, are the occurrences of feelings of sudden familiarity and certitude... or its opposite. Such states are experienced, momentarily and occasionally, by everyone; their occurrence in migraine auras is marked by their overwhelming intensity and relatively long duration. As Kristina Lerman notes, "It is a tribute to the remarkable spirit and the intellectual powers of this woman that she was able to turn a debilitating illness into the word of God, and create so much with it."
+
+**Source:** 
+**Case:** W495

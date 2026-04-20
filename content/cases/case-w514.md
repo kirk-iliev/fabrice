@@ -1,0 +1,16 @@
+---
+title: "W514 — Holyhead near Peibio, Anglesey, Wales: Ships in the sky"
+date: 1743
+location: "Holyhead near Peibio, Anglesey, Wales"
+tags: ["case", "wonders-in-the-sky", "holyhead-near-peibio", "anglesey", "wales"]
+source: Wonders in the Sky
+---
+
+## Holyhead near Peibio, Anglesey, Wales — 1743
+
+### Ships in the sky
+
+Mr. Morris, an experienced mining engineer, master of many languages and eminent antiquarian, had a report from Anglesey. This was made by a farmer named William John Lewis whose steading lay near Peibio, a little place only a stone's throw from Holyhead. "Plowing" (as it was written) "with his servant boy in ye fields", he saw bearing down upon him a ship of 90 tons, rigged like a ketch, with its fore-tack at the cat-head and its pennant and antient flying. The day was described as indifferent and cloudy, but the detail of the ship could be clearly seen. It was "coming from ye mountains of Snowdon", not by sailing on the waves around Holy Island, but moving "about a Quarter of a mile High from ye Ground". The farmer called his wife. She ran from the farmhouse in time to see the ship in the sky retreating, its pennant lowered to the deck and all sails furled. It was steering stern foremost, making for whence it had come, the mountains of Snowdonia. Mr. Morris hastened to Holyhead and interviewed first the wife and then the husband, separately. Neither had any doubt about the circumstances. The wife had not acquaintance with sea terms, but was quite sure of what she had seen; her only doubt was what the neighbours might think if she allowed Mr. Morris to publish the affair. He found the husband at an inn, visiting Holyhead on farm business. He had no doubt that the man was sober and sincere, with no trace of the "melancolick" disposition that might have led him to exaggerate or imagine. The ship had been plain to see, exact in every detail; the keel could be observed from below; the sails were distended with the wind; when the foresail was lowered it hung in a natural way over bow. In the end a cloud hid the vessel from sight, but not before the farmer, his wife, and his boy had had their observation supported by a flock of birds that assembled to examine the phenomenon and flew round it from all directions. When the vessel began its backward journey, the birds with one accord flew from it northwards in the opposite direction. What finally persuaded Mr. Morris was the way in which the farmer - William John Lewis - assured him that he had seen another such ship exactly ten years earlier in much the same place, and that, ten years before then again, he had seen just such another. The ships were in each case very like the old packet-boats that plied between Holyhead and Ireland; the very ropes of the rigging could be counted one by one. He concluded: "Since the hill at Holyhead is the only height in Anglesey to face the distant loftiness of Snowdon, some trick of refraction may have been responsible for picking up vessels plying the Menai Straits and setting them, pennant and antient and all, to steer the skies above Peibio."
+
+**Source:** Wynford Vaughan-Thomas and Alun Llewellyn, The Shell Guide to Wales (Michael Joseph Ltd, 1969). The account is found under 'Holyhead' in the Gazetteer section of the book.
+**Case:** W514
