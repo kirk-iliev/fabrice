@@ -2,7 +2,7 @@
 title: "W228 — Tedworth, Wiltshire, England: The humanoid threat?"
 date: April 1662
 location: "Tedworth, Wiltshire, England"
-tags: ["case", "wonders-in-the-sky", "tedworth", "wiltshire", "england"]
+tags: ["case", "wonders-in-the-sky", "tedworth", "wiltshire", "england", "shape-light", "entities-humanoid", "physical-contact", "time-night"]
 source: Wonders in the Sky
 ---
 

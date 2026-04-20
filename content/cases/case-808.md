@@ -3,7 +3,7 @@ title: "Case 808 — Haynesville (Louisiana)"
 date: 1966-12-30
 location: "Haynesville (Louisiana)"
 country: "United States"
-tags: [case, trace-evidence, CE2, united-states, north-america]
+tags: [case, trace-evidence, CE2, united-states, north-america, shape-light, time-night]
 source: Passport to Magonia
 ---
 

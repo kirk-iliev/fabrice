@@ -2,7 +2,7 @@
 title: "W420 — Dharamsala, India: Lights in the heavens: On the evening of the day when a remarkable meteor had fallen in the area, a man who"
 date: 17 July 1860
 location: "Dharamsala, India: Lights in the heavens"
-tags: ["case", "wonders-in-the-sky", "dharamsala", "india"]
+tags: ["case", "wonders-in-the-sky", "dharamsala", "india", "shape-light", "time-dusk"]
 source: Wonders in the Sky
 ---
 

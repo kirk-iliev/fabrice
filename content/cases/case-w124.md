@@ -2,7 +2,7 @@
 title: "W124 — Rome, Italy: Demonic transportation: The Italian inquisitor Paulus Grillandus, whose Tractatus de Hereticis et Sortilegiis had"
 date: 1526
 location: "Rome, Italy: Demonic transportation"
-tags: ["case", "wonders-in-the-sky", "rome", "italy"]
+tags: ["case", "wonders-in-the-sky", "rome", "italy", "entities-multiple_types", "abduction", "time-night"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 342 — Santa Maria (Brazil)"
 date: 1954-11-22
 location: "Santa Maria (Brazil)"
 country: "Brazil"
-tags: [case, vehicle-interference, CE2, brazil, south-america]
+tags: [case, vehicle-interference, CE2, brazil, south-america, shape-disk]
 source: Passport to Magonia
 ---
 

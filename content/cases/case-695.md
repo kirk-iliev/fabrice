@@ -3,7 +3,7 @@ title: "Case 695 — Santa Barbara (Peru)"
 date: 1965-09-05
 location: "Santa Barbara (Peru)"
 country: "Peru"
-tags: [case, humanoid, CE3, peru, south-america]
+tags: [case, humanoid, CE3, peru, south-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

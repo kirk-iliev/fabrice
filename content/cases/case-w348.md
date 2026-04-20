@@ -8,8 +8,6 @@ source: Wonders in the Sky
 
 ## (Paris, 1818): 88-90. — Physique 9
 
-### 
-
 395.
 
 **Source:** 

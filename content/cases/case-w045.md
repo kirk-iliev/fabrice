@@ -2,7 +2,7 @@
 title: "W045 — Japan, exact location unknown: Close encounter"
 date: 12 August 1133
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan"]
+tags: ["case", "wonders-in-the-sky", "japan", "shape-light"]
 source: Wonders in the Sky
 ---
 

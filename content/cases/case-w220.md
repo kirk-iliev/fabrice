@@ -2,7 +2,7 @@
 title: "W220 — Goult, Vaucluse, France: A luminous figure heals a sick man"
 date: 1661
 location: "Goult, Vaucluse, France"
-tags: ["case", "wonders-in-the-sky", "goult", "vaucluse", "france"]
+tags: ["case", "wonders-in-the-sky", "goult", "vaucluse", "france", "shape-light", "entities-humanoid", "physical-contact"]
 source: Wonders in the Sky
 ---
 

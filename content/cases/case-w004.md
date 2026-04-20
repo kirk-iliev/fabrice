@@ -2,7 +2,7 @@
 title: "W004 — Ulster, Ireland: Aerial ships, seen along with their crews"
 date: 749
 location: "Ulster, Ireland"
-tags: ["case", "wonders-in-the-sky", "ulster", "ireland"]
+tags: ["case", "wonders-in-the-sky", "ulster", "ireland", "shape-multiple", "entities-humanoid"]
 source: Wonders in the Sky
 ---
 

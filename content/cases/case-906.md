@@ -3,7 +3,7 @@ title: "Case 906 — Chascomus (Brazil)"
 date: 1968
 location: "Chascomus (Brazil)"
 country: "Brazil"
-tags: [case, trace-evidence, CE2, brazil, south-america]
+tags: [case, trace-evidence, CE2, brazil, south-america, shape-cloud, vehicle-interference]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 301 — Saint-Hilaire-des-Loges (France)"
 date: 1954-10-23
 location: "Saint-Hilaire-des-Loges (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

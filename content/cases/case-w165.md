@@ -2,7 +2,7 @@
 title: "W165 — Saint-Denis, France: Sky phenomena"
 date: 12 January 1589
 location: "Saint-Denis, France"
-tags: ["case", "wonders-in-the-sky", "saint"]
+tags: ["case", "wonders-in-the-sky", "saint", "shape-multiple", "time-night"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W261 — Tobolsk, Russia: Double object descending"
 date: 28 November 1696
 location: "Tobolsk, Russia"
-tags: ["case", "wonders-in-the-sky", "tobolsk", "russia"]
+tags: ["case", "wonders-in-the-sky", "tobolsk", "russia", "time-dawn"]
 source: Wonders in the Sky
 ---
 

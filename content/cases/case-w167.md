@@ -2,7 +2,7 @@
 title: "W167 — Pinner, Middlesex, England: Transported away! CD"
 date: 1592
 location: "Pinner, Middlesex, England"
-tags: ["case", "wonders-in-the-sky", "pinner", "middlesex", "england"]
+tags: ["case", "wonders-in-the-sky", "pinner", "middlesex", "england", "entities-animal_form", "abduction"]
 source: Wonders in the Sky
 ---
 

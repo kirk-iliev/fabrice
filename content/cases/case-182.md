@@ -2,7 +2,7 @@
 title: "Case 182 — Oct"
 date: 1954
 location: "Oct"
-tags: [case, humanoid, CE3]
+tags: [case, humanoid, CE3, shape-disk, entities-humanoid, time-dawn]
 source: Passport to Magonia
 ---
 

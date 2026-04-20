@@ -2,7 +2,7 @@
 title: "W289 — Aberdeen, Scotland: Three globes of light"
 date: 5 August 1748
 location: "Aberdeen, Scotland"
-tags: ["case", "wonders-in-the-sky", "aberdeen", "scotland"]
+tags: ["case", "wonders-in-the-sky", "aberdeen", "scotland", "shape-light", "entities-humanoid", "time-afternoon"]
 source: Wonders in the Sky
 ---
 

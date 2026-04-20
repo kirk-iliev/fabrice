@@ -2,7 +2,7 @@
 title: "W253 — Paris Observatory, France: Mystery planetoid near Venus"
 date: 28 August 1686
 location: "Paris Observatory, France"
-tags: ["case", "wonders-in-the-sky", "paris-observatory", "france"]
+tags: ["case", "wonders-in-the-sky", "paris-observatory", "france", "shape-light", "time-dawn"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 295 — Parravicino d'Erba (Italy)"
 date: 1954-10-20
 location: "Parravicino d'Erba (Italy)"
 country: "Italy"
-tags: [case, humanoid, CE3, italy, europe]
+tags: [case, humanoid, CE3, italy, europe, entities-humanoid, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W081 — Caravaca, Spain: Two lights watch over holy relics"
 date: 1384
 location: "Caravaca, Spain"
-tags: ["case", "wonders-in-the-sky", "caravaca", "spain"]
+tags: ["case", "wonders-in-the-sky", "caravaca", "spain", "shape-light"]
 source: Wonders in the Sky
 ---
 

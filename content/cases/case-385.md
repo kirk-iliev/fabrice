@@ -3,7 +3,7 @@ title: "Case 385 — Cabo Frio (Brazil)"
 date: 1956
 location: "Cabo Frio (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, landing, CE3, brazil, south-america]
+tags: [case, humanoid, landing, CE3, brazil, south-america, shape-disk, entities-humanoid, communication, time-day]
 source: Passport to Magonia
 ---
 

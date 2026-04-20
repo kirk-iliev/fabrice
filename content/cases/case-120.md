@@ -3,7 +3,7 @@ title: "Case 120 — Gjersjoen Bridge (Norway)"
 date: 1953
 location: "Gjersjoen Bridge (Norway)"
 country: "Norway"
-tags: [case, CE1, norway, europe]
+tags: [case, CE1, norway, europe, vehicle-interference]
 source: Passport to Magonia
 ---
 

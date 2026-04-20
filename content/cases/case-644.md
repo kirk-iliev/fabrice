@@ -3,7 +3,7 @@ title: "Case 644 — Rivesville (West Virginia)"
 date: 1965-04-23
 location: "Rivesville (West Virginia)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-disk, entities-animal_form, trace-evidence, time-day]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W398 — Deal, Kent, England: Two dark objects"
 date: 5 February 1849
 location: "Deal, Kent, England"
-tags: ["case", "wonders-in-the-sky", "deal", "kent", "england"]
+tags: ["case", "wonders-in-the-sky", "deal", "kent", "england", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 

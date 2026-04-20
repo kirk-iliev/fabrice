@@ -3,7 +3,7 @@ title: "Case 723 — Horseshoe Lagoon, near Tully (Australia)"
 date: 1966-01-19
 location: "Horseshoe Lagoon, near Tully (Australia)"
 country: "Australia"
-tags: [case, CE1, australia, oceania]
+tags: [case, CE1, australia, oceania, shape-disk, trace-evidence, time-day]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 907 — Carlos Paz (Argentina)"
 date: 1968-06
 location: "Carlos Paz (Argentina)"
 country: "Argentina"
-tags: [case, vehicle-interference, CE2, argentina, south-america]
+tags: [case, vehicle-interference, CE2, argentina, south-america, shape-sphere, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

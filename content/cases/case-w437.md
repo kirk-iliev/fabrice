@@ -2,7 +2,7 @@
 title: "W437 — Marseille, France: Magnificent red object"
 date: 2 August 1871
 location: "Marseille, France"
-tags: ["case", "wonders-in-the-sky", "marseille", "france"]
+tags: ["case", "wonders-in-the-sky", "marseille", "france", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

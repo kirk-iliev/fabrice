@@ -2,7 +2,7 @@
 title: "W006 — Syburg Castle, Germany: Two flying objects stop a war"
 date: 776
 location: "Syburg Castle, Germany"
-tags: ["case", "wonders-in-the-sky", "syburg-castle", "germany"]
+tags: ["case", "wonders-in-the-sky", "syburg-castle", "germany", "shape-multiple", "animal-reaction"]
 source: Wonders in the Sky
 ---
 

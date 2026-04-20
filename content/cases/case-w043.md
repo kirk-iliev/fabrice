@@ -2,7 +2,7 @@
 title: "W043 — Pechorsky Monastery, Russia: A fiery pillar"
 date: 11 February 1110
 location: "Pechorsky Monastery, Russia"
-tags: ["case", "wonders-in-the-sky", "pechorsky-monastery", "russia"]
+tags: ["case", "wonders-in-the-sky", "pechorsky-monastery", "russia", "shape-fireball", "entities-humanoid", "time-night"]
 source: Wonders in the Sky
 ---
 

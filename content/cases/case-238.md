@@ -3,7 +3,7 @@ title: "Case 238 — Taupignac (France)"
 date: 1954-10-11
 location: "Taupignac (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, shape-disk, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

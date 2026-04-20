@@ -3,7 +3,7 @@ title: "Case 100 — Pennsylvania, exact location unknown"
 date: 1952-08-31
 location: "Pennsylvania, exact location unknown"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, trace-evidence]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 571 — Glencoe (Australia)"
 date: 1963-05-20
 location: "Glencoe (Australia)"
 country: "Australia"
-tags: [case, CE1, australia, oceania]
+tags: [case, CE1, australia, oceania, shape-light, vehicle-interference, time-evening]
 source: Passport to Magonia
 ---
 

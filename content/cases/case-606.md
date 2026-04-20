@@ -3,7 +3,7 @@ title: "Case 606 — Hubbard (Oregon)"
 date: 1964-05-18
 location: "Hubbard (Oregon)"
 country: "United States"
-tags: [case, trace-evidence, CE2, united-states, north-america]
+tags: [case, trace-evidence, CE2, united-states, north-america, shape-cylinder]
 source: Passport to Magonia
 ---
 

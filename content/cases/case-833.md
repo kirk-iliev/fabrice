@@ -3,7 +3,7 @@ title: "Case 833 — Crestview (Florida)"
 date: 1967-04-06
 location: "Crestview (Florida)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, time-day]
 source: Passport to Magonia
 ---
 

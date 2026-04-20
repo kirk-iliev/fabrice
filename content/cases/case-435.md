@@ -3,7 +3,7 @@ title: "Case 435 — Edinburgh (Scotland)"
 date: 1957-11-08
 location: "Edinburgh (Scotland)"
 country: "Great Britain"
-tags: [case, landing, CE2, great-britain, europe]
+tags: [case, landing, CE2, great-britain, europe, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

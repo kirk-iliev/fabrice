@@ -3,7 +3,7 @@ title: "Case 461 — Tampa (Florida)"
 date: 1958-03-02
 location: "Tampa (Florida)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-sphere]
 source: Passport to Magonia
 ---
 

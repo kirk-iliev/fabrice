@@ -3,7 +3,7 @@ title: "Case 539 — Bajeola Grande (Argentina)"
 date: 1962-07-30
 location: "Bajeola Grande (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, trace-evidence, vehicle-interference, CE3, argentina, south-america]
+tags: [case, humanoid, trace-evidence, vehicle-interference, CE3, argentina, south-america, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

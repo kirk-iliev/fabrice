@@ -2,7 +2,7 @@
 title: "W277 — Finis Terrae Cape, Galicia, Spain: Strangers from the sky"
 date: 1729
 location: "Finis Terrae Cape, Galicia, Spain"
-tags: ["case", "wonders-in-the-sky", "finis-terrae-cape", "galicia", "spain"]
+tags: ["case", "wonders-in-the-sky", "finis-terrae-cape", "galicia", "spain", "shape-cloud", "entities-humanoid", "communication"]
 source: Wonders in the Sky
 ---
 

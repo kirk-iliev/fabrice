@@ -3,7 +3,7 @@ title: "Case 596 — Tioga City (New York)"
 date: 1964-04-24
 location: "Tioga City (New York)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-egg, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 397 — Gait, Ontario (Canada)"
 date: 1957-07-30
 location: "Gait, Ontario (Canada)"
 country: "Canada"
-tags: [case, landing, CE2, canada, north-america]
+tags: [case, landing, CE2, canada, north-america, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

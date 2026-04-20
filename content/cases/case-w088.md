@@ -2,7 +2,7 @@
 title: "W088 — Languedoc, France: Aerial combat: \"In the land of Languedoc, a big star and five small ones were seen in the sky. These, as it"
 date: 1395
 location: "Languedoc, France: Aerial combat"
-tags: ["case", "wonders-in-the-sky", "languedoc", "france"]
+tags: ["case", "wonders-in-the-sky", "languedoc", "france", "shape-light", "entities-humanoid", "communication"]
 source: Wonders in the Sky
 ---
 

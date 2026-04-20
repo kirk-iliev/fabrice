@@ -2,7 +2,7 @@
 title: "W186 — Between Chartres and Paris, France: Three unexplained \"stars\""
 date: 28 May 1637
 location: "Between Chartres and Paris, France"
-tags: ["case", "wonders-in-the-sky", "chartres-and-paris", "france"]
+tags: ["case", "wonders-in-the-sky", "chartres-and-paris", "france", "shape-light"]
 source: Wonders in the Sky
 ---
 

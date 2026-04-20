@@ -3,7 +3,7 @@ title: "Case 531 — Mount Etna (Italy)"
 date: 1962-04-30
 location: "Mount Etna (Italy)"
 country: "Italy"
-tags: [case, humanoid, CE3, italy, europe]
+tags: [case, humanoid, CE3, italy, europe, shape-disk, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 058 — Bisbee (Arizona)"
 date: 1947-06-27
 location: "Bisbee (Arizona)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

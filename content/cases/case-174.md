@@ -3,7 +3,7 @@ title: "Case 174 — La Roulerie (France)"
 date: 1954-10-01
 location: "La Roulerie (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, entities-humanoid]
 source: Passport to Magonia
 ---
 

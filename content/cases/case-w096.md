@@ -2,7 +2,7 @@
 title: "W096 — Piacenza, Italy: Four unknowns"
 date: Late December 1456
 location: "Piacenza, Italy"
-tags: ["case", "wonders-in-the-sky", "piacenza", "italy"]
+tags: ["case", "wonders-in-the-sky", "piacenza", "italy", "shape-cross"]
 source: Wonders in the Sky
 ---
 

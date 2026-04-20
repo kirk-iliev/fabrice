@@ -3,7 +3,7 @@ title: "Case 405 — Deerwood Nike Base (Maryland)"
 date: 1957-09-29
 location: "Deerwood Nike Base (Maryland)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, trace-evidence]
 source: Passport to Magonia
 ---
 

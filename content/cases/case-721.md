@@ -3,7 +3,7 @@ title: "Case 721 — Wilmer (Alabama)"
 date: 1966-01-07
 location: "Wilmer (Alabama)"
 country: "United States"
-tags: [case, landing, vehicle-interference, CE2, united-states, north-america]
+tags: [case, landing, vehicle-interference, CE2, united-states, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

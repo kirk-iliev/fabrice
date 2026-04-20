@@ -3,7 +3,7 @@ title: "Case 758 — Millersville (Texas)"
 date: 1966-04-17
 location: "Millersville (Texas)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-oval, vehicle-interference, time-day]
 source: Passport to Magonia
 ---
 

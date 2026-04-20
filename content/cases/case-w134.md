@@ -2,7 +2,7 @@
 title: "W134 — Hamburg, Germany: Heat-generating globe"
 date: 15 December 1547
 location: "Hamburg, Germany"
-tags: ["case", "wonders-in-the-sky", "hamburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "hamburg", "germany", "shape-sphere", "injury-or-burn", "time-night"]
 source: Wonders in the Sky
 ---
 

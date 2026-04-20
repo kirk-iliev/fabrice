@@ -3,7 +3,7 @@ title: "Case 638 — Brooksville (Florida)"
 date: 1965-03-02
 location: "Brooksville (Florida)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-disk, entities-humanoid, physical-contact, time-day]
 source: Passport to Magonia
 ---
 

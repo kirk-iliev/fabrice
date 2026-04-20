@@ -2,7 +2,7 @@
 title: "W143 — Salon de Provence, France: Sighting report by Nostradamus"
 date: 1 February 1554
 location: "Salon de Provence, France"
-tags: ["case", "wonders-in-the-sky", "salon-de-provence", "france"]
+tags: ["case", "wonders-in-the-sky", "salon-de-provence", "france", "shape-fireball", "time-dusk"]
 source: Wonders in the Sky
 ---
 

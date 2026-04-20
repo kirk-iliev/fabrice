@@ -3,7 +3,7 @@ title: "Case 512 — La Londe (France)"
 date: 1960
 location: "La Londe (France)"
 country: "France"
-tags: [case, trace-evidence, CE2, france, europe]
+tags: [case, trace-evidence, CE2, france, europe, shape-disk, animal-reaction, time-night]
 source: Passport to Magonia
 ---
 

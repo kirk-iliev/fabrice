@@ -3,7 +3,7 @@ title: "Case 419 — Levelland (Texas)"
 date: 1957-11-02
 location: "Levelland (Texas)"
 country: "United States"
-tags: [case, landing, vehicle-interference, CE2, united-states, north-america]
+tags: [case, landing, vehicle-interference, CE2, united-states, north-america, shape-cigar, time-night]
 source: Passport to Magonia
 ---
 

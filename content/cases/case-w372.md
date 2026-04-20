@@ -2,7 +2,7 @@
 title: "W372 — Szeged, Hungary: Light globes and a lady in white"
 date: 1 July 1836
 location: "Szeged, Hungary"
-tags: ["case", "wonders-in-the-sky", "szeged", "hungary"]
+tags: ["case", "wonders-in-the-sky", "szeged", "hungary", "shape-light", "entities-humanoid", "abduction"]
 source: Wonders in the Sky
 ---
 

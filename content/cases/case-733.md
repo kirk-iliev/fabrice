@@ -3,7 +3,7 @@ title: "Case 733 — Fort Pierce (Florida)"
 date: 1966-03-23
 location: "Fort Pierce (Florida)"
 country: "United States"
-tags: [case, humanoid, trace-evidence, CE3, united-states, north-america]
+tags: [case, humanoid, trace-evidence, CE3, united-states, north-america, shape-light]
 source: Passport to Magonia
 ---
 

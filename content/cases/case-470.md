@@ -3,7 +3,7 @@ title: "Case 470 — Laval (France)"
 date: 1958-09-01
 location: "Laval (France)"
 country: "France"
-tags: [case, vehicle-interference, CE2, france, europe]
+tags: [case, vehicle-interference, CE2, france, europe, time-night]
 source: Passport to Magonia
 ---
 

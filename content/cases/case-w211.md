@@ -2,7 +2,7 @@
 title: "W211 — Statford Row, near London, England: A Great ship in the air"
 date: August 1660
 location: "Statford Row, near London, England"
-tags: ["case", "wonders-in-the-sky", "statford-row", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "statford-row", "london", "england", "shape-cigar"]
 source: Wonders in the Sky
 ---
 

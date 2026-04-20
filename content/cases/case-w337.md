@@ -2,7 +2,7 @@
 title: "W337 — London, Hatton Garden, England: Aerial ballet of dazzling lights"
 date: 10 August 1809
 location: "London, Hatton Garden, England"
-tags: ["case", "wonders-in-the-sky", "london", "hatton-garden", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "hatton-garden", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

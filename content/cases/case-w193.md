@@ -2,7 +2,7 @@
 title: "W193 — Akhaltsike, Georgia: Blue wheel descending"
 date: 14 September 1641
 location: "Akhaltsike, Georgia"
-tags: ["case", "wonders-in-the-sky", "akhaltsike", "georgia"]
+tags: ["case", "wonders-in-the-sky", "akhaltsike", "georgia", "shape-light", "time-dusk"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 532 — ujuy (Argentina)"
 date: 1962
 location: "ujuy (Argentina)"
 country: "Argentina"
-tags: [case, landing, CE2, argentina, south-america]
+tags: [case, landing, CE2, argentina, south-america, shape-sphere]
 source: Passport to Magonia
 ---
 

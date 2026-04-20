@@ -3,7 +3,7 @@ title: "Case 373 — Casa Blanca, Riverside (California)"
 date: 1955-08-22
 location: "Casa Blanca, Riverside (California)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-disk, entities-humanoid, communication, time-day]
 source: Passport to Magonia
 ---
 

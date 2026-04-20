@@ -2,7 +2,7 @@
 title: "W475 — France, exact location unknown: A battle of lights: Many witnesses. Brilliant rays of light hitting one another in the sky."
 date: 584
 location: "France, exact location unknown: A battle of lights"
-tags: ["case", "wonders-in-the-sky", "france"]
+tags: ["case", "wonders-in-the-sky", "france", "shape-light"]
 source: Wonders in the Sky
 ---
 

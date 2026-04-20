@@ -2,7 +2,7 @@
 title: "W151 — Tournai, Belgium: Great circles of fire"
 date: 26 September 1568
 location: "Tournai, Belgium"
-tags: ["case", "wonders-in-the-sky", "tournai", "belgium"]
+tags: ["case", "wonders-in-the-sky", "tournai", "belgium", "shape-multiple", "entities-humanoid", "time-evening"]
 source: Wonders in the Sky
 ---
 

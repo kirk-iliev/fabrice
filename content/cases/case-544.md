@@ -3,7 +3,7 @@ title: "Case 544 — Orland (California)"
 date: 1962
 location: "Orland (California)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-cylinder, time-night]
 source: Passport to Magonia
 ---
 

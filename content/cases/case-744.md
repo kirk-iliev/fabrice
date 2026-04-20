@@ -3,7 +3,7 @@ title: "Case 744 — San Francisco (California)"
 date: 1966-03-31
 location: "San Francisco (California)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-cylinder, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

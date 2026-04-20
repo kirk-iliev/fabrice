@@ -3,7 +3,7 @@ title: "Case 124 — Todd River Downs (Australia)"
 date: 1954
 location: "Todd River Downs (Australia)"
 country: "Australia"
-tags: [case, CE1, australia, oceania]
+tags: [case, CE1, australia, oceania, shape-sphere, animal-reaction]
 source: Passport to Magonia
 ---
 

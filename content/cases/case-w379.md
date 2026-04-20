@@ -2,7 +2,7 @@
 title: "W379 — Rome, Italy: Unidentified planet: Astronomer De Cuppis of the Royal College: unknown body similar to a planet passes in"
 date: 2 October 1839
 location: "Rome, Italy: Unidentified planet"
-tags: ["case", "wonders-in-the-sky", "rome", "italy"]
+tags: ["case", "wonders-in-the-sky", "rome", "italy", "shape-sphere", "time-day"]
 source: Wonders in the Sky
 ---
 

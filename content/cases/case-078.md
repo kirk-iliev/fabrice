@@ -3,7 +3,7 @@ title: "Case 078 — Abbiate Guazzone (Italy)"
 date: 1950-04-24
 location: "Abbiate Guazzone (Italy)"
 country: "Italy"
-tags: [case, humanoid, CE3, italy, europe]
+tags: [case, humanoid, CE3, italy, europe, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

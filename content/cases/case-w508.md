@@ -2,7 +2,7 @@
 title: "W508 — Quebec, Canada: Fireballs, preceded by explosions"
 date: 19 January 1665
 location: "Quebec, Canada"
-tags: ["case", "wonders-in-the-sky", "quebec", "canada"]
+tags: ["case", "wonders-in-the-sky", "quebec", "canada", "shape-fireball", "time-dusk"]
 source: Wonders in the Sky
 ---
 

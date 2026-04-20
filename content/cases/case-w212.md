@@ -2,7 +2,7 @@
 title: "W212 — London, England: Multiple unknown lights"
 date: September 1660
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "shape-light"]
 source: Wonders in the Sky
 ---
 

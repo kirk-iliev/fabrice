@@ -2,7 +2,7 @@
 title: "W365 — Tyrol, Germany: Hovering object"
 date: 14 November 1832
 location: "Tyrol, Germany"
-tags: ["case", "wonders-in-the-sky", "tyrol", "germany"]
+tags: ["case", "wonders-in-the-sky", "tyrol", "germany", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

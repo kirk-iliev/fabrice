@@ -3,7 +3,7 @@ title: "Case 691 — Huanuco (Peru)"
 date: 1965-09-01
 location: "Huanuco (Peru)"
 country: "Peru"
-tags: [case, humanoid, landing, CE3, peru, south-america]
+tags: [case, humanoid, landing, CE3, peru, south-america, shape-oval, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

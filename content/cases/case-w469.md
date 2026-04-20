@@ -2,7 +2,7 @@
 title: "W469 — near Verona, Italy: A pagan Emperor sees a cross in the sky"
 date: 312
 location: "near Verona, Italy"
-tags: ["case", "wonders-in-the-sky", "verona", "italy"]
+tags: ["case", "wonders-in-the-sky", "verona", "italy", "shape-cross", "communication", "time-night"]
 source: Wonders in the Sky
 ---
 

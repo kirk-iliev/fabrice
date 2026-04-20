@@ -3,7 +3,7 @@ title: "Case 372 — Hopkinsvflle (Kentucky)"
 date: 1955-08-21
 location: "Hopkinsvflle (Kentucky)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-light, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W268 — Hidaka County, Wakayama, Japan: White light"
 date: 28 October 1707
 location: "Hidaka County, Wakayama, Japan"
-tags: ["case", "wonders-in-the-sky", "hidaka-county", "wakayama", "japan"]
+tags: ["case", "wonders-in-the-sky", "hidaka-county", "wakayama", "japan", "shape-light"]
 source: Wonders in the Sky
 ---
 

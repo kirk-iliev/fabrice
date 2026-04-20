@@ -2,7 +2,7 @@
 title: "W467 — Britain: A terrible bloody sword in the air: \"At his [Decius'] coming to the Throne it Rained Blood in divers parts of this Kingdom,"
 date: Circa 249
 location: "Britain: A terrible bloody sword in the air"
-tags: ["case", "wonders-in-the-sky", "britain"]
+tags: ["case", "wonders-in-the-sky", "britain", "time-dusk"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 177 — Levroux (France)"
 date: 1954-10-02
 location: "Levroux (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

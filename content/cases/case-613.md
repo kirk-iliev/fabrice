@@ -3,7 +3,7 @@ title: "Case 613 — Dale (Indiana)"
 date: 1964-06-14
 location: "Dale (Indiana)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-sphere, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W363 — Kensington, Pennsylvania, USA: Bright red object crossing the Delaware"
 date: 17 July 1829
 location: "Kensington, Pennsylvania, USA"
-tags: ["case", "wonders-in-the-sky", "kensington", "pennsylvania", "usa"]
+tags: ["case", "wonders-in-the-sky", "kensington", "pennsylvania", "usa", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

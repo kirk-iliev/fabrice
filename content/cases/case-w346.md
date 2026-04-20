@@ -2,7 +2,7 @@
 title: "W346 — Ipswich, England: Unknown object near the sun"
 date: 6 January 1818
 location: "Ipswich, England"
-tags: ["case", "wonders-in-the-sky", "ipswich", "england"]
+tags: ["case", "wonders-in-the-sky", "ipswich", "england", "time-day"]
 source: Wonders in the Sky
 ---
 

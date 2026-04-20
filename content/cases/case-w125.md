@@ -2,7 +2,7 @@
 title: "W125 — Utrecht, Netherland: Yellow object in the sky: \"Cruel and strange observation\" of a yellow object in the sky, flying over during the siege"
 date: 1528
 location: "Utrecht, Netherland: Yellow object in the sky"
-tags: ["case", "wonders-in-the-sky", "utrecht", "netherland"]
+tags: ["case", "wonders-in-the-sky", "utrecht", "netherland", "shape-cross", "time-day"]
 source: Wonders in the Sky
 ---
 

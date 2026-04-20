@@ -2,7 +2,7 @@
 title: "Case 308 — Northern Italy (exact place unknown)"
 date: 1954-10-25
 location: "Northern Italy (exact place unknown)"
-tags: [case, humanoid, CE3]
+tags: [case, humanoid, CE3, shape-disk, entities-humanoid]
 source: Passport to Magonia
 ---
 

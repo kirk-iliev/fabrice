@@ -2,7 +2,7 @@
 title: "W147 — Nuremberg, Germany: Vertical cylinders"
 date: 14 April 1561
 location: "Nuremberg, Germany"
-tags: ["case", "wonders-in-the-sky", "nuremberg", "germany"]
+tags: ["case", "wonders-in-the-sky", "nuremberg", "germany", "shape-multiple", "trace-evidence", "time-dawn"]
 source: Wonders in the Sky
 ---
 

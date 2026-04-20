@@ -2,7 +2,7 @@
 title: "W472 — Kent, Britain: Weird sky phenomena, drops of blood"
 date: Circa 523
 location: "Kent, Britain"
-tags: ["case", "wonders-in-the-sky", "kent", "britain"]
+tags: ["case", "wonders-in-the-sky", "kent", "britain", "shape-multiple", "entities-animal_form"]
 source: Wonders in the Sky
 ---
 

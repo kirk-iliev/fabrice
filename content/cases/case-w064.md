@@ -2,7 +2,7 @@
 title: "W064 — France: A great light, ascending"
 date: 24 July 1239
 location: "France"
-tags: ["case", "wonders-in-the-sky", "france"]
+tags: ["case", "wonders-in-the-sky", "france", "shape-light", "time-dusk"]
 source: Wonders in the Sky
 ---
 

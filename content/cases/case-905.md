@@ -3,7 +3,7 @@ title: "Case 905 — Syracuse (New York)"
 date: 1968-03-03
 location: "Syracuse (New York)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cigar, vehicle-interference, time-morning]
 source: Passport to Magonia
 ---
 

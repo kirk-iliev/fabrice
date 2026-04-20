@@ -3,7 +3,7 @@ title: "Case 789 — Heraldsburg (California)"
 date: 1966-08-20
 location: "Heraldsburg (California)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-cylinder, injury-or-burn, time-night]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 017 — Cleveland (Ohio)"
 date: 1897-04-14
 location: "Cleveland (Ohio)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, entities-humanoid, time-day]
 source: Passport to Magonia
 ---
 

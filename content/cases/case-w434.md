@@ -2,7 +2,7 @@
 title: "W434 — Atlantic Ocean: Circle with five arms: On a very clear day, with the wind blowing from the north-northeast, Captain Frederick"
 date: 22 March 1870
 location: "Atlantic Ocean: Circle with five arms"
-tags: ["case", "wonders-in-the-sky", "atlantic-ocean"]
+tags: ["case", "wonders-in-the-sky", "atlantic-ocean", "shape-cross", "time-dusk"]
 source: Wonders in the Sky
 ---
 

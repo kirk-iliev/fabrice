@@ -2,7 +2,7 @@
 title: "W183 — Anhalt, Germany: Chariots in the sky"
 date: 12 May 1624
 location: "Anhalt, Germany"
-tags: ["case", "wonders-in-the-sky", "anhalt", "germany"]
+tags: ["case", "wonders-in-the-sky", "anhalt", "germany", "shape-multiple", "entities-humanoid", "time-dusk"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 489 — The Willows (South Africa)"
 date: 1959-06-21
 location: "The Willows (South Africa)"
 country: "South Africa"
-tags: [case, CE1, south-africa, africa]
+tags: [case, CE1, south-africa, africa, shape-disk]
 source: Passport to Magonia
 ---
 

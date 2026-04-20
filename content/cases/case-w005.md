@@ -2,7 +2,7 @@
 title: "W005 — France: Abductions and aerial ships CD: During the reign of Pepin le Bref (715-768) many extraordinary phenomena are said"
 date: Circa 760
 location: "France: Abductions and aerial ships CD"
-tags: ["case", "wonders-in-the-sky", "france"]
+tags: ["case", "wonders-in-the-sky", "france", "shape-multiple", "entities-humanoid", "abduction"]
 source: Wonders in the Sky
 ---
 

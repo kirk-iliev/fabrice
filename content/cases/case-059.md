@@ -3,7 +3,7 @@ title: "Case 059 — Grand Canyon, near Williams Field (Arizona)"
 date: 1947-06-30
 location: "Grand Canyon, near Williams Field (Arizona)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, time-day]
 source: Passport to Magonia
 ---
 

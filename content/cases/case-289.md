@@ -3,7 +3,7 @@ title: "Case 289 — Fabriano (Italy)"
 date: 1954-10-19
 location: "Fabriano (Italy)"
 country: "Italy"
-tags: [case, humanoid, CE3, italy, europe]
+tags: [case, humanoid, CE3, italy, europe, shape-disk, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

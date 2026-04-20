@@ -2,7 +2,7 @@
 title: "W388 — Saint-Apre, France: Bright globe emits 'stars'"
 date: 25 August 1846
 location: "Saint-Apre, France"
-tags: ["case", "wonders-in-the-sky", "saint"]
+tags: ["case", "wonders-in-the-sky", "saint", "shape-sphere", "time-night"]
 source: Wonders in the Sky
 ---
 

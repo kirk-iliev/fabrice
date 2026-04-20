@@ -3,7 +3,7 @@ title: "Case 527 — Catamarca (Argentina)"
 date: 1962-01-08
 location: "Catamarca (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, vehicle-interference, CE3, argentina, south-america]
+tags: [case, humanoid, vehicle-interference, CE3, argentina, south-america, shape-light, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W153 — Lepanto, Italy: A flaming column guides the fleet"
 date: 20 September 1571
 location: "Lepanto, Italy"
-tags: ["case", "wonders-in-the-sky", "lepanto", "italy"]
+tags: ["case", "wonders-in-the-sky", "lepanto", "italy", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

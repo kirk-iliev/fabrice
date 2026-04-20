@@ -3,7 +3,7 @@ title: "Case 019 — Howard-Artesian (South Dakota)"
 date: 1897-04-15
 location: "Howard-Artesian (South Dakota)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-light, time-night]
 source: Passport to Magonia
 ---
 

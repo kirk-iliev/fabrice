@@ -3,7 +3,7 @@ title: "Case 168 — Isle of Re (France)"
 date: 1954-09-30
 location: "Isle of Re (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-sphere, time-night]
 source: Passport to Magonia
 ---
 

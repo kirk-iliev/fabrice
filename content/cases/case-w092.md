@@ -2,7 +2,7 @@
 title: "W092 — Forli, Italy: Celestial object: Another case of a celestial object (\"asub\") in Forli: At 1:30 A.M. a fiery lamp was"
 date: 3 March 1428
 location: "Forli, Italy: Celestial object"
-tags: ["case", "wonders-in-the-sky", "forli", "italy"]
+tags: ["case", "wonders-in-the-sky", "forli", "italy", "shape-light"]
 source: Wonders in the Sky
 ---
 

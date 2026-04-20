@@ -3,7 +3,7 @@ title: "Case 465 — Tabladitas (Argentina)"
 date: 1958-04-15
 location: "Tabladitas (Argentina)"
 country: "Argentina"
-tags: [case, landing, CE2, argentina, south-america]
+tags: [case, landing, CE2, argentina, south-america, shape-light]
 source: Passport to Magonia
 ---
 

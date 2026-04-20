@@ -3,7 +3,7 @@ title: "Case 004 — Persian Gulf"
 date: 1879-05-15
 location: "Persian Gulf"
 country: "Persian Gulf"
-tags: [case, CE1, persian-gulf, middle-east]
+tags: [case, CE1, persian-gulf, middle-east, shape-disk]
 source: Passport to Magonia
 ---
 

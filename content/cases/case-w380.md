@@ -2,7 +2,7 @@
 title: "W380 — Greenville, Tennessee, USA: Lighthouses in the sky"
 date: 9 April 1843
 location: "Greenville, Tennessee, USA"
-tags: ["case", "wonders-in-the-sky", "greenville", "tennessee", "usa"]
+tags: ["case", "wonders-in-the-sky", "greenville", "tennessee", "usa", "shape-fireball", "time-dusk"]
 source: Wonders in the Sky
 ---
 

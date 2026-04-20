@@ -3,7 +3,7 @@ title: "Case 786 — Texas"
 date: 1966-08-06
 location: "Texas"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-rectangle, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

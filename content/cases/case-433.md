@@ -3,7 +3,7 @@ title: "Case 433 — Montville (Ohio)"
 date: 1957-11-06
 location: "Montville (Ohio)"
 country: "United States"
-tags: [case, trace-evidence, vehicle-interference, CE2, united-states, north-america]
+tags: [case, trace-evidence, vehicle-interference, CE2, united-states, north-america, shape-disk, time-night]
 source: Passport to Magonia
 ---
 

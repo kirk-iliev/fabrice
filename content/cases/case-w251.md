@@ -2,7 +2,7 @@
 title: "W251 — Saint Aubin, Brittany, France: Tear-shaped object"
 date: 17 November 1684
 location: "Saint Aubin, Brittany, France"
-tags: ["case", "wonders-in-the-sky", "saint-aubin", "brittany", "france"]
+tags: ["case", "wonders-in-the-sky", "saint-aubin", "brittany", "france", "shape-fireball", "time-morning"]
 source: Wonders in the Sky
 ---
 

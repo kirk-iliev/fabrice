@@ -2,7 +2,7 @@
 title: "Case 589 — Japan (exact location unknown)"
 date: 1963
 location: "Japan (exact location unknown)"
-tags: [case, humanoid, landing, CE3]
+tags: [case, humanoid, landing, CE3, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

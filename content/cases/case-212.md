@@ -3,7 +3,7 @@ title: "Case 212 — Calais (France)"
 date: 1954-10-08
 location: "Calais (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

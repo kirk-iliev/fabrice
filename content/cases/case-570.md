@@ -3,7 +3,7 @@ title: "Case 570 — Yvrac-Maille (France)"
 date: 1963-05-15
 location: "Yvrac-Maille (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, vehicle-interference]
 source: Passport to Magonia
 ---
 

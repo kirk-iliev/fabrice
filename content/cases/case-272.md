@@ -3,7 +3,7 @@ title: "Case 272 — Cier-de-Riviere (France)"
 date: 1954-10-16
 location: "Cier-de-Riviere (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-sphere, animal-reaction]
 source: Passport to Magonia
 ---
 

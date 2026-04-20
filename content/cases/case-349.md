@@ -3,7 +3,7 @@ title: "Case 349 — Linha Bela Vista (Brazil)"
 date: 1954-12-09
 location: "Linha Bela Vista (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, CE3, brazil, south-america]
+tags: [case, humanoid, CE3, brazil, south-america, entities-humanoid, physical-contact, time-evening]
 source: Passport to Magonia
 ---
 

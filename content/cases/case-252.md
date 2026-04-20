@@ -3,7 +3,7 @@ title: "Case 252 — Lewarde (France)"
 date: 1954-10-14
 location: "Lewarde (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, entities-animal_form, physical-contact]
 source: Passport to Magonia
 ---
 

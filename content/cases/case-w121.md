@@ -2,7 +2,7 @@
 title: "W121 — Hereford, England: Fiery circle flies up: A case with thermal effects was recorded by Lycosthenes in his Prodigiorum ac"
 date: 1520
 location: "Hereford, England: Fiery circle flies up"
-tags: ["case", "wonders-in-the-sky", "hereford", "england"]
+tags: ["case", "wonders-in-the-sky", "hereford", "england", "shape-fireball", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

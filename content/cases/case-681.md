@@ -3,7 +3,7 @@ title: "Case 681 — Salto (Uruguay)"
 date: 1965-08-15
 location: "Salto (Uruguay)"
 country: "Uruguay"
-tags: [case, humanoid, landing, vehicle-interference, CE3, uruguay, south-america]
+tags: [case, humanoid, landing, vehicle-interference, CE3, uruguay, south-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

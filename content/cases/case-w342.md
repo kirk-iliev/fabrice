@@ -2,7 +2,7 @@
 title: "W342 — Atlantic Ocean: Shell-shaped floating monster"
 date: 8 April 1813
 location: "Atlantic Ocean"
-tags: ["case", "wonders-in-the-sky", "atlantic-ocean"]
+tags: ["case", "wonders-in-the-sky", "atlantic-ocean", "entities-animal_form", "time-day"]
 source: Wonders in the Sky
 ---
 

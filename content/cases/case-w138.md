@@ -2,7 +2,7 @@
 title: "W138 — Morbecque, France: Sex with the Devil: A flying contactee condemned to die CD"
 date: Circa 1551
 location: "Morbecque, France"
-tags: ["case", "wonders-in-the-sky", "morbecque", "france"]
+tags: ["case", "wonders-in-the-sky", "morbecque", "france", "shape-humanoid", "entities-humanoid", "physical-contact"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 408 — Nabouwalu (Fiji Islands)"
 date: 1957-10-08
 location: "Nabouwalu (Fiji Islands)"
 country: "Fiji"
-tags: [case, humanoid, landing, CE3, fiji, oceania]
+tags: [case, humanoid, landing, CE3, fiji, oceania, shape-light, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

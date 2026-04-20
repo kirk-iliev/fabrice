@@ -2,7 +2,7 @@
 title: "W055 — Mount Nyoigadake, Japan: A luminous wheel enters the sea"
 date: 1185
 location: "Mount Nyoigadake, Japan"
-tags: ["case", "wonders-in-the-sky", "mount-nyoigadake", "japan"]
+tags: ["case", "wonders-in-the-sky", "mount-nyoigadake", "japan", "shape-disk"]
 source: Wonders in the Sky
 ---
 

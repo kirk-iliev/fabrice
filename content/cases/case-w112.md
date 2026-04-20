@@ -2,7 +2,7 @@
 title: "W112 — South Atlantic, off Africa: The slow-moving light seen by Pedro Cabral"
 date: 1499
 location: "South Atlantic, off Africa"
-tags: ["case", "wonders-in-the-sky", "south-atlantic", "off-africa"]
+tags: ["case", "wonders-in-the-sky", "south-atlantic", "off-africa", "shape-light"]
 source: Wonders in the Sky
 ---
 

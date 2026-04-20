@@ -2,7 +2,7 @@
 title: "W198 — Location unknown: Unidentified planetoid near Venus"
 date: 11 November 1645
 location: "Location unknown"
-tags: ["case", "wonders-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "shape-light"]
 source: Wonders in the Sky
 ---
 

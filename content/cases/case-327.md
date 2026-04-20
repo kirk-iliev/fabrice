@@ -3,7 +3,7 @@ title: "Case 327 — Pontal (Brazil)"
 date: 1954-11-04
 location: "Pontal (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, landing, CE3, brazil, south-america]
+tags: [case, humanoid, landing, CE3, brazil, south-america, shape-disk, entities-humanoid, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

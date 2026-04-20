@@ -3,7 +3,7 @@ title: "Case 151 — Le Jou (France)"
 date: 1954-09-23
 location: "Le Jou (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, shape-light, vehicle-interference]
 source: Passport to Magonia
 ---
 

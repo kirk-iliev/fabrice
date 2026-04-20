@@ -3,7 +3,7 @@ title: "Case 305 — Les Egots (France)"
 date: 1954-10-24
 location: "Les Egots (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, entities-humanoid]
 source: Passport to Magonia
 ---
 

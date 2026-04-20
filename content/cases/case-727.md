@@ -3,7 +3,7 @@ title: "Case 727 — Hanna City (Illinois)"
 date: 1966-02-26
 location: "Hanna City (Illinois)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

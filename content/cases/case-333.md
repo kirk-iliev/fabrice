@@ -3,7 +3,7 @@ title: "Case 333 — La Tessoualle (France)"
 date: 1954-11-08
 location: "La Tessoualle (France)"
 country: "France"
-tags: [case, vehicle-interference, CE2, france, europe]
+tags: [case, vehicle-interference, CE2, france, europe, shape-cone, time-dusk]
 source: Passport to Magonia
 ---
 

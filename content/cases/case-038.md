@@ -3,7 +3,7 @@ title: "Case 038 — Invercargill (New Zealand)"
 date: 1910
 location: "Invercargill (New Zealand)"
 country: "New Zealand"
-tags: [case, landing, CE2, new-zealand, oceania]
+tags: [case, landing, CE2, new-zealand, oceania, shape-cigar, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

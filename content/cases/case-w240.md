@@ -2,7 +2,7 @@
 title: "W240 — Regensburg, Germany: Signs in the clouds"
 date: 18 August 1671
 location: "Regensburg, Germany"
-tags: ["case", "wonders-in-the-sky", "regensburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "regensburg", "germany", "shape-multiple", "time-day"]
 source: Wonders in the Sky
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Case 362 — Mar"
 location: "Mar"
-tags: [case, CE1]
+tags: [case, CE1, shape-cigar, vehicle-interference]
 source: Passport to Magonia
 ---
 

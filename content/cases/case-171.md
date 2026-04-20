@@ -1,12 +1,13 @@
 ---
-title: "Case 171 — Case 171"
+title: "Case 171 — Bry (France)"
 date: 1954-10-01
-location: "Case 171"
-tags: [case, CE1]
+location: "Bry (France)"
+country: "France"
+tags: [case, CE1, france, europe, shape-light, animal-reaction]
 source: Passport to Magonia
 ---
 
-## Case 171 — October 1, 1954 (1600)
+## Bry (France) — October 1, 1954 (1600)
 
 Bry (France), A man and his dog were "paralyzed" as a luminous white object dived toward them and climbed again. (Personal)
 

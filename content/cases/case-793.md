@@ -3,7 +3,7 @@ title: "Case 793 — Texas"
 date: 1966-09-03
 location: "Texas"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-light, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 319 — Oye-Plage (France)"
 date: 1954-10-27
 location: "Oye-Plage (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-cigar]
 source: Passport to Magonia
 ---
 

@@ -2,13 +2,11 @@
 title: "W471 — Roman Empire: A pillar in the sky"
 date: 384
 location: "Roman Empire: A pillar in the sky"
-tags: ["case", "wonders-in-the-sky", "roman-empire"]
+tags: ["case", "wonders-in-the-sky", "roman-empire", "shape-cylinder"]
 source: Wonders in the Sky
 ---
 
 ## Roman Empire: A pillar in the sky — 384
-
-### 
 
 "A terrible sign appeared in the sky, shaped like a pillar (columna). It was in the time of the Roman Emperor, Theodosius." A number of atmospheric phenomena, or a comet, can produce this effect.
 

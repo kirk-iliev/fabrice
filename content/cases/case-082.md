@@ -3,7 +3,7 @@ title: "Case 082 — Sonderborg (Denmark)"
 date: 1951-06-19
 location: "Sonderborg (Denmark)"
 country: "Denmark"
-tags: [case, humanoid, landing, CE3, denmark, europe]
+tags: [case, humanoid, landing, CE3, denmark, europe, shape-disk, entities-humanoid, physical-contact, time-day]
 source: Passport to Magonia
 ---
 

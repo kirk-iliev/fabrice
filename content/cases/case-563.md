@@ -3,7 +3,7 @@ title: "Case 563 — Willow Grove (Australia)"
 date: 1963-02-15
 location: "Willow Grove (Australia)"
 country: "Australia"
-tags: [case, CE1, australia, oceania]
+tags: [case, CE1, australia, oceania, shape-disk, injury-or-burn]
 source: Passport to Magonia
 ---
 

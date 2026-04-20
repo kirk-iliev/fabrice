@@ -2,7 +2,7 @@
 title: "W155 — Romerswil, Switzerland: A farmer's abduction"
 date: 15 November 1572
 location: "Romerswil, Switzerland"
-tags: ["case", "wonders-in-the-sky", "romerswil", "switzerland"]
+tags: ["case", "wonders-in-the-sky", "romerswil", "switzerland", "abduction", "time-dawn"]
 source: Wonders in the Sky
 ---
 

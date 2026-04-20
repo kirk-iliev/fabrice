@@ -2,7 +2,7 @@
 title: "Case 822 — Vilhelmina (Swedish Laponia)"
 date: 1967-03-04
 location: "Vilhelmina (Swedish Laponia)"
-tags: [case, CE1]
+tags: [case, CE1, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

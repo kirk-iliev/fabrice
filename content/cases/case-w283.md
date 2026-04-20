@@ -2,7 +2,7 @@
 title: "W283 — Bucharest, Romania: Red intruder: In the afternoon, an object only described as a \"Symbolic form,\" blood-red in color,"
 date: 6 December 1737
 location: "Bucharest, Romania: Red intruder"
-tags: ["case", "wonders-in-the-sky", "bucharest", "romania"]
+tags: ["case", "wonders-in-the-sky", "bucharest", "romania", "shape-light"]
 source: Wonders in the Sky
 ---
 

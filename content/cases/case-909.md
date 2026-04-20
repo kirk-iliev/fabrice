@@ -3,7 +3,7 @@ title: "Case 909 — El Choro (Argentina)"
 date: 1968-06-16
 location: "El Choro (Argentina)"
 country: "Argentina"
-tags: [case, landing, trace-evidence, CE2, argentina, south-america]
+tags: [case, landing, trace-evidence, CE2, argentina, south-america, shape-sphere, time-night]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 240 — Montbazcns (France)"
 date: 1954-10-11
 location: "Montbazcns (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-sphere, injury-or-burn]
 source: Passport to Magonia
 ---
 

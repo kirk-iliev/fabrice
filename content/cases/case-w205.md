@@ -2,7 +2,7 @@
 title: "W205 — Almerdor, Holland: Flying dutchmen"
 date: 22 December 1651
 location: "Almerdor, Holland"
-tags: ["case", "wonders-in-the-sky", "almerdor", "holland"]
+tags: ["case", "wonders-in-the-sky", "almerdor", "holland", "shape-multiple", "entities-humanoid"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W292 — Angermannland, Sweden: Bright streak emits balls of light"
 date: 1 June 1752
 location: "Angermannland, Sweden"
-tags: ["case", "wonders-in-the-sky", "angermannland", "sweden"]
+tags: ["case", "wonders-in-the-sky", "angermannland", "sweden", "shape-fireball", "time-dawn"]
 source: Wonders in the Sky
 ---
 

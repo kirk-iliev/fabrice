@@ -2,7 +2,7 @@
 title: "W493 — Cloena (Clonmacnoise): A ship with occupants, captured anchor"
 date: 1250
 location: "Cloena (Clonmacnoise)"
-tags: ["case", "wonders-in-the-sky", "cloena"]
+tags: ["case", "wonders-in-the-sky", "cloena", "entities-humanoid", "physical-contact", "time-day"]
 source: Wonders in the Sky
 ---
 

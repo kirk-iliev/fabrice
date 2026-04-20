@@ -2,7 +2,7 @@
 title: "W213 — Hull, England: Large tapered flying object"
 date: 3 October 1660
 location: "Hull, England"
-tags: ["case", "wonders-in-the-sky", "hull", "england"]
+tags: ["case", "wonders-in-the-sky", "hull", "england", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

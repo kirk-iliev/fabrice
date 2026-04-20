@@ -1,12 +1,12 @@
 ---
-title: "Case 510 — Case 510"
+title: "Case 510 — Yariguarenda Jungle (Argentina' New apparitions of a monstrous \"cyclops.\" (129)"
 date: 1960
-location: "Case 510"
-tags: [case, CE1]
+location: "Yariguarenda Jungle (Argentina' New apparitions of a monstrous \"cyclops.\" (129)"
+tags: [case, CE1, entities-humanoid]
 source: Passport to Magonia
 ---
 
-## Case 510 — 1960
+## Yariguarenda Jungle (Argentina' New apparitions of a monstrous "cyclops." (129) — 1960
 
 Yariguarenda Jungle (Argentina' New apparitions of a monstrous "cyclops." (129)
 

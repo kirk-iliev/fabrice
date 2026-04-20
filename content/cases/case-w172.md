@@ -2,7 +2,7 @@
 title: "W172 — Genoa harbour, Italy: Fighting creatures from the sea"
 date: 1 August 1608
 location: "Genoa harbour, Italy"
-tags: ["case", "wonders-in-the-sky", "genoa-harbour", "italy"]
+tags: ["case", "wonders-in-the-sky", "genoa-harbour", "italy", "shape-humanoid", "entities-humanoid"]
 source: Wonders in the Sky
 ---
 

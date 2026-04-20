@@ -3,7 +3,7 @@ title: "Case 107 — Belle-fle (France)"
 date: 1952-11-21
 location: "Belle-fle (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-sphere]
 source: Passport to Magonia
 ---
 

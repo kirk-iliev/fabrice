@@ -3,7 +3,7 @@ title: "Case 291 — Raon-l'Etage (France)"
 date: 1954-10-20
 location: "Raon-l'Etage (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, shape-cylinder, entities-humanoid, communication, time-afternoon]
 source: Passport to Magonia
 ---
 

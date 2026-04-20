@@ -3,7 +3,7 @@ title: "Case 228 — Saint-Germain-de-Livet (France)"
 date: 1954-10-10
 location: "Saint-Germain-de-Livet (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 716 — Mogi-Guassu (Brazil)"
 date: 1965-11-13
 location: "Mogi-Guassu (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, landing, CE3, brazil, south-america]
+tags: [case, humanoid, landing, CE3, brazil, south-america, shape-disk, entities-humanoid, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W359 — Saarbriicken, Germany: Gray object: A grayish object, whose size was evaluated at over 1 meter, rapidly approached the"
 date: 1 April 1826
 location: "Saarbriicken, Germany: Gray object"
-tags: ["case", "wonders-in-the-sky", "saarbriicken", "germany"]
+tags: ["case", "wonders-in-the-sky", "saarbriicken", "germany", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

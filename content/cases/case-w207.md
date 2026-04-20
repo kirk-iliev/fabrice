@@ -2,7 +2,7 @@
 title: "W207 — Cardiganshire, Wales: Bedroom visitation: In a letter written in 1656, John Lewis of Cardiganshire (Wales) described the experience"
 date: 1656
 location: "Cardiganshire, Wales: Bedroom visitation"
-tags: ["case", "wonders-in-the-sky", "cardiganshire", "wales"]
+tags: ["case", "wonders-in-the-sky", "cardiganshire", "wales", "shape-light", "entities-humanoid", "communication", "time-night"]
 source: Wonders in the Sky
 ---
 

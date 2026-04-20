@@ -2,7 +2,7 @@
 title: "W478 — China: A fireball kills 10 people among rebels"
 date: 14 January 616
 location: "China"
-tags: ["case", "wonders-in-the-sky", "china"]
+tags: ["case", "wonders-in-the-sky", "china", "shape-fireball", "injury-or-burn"]
 source: Wonders in the Sky
 ---
 

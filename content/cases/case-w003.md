@@ -2,7 +2,7 @@
 title: "W003 — Constantinople (Istanbul), Turkey: Hovering crescents and fire"
 date: June 741
 location: "Constantinople (Istanbul), Turkey"
-tags: ["case", "wonders-in-the-sky", "constantinople", "turkey"]
+tags: ["case", "wonders-in-the-sky", "constantinople", "turkey", "shape-light"]
 source: Wonders in the Sky
 ---
 

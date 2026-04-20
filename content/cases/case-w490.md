@@ -2,7 +2,7 @@
 title: "W490 — River Setoml near Kiev, Ukraine: Red star and little man"
 date: 1066
 location: "River Setoml near Kiev, Ukraine"
-tags: ["case", "wonders-in-the-sky", "ukraine"]
+tags: ["case", "wonders-in-the-sky", "ukraine", "shape-light", "entities-humanoid", "time-dusk"]
 source: Wonders in the Sky
 ---
 

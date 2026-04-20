@@ -2,7 +2,7 @@
 title: "W115 — Tirano, Val Poschiavo, Italy: Abducted by a lady of light"
 date: 29 September 1504
 location: "Tirano, Val Poschiavo, Italy"
-tags: ["case", "wonders-in-the-sky", "tirano", "val-poschiavo", "italy"]
+tags: ["case", "wonders-in-the-sky", "tirano", "val-poschiavo", "italy", "shape-light", "entities-humanoid", "abduction", "time-dawn"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W035 — Fanliang, China: The bright pearl in the lake"
 date: Circa 1059
 location: "Fanliang, China"
-tags: ["case", "wonders-in-the-sky", "fanliang", "china"]
+tags: ["case", "wonders-in-the-sky", "fanliang", "china", "shape-sphere", "time-night"]
 source: Wonders in the Sky
 ---
 

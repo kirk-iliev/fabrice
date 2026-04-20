@@ -3,7 +3,7 @@ title: "Case 023 — Williamston (Michigan)"
 date: 1897-04-17
 location: "Williamston (Michigan)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, entities-humanoid, physical-contact, time-morning]
 source: Passport to Magonia
 ---
 

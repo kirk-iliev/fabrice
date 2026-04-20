@@ -2,7 +2,7 @@
 title: "W152 — Prague, Czechoslovakia: Mysterious round \"chariot\""
 date: 20 July 1571
 location: "Prague, Czechoslovakia"
-tags: ["case", "wonders-in-the-sky", "prague", "czechoslovakia"]
+tags: ["case", "wonders-in-the-sky", "prague", "czechoslovakia", "shape-disk", "entities-humanoid", "trace-evidence", "time-night"]
 source: Wonders in the Sky
 ---
 

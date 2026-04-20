@@ -3,7 +3,7 @@ title: "Case 037 — Donghoi (Annam)"
 date: 1909-06-16
 location: "Donghoi (Annam)"
 country: "Vietnam"
-tags: [case, humanoid, CE3, vietnam, asia]
+tags: [case, humanoid, CE3, vietnam, asia, shape-cigar]
 source: Passport to Magonia
 ---
 

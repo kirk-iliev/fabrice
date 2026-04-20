@@ -2,13 +2,11 @@
 title: "W405 — Athens, Greece: Solar intruder"
 date: 18 February 1850
 location: "Athens, Greece: Solar intruder"
-tags: ["case", "wonders-in-the-sky", "athens", "greece"]
+tags: ["case", "wonders-in-the-sky", "athens", "greece", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 
 ## Athens, Greece: Solar intruder — 18 February 1850
-
-### 
 
 An unknown body was seen passing in front of the Sun. It was observed and reported by astronomer Schmidt.
 

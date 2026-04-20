@@ -3,7 +3,7 @@ title: "Case 139 — Quebec (Canada)"
 date: 1954-08-28
 location: "Quebec (Canada)"
 country: "Canada"
-tags: [case, humanoid, landing, CE3, canada, north-america]
+tags: [case, humanoid, landing, CE3, canada, north-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

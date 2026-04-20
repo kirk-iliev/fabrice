@@ -3,7 +3,7 @@ title: "Case 468 — Boca del Tigre (Argentina)"
 date: 1958-05-27
 location: "Boca del Tigre (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, CE3, argentina, south-america]
+tags: [case, humanoid, CE3, argentina, south-america, shape-light, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

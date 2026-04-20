@@ -2,7 +2,7 @@
 title: "W397 — Inverness, Scotland: High velocity objects"
 date: 18 September 1848
 location: "Inverness, Scotland"
-tags: ["case", "wonders-in-the-sky", "inverness", "scotland"]
+tags: ["case", "wonders-in-the-sky", "inverness", "scotland", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

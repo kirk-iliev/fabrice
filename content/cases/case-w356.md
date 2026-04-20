@@ -2,7 +2,7 @@
 title: "W356 — Aberdeen, Scotland: Globular intruder"
 date: 5 December 1822
 location: "Aberdeen, Scotland"
-tags: ["case", "wonders-in-the-sky", "aberdeen", "scotland"]
+tags: ["case", "wonders-in-the-sky", "aberdeen", "scotland", "shape-fireball", "time-dusk"]
 source: Wonders in the Sky
 ---
 

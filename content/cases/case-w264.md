@@ -2,7 +2,7 @@
 title: "W264 — Sahalahti, Eastern Finland: Abducted by a disk"
 date: August 1700
 location: "Sahalahti, Eastern Finland"
-tags: ["case", "wonders-in-the-sky", "sahalahti", "eastern-finland"]
+tags: ["case", "wonders-in-the-sky", "sahalahti", "eastern-finland", "shape-disk", "entities-humanoid", "abduction", "time-day"]
 source: Wonders in the Sky
 ---
 

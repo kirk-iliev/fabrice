@@ -2,7 +2,7 @@
 title: "W079 — Yamaguti prefecture, Western Japan: Drum-like object emerges from the sea CD"
 date: 1361
 location: "Yamaguti prefecture, Western Japan"
-tags: ["case", "wonders-in-the-sky", "yamaguti-prefecture", "western-japan"]
+tags: ["case", "wonders-in-the-sky", "yamaguti-prefecture", "western-japan", "shape-cylinder"]
 source: Wonders in the Sky
 ---
 

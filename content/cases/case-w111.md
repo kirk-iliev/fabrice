@@ -2,7 +2,7 @@
 title: "W111 — Japan, location unknown: Umbrella-shaped object"
 date: 20 September 1498
 location: "Japan, location unknown"
-tags: ["case", "wonders-in-the-sky", "japan"]
+tags: ["case", "wonders-in-the-sky", "japan", "shape-umbrella"]
 source: Wonders in the Sky
 ---
 

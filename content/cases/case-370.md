@@ -3,7 +3,7 @@ title: "Case 370 — Bradford (England)"
 date: 1955-08-16
 location: "Bradford (England)"
 country: "Great Britain"
-tags: [case, humanoid, landing, CE3, great-britain, europe]
+tags: [case, humanoid, landing, CE3, great-britain, europe, shape-light, entities-humanoid, time-day]
 source: Passport to Magonia
 ---
 

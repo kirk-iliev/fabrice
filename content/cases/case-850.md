@@ -3,7 +3,7 @@ title: "Case 850 — Caledonia (Canada)"
 date: 1967-06-13
 location: "Caledonia (Canada)"
 country: "Canada"
-tags: [case, humanoid, trace-evidence, CE3, canada, north-america]
+tags: [case, humanoid, trace-evidence, CE3, canada, north-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

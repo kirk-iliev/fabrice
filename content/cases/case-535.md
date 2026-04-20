@@ -3,7 +3,7 @@ title: "Case 535 — Winifreda (Argentina)"
 date: 1962-05-22
 location: "Winifreda (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, landing, CE3, argentina, south-america]
+tags: [case, humanoid, landing, CE3, argentina, south-america, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

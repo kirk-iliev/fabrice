@@ -2,7 +2,7 @@
 title: "W450 — McKeesport, Pennsylvania, USA: Planetoid passing in front of Jupiter"
 date: 11 August 1878
 location: "McKeesport, Pennsylvania, USA"
-tags: ["case", "wonders-in-the-sky", "mckeesport", "pennsylvania", "usa"]
+tags: ["case", "wonders-in-the-sky", "mckeesport", "pennsylvania", "usa", "shape-sphere", "time-night"]
 source: Wonders in the Sky
 ---
 

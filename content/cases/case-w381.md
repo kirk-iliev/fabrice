@@ -2,7 +2,7 @@
 title: "W381 — Warwick, Ontario, Canada: Flying men"
 date: 3 October 1843
 location: "Warwick, Ontario, Canada"
-tags: ["case", "wonders-in-the-sky", "warwick", "ontario", "canada"]
+tags: ["case", "wonders-in-the-sky", "warwick", "ontario", "canada", "shape-cloud", "entities-humanoid", "communication", "time-afternoon"]
 source: Wonders in the Sky
 ---
 

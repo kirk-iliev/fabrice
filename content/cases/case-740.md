@@ -3,7 +3,7 @@ title: "Case 740 — Pecos (Texas)"
 date: 1966-03-30
 location: "Pecos (Texas)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-cylinder]
 source: Passport to Magonia
 ---
 

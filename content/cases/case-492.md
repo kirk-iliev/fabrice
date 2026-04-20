@@ -3,7 +3,7 @@ title: "Case 492 — Prince of Wales Island (Australia)"
 date: 1959-07-14
 location: "Prince of Wales Island (Australia)"
 country: "Australia"
-tags: [case, landing, CE2, australia, oceania]
+tags: [case, landing, CE2, australia, oceania, shape-disk]
 source: Passport to Magonia
 ---
 

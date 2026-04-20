@@ -3,7 +3,7 @@ title: "Case 896 — Fordingbridge (Great Britain)"
 date: 1967-11-05
 location: "Fordingbridge (Great Britain)"
 country: "Great Britain"
-tags: [case, humanoid, vehicle-interference, CE3, great-britain, europe]
+tags: [case, humanoid, vehicle-interference, CE3, great-britain, europe, shape-oval, time-night]
 source: Passport to Magonia
 ---
 

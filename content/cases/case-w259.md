@@ -2,7 +2,7 @@
 title: "W259 — London, England: Figures moving within a fiery circle"
 date: 23 July 1694
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "shape-sphere", "entities-humanoid", "communication"]
 source: Wonders in the Sky
 ---
 

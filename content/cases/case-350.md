@@ -3,7 +3,7 @@ title: "Case 350 — Dorf-Gull (Germany)"
 date: 1954-12-09
 location: "Dorf-Gull (Germany)"
 country: "Germany"
-tags: [case, CE1, germany, europe]
+tags: [case, CE1, germany, europe, shape-cigar]
 source: Passport to Magonia
 ---
 

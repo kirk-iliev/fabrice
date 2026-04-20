@@ -2,7 +2,7 @@
 title: "W371 — Cherbourg, France: Spinning disk whistles"
 date: 12 January 1836
 location: "Cherbourg, France"
-tags: ["case", "wonders-in-the-sky", "cherbourg", "france"]
+tags: ["case", "wonders-in-the-sky", "cherbourg", "france", "shape-light", "trace-evidence", "time-dusk"]
 source: Wonders in the Sky
 ---
 

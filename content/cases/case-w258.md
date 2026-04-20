@@ -2,7 +2,7 @@
 title: "W258 — Egryn, Merionethshire, Wales: Unexplained fiery phenomenon"
 date: December 1693
 location: "Egryn, Merionethshire, Wales"
-tags: ["case", "wonders-in-the-sky", "egryn", "merionethshire", "wales"]
+tags: ["case", "wonders-in-the-sky", "egryn", "merionethshire", "wales", "shape-fireball", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

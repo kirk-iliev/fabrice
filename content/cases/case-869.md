@@ -3,7 +3,7 @@ title: "Case 869 — Joyceville (Canada)"
 date: 1967-08-23
 location: "Joyceville (Canada)"
 country: "Canada"
-tags: [case, humanoid, CE3, canada, north-america]
+tags: [case, humanoid, CE3, canada, north-america, shape-disk, entities-humanoid, time-dawn]
 source: Passport to Magonia
 ---
 

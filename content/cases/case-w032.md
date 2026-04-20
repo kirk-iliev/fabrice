@@ -2,7 +2,7 @@
 title: "W032 — Taichang, China: Bedroom visitation, abduction"
 date: 1036
 location: "Taichang, China"
-tags: ["case", "wonders-in-the-sky", "taichang", "china"]
+tags: ["case", "wonders-in-the-sky", "taichang", "china", "shape-cloud", "entities-humanoid", "abduction"]
 source: Wonders in the Sky
 ---
 

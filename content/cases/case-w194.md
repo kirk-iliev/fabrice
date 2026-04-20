@@ -2,7 +2,7 @@
 title: "W194 — Olesa de Montserrat, Catalonia, Spain: Globe, changing its appearance"
 date: 3 July 1642
 location: "Olesa de Montserrat, Catalonia, Spain"
-tags: ["case", "wonders-in-the-sky", "olesa-de-montserrat", "catalonia", "spain"]
+tags: ["case", "wonders-in-the-sky", "olesa-de-montserrat", "catalonia", "spain", "shape-multiple"]
 source: Wonders in the Sky
 ---
 

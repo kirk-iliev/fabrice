@@ -8,8 +8,6 @@ source: Wonders in the Sky
 
 ## under the heading "Prussia, from our own correspondent." — 1856
 
-### 
-
 461.
 
 **Source:** 

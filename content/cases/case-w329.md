@@ -2,7 +2,7 @@
 title: "W329 — Quedlinburg, Germany: Dark celestial body"
 date: 7 February 1802
 location: "Quedlinburg, Germany"
-tags: ["case", "wonders-in-the-sky", "quedlinburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "quedlinburg", "germany", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 

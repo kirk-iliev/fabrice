@@ -3,7 +3,7 @@ title: "Case 799 — Summerside (Canada)"
 date: 1966-09-21
 location: "Summerside (Canada)"
 country: "Canada"
-tags: [case, landing, CE2, canada, north-america]
+tags: [case, landing, CE2, canada, north-america, shape-light]
 source: Passport to Magonia
 ---
 

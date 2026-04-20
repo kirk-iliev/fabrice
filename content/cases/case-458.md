@@ -3,7 +3,7 @@ title: "Case 458 — Shimada City (Japan)"
 date: 1958-01-26
 location: "Shimada City (Japan)"
 country: "Japan"
-tags: [case, humanoid, landing, CE3, japan, asia]
+tags: [case, humanoid, landing, CE3, japan, asia, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

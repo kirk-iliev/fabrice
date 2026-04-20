@@ -2,7 +2,7 @@
 title: "W368 — Cologne (Koln), Germany: Bright object splits in two"
 date: 1834
 location: "Cologne (Koln), Germany"
-tags: ["case", "wonders-in-the-sky", "cologne", "germany"]
+tags: ["case", "wonders-in-the-sky", "cologne", "germany", "shape-light"]
 source: Wonders in the Sky
 ---
 

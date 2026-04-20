@@ -2,7 +2,7 @@
 title: "W030 — Kyoto, Western Japan: Objects emerge from mother stars'"
 date: 7 July 1015
 location: "Kyoto, Western Japan"
-tags: ["case", "wonders-in-the-sky", "kyoto", "western-japan"]
+tags: ["case", "wonders-in-the-sky", "kyoto", "western-japan", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

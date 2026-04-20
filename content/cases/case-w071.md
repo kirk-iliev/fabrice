@@ -2,7 +2,7 @@
 title: "W071 — Japan, exact location unknown: Red shining object"
 date: 3 August 1294
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan"]
+tags: ["case", "wonders-in-the-sky", "japan", "shape-light"]
 source: Wonders in the Sky
 ---
 

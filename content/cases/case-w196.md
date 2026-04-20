@@ -2,7 +2,7 @@
 title: "W196 — Boston, Massachusetts: A Voice from the light"
 date: 25 January 1644
 location: "Boston, Massachusetts"
-tags: ["case", "wonders-in-the-sky", "boston", "massachusetts"]
+tags: ["case", "wonders-in-the-sky", "boston", "massachusetts", "shape-light", "entities-humanoid", "communication"]
 source: Wonders in the Sky
 ---
 

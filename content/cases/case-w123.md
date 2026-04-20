@@ -2,7 +2,7 @@
 title: "W123 — Changsu, Jiangsu Province, China: Flying ships, carrying men"
 date: 1523
 location: "Changsu, Jiangsu Province, China"
-tags: ["case", "wonders-in-the-sky", "changsu", "jiangsu-province", "china"]
+tags: ["case", "wonders-in-the-sky", "changsu", "jiangsu-province", "china", "shape-multiple", "entities-humanoid", "physical-contact", "time-day"]
 source: Wonders in the Sky
 ---
 

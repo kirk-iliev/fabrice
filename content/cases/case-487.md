@@ -3,7 +3,7 @@ title: "Case 487 — Grassy Plains (Canada)"
 date: 1959-04-29
 location: "Grassy Plains (Canada)"
 country: "Canada"
-tags: [case, CE1, canada, north-america]
+tags: [case, CE1, canada, north-america, shape-egg]
 source: Passport to Magonia
 ---
 

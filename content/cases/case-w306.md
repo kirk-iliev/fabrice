@@ -2,7 +2,7 @@
 title: "W306 — near Gotha, Germany: Unknown object: Single object, seen passing in front of the sun by Mr. Hoffmann. It was a large round spot"
 date: May 1764
 location: "near Gotha, Germany: Unknown object"
-tags: ["case", "wonders-in-the-sky", "gotha", "germany"]
+tags: ["case", "wonders-in-the-sky", "gotha", "germany", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 

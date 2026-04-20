@@ -2,7 +2,7 @@
 title: "W327 — Quedlinburg, Germany: Fast-moving object"
 date: 20 March 1800
 location: "Quedlinburg, Germany"
-tags: ["case", "wonders-in-the-sky", "quedlinburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "quedlinburg", "germany", "time-day"]
 source: Wonders in the Sky
 ---
 

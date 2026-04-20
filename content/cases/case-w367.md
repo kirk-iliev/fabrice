@@ -2,7 +2,7 @@
 title: "W367 — Niagara Falls, N.Y., USA: Hovering square"
 date: 13 November 1833
 location: "Niagara Falls, N.Y., USA"
-tags: ["case", "wonders-in-the-sky", "niagara-falls", "n-y", "usa"]
+tags: ["case", "wonders-in-the-sky", "niagara-falls", "n-y", "usa", "shape-rectangle", "time-night"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 265 — Po-di-Gnocca (Italy)"
 date: 1954-10-15
 location: "Po-di-Gnocca (Italy)"
 country: "Italy"
-tags: [case, landing, trace-evidence, CE2, italy, europe]
+tags: [case, landing, trace-evidence, CE2, italy, europe, shape-disk, time-afternoon]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 774 — Bar-sur-Loup (France)"
 date: 1966-06-18
 location: "Bar-sur-Loup (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-sphere]
 source: Passport to Magonia
 ---
 

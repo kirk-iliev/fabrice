@@ -3,7 +3,7 @@ title: "Case 420 — White Sands (New Mexico)"
 date: 1957-11-03
 location: "White Sands (New Mexico)"
 country: "United States"
-tags: [case, landing, vehicle-interference, CE2, united-states, north-america]
+tags: [case, landing, vehicle-interference, CE2, united-states, north-america, shape-fireball]
 source: Passport to Magonia
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Case 624 — Sept"
 location: "Sept"
-tags: [case, humanoid, landing, CE3]
+tags: [case, humanoid, landing, CE3, shape-dome, entities-multiple_types, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

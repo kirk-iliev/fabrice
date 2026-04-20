@@ -3,7 +3,7 @@ title: "Case 530 — Saronno (Italy)"
 date: 1962-04-11
 location: "Saronno (Italy)"
 country: "Italy"
-tags: [case, landing, CE2, italy, europe]
+tags: [case, landing, CE2, italy, europe, shape-light, trace-evidence, time-dusk]
 source: Passport to Magonia
 ---
 

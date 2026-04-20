@@ -2,7 +2,7 @@
 title: "W243 — Tokyo, Japan: Flying lantern"
 date: 16 November 1672
 location: "Tokyo, Japan"
-tags: ["case", "wonders-in-the-sky", "tokyo", "japan"]
+tags: ["case", "wonders-in-the-sky", "tokyo", "japan", "shape-light"]
 source: Wonders in the Sky
 ---
 

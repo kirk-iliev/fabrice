@@ -3,7 +3,7 @@ title: "Case 117 — Tonnerre (France)"
 date: 1953-09-04
 location: "Tonnerre (France)"
 country: "France"
-tags: [case, humanoid, trace-evidence, CE3, france, europe]
+tags: [case, humanoid, trace-evidence, CE3, france, europe, shape-multiple, entities-humanoid]
 source: Passport to Magonia
 ---
 

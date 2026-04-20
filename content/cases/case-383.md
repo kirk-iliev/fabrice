@@ -3,7 +3,7 @@ title: "Case 383 — Banning (California)"
 date: 1956-06-06
 location: "Banning (California)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

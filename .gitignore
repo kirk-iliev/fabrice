@@ -11,3 +11,8 @@ private/
 replit.nix
 JacquesValleePassporttoMagonia.pdf
 Jacques Vallee, Chris Aubeck Wonders in the Sky Unexplained Aerial Objects from Antiquity to Modern Times.pdf
+
+extract/.env
+.env
+/tmp/
+

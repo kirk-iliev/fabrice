@@ -3,7 +3,7 @@ title: "Case 241 — Mamora Forest (Morocco)"
 date: 1954-10-12
 location: "Mamora Forest (Morocco)"
 country: "Morocco"
-tags: [case, humanoid, vehicle-interference, CE3, morocco, africa]
+tags: [case, humanoid, vehicle-interference, CE3, morocco, africa, entities-humanoid, time-afternoon]
 source: Passport to Magonia
 ---
 

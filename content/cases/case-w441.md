@@ -2,7 +2,7 @@
 title: "W441 — Prague, Czechoslovakia: Dazzling white object in front of the moon"
 date: 24 April 1874
 location: "Prague, Czechoslovakia"
-tags: ["case", "wonders-in-the-sky", "prague", "czechoslovakia"]
+tags: ["case", "wonders-in-the-sky", "prague", "czechoslovakia", "shape-light", "time-afternoon"]
 source: Wonders in the Sky
 ---
 

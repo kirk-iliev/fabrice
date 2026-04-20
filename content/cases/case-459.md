@@ -3,7 +3,7 @@ title: "Case 459 — Hokkaido (Japan)"
 date: 1958-02-02
 location: "Hokkaido (Japan)"
 country: "Japan"
-tags: [case, landing, CE2, japan, asia]
+tags: [case, landing, CE2, japan, asia, shape-sphere]
 source: Passport to Magonia
 ---
 

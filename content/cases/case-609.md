@@ -3,7 +3,7 @@ title: "Case 609 — Learn Lane (England)"
 date: 1964-06-02
 location: "Learn Lane (England)"
 country: "Great Britain"
-tags: [case, humanoid, landing, CE3, great-britain, europe]
+tags: [case, humanoid, landing, CE3, great-britain, europe, shape-disk, entities-humanoid, time-day]
 source: Passport to Magonia
 ---
 

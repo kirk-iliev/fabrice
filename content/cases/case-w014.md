@@ -2,7 +2,7 @@
 title: "W014 — Montserrat-Santa Cova, Spain: Magical light"
 date: Circa 25 April 880
 location: "Montserrat-Santa Cova, Spain"
-tags: ["case", "wonders-in-the-sky", "montserrat"]
+tags: ["case", "wonders-in-the-sky", "montserrat", "shape-light", "trace-evidence", "time-dusk"]
 source: Wonders in the Sky
 ---
 

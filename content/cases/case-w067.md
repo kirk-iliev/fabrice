@@ -2,7 +2,7 @@
 title: "W067 — Japan: Saved from execution by a flying sphere!"
 date: 12 September 1271
 location: "Japan"
-tags: ["case", "wonders-in-the-sky", "japan"]
+tags: ["case", "wonders-in-the-sky", "japan", "shape-sphere", "time-night"]
 source: Wonders in the Sky
 ---
 

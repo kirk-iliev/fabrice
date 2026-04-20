@@ -3,7 +3,7 @@ title: "Case 164 — Dearborn (Michigan)"
 date: 1954-09-30
 location: "Dearborn (Michigan)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, entities-humanoid, time-morning]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 024 — Leroy (Kansas)"
 date: 1897-04-19
 location: "Leroy (Kansas)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cigar, entities-humanoid, animal-reaction, time-night]
 source: Passport to Magonia
 ---
 

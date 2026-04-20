@@ -3,7 +3,7 @@ title: "Case 218 — Beauvain (France)"
 date: 1954-10-09
 location: "Beauvain (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-sphere, time-evening]
 source: Passport to Magonia
 ---
 

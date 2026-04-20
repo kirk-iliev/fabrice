@@ -3,7 +3,7 @@ title: "Case 742 — Mansfield (Ohio)"
 date: 1966-03-30
 location: "Mansfield (Ohio)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-sphere, entities-humanoid, vehicle-interference]
 source: Passport to Magonia
 ---
 

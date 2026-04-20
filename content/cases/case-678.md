@@ -3,7 +3,7 @@ title: "Case 678 — Renton (Washington)"
 date: 1965-08-13
 location: "Renton (Washington)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, entities-humanoid, time-morning]
 source: Passport to Magonia
 ---
 

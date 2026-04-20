@@ -2,7 +2,7 @@
 title: "Case 467 — May Bogota (Colombia)"
 location: "May Bogota (Colombia)"
 country: "Colombia"
-tags: [case, humanoid, CE3, colombia, south-america]
+tags: [case, humanoid, CE3, colombia, south-america, entities-animal_form]
 source: Passport to Magonia
 ---
 

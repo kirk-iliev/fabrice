@@ -3,7 +3,7 @@ title: "Case 746 — Tangier (Oklahoma)"
 date: 1966-04-01
 location: "Tangier (Oklahoma)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-light]
 source: Passport to Magonia
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Case 191 — Oct"
 location: "Oct"
-tags: [case, CE1]
+tags: [case, CE1, shape-disk, time-dusk]
 source: Passport to Magonia
 ---
 

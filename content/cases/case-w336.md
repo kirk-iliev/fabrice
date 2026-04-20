@@ -2,7 +2,7 @@
 title: "W336 — Moscow, Russia: Radiant \"plate\" flying over the Kremlin"
 date: 1 September 1808
 location: "Moscow, Russia"
-tags: ["case", "wonders-in-the-sky", "moscow", "russia"]
+tags: ["case", "wonders-in-the-sky", "moscow", "russia", "shape-rectangle", "time-afternoon"]
 source: Wonders in the Sky
 ---
 

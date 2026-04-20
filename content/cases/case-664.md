@@ -3,7 +3,7 @@ title: "Case 664 — Puerto Monte (Chile)"
 date: 1965-07-30
 location: "Puerto Monte (Chile)"
 country: "Chile"
-tags: [case, landing, CE2, chile, south-america]
+tags: [case, landing, CE2, chile, south-america, trace-evidence]
 source: Passport to Magonia
 ---
 

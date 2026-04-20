@@ -2,7 +2,7 @@
 title: "W017 — China, location unknown: A globe and stars hover in the sky"
 date: 905
 location: "China, location unknown"
-tags: ["case", "wonders-in-the-sky", "china"]
+tags: ["case", "wonders-in-the-sky", "china", "shape-fireball", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

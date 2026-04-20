@@ -3,7 +3,7 @@ title: "Case 764 — Pedernales River (Texas)"
 date: 1966-04-24
 location: "Pedernales River (Texas)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, time-night]
 source: Passport to Magonia
 ---
 

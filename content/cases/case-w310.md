@@ -2,7 +2,7 @@
 title: "W310 — Oxford, England: Hovering intruder CD"
 date: 24 October 1769
 location: "Oxford, England"
-tags: ["case", "wonders-in-the-sky", "oxford", "england"]
+tags: ["case", "wonders-in-the-sky", "oxford", "england", "shape-fireball"]
 source: Wonders in the Sky
 ---
 

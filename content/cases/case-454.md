@@ -3,7 +3,7 @@ title: "Case 454 — Depew (New York)"
 date: 1958
 location: "Depew (New York)"
 country: "United States"
-tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america]
+tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america, entities-animal_form]
 source: Passport to Magonia
 ---
 

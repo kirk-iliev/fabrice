@@ -3,7 +3,7 @@ title: "Case 825 — Rochester (Minnesota)"
 date: 1967-03-12
 location: "Rochester (Minnesota)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, time-day]
 source: Passport to Magonia
 ---
 

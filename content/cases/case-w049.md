@@ -2,7 +2,7 @@
 title: "W049 — England, location unknown: Two objects"
 date: 25 December 1167
 location: "England, location unknown"
-tags: ["case", "wonders-in-the-sky", "england"]
+tags: ["case", "wonders-in-the-sky", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W502 — Freiburg im Breisgau, Germany: Flying spear: A painting illustrates an observation of a flying spear in the sky, watched by a monk in"
 date: 1503
 location: "Freiburg im Breisgau, Germany: Flying spear"
-tags: ["case", "wonders-in-the-sky", "freiburg-im-breisgau", "germany"]
+tags: ["case", "wonders-in-the-sky", "freiburg-im-breisgau", "germany", "shape-cigar"]
 source: Wonders in the Sky
 ---
 

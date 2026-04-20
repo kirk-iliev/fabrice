@@ -1,13 +1,13 @@
 ---
-title: "Case 052 — 1945 Habbebishopsheim (Germany)"
+title: "Case 052 — Habbebishopsheim (Germany)"
 date: 1945
-location: "1945 Habbebishopsheim (Germany)"
+location: "Habbebishopsheim (Germany)"
 country: "Germany"
-tags: [case, landing, CE2, germany, europe]
+tags: [case, landing, CE2, germany, europe, shape-disk, time-night]
 source: Passport to Magonia
 ---
 
-## 1945 Habbebishopsheim (Germany) — 1945
+## Habbebishopsheim (Germany) — 1945
 
 An American soldier saw a disk-shaped object come down rapidly, oscillate, and land. The site could not be found in the dark. The event took place 35 km northwest of the town. (Atic)
 

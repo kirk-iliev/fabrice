@@ -2,7 +2,7 @@
 title: "W195 — Boston, Mass.: Luminous figures: Three men coming to Boston saw two \"man-shaped lights\" come out of the sea. About 8"
 date: 18 January 1644
 location: "Boston, Mass.: Luminous figures"
-tags: ["case", "wonders-in-the-sky", "boston", "mass"]
+tags: ["case", "wonders-in-the-sky", "boston", "mass", "shape-light", "communication", "time-dusk"]
 source: Wonders in the Sky
 ---
 

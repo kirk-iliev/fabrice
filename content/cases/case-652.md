@@ -3,7 +3,7 @@ title: "Case 652 — Moycuvre (France)"
 date: 1965-07-09
 location: "Moycuvre (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W335 — Maine, USA: An old diary describes a maneuvering light"
 date: 22 July 1808
 location: "Maine, USA"
-tags: ["case", "wonders-in-the-sky", "maine", "usa"]
+tags: ["case", "wonders-in-the-sky", "maine", "usa", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

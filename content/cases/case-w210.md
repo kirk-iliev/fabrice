@@ -2,7 +2,7 @@
 title: "W210 — London (Westminster) England: Peculiar cloud"
 date: 14 March 1660
 location: "London (Westminster) England"
-tags: ["case", "wonders-in-the-sky", "london-england"]
+tags: ["case", "wonders-in-the-sky", "london-england", "shape-cloud", "trace-evidence", "time-night"]
 source: Wonders in the Sky
 ---
 

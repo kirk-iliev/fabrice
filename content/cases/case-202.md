@@ -3,7 +3,7 @@ title: "Case 202 — Villers-le-Lac (France)"
 date: 1954-10-06
 location: "Villers-le-Lac (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-light, time-dusk]
 source: Passport to Magonia
 ---
 

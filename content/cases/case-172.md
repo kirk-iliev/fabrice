@@ -3,7 +3,7 @@ title: "Case 172 — Ressons-sur-Matz (France)"
 date: 1954-10-01
 location: "Ressons-sur-Matz (France)"
 country: "France"
-tags: [case, trace-evidence, CE2, france, europe]
+tags: [case, trace-evidence, CE2, france, europe, shape-light, time-day]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 070 — Death Valley (California)"
 date: 1949-08-19
 location: "Death Valley (California)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-disk, entities-humanoid]
 source: Passport to Magonia
 ---
 

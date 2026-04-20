@@ -2,7 +2,7 @@
 title: "W481 — Japan, exact location unknown: Noisy star"
 date: 24 March 639
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan"]
+tags: ["case", "wonders-in-the-sky", "japan", "shape-fireball"]
 source: Wonders in the Sky
 ---
 

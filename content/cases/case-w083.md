@@ -2,7 +2,7 @@
 title: "W083 — Leicester and Derbyshire, England: Revolving wheel in the sky"
 date: 14 October 1387
 location: "Leicester and Derbyshire, England"
-tags: ["case", "wonders-in-the-sky", "leicester-and-derbyshire", "england"]
+tags: ["case", "wonders-in-the-sky", "leicester-and-derbyshire", "england", "shape-multiple", "time-night"]
 source: Wonders in the Sky
 ---
 

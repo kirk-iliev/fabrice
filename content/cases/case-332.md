@@ -3,7 +3,7 @@ title: "Case 332 — Voussac (France)"
 date: 1954-11-08
 location: "Voussac (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-sphere, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

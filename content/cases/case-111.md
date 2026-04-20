@@ -3,7 +3,7 @@ title: "Case 111 — Brush Creek (California)"
 date: 1953-06-20
 location: "Brush Creek (California)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, entities-humanoid, trace-evidence]
 source: Passport to Magonia
 ---
 

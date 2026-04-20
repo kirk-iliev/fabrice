@@ -3,7 +3,7 @@ title: "Case 076 — River Road, near Amarillo (Texas)"
 date: 1950-04-08
 location: "River Road, near Amarillo (Texas)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, physical-contact, time-afternoon]
 source: Passport to Magonia
 ---
 

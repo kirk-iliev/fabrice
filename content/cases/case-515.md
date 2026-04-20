@@ -3,7 +3,7 @@ title: "Case 515 — Cestas-Gazinet (France)"
 date: 1961-01-22
 location: "Cestas-Gazinet (France)"
 country: "France"
-tags: [case, vehicle-interference, CE2, france, europe]
+tags: [case, vehicle-interference, CE2, france, europe, shape-cigar]
 source: Passport to Magonia
 ---
 

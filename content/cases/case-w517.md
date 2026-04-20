@@ -2,7 +2,7 @@
 title: "W517 — near Leipzig, Germany: Goethe's unknown lights"
 date: September 1768
 location: "near Leipzig, Germany"
-tags: ["case", "wonders-in-the-sky", "leipzig", "germany"]
+tags: ["case", "wonders-in-the-sky", "leipzig", "germany", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

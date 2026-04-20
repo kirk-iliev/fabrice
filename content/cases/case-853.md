@@ -3,7 +3,7 @@ title: "Case 853 — duly 7,1967 Milan (Italy)"
 date: 1967
 location: "duly 7,1967 Milan (Italy)"
 country: "Italy"
-tags: [case, CE1, italy, europe]
+tags: [case, CE1, italy, europe, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

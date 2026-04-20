@@ -3,7 +3,7 @@ title: "Case 703 — Pichaca (Peru)"
 date: 1965-09-20
 location: "Pichaca (Peru)"
 country: "Peru"
-tags: [case, humanoid, landing, CE3, peru, south-america]
+tags: [case, humanoid, landing, CE3, peru, south-america, entities-humanoid, trace-evidence]
 source: Passport to Magonia
 ---
 

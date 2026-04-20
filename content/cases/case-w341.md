@@ -2,7 +2,7 @@
 title: "W341 — near Manosque, France: Four entities inside lights"
 date: 20 March 1812
 location: "near Manosque, France"
-tags: ["case", "wonders-in-the-sky", "manosque", "france"]
+tags: ["case", "wonders-in-the-sky", "manosque", "france", "shape-light", "entities-humanoid", "vehicle-interference", "time-night"]
 source: Wonders in the Sky
 ---
 

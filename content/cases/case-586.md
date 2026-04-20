@@ -3,7 +3,7 @@ title: "Case 586 — Pcropava River (Brazil)"
 date: 1963-10-31
 location: "Pcropava River (Brazil)"
 country: "Brazil"
-tags: [case, CE1, brazil, south-america]
+tags: [case, CE1, brazil, south-america, shape-sphere, trace-evidence]
 source: Passport to Magonia
 ---
 

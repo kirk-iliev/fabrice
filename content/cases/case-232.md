@@ -3,7 +3,7 @@ title: "Case 232 — Fonfrede, near Chambon Feugerolles (France)"
 date: 1954-10-11
 location: "Fonfrede, near Chambon Feugerolles (France)"
 country: "France"
-tags: [case, vehicle-interference, CE2, france, europe]
+tags: [case, vehicle-interference, CE2, france, europe, shape-light]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 149 — Oberdorff (France)"
 date: 1954-09-19
 location: "Oberdorff (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-sphere, entities-humanoid]
 source: Passport to Magonia
 ---
 

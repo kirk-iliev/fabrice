@@ -2,7 +2,7 @@
 title: "W328 — London, England: Unusual formation"
 date: 30 September 1801
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "shape-cross", "time-dawn"]
 source: Wonders in the Sky
 ---
 

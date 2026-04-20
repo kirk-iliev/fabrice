@@ -2,7 +2,7 @@
 title: "W424 — New York, USA: Mysterious object with occupants"
 date: 4 October 1861
 location: "New York, USA"
-tags: ["case", "wonders-in-the-sky", "new-york", "usa"]
+tags: ["case", "wonders-in-the-sky", "new-york", "usa", "entities-humanoid", "time-dusk"]
 source: Wonders in the Sky
 ---
 

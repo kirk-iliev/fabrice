@@ -3,7 +3,7 @@ title: "Case 881 — La Baleia (Brazil)"
 date: 1967-09-14
 location: "La Baleia (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, CE3, brazil, south-america]
+tags: [case, humanoid, CE3, brazil, south-america, shape-disk, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

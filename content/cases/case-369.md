@@ -3,7 +3,7 @@ title: "Case 369 — Buzancy, Ardennes (France)"
 date: 1955-08-05
 location: "Buzancy, Ardennes (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

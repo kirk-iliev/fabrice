@@ -2,7 +2,7 @@
 title: "W518 — Greenwich, England: Ten Balls of Light"
 date: 18 August 1783
 location: "Greenwich, England"
-tags: ["case", "wonders-in-the-sky", "greenwich", "england"]
+tags: ["case", "wonders-in-the-sky", "greenwich", "england", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

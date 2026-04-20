@@ -3,7 +3,7 @@ title: "Case 216 — Soubran (France)"
 date: 1954-10-09
 location: "Soubran (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-sphere, trace-evidence]
 source: Passport to Magonia
 ---
 

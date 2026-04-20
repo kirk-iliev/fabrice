@@ -3,7 +3,7 @@ title: "Case 363 — Smithfield, near Cairns (Australia)"
 date: 1955-05-29
 location: "Smithfield, near Cairns (Australia)"
 country: "Australia"
-tags: [case, landing, CE2, australia, oceania]
+tags: [case, landing, CE2, australia, oceania, shape-fireball, animal-reaction, time-night]
 source: Passport to Magonia
 ---
 

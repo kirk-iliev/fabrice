@@ -3,7 +3,7 @@ title: "Case 890 — Malvern (Great Britain)"
 date: 1967-10-25
 location: "Malvern (Great Britain)"
 country: "Great Britain"
-tags: [case, landing, trace-evidence, CE2, great-britain, europe]
+tags: [case, landing, trace-evidence, CE2, great-britain, europe, shape-dome]
 source: Passport to Magonia
 ---
 

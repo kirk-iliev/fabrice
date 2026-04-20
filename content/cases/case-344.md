@@ -2,7 +2,7 @@
 title: "Case 344 — Noy"
 date: 1954
 location: "Noy"
-tags: [case, humanoid, CE3]
+tags: [case, humanoid, CE3, shape-sphere, entities-animal_form, physical-contact]
 source: Passport to Magonia
 ---
 

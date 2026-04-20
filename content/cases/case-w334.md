@@ -2,7 +2,7 @@
 title: "W334 — Rutherford, North Carolina: Flying things, white beings"
 date: 7 August 1806
 location: "Rutherford, North Carolina"
-tags: ["case", "wonders-in-the-sky", "rutherford", "north-carolina"]
+tags: ["case", "wonders-in-the-sky", "rutherford", "north-carolina", "shape-light", "entities-humanoid", "time-dusk"]
 source: Wonders in the Sky
 ---
 

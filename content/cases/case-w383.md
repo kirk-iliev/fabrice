@@ -2,7 +2,7 @@
 title: "W383 — London, England: Orange object, hovering"
 date: 29 March 1845
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

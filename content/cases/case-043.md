@@ -1,13 +1,13 @@
 ---
-title: "Case 043 — 1921 Marseilles (France)"
+title: "Case 043 — Marseilles (France)"
 date: 1921
-location: "1921 Marseilles (France)"
+location: "Marseilles (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, entities-humanoid, abduction]
 source: Passport to Magonia
 ---
 
-## 1921 Marseilles (France) — 1921
+## Marseilles (France) — 1921
 
 Undocumented report of an “abduction” by two beings. (Quincy)
 

@@ -1,7 +1,7 @@
 ---
 title: "Case 196 — Oct"
 location: "Oct"
-tags: [case, humanoid, CE3]
+tags: [case, humanoid, CE3, shape-disk, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

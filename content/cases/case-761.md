@@ -3,7 +3,7 @@ title: "Case 761 — Peabody (Massachusetts)"
 date: 1966-04-19
 location: "Peabody (Massachusetts)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-disk, time-night]
 source: Passport to Magonia
 ---
 

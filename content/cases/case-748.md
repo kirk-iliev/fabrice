@@ -3,7 +3,7 @@ title: "Case 748 — Hague (Florida)"
 date: 1966-04-04
 location: "Hague (Florida)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cylinder, physical-contact, time-morning]
 source: Passport to Magonia
 ---
 

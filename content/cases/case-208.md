@@ -3,7 +3,7 @@ title: "Case 208 — Monteux (France)"
 date: 1954-10-07
 location: "Monteux (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-sphere, injury-or-burn]
 source: Passport to Magonia
 ---
 

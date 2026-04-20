@@ -2,7 +2,7 @@
 title: "W366 — North Carolina: A very slow \"meteor\" changes course"
 date: 16 March 1833
 location: "North Carolina"
-tags: ["case", "wonders-in-the-sky", "north-carolina"]
+tags: ["case", "wonders-in-the-sky", "north-carolina", "shape-light", "time-dusk"]
 source: Wonders in the Sky
 ---
 

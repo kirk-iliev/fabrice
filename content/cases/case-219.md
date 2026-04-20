@@ -3,7 +3,7 @@ title: "Case 219 — Carcassonne (France)"
 date: 1954-10-09
 location: "Carcassonne (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, shape-sphere, entities-humanoid, time-day]
 source: Passport to Magonia
 ---
 

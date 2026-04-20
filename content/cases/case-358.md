@@ -3,7 +3,7 @@ title: "Case 358 — Bru (France)"
 date: 1954
 location: "Bru (France)"
 country: "France"
-tags: [case, trace-evidence, CE2, france, europe]
+tags: [case, trace-evidence, CE2, france, europe, shape-oval]
 source: Passport to Magonia
 ---
 

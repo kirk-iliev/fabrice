@@ -2,7 +2,7 @@
 title: "W177 — Kinki, West Japan: Four-sided object"
 date: 4 March 1614
 location: "Kinki, West Japan"
-tags: ["case", "wonders-in-the-sky", "kinki", "west-japan"]
+tags: ["case", "wonders-in-the-sky", "kinki", "west-japan", "shape-rectangle"]
 source: Wonders in the Sky
 ---
 

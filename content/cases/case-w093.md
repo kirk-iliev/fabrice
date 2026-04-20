@@ -2,13 +2,11 @@
 title: "W093 — Nice, France: Luminous globe"
 date: 5 January 1433
 location: "Nice, France: Luminous globe"
-tags: ["case", "wonders-in-the-sky", "nice", "france"]
+tags: ["case", "wonders-in-the-sky", "nice", "france", "shape-light"]
 source: Wonders in the Sky
 ---
 
 ## Nice, France: Luminous globe — 5 January 1433
-
-### 
 
 A luminous globe appears, seen several hours. "On January 5th, 1433," writes Abbe Joseph Bonifacy, "a luminous globe appeared in the air for several hours."
 

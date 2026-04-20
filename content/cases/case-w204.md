@@ -2,7 +2,7 @@
 title: "W204 — Fisherton Anger, Wiltshire, England: Contact with Spirits"
 date: Circa 1650
 location: "Fisherton Anger, Wiltshire, England"
-tags: ["case", "wonders-in-the-sky", "fisherton-anger", "wiltshire", "england"]
+tags: ["case", "wonders-in-the-sky", "fisherton-anger", "wiltshire", "england", "shape-light", "entities-humanoid", "physical-contact"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 870 — Kolmarden (Sweden)"
 date: 1967-08-23
 location: "Kolmarden (Sweden)"
 country: "Sweden"
-tags: [case, humanoid, CE3, sweden, europe]
+tags: [case, humanoid, CE3, sweden, europe, shape-light, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

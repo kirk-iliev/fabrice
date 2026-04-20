@@ -2,7 +2,7 @@
 title: "W106 — Forli, Italy: Floating cartwheel in the sky: \"In that same year, on a morning (two hours before day) a big star seemingly appeared,"
 date: August 1487
 location: "Forli, Italy: Floating cartwheel in the sky"
-tags: ["case", "wonders-in-the-sky", "forli", "italy"]
+tags: ["case", "wonders-in-the-sky", "forli", "italy", "time-dawn"]
 source: Wonders in the Sky
 ---
 

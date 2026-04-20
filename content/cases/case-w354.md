@@ -2,7 +2,7 @@
 title: "W354 — Paris, France: Luminous globe: People leaving a theatre observed a luminous globe in the air, which did not vanish until"
 date: 13 February 1821
 location: "Paris, France: Luminous globe"
-tags: ["case", "wonders-in-the-sky", "paris", "france"]
+tags: ["case", "wonders-in-the-sky", "paris", "france", "shape-light", "time-dawn"]
 source: Wonders in the Sky
 ---
 

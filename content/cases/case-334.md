@@ -3,7 +3,7 @@ title: "Case 334 — Bois de Villers (Belgium)"
 date: 1954-11-09
 location: "Bois de Villers (Belgium)"
 country: "Belgium"
-tags: [case, CE1, belgium, europe]
+tags: [case, CE1, belgium, europe, shape-egg]
 source: Passport to Magonia
 ---
 

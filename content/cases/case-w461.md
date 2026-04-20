@@ -2,7 +2,7 @@
 title: "W461 — Amiterno, 70 Roman miles NE of Rome, Italy: Sun at night"
 date: 133 BC
 location: "Amiterno, 70 Roman miles NE of Rome, Italy"
-tags: ["case", "wonders-in-the-sky", "amiterno", "italy"]
+tags: ["case", "wonders-in-the-sky", "amiterno", "italy", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

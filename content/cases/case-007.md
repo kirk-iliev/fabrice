@@ -3,7 +3,7 @@ title: "Case 007 — Between Melbourne and Sydney at sea (Australia)"
 date: 1881-06-11
 location: "Between Melbourne and Sydney at sea (Australia)"
 country: "Australia"
-tags: [case, landing, CE2, australia, oceania]
+tags: [case, landing, CE2, australia, oceania, shape-light, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W513 — Echilleuses, France: \"Pyramids\" in the sky and unexplained rays of color"
 date: 19 October 1726
 location: "Echilleuses, France"
-tags: ["case", "wonders-in-the-sky", "echilleuses", "france"]
+tags: ["case", "wonders-in-the-sky", "echilleuses", "france", "shape-multiple", "time-night"]
 source: Wonders in the Sky
 ---
 

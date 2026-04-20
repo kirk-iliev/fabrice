@@ -3,7 +3,7 @@ title: "Case 903 — Holmes County (Ohio)"
 date: 1967-12-22
 location: "Holmes County (Ohio)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, injury-or-burn]
 source: Passport to Magonia
 ---
 

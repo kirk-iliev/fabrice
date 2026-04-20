@@ -2,7 +2,7 @@
 title: "W452 — Dubuque, Iowa, USA: Large unexplained airship overhead"
 date: 10 October 1879
 location: "Dubuque, Iowa, USA"
-tags: ["case", "wonders-in-the-sky", "dubuque", "iowa", "usa"]
+tags: ["case", "wonders-in-the-sky", "dubuque", "iowa", "usa", "time-dawn"]
 source: Wonders in the Sky
 ---
 

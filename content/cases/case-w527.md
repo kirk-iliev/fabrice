@@ -2,7 +2,7 @@
 title: "W527 — page 20): the frequency of reported cases rises before dawn, with a first peak about: 6 A.M., and goes through a maximum between 8 P.M. and 10 P.M., returning to a low"
 date: 1975
 location: "page 20): the frequency of reported cases rises before dawn, with a first peak about"
-tags: ["case", "wonders-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "shape-light", "time-dawn"]
 source: Wonders in the Sky
 ---
 

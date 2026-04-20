@@ -2,7 +2,7 @@
 title: "W422 — Washington, D.C., USA: Three unknown objects flying over the Capital"
 date: 10 November 1860
 location: "Washington, D.C., USA"
-tags: ["case", "wonders-in-the-sky", "washington", "d-c", "usa"]
+tags: ["case", "wonders-in-the-sky", "washington", "d-c", "usa", "shape-light", "time-dusk"]
 source: Wonders in the Sky
 ---
 

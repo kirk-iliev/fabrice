@@ -1,7 +1,7 @@
 ---
 title: "Case 348 — Dec"
 location: "Dec"
-tags: [case, humanoid, CE3]
+tags: [case, humanoid, CE3, shape-disk, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

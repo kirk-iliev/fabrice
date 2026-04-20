@@ -3,7 +3,7 @@ title: "Case 542 — Duas Pontes (Brazil)"
 date: 1962-08-19
 location: "Duas Pontes (Brazil)"
 country: "Brazil"
-tags: [case, CE1, brazil, south-america]
+tags: [case, CE1, brazil, south-america, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

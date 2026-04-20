@@ -2,7 +2,7 @@
 title: "W322 — Quangxi prov., Linggui area, China: Crash of a large maneuvering light"
 date: 27 January 1795
 location: "Quangxi prov., Linggui area, China"
-tags: ["case", "wonders-in-the-sky", "quangxi-prov", "linggui-area", "china"]
+tags: ["case", "wonders-in-the-sky", "quangxi-prov", "linggui-area", "china", "shape-light", "trace-evidence", "time-night"]
 source: Wonders in the Sky
 ---
 

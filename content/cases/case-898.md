@@ -3,7 +3,7 @@ title: "Case 898 — Storrington (Great Britain)"
 date: 1967-11-16
 location: "Storrington (Great Britain)"
 country: "Great Britain"
-tags: [case, humanoid, landing, CE3, great-britain, europe]
+tags: [case, humanoid, landing, CE3, great-britain, europe, shape-fireball, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

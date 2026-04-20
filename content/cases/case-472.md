@@ -3,7 +3,7 @@ title: "Case 472 — Union Dale (Pennsylvania)"
 date: 1958-10-27
 location: "Union Dale (Pennsylvania)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cigar]
 source: Passport to Magonia
 ---
 

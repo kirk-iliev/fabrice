@@ -3,7 +3,7 @@ title: "Case 271 — [Thin le Moutiers (France)"
 date: 1954-10-16
 location: "[Thin le Moutiers (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, injury-or-burn]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W358 — at sea near Hawaii, Pacific: Large red round object, wide illumination"
 date: 12 August 1825
 location: "at sea near Hawaii, Pacific"
-tags: ["case", "wonders-in-the-sky", "pacific"]
+tags: ["case", "wonders-in-the-sky", "pacific", "shape-sphere", "time-night"]
 source: Wonders in the Sky
 ---
 

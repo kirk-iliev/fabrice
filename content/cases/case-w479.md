@@ -2,7 +2,7 @@
 title: "W479 — China: Capture of a celestial ship - It flies away!"
 date: After 618
 location: "China"
-tags: ["case", "wonders-in-the-sky", "china"]
+tags: ["case", "wonders-in-the-sky", "china", "shape-cigar", "entities-humanoid", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

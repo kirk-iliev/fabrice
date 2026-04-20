@@ -2,7 +2,7 @@
 title: "W178 — Fluelen, Lake Lucerne, Switzerland: Fiery dragon"
 date: 1619
 location: "Fluelen, Lake Lucerne, Switzerland"
-tags: ["case", "wonders-in-the-sky", "fluelen", "lake-lucerne", "switzerland"]
+tags: ["case", "wonders-in-the-sky", "fluelen", "lake-lucerne", "switzerland", "shape-cigar", "entities-animal_form", "time-night"]
 source: Wonders in the Sky
 ---
 

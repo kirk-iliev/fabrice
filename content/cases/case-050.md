@@ -3,7 +3,7 @@ title: "Case 050 — Oncativo (Argentina)"
 date: 1943
 location: "Oncativo (Argentina)"
 country: "Argentina"
-tags: [case, CE1, argentina, south-america]
+tags: [case, CE1, argentina, south-america, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

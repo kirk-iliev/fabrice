@@ -2,7 +2,7 @@
 title: "W385 — between Malta and Turkey: Three luminous objects rise from the sea"
 date: 18 June 1845
 location: "between Malta and Turkey"
-tags: ["case", "wonders-in-the-sky", "malta-and-turkey"]
+tags: ["case", "wonders-in-the-sky", "malta-and-turkey", "shape-light", "vehicle-interference", "time-night"]
 source: Wonders in the Sky
 ---
 

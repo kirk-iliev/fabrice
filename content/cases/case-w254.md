@@ -2,7 +2,7 @@
 title: "W254 — Yunan Province, China: Flying umbrella"
 date: Circa June 1688
 location: "Yunan Province, China"
-tags: ["case", "wonders-in-the-sky", "yunan-province", "china"]
+tags: ["case", "wonders-in-the-sky", "yunan-province", "china", "shape-umbrella", "time-day"]
 source: Wonders in the Sky
 ---
 

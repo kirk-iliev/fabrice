@@ -3,7 +3,7 @@ title: "Case 526 — Lafayette (Indiana)"
 date: 1961-12-21
 location: "Lafayette (Indiana)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

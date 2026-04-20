@@ -2,7 +2,7 @@
 title: "W048 — Thann, Alsace, France: Three lights in the sky"
 date: 1161
 location: "Thann, Alsace, France"
-tags: ["case", "wonders-in-the-sky", "thann", "alsace", "france"]
+tags: ["case", "wonders-in-the-sky", "thann", "alsace", "france", "shape-light", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

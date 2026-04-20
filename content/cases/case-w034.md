@@ -2,7 +2,7 @@
 title: "W034 — Rome, Italy: A bright circle in the midday sky"
 date: 14 April 1054
 location: "Rome, Italy"
-tags: ["case", "wonders-in-the-sky", "rome", "italy"]
+tags: ["case", "wonders-in-the-sky", "rome", "italy", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 

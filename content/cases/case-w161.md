@@ -8,8 +8,6 @@ source: Wonders in the Sky
 
 ## depuis deux heures apres midijusques au soir (1579). — 1579
 
-### 
-
 
 
 **Source:** 

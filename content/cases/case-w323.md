@@ -2,7 +2,7 @@
 title: "W323 — Tarbes, France: Astronomical anomaly"
 date: 18 January 1798
 location: "Tarbes, France"
-tags: ["case", "wonders-in-the-sky", "tarbes", "france"]
+tags: ["case", "wonders-in-the-sky", "tarbes", "france", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 

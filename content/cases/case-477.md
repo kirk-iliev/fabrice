@@ -3,7 +3,7 @@ title: "Case 477 — Hoganas (Sweden)"
 date: 1958-12-20
 location: "Hoganas (Sweden)"
 country: "Sweden"
-tags: [case, humanoid, CE3, sweden, europe]
+tags: [case, humanoid, CE3, sweden, europe, shape-disk, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

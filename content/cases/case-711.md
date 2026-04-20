@@ -3,7 +3,7 @@ title: "Case 711 — Canhotinho (Brazil)"
 date: 1965-10-22
 location: "Canhotinho (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, landing, CE3, brazil, south-america]
+tags: [case, humanoid, landing, CE3, brazil, south-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

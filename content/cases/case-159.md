@@ -3,7 +3,7 @@ title: "Case 159 — Perpignan (France)"
 date: 1954-09-27
 location: "Perpignan (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-disk, entities-humanoid, time-afternoon]
 source: Passport to Magonia
 ---
 

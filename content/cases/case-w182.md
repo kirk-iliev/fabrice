@@ -2,7 +2,7 @@
 title: "W182 — Nimes, France: Fiery chariots, a great sun"
 date: 13 October 1621
 location: "Nimes, France"
-tags: ["case", "wonders-in-the-sky", "nimes", "france"]
+tags: ["case", "wonders-in-the-sky", "nimes", "france", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

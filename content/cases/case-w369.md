@@ -2,7 +2,7 @@
 title: "W369 — Sicily, Italy: Astronomer's sighting"
 date: 11 May 1835
 location: "Sicily, Italy"
-tags: ["case", "wonders-in-the-sky", "sicily", "italy"]
+tags: ["case", "wonders-in-the-sky", "sicily", "italy", "shape-light"]
 source: Wonders in the Sky
 ---
 

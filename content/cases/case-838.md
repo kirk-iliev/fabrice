@@ -3,7 +3,7 @@ title: "Case 838 — Green Lake (Wisconsin)"
 date: 1967-04-27
 location: "Green Lake (Wisconsin)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cone]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W202 — Edinburgh, Scotland: Flight aboard a fiery coach"
 date: 1648
 location: "Edinburgh, Scotland"
-tags: ["case", "wonders-in-the-sky", "edinburgh", "scotland"]
+tags: ["case", "wonders-in-the-sky", "edinburgh", "scotland", "shape-fireball", "entities-multiple_types", "abduction"]
 source: Wonders in the Sky
 ---
 

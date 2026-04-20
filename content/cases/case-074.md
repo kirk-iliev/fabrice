@@ -3,7 +3,7 @@ title: "Case 074 — Juneau (Alaska)"
 date: 1950
 location: "Juneau (Alaska)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

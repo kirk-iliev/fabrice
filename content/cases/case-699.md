@@ -3,7 +3,7 @@ title: "Case 699 — Jalapa (Mexico)"
 date: 1965-09-10
 location: "Jalapa (Mexico)"
 country: "Mexico"
-tags: [case, humanoid, CE3, mexico, north-america]
+tags: [case, humanoid, CE3, mexico, north-america, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

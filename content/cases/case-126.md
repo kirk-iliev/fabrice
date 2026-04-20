@@ -3,7 +3,7 @@ title: "Case 126 — Santa Maria (Brazil)"
 date: 1954
 location: "Santa Maria (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, CE3, brazil, south-america]
+tags: [case, humanoid, CE3, brazil, south-america, shape-cigar, entities-humanoid, communication, time-day]
 source: Passport to Magonia
 ---
 

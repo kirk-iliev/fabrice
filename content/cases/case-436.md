@@ -2,7 +2,7 @@
 title: "Case 436 — Novy"
 date: 1957
 location: "Novy"
-tags: [case, CE1]
+tags: [case, CE1, shape-cigar]
 source: Passport to Magonia
 ---
 

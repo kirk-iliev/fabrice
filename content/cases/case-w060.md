@@ -2,7 +2,7 @@
 title: "W060 — Caravaca, Spain: Lights, and an \"angel\" brings a cross"
 date: 3 May 1232
 location: "Caravaca, Spain"
-tags: ["case", "wonders-in-the-sky", "caravaca", "spain"]
+tags: ["case", "wonders-in-the-sky", "caravaca", "spain", "shape-cross", "entities-humanoid", "communication"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W284 — Toulon, France: Rising purple globe plunges, releases balls of fire CD"
 date: 23 February 1740
 location: "Toulon, France"
-tags: ["case", "wonders-in-the-sky", "toulon", "france"]
+tags: ["case", "wonders-in-the-sky", "toulon", "france", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

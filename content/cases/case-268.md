@@ -3,7 +3,7 @@ title: "Case 268 — Isbergues (France)"
 date: 1954-10-15
 location: "Isbergues (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-sphere, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W246 — London, England: Fiery object, a globe of light"
 date: 16 July 1676
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "shape-light", "time-day"]
 source: Wonders in the Sky
 ---
 

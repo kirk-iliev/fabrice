@@ -3,7 +3,7 @@ title: "Case 654 — Lorerami Valley (Argentina)"
 date: 1965-07-15
 location: "Lorerami Valley (Argentina)"
 country: "Argentina"
-tags: [case, trace-evidence, CE2, argentina, south-america]
+tags: [case, trace-evidence, CE2, argentina, south-america, shape-disk]
 source: Passport to Magonia
 ---
 

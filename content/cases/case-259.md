@@ -3,7 +3,7 @@ title: "Case 259 — Saint-Romain (France)"
 date: 1954-10-14
 location: "Saint-Romain (France)"
 country: "France"
-tags: [case, vehicle-interference, CE2, france, europe]
+tags: [case, vehicle-interference, CE2, france, europe, shape-disk, time-dusk]
 source: Passport to Magonia
 ---
 

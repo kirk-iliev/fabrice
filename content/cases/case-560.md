@@ -2,7 +2,7 @@
 title: "Case 560 — an"
 date: 1963
 location: "an"
-tags: [case, CE1]
+tags: [case, CE1, shape-disk, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W386 — Ainab Mountain, Lebanon: Two large unknowns"
 date: 18 June 1845
 location: "Ainab Mountain, Lebanon"
-tags: ["case", "wonders-in-the-sky", "ainab-mountain", "lebanon"]
+tags: ["case", "wonders-in-the-sky", "ainab-mountain", "lebanon", "shape-multiple", "time-dusk"]
 source: Wonders in the Sky
 ---
 

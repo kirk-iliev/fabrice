@@ -2,7 +2,7 @@
 title: "W480 — Japan: The Barking of the celestial dog: A great star floated from East to West and there was a noise, like that of thunder. The"
 date: 637
 location: "Japan: The Barking of the celestial dog"
-tags: ["case", "wonders-in-the-sky", "japan"]
+tags: ["case", "wonders-in-the-sky", "japan", "shape-light", "entities-animal_form", "animal-reaction"]
 source: Wonders in the Sky
 ---
 

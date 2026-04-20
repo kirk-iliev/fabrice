@@ -3,7 +3,7 @@ title: "Case 792 — El Campo (Texas)"
 date: 1966
 location: "El Campo (Texas)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-fireball, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 286 — Saint-Point Lake (France)"
 date: 1954-10-18
 location: "Saint-Point Lake (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-light, entities-multiple_types]
 source: Passport to Magonia
 ---
 

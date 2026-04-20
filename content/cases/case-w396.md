@@ -2,7 +2,7 @@
 title: "W396 — Nottingham, England: Slow celestial object"
 date: 4 September 1848
 location: "Nottingham, England"
-tags: ["case", "wonders-in-the-sky", "nottingham", "england"]
+tags: ["case", "wonders-in-the-sky", "nottingham", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

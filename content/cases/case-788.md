@@ -3,7 +3,7 @@ title: "Case 788 — Donnybrook (North Dakota)"
 date: 1966-08-19
 location: "Donnybrook (North Dakota)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, time-day]
 source: Passport to Magonia
 ---
 

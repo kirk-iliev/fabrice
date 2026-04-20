@@ -2,7 +2,7 @@
 title: "W494 — London, England: Another flying ship loses its anchor"
 date: 1122
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "entities-humanoid", "physical-contact"]
 source: Wonders in the Sky
 ---
 

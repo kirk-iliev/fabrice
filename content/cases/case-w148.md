@@ -2,7 +2,7 @@
 title: "W148 — near Brussels, Belgium: Aerial bombardment"
 date: 1 March 1564
 location: "near Brussels, Belgium"
-tags: ["case", "wonders-in-the-sky", "brussels", "belgium"]
+tags: ["case", "wonders-in-the-sky", "brussels", "belgium", "shape-light", "entities-humanoid", "trace-evidence", "time-morning"]
 source: Wonders in the Sky
 ---
 

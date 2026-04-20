@@ -2,7 +2,7 @@
 title: "W351 — Augsburg, Germany: Trans-solar traveler"
 date: 12 February 1820
 location: "Augsburg, Germany"
-tags: ["case", "wonders-in-the-sky", "augsburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "augsburg", "germany", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 

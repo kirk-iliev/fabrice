@@ -2,7 +2,7 @@
 title: "W209 — New England, American Colonies: Aerial phenomena to the rescue of Puritanism"
 date: 1660
 location: "New England, American Colonies"
-tags: ["case", "wonders-in-the-sky", "new-england", "american-colonies"]
+tags: ["case", "wonders-in-the-sky", "new-england", "american-colonies", "shape-cigar", "time-dusk"]
 source: Wonders in the Sky
 ---
 

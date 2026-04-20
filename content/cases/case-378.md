@@ -3,7 +3,7 @@ title: "Case 378 — Williston (Florida)"
 date: 1955-11-02
 location: "Williston (Florida)"
 country: "United States"
-tags: [case, humanoid, trace-evidence, CE3, united-states, north-america]
+tags: [case, humanoid, trace-evidence, CE3, united-states, north-america, shape-bell, physical-contact]
 source: Passport to Magonia
 ---
 

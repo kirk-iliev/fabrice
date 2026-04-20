@@ -3,7 +3,7 @@ title: "Case 072 — South Table Mountain (Colorado)"
 date: 1950
 location: "South Table Mountain (Colorado)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-sphere, trace-evidence]
 source: Passport to Magonia
 ---
 

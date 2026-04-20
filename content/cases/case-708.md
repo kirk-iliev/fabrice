@@ -1,7 +1,7 @@
 ---
 title: "Case 708 — Oct"
 location: "Oct"
-tags: [case, humanoid, CE3]
+tags: [case, humanoid, CE3, shape-disk, entities-humanoid, time-evening]
 source: Passport to Magonia
 ---
 

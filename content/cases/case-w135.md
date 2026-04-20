@@ -2,7 +2,7 @@
 title: "W135 — Oettingen, Bavaria: Flying vehicles, red flames"
 date: 28 June 1548
 location: "Oettingen, Bavaria"
-tags: ["case", "wonders-in-the-sky", "oettingen", "bavaria"]
+tags: ["case", "wonders-in-the-sky", "oettingen", "bavaria", "shape-multiple", "time-day"]
 source: Wonders in the Sky
 ---
 

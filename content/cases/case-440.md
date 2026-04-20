@@ -3,7 +3,7 @@ title: "Case 440 — Madison (Ohio)"
 date: 1957-11-10
 location: "Madison (Ohio)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, injury-or-burn]
 source: Passport to Magonia
 ---
 

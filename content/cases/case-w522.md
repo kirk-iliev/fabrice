@@ -2,7 +2,7 @@
 title: "W522 — Connecticut, USA: First Congressional Hearings!"
 date: 15 December 1813
 location: "Connecticut, USA"
-tags: ["case", "wonders-in-the-sky", "connecticut", "usa"]
+tags: ["case", "wonders-in-the-sky", "connecticut", "usa", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

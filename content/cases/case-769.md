@@ -3,7 +3,7 @@ title: "Case 769 — Cordoba (Spain)"
 date: 1966-05-16
 location: "Cordoba (Spain)"
 country: "Spain"
-tags: [case, humanoid, landing, CE3, spain, europe]
+tags: [case, humanoid, landing, CE3, spain, europe, shape-disk, entities-animal_form]
 source: Passport to Magonia
 ---
 

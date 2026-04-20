@@ -3,7 +3,7 @@ title: "Case 279 — Cabasson (France)"
 date: 1954-10-17
 location: "Cabasson (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-cylinder, entities-humanoid, animal-reaction, time-day]
 source: Passport to Magonia
 ---
 

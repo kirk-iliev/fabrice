@@ -1,12 +1,13 @@
 ---
-title: "Case 203 — Case 203"
+title: "Case 203 — Hennezis (France)"
 date: 1954
-location: "Case 203"
-tags: [case, humanoid, landing, CE3]
+location: "Hennezis (France)"
+country: "France"
+tags: [case, humanoid, landing, CE3, france, europe, entities-humanoid]
 source: Passport to Magonia
 ---
 
-## Case 203 — 1954
+## Hennezis (France) — 1954
 
 Hennezis (France), The two Lanssellin children wit- nessed the landing of a luminous, red object shaped like a half-egg, and saw two occupants who looked like normal men. (M 145)
 

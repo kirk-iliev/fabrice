@@ -2,7 +2,7 @@
 title: "W154 — Constantinople, Turkey: Crosses in the air"
 date: 16 February 1572
 location: "Constantinople, Turkey"
-tags: ["case", "wonders-in-the-sky", "constantinople", "turkey"]
+tags: ["case", "wonders-in-the-sky", "constantinople", "turkey", "shape-cross", "time-day"]
 source: Wonders in the Sky
 ---
 

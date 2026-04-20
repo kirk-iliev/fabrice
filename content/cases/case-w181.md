@@ -2,7 +2,7 @@
 title: "W181 — Geneva, Switzerland: Flying hats and men in black"
 date: 9 April 1620
 location: "Geneva, Switzerland"
-tags: ["case", "wonders-in-the-sky", "geneva", "switzerland"]
+tags: ["case", "wonders-in-the-sky", "geneva", "switzerland", "shape-multiple", "entities-humanoid", "time-day"]
 source: Wonders in the Sky
 ---
 

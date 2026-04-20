@@ -3,7 +3,7 @@ title: "Case 485 — Port Elliot (Australia)"
 date: 1959-03-31
 location: "Port Elliot (Australia)"
 country: "Australia"
-tags: [case, trace-evidence, vehicle-interference, CE2, australia, oceania]
+tags: [case, trace-evidence, vehicle-interference, CE2, australia, oceania, shape-disk, time-night]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 030 — Agqnila [Tillsboro (Texas)"
 date: 1897-04-26
 location: "Agqnila [Tillsboro (Texas)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cigar, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

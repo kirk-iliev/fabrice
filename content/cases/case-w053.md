@@ -2,7 +2,7 @@
 title: "W053 — Kii Sanchi, Nara, Japan: Glowing vessel"
 date: 27 October 1180
 location: "Kii Sanchi, Nara, Japan"
-tags: ["case", "wonders-in-the-sky", "kii-sanchi", "nara", "japan"]
+tags: ["case", "wonders-in-the-sky", "kii-sanchi", "nara", "japan", "shape-disk"]
 source: Wonders in the Sky
 ---
 

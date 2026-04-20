@@ -3,7 +3,7 @@ title: "Case 445 — Tonopah (Nevada)"
 date: 1957-11-23
 location: "Tonopah (Nevada)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

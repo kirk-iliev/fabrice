@@ -2,7 +2,7 @@
 title: "W514 — Holyhead near Peibio, Anglesey, Wales: Ships in the sky"
 date: 1743
 location: "Holyhead near Peibio, Anglesey, Wales"
-tags: ["case", "wonders-in-the-sky", "holyhead-near-peibio", "anglesey", "wales"]
+tags: ["case", "wonders-in-the-sky", "holyhead-near-peibio", "anglesey", "wales", "animal-reaction", "time-day"]
 source: Wonders in the Sky
 ---
 

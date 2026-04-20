@@ -2,7 +2,7 @@
 title: "W331 — Ormans near Evilliers, France: Luminous globes and a religious discovery"
 date: 15 August 1803
 location: "Ormans near Evilliers, France"
-tags: ["case", "wonders-in-the-sky", "ormans-near-evilliers", "france"]
+tags: ["case", "wonders-in-the-sky", "ormans-near-evilliers", "france", "shape-light", "time-day"]
 source: Wonders in the Sky
 ---
 

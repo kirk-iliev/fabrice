@@ -3,7 +3,7 @@ title: "Case 284 — Fontenay-Torey (France)"
 date: 1954-10-18
 location: "Fontenay-Torey (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, shape-cigar, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

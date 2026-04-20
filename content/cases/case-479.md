@@ -3,7 +3,7 @@ title: "Case 479 — Portglenone (Ireland)"
 date: 1958-12-28
 location: "Portglenone (Ireland)"
 country: "Ireland"
-tags: [case, landing, CE2, ireland, europe]
+tags: [case, landing, CE2, ireland, europe, trace-evidence, time-afternoon]
 source: Passport to Magonia
 ---
 

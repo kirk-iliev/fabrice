@@ -3,7 +3,7 @@ title: "Case 784 — Erie, Prequc-Ile Park (Pennsylvania)"
 date: 1966-07-31
 location: "Erie, Prequc-Ile Park (Pennsylvania)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

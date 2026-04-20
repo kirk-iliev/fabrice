@@ -2,7 +2,7 @@
 title: "W402 — Athens, Greece: Unknown celestial object"
 date: 14 October 1849
 location: "Athens, Greece"
-tags: ["case", "wonders-in-the-sky", "athens", "greece"]
+tags: ["case", "wonders-in-the-sky", "athens", "greece", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 

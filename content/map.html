@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Fabrice — UFO case map</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+  html, body { margin: 0; padding: 0; background: #000; color: #ddd;
+               font-family: system-ui, sans-serif; overflow: hidden; }
+  #globe { width: 100vw; height: 100vh; }
+
+  .panel {
+    position: fixed; z-index: 10;
+    background: rgba(0,0,0,0.65); padding: 14px 16px; border-radius: 8px;
+    backdrop-filter: blur(6px); font-size: 13px;
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+  #ui { left: 12px; top: 12px; max-width: 320px; }
+  #links { right: 12px; top: 12px; }
+
+  #ui h1 { margin: 0 0 6px 0; font-size: 15px; font-weight: 600; }
+  #ui .sub { opacity: 0.7; margin-bottom: 10px; }
+  #ui label { display: flex; align-items: center; gap: 6px; margin: 4px 0; cursor: pointer; }
+  #ui .legend { display: inline-block; width: 10px; height: 10px; border-radius: 50%; }
+  #year-controls { margin-top: 12px; }
+  #year-controls input[type=range] { width: 100%; margin: 2px 0; }
+  #year-label { font-variant-numeric: tabular-nums; opacity: 0.85; }
+  a { color: #8ab4ff; }
+
+  .view-toggle { display: flex; gap: 4px; margin-top: 10px; }
+  .view-toggle button {
+    flex: 1; background: rgba(255,255,255,0.08); color: #ddd; border: 0;
+    padding: 5px 8px; border-radius: 4px; font-size: 12px; cursor: pointer;
+  }
+  .view-toggle button.active { background: #64b5f6; color: #000; }
+
+  #tooltip {
+    position: fixed; pointer-events: none; z-index: 20;
+    background: rgba(0,0,0,0.9); padding: 8px 10px; border-radius: 6px;
+    font-size: 12px; max-width: 260px; display: none;
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+  #tooltip .t-title { font-weight: 600; margin-bottom: 2px; }
+  #tooltip .t-meta { opacity: 0.75; font-size: 11px; }
+
+  #status { position: fixed; right: 12px; bottom: 12px; opacity: 0.6; font-size: 11px; }
+</style>
+</head>
+<body>
+
+<div id="globe"></div>
+
+<div id="ui" class="panel">
+  <h1>UFO case map</h1>
+  <div class="sub">
+    <span id="visible-count">...</span> of <span id="total-count">...</span> cases
+  </div>
+
+  <label><input type="checkbox" id="toggle-passport" checked>
+    <span class="legend" style="background:#ff7043"></span>
+    Passport to Magonia
+  </label>
+  <label><input type="checkbox" id="toggle-wonders" checked>
+    <span class="legend" style="background:#64b5f6"></span>
+    Wonders in the Sky
+  </label>
+
+  <div class="view-toggle">
+    <button data-view="points" class="active">Points</button>
+    <button data-view="hex">Hex density</button>
+  </div>
+
+  <label style="margin-top:8px;"><input type="checkbox" id="toggle-humanoid">
+    Humanoid entities only
+  </label>
+
+  <div style="margin-top:6px;">
+    Shape:
+    <select id="filter-shape" style="background:#111;color:#ddd;border:1px solid #333;padding:2px 4px;">
+      <option value="">all</option>
+    </select>
+  </div>
+
+  <div id="year-controls">
+    <div>Years: <span id="year-label"></span></div>
+    <input type="range" id="year-min" min="-3000" max="2010" step="1">
+    <input type="range" id="year-max" min="-3000" max="2010" step="1">
+  </div>
+
+  <div style="margin-top:10px; font-size:11px; opacity:0.65;">
+    Click a point to open the case.<br>
+    Larger dots = more precise location.
+  </div>
+</div>
+
+<div id="links" class="panel" style="font-size:12px;">
+  <a href="./">wiki home</a> · <a href="./stats.html">stats</a>
+</div>
+
+<div id="tooltip"></div>
+<div id="status">drag to rotate · scroll to zoom</div>
+
+<script src="https://unpkg.com/three@0.159.0/build/three.min.js"></script>
+<script src="https://unpkg.com/globe.gl@2.32.0/dist/globe.gl.min.js"></script>
+<script>
+(async function () {
+  const res = await fetch("./cases-geo.json");
+  const cases = await res.json();
+
+  const totalEl = document.getElementById("total-count");
+  const visibleEl = document.getElementById("visible-count");
+  totalEl.textContent = cases.length;
+
+  const years = cases.map(c => c.year).filter(y => y != null);
+  const yMin = Math.min(...years);
+  const yMax = Math.max(...years);
+
+  const minInput = document.getElementById("year-min");
+  const maxInput = document.getElementById("year-max");
+  minInput.min = maxInput.min = yMin;
+  minInput.max = maxInput.max = yMax;
+  minInput.value = yMin;
+  maxInput.value = yMax;
+
+  const labelEl = document.getElementById("year-label");
+  const tooltip = document.getElementById("tooltip");
+
+  const PASSPORT_COLOR = "#ff7043";
+  const WONDERS_COLOR = "#64b5f6";
+
+  function colorFor(c) {
+    return c.source_book === "Passport to Magonia" ? PASSPORT_COLOR : WONDERS_COLOR;
+  }
+
+  // Larger dots for better-resolved locations
+  const PRECISION_RADIUS = { exact: 0.45, city: 0.30, region: 0.22, vague: 0.16 };
+  function radiusFor(c) { return PRECISION_RADIUS[c.precision] ?? 0.22; }
+
+  const world = Globe()
+    (document.getElementById("globe"))
+    .globeImageUrl("https://unpkg.com/three-globe/example/img/earth-dark.jpg")
+    .bumpImageUrl("https://unpkg.com/three-globe/example/img/earth-topology.png")
+    .backgroundColor("#000")
+    // points layer
+    .pointLat("lat").pointLng("lon")
+    .pointAltitude(0.006)
+    .pointRadius(radiusFor)
+    .pointColor(colorFor)
+    .pointLabel(() => "")
+    .onPointHover(showTooltip)
+    .onPointClick(pt => { if (pt) window.location.href = "./" + pt.slug; })
+    // hex layer
+    .hexBinPointLat("lat").hexBinPointLng("lon")
+    .hexBinResolution(3)
+    .hexTopColor(d => heatColor(d.points.length))
+    .hexSideColor(d => heatColor(d.points.length))
+    .hexAltitude(d => Math.min(0.15, d.points.length * 0.004))
+    .hexBinMerge(true)
+    .hexLabel(d => `<div style="background:#000;padding:4px 8px;border-radius:4px">
+        <b>${d.points.length}</b> cases
+      </div>`);
+
+  function heatColor(n) {
+    // Ramp yellow -> red for density
+    const t = Math.min(1, Math.log(1 + n) / Math.log(80));
+    const r = 255;
+    const g = Math.round(255 * (1 - t));
+    const b = Math.round(40 * (1 - t));
+    return `rgba(${r},${g},${b},0.75)`;
+  }
+
+  function showTooltip(pt) {
+    if (!pt) { tooltip.style.display = "none"; return; }
+    tooltip.innerHTML =
+      `<div class="t-title">${escapeHtml(pt.title || pt.location || pt.id)}</div>` +
+      `<div class="t-meta">${escapeHtml(pt.date_display || "")} · ${escapeHtml(pt.location || "")}</div>` +
+      `<div class="t-meta">${escapeHtml(pt.source_book || "")} · ${pt.id}</div>`;
+    tooltip.style.display = "block";
+  }
+
+  document.addEventListener("mousemove", e => {
+    tooltip.style.left = (e.clientX + 14) + "px";
+    tooltip.style.top = (e.clientY + 14) + "px";
+  });
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c =>
+      ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;","'":"&#39;"}[c]));
+  }
+
+  function fmtYear(y) { return y < 0 ? `${-y} BC` : `${y}`; }
+
+  let currentView = "points";
+
+  // Populate shape dropdown from available data
+  const shapeCounts = {};
+  for (const c of cases) if (c.shape) shapeCounts[c.shape] = (shapeCounts[c.shape] || 0) + 1;
+  const shapeSel = document.getElementById("filter-shape");
+  Object.entries(shapeCounts).sort((a,b) => b[1] - a[1]).forEach(([s, n]) => {
+    const opt = document.createElement("option");
+    opt.value = s; opt.textContent = `${s} (${n})`;
+    shapeSel.appendChild(opt);
+  });
+
+  function apply() {
+    const showPassport = document.getElementById("toggle-passport").checked;
+    const showWonders = document.getElementById("toggle-wonders").checked;
+    const humOnly = document.getElementById("toggle-humanoid").checked;
+    const shapeFilter = shapeSel.value;
+    let lo = parseInt(minInput.value, 10);
+    let hi = parseInt(maxInput.value, 10);
+    if (lo > hi) [lo, hi] = [hi, lo];
+    labelEl.textContent = `${fmtYear(lo)} – ${fmtYear(hi)}`;
+
+    const filtered = cases.filter(c => {
+      if (!showPassport && c.source_book === "Passport to Magonia") return false;
+      if (!showWonders && c.source_book === "Wonders in the Sky") return false;
+      if (c.year != null && (c.year < lo || c.year > hi)) return false;
+      if (humOnly && c.entities !== "humanoid") return false;
+      if (shapeFilter && c.shape !== shapeFilter) return false;
+      return true;
+    });
+    visibleEl.textContent = filtered.length;
+
+    if (currentView === "points") {
+      world.pointsData(filtered).hexBinPointsData([]);
+    } else {
+      world.pointsData([]).hexBinPointsData(filtered);
+    }
+  }
+
+  document.getElementById("toggle-passport").addEventListener("change", apply);
+  document.getElementById("toggle-wonders").addEventListener("change", apply);
+  document.getElementById("toggle-humanoid").addEventListener("change", apply);
+  shapeSel.addEventListener("change", apply);
+  minInput.addEventListener("input", apply);
+  maxInput.addEventListener("input", apply);
+
+  document.querySelectorAll(".view-toggle button").forEach(btn => {
+    btn.addEventListener("click", () => {
+      document.querySelectorAll(".view-toggle button").forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      currentView = btn.dataset.view;
+      apply();
+    });
+  });
+
+  apply();
+})();
+</script>
+</body>
+</html>

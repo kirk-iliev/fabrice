@@ -2,7 +2,7 @@
 title: "W330 — Magdeburg, Germany: Astronomer's report of a dark moving object"
 date: 10 October 1802
 location: "Magdeburg, Germany"
-tags: ["case", "wonders-in-the-sky", "magdeburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "magdeburg", "germany", "time-day"]
 source: Wonders in the Sky
 ---
 

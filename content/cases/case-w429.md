@@ -2,7 +2,7 @@
 title: "W429 — Parrammatta, NSW, Australia: Flying ark, spirit voices, strange formulas, abduction CD"
 date: 25 July 1868
 location: "Parrammatta, NSW, Australia"
-tags: ["case", "wonders-in-the-sky", "parrammatta", "nsw", "australia"]
+tags: ["case", "wonders-in-the-sky", "parrammatta", "nsw", "australia", "entities-humanoid", "abduction", "time-day"]
 source: Wonders in the Sky
 ---
 

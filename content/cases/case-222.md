@@ -3,7 +3,7 @@ title: "Case 222 — Briatexte (France)"
 date: 1954-10-09
 location: "Briatexte (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-disk, entities-humanoid, trace-evidence]
 source: Passport to Magonia
 ---
 

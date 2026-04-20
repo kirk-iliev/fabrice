@@ -3,7 +3,7 @@ title: "Case 712 — Long Prairie (Minnesota)"
 date: 1965-10-23
 location: "Long Prairie (Minnesota)"
 country: "United States"
-tags: [case, humanoid, landing, vehicle-interference, CE3, united-states, north-america]
+tags: [case, humanoid, landing, vehicle-interference, CE3, united-states, north-america, shape-cylinder, entities-multiple_types]
 source: Passport to Magonia
 ---
 

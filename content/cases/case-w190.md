@@ -2,7 +2,7 @@
 title: "W190 — Braga, Portugal: Flying disk, entities: A flat disk (\"wafer\") appeared in the sky along with two human figures designated as"
 date: 9 May 1641
 location: "Braga, Portugal: Flying disk, entities"
-tags: ["case", "wonders-in-the-sky", "braga", "portugal"]
+tags: ["case", "wonders-in-the-sky", "braga", "portugal", "shape-light", "entities-humanoid"]
 source: Wonders in the Sky
 ---
 

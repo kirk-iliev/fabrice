@@ -3,7 +3,7 @@ title: "Case 884 — Nanton (Canada)"
 date: 1967-09-18
 location: "Nanton (Canada)"
 country: "Canada"
-tags: [case, vehicle-interference, CE2, canada, north-america]
+tags: [case, vehicle-interference, CE2, canada, north-america, shape-light]
 source: Passport to Magonia
 ---
 

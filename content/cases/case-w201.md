@@ -2,7 +2,7 @@
 title: "W201 — Newmarket & Thetford, England: Vertical pillar of light"
 date: 21 May 1646
 location: "Newmarket & Thetford, England"
-tags: ["case", "wonders-in-the-sky", "newmarket-thetford", "england"]
+tags: ["case", "wonders-in-the-sky", "newmarket-thetford", "england", "shape-cross"]
 source: Wonders in the Sky
 ---
 

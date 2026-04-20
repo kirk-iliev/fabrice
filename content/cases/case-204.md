@@ -3,7 +3,7 @@ title: "Case 204 — Plozevet (France)"
 date: 1954-10-07
 location: "Plozevet (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-light, time-dawn]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 421 — Elmwood Park (Illinois)"
 date: 1957-11-04
 location: "Elmwood Park (Illinois)"
 country: "United States"
-tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america]
+tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america, shape-light, time-night]
 source: Passport to Magonia
 ---
 

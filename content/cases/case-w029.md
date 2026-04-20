@@ -2,7 +2,7 @@
 title: "W029 — Ostium, Italy: Five-year old child abducted"
 date: Circa 1010
 location: "Ostium, Italy"
-tags: ["case", "wonders-in-the-sky", "ostium", "italy"]
+tags: ["case", "wonders-in-the-sky", "ostium", "italy", "entities-humanoid", "abduction", "time-night"]
 source: Wonders in the Sky
 ---
 

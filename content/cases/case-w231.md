@@ -2,7 +2,7 @@
 title: "W231 — Roboziero near Bieloziero, Russia: Fiery object with burning beams"
 date: 15 August 1663
 location: "Roboziero near Bieloziero, Russia"
-tags: ["case", "wonders-in-the-sky", "roboziero-near-bieloziero", "russia"]
+tags: ["case", "wonders-in-the-sky", "roboziero-near-bieloziero", "russia", "shape-fireball", "trace-evidence", "time-day"]
 source: Wonders in the Sky
 ---
 

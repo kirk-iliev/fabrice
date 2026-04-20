@@ -2,7 +2,7 @@
 title: "W316 — Edinburgh, Scotland: Wandering globe"
 date: 11 September 1787
 location: "Edinburgh, Scotland"
-tags: ["case", "wonders-in-the-sky", "edinburgh", "scotland"]
+tags: ["case", "wonders-in-the-sky", "edinburgh", "scotland", "shape-fireball", "time-dusk"]
 source: Wonders in the Sky
 ---
 

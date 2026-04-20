@@ -3,7 +3,7 @@ title: "Case 655 — Colonia (Uruguay)"
 date: 1965-07-17
 location: "Colonia (Uruguay)"
 country: "Uruguay"
-tags: [case, humanoid, trace-evidence, CE3, uruguay, south-america]
+tags: [case, humanoid, trace-evidence, CE3, uruguay, south-america, shape-egg]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W474 — France: Mock suns, and a glittering star in the moon"
 date: 577
 location: "France"
-tags: ["case", "wonders-in-the-sky", "france"]
+tags: ["case", "wonders-in-the-sky", "france", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

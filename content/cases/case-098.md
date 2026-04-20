@@ -3,7 +3,7 @@ title: "Case 098 — Frontenac (Kansas)"
 date: 1952-08-24
 location: "Frontenac (Kansas)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

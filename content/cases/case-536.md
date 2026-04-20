@@ -3,7 +3,7 @@ title: "Case 536 — Prince of Wales Island (Australia)"
 date: 1962-06-16
 location: "Prince of Wales Island (Australia)"
 country: "Australia"
-tags: [case, landing, CE2, australia, oceania]
+tags: [case, landing, CE2, australia, oceania, shape-disk, time-day]
 source: Passport to Magonia
 ---
 

@@ -8,8 +8,6 @@ source: Wonders in the Sky
 
 ## 5th Ed (London: J. Dodsley, 1786), 67. — 1761
 
-### 
-
 
 
 **Source:** 

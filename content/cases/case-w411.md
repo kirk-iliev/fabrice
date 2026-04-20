@@ -2,7 +2,7 @@
 title: "W411 — New Haven, Connecticut: Another red object"
 date: 21 January 1855
 location: "New Haven, Connecticut"
-tags: ["case", "wonders-in-the-sky", "new-haven", "connecticut"]
+tags: ["case", "wonders-in-the-sky", "new-haven", "connecticut", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

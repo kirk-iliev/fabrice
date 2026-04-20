@@ -3,7 +3,7 @@ title: "Case 236 — Bauquay (France)"
 date: 1954-10-11
 location: "Bauquay (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, animal-reaction, time-dawn]
 source: Passport to Magonia
 ---
 

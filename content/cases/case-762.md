@@ -3,7 +3,7 @@ title: "Case 762 — Bagley (Minnesota)"
 date: 1966-04-22
 location: "Bagley (Minnesota)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, entities-humanoid, trace-evidence]
 source: Passport to Magonia
 ---
 

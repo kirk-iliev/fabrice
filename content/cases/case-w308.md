@@ -2,7 +2,7 @@
 title: "W308 — Perthshire, Scotland: Large luminous pyramid leaves damage in its wake"
 date: 8 September 1767
 location: "Perthshire, Scotland"
-tags: ["case", "wonders-in-the-sky", "perthshire", "scotland"]
+tags: ["case", "wonders-in-the-sky", "perthshire", "scotland", "shape-fireball", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

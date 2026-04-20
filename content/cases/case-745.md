@@ -2,7 +2,7 @@
 title: "Case 745 — Mar"
 date: 1966-03-31
 location: "Mar"
-tags: [case, landing, CE2]
+tags: [case, landing, CE2, shape-cylinder, physical-contact]
 source: Passport to Magonia
 ---
 

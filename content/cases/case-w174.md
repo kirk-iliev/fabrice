@@ -2,7 +2,7 @@
 title: "W174 — Tiannin mountain, China: Blinding \"eye\" in the sky"
 date: 15 February 1609
 location: "Tiannin mountain, China"
-tags: ["case", "wonders-in-the-sky", "tiannin-mountain", "china"]
+tags: ["case", "wonders-in-the-sky", "tiannin-mountain", "china", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

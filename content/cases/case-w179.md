@@ -2,7 +2,7 @@
 title: "W179 — Prague, Czechoslovakia: Flying Globes: A succession of fiery globes is observed. Some of them split into several parts or other"
 date: 1619
 location: "Prague, Czechoslovakia: Flying Globes"
-tags: ["case", "wonders-in-the-sky", "prague", "czechoslovakia"]
+tags: ["case", "wonders-in-the-sky", "prague", "czechoslovakia", "shape-multiple", "time-night"]
 source: Wonders in the Sky
 ---
 

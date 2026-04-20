@@ -2,7 +2,7 @@
 title: "W216 — Austy, England: Multiple objects: Several persons who were going to Ware Market suddenly saw a terrible flash of"
 date: 30 October 1660
 location: "Austy, England: Multiple objects"
-tags: ["case", "wonders-in-the-sky", "austy", "england"]
+tags: ["case", "wonders-in-the-sky", "austy", "england", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

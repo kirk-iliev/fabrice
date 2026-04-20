@@ -3,7 +3,7 @@ title: "Case 648 — Paso de las Carretas (Argentina)"
 date: 1965-05-24
 location: "Paso de las Carretas (Argentina)"
 country: "Argentina"
-tags: [case, landing, CE2, argentina, south-america]
+tags: [case, landing, CE2, argentina, south-america, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

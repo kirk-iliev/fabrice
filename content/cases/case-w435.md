@@ -2,7 +2,7 @@
 title: "W435 — Dunbar, Scotland: Hovering ball of light"
 date: 15 August 1870
 location: "Dunbar, Scotland"
-tags: ["case", "wonders-in-the-sky", "dunbar", "scotland"]
+tags: ["case", "wonders-in-the-sky", "dunbar", "scotland", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

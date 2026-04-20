@@ -3,7 +3,7 @@ title: "Case 244 — Leguevin (France)"
 date: 1954
 location: "Leguevin (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

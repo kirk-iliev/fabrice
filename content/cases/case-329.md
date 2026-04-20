@@ -3,7 +3,7 @@ title: "Case 329 — La Roche-en-Brenil (France)"
 date: 1954-11-05
 location: "La Roche-en-Brenil (France)"
 country: "France"
-tags: [case, humanoid, landing, trace-evidence, CE3, france, europe]
+tags: [case, humanoid, landing, trace-evidence, CE3, france, europe, entities-humanoid, time-night]
 source: Passport to Magonia
 ---
 

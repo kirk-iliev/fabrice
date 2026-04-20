@@ -3,7 +3,7 @@ title: "Case 514 — La Victoria (Venezuela)"
 date: 1961-01-01
 location: "La Victoria (Venezuela)"
 country: "Venezuela"
-tags: [case, humanoid, CE3, venezuela, south-america]
+tags: [case, humanoid, CE3, venezuela, south-america, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 920 — Lins (Brazil)"
 date: 1968-10-09
 location: "Lins (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, CE3, brazil, south-america]
+tags: [case, humanoid, CE3, brazil, south-america, shape-cigar, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

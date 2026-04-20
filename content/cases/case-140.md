@@ -3,7 +3,7 @@ title: "Case 140 — North Bay (Canada)"
 date: 1954-08-30
 location: "North Bay (Canada)"
 country: "Canada"
-tags: [case, humanoid, CE3, canada, north-america]
+tags: [case, humanoid, CE3, canada, north-america, time-night]
 source: Passport to Magonia
 ---
 

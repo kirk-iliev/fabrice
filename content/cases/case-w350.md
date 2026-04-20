@@ -2,7 +2,7 @@
 title: "W350 — Augsburg, Germany: Enormous planetary intruder"
 date: 9 October 1819
 location: "Augsburg, Germany"
-tags: ["case", "wonders-in-the-sky", "augsburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "augsburg", "germany", "shape-sphere", "time-day"]
 source: Wonders in the Sky
 ---
 

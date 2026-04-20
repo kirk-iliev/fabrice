@@ -2,7 +2,7 @@
 title: "Case 018 — Linn Grove A large object was seen to fly morning slowly toward the north"
 date: 1897-04-15
 location: "Linn Grove A large object was seen to fly morning slowly toward the north"
-tags: [case, humanoid, landing, CE3]
+tags: [case, humanoid, landing, CE3, entities-humanoid, physical-contact, time-morning]
 source: Passport to Magonia
 ---
 

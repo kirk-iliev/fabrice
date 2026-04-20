@@ -2,7 +2,7 @@
 title: "W214 — Hertford, England: Flying circle with appendages"
 date: 11 October 1660
 location: "Hertford, England"
-tags: ["case", "wonders-in-the-sky", "hertford", "england"]
+tags: ["case", "wonders-in-the-sky", "hertford", "england", "shape-circle", "time-dawn"]
 source: Wonders in the Sky
 ---
 

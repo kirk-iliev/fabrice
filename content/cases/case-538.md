@@ -3,7 +3,7 @@ title: "Case 538 — Pasnembi (Brazil)"
 date: 1962-07-30
 location: "Pasnembi (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, landing, vehicle-interference, CE3, brazil, south-america]
+tags: [case, humanoid, landing, vehicle-interference, CE3, brazil, south-america, shape-cylinder, entities-humanoid]
 source: Passport to Magonia
 ---
 

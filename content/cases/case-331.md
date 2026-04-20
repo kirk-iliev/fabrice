@@ -3,7 +3,7 @@ title: "Case 331 — Monza (Italy)"
 date: 1954-11-08
 location: "Monza (Italy)"
 country: "Italy"
-tags: [case, humanoid, landing, CE3, italy, europe]
+tags: [case, humanoid, landing, CE3, italy, europe, shape-disk, entities-humanoid, animal-reaction, time-night]
 source: Passport to Magonia
 ---
 

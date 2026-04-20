@@ -2,7 +2,7 @@
 title: "W137 — Biubiu River, Chile: The Lady from the Comet"
 date: 15 October 1550
 location: "Biubiu River, Chile"
-tags: ["case", "wonders-in-the-sky", "biubiu-river", "chile"]
+tags: ["case", "wonders-in-the-sky", "biubiu-river", "chile", "shape-fireball", "entities-humanoid", "communication", "time-day"]
 source: Wonders in the Sky
 ---
 

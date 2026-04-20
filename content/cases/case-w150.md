@@ -2,7 +2,7 @@
 title: "W150 — Basel, Switzerland: A black sphere: A black sphere appears in the sky and covers the face of the Sun. It was seen all day long."
 date: 7 April 1567
 location: "Basel, Switzerland: A black sphere"
-tags: ["case", "wonders-in-the-sky", "basel", "switzerland"]
+tags: ["case", "wonders-in-the-sky", "basel", "switzerland", "shape-sphere"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 185 — Quend (France)"
 date: 1954-10-03
 location: "Quend (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-light, vehicle-interference]
 source: Passport to Magonia
 ---
 

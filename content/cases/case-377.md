@@ -3,7 +3,7 @@ title: "Case 377 — Ook, 28,1956 Galloway (England)"
 date: 1956
 location: "Ook, 28,1956 Galloway (England)"
 country: "Great Britain"
-tags: [case, landing, CE2, great-britain, europe]
+tags: [case, landing, CE2, great-britain, europe, shape-disk, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

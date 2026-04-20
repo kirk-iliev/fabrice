@@ -3,7 +3,7 @@ title: "Case 621 — Brekkens Corner (Montana)"
 date: 1964-08-12
 location: "Brekkens Corner (Montana)"
 country: "United States"
-tags: [case, trace-evidence, CE2, united-states, north-america]
+tags: [case, trace-evidence, CE2, united-states, north-america, shape-fireball]
 source: Passport to Magonia
 ---
 

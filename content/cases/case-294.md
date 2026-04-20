@@ -3,7 +3,7 @@ title: "Case 294 — Turquenstein (France)"
 date: 1954-10-20
 location: "Turquenstein (France)"
 country: "France"
-tags: [case, vehicle-interference, CE2, france, europe]
+tags: [case, vehicle-interference, CE2, france, europe, shape-cone, time-night]
 source: Passport to Magonia
 ---
 

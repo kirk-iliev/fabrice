@@ -2,7 +2,7 @@
 title: "W364 — Whinny Park, near Cupar, Fife, Scotland: Two unknown flashing lights and a beam"
 date: 23 July 1830
 location: "Whinny Park, near Cupar, Fife, Scotland"
-tags: ["case", "wonders-in-the-sky", "whinny-park", "cupar", "fife", "scotland"]
+tags: ["case", "wonders-in-the-sky", "whinny-park", "cupar", "fife", "scotland", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

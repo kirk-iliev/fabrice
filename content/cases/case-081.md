@@ -3,7 +3,7 @@ title: "Case 081 — duly 20,1950 Porto Novo (Brazil)"
 date: 1950
 location: "duly 20,1950 Porto Novo (Brazil)"
 country: "Brazil"
-tags: [case, CE1, brazil, south-america]
+tags: [case, CE1, brazil, south-america, shape-disk, vehicle-interference, time-day]
 source: Passport to Magonia
 ---
 

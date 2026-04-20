@@ -3,7 +3,7 @@ title: "Case 221 — Lavoux (France)"
 date: 1954-10-09
 location: "Lavoux (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

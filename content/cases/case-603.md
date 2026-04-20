@@ -3,7 +3,7 @@ title: "Case 603 — Mogadore (Ohio)"
 date: 1964-05-09
 location: "Mogadore (Ohio)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

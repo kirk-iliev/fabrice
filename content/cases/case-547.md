@@ -3,7 +3,7 @@ title: "Case 547 — Oradell (New Jersey)"
 date: 1962-09-15
 location: "Oradell (New Jersey)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-disk, trace-evidence, time-dusk]
 source: Passport to Magonia
 ---
 

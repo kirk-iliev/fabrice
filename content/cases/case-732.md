@@ -3,7 +3,7 @@ title: "Case 732 — Hillsdale (Michigan)"
 date: 1966-03-21
 location: "Hillsdale (Michigan)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-light]
 source: Passport to Magonia
 ---
 

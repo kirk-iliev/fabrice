@@ -2,7 +2,7 @@
 title: "W444 — Gunnersbury, England: Long-lasting red celestial unknown"
 date: 17 March 1877
 location: "Gunnersbury, England"
-tags: ["case", "wonders-in-the-sky", "gunnersbury", "england"]
+tags: ["case", "wonders-in-the-sky", "gunnersbury", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

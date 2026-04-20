@@ -2,7 +2,7 @@
 title: "W406 — Paris, France: A flying object reverses course"
 date: 13 March 1850
 location: "Paris, France"
-tags: ["case", "wonders-in-the-sky", "paris", "france"]
+tags: ["case", "wonders-in-the-sky", "paris", "france", "shape-fireball", "time-dawn"]
 source: Wonders in the Sky
 ---
 

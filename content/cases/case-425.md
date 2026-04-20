@@ -3,7 +3,7 @@ title: "Case 425 — Santa Fe (New Mexico)"
 date: 1957-11-06
 location: "Santa Fe (New Mexico)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-egg]
 source: Passport to Magonia
 ---
 

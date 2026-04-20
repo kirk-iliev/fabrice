@@ -2,7 +2,7 @@
 title: "W382 — location unknown: Unknown planetoid"
 date: 4 October 1844
 location: "location unknown"
-tags: ["case", "wonders-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "shape-light"]
 source: Wonders in the Sky
 ---
 

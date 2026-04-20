@@ -3,7 +3,7 @@ title: "Case 288 — Gorizia (Italy)"
 date: 1954-10-19
 location: "Gorizia (Italy)"
 country: "Italy"
-tags: [case, landing, CE2, italy, europe]
+tags: [case, landing, CE2, italy, europe, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

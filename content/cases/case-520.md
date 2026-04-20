@@ -3,7 +3,7 @@ title: "Case 520 — Ryde (Great Britain)"
 date: 1961-07-03
 location: "Ryde (Great Britain)"
 country: "Great Britain"
-tags: [case, CE1, great-britain, europe]
+tags: [case, CE1, great-britain, europe, shape-disk]
 source: Passport to Magonia
 ---
 

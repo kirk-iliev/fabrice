@@ -2,7 +2,7 @@
 title: "W485 — Northumbria, England: Fiery Dragons, Evil Men: According to the Anglo Saxon chronicle, \"Here in this year, dire portents appeared over"
 date: 793
 location: "Northumbria, England: Fiery Dragons, Evil Men"
-tags: ["case", "wonders-in-the-sky", "northumbria", "england"]
+tags: ["case", "wonders-in-the-sky", "northumbria", "england", "shape-fireball"]
 source: Wonders in the Sky
 ---
 

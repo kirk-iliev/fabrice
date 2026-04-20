@@ -3,7 +3,7 @@ title: "Case 075 — Kokomo (Indiana)"
 date: 1950-04-08
 location: "Kokomo (Indiana)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, animal-reaction, time-night]
 source: Passport to Magonia
 ---
 

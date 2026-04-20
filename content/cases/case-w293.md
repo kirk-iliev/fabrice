@@ -2,7 +2,7 @@
 title: "W293 — Amsterdam and Chiswick, England: Sphere at ground level"
 date: 15 August 1754
 location: "Amsterdam and Chiswick, England"
-tags: ["case", "wonders-in-the-sky", "amsterdam-and-chiswick", "england"]
+tags: ["case", "wonders-in-the-sky", "amsterdam-and-chiswick", "england", "shape-sphere", "time-dusk"]
 source: Wonders in the Sky
 ---
 

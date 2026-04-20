@@ -3,7 +3,7 @@ title: "Case 233 — Lacanche (France)"
 date: 1954-10-11
 location: "Lacanche (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-light, vehicle-interference]
 source: Passport to Magonia
 ---
 

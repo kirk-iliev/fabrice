@@ -2,7 +2,7 @@
 title: "W238 — countryside near London, England: Jane Lead's contact"
 date: April 1670
 location: "countryside near London, England"
-tags: ["case", "wonders-in-the-sky", "countryside-near-london", "england"]
+tags: ["case", "wonders-in-the-sky", "countryside-near-london", "england", "shape-cloud", "entities-humanoid", "communication"]
 source: Wonders in the Sky
 ---
 

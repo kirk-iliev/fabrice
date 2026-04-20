@@ -2,7 +2,7 @@
 title: "W054 — Friesland, Holland: Four suns, armed men in the sky"
 date: 1182
 location: "Friesland, Holland"
-tags: ["case", "wonders-in-the-sky", "friesland", "holland"]
+tags: ["case", "wonders-in-the-sky", "friesland", "holland", "shape-multiple", "entities-humanoid", "time-day"]
 source: Wonders in the Sky
 ---
 

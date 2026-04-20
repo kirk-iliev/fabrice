@@ -3,7 +3,7 @@ title: "Case 324 — Poggio d’Ambra (Italy)"
 date: 1954-11-01
 location: "Poggio d’Ambra (Italy)"
 country: "Italy"
-tags: [case, humanoid, CE3, italy, europe]
+tags: [case, humanoid, CE3, italy, europe, shape-multiple, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

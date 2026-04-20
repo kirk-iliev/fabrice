@@ -3,7 +3,7 @@ title: "Case 795 — Durand (Wisconsin)"
 date: 1966-09-07
 location: "Durand (Wisconsin)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cigar]
 source: Passport to Magonia
 ---
 

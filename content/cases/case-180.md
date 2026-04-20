@@ -3,7 +3,7 @@ title: "Case 180 — Croix d'Epine (France)"
 date: 1954-10-02
 location: "Croix d'Epine (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-egg, entities-humanoid, time-night]
 source: Passport to Magonia
 ---
 

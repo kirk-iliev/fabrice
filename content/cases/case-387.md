@@ -3,7 +3,7 @@ title: "Case 387 — Georgetown (Connecticut)"
 date: 1957
 location: "Georgetown (Connecticut)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cigar]
 source: Passport to Magonia
 ---
 

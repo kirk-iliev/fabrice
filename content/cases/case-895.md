@@ -2,7 +2,7 @@
 title: "Case 895 — Noy"
 date: 1967
 location: "Noy"
-tags: [case, landing, CE2]
+tags: [case, landing, CE2, shape-sphere, animal-reaction]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 066 — Hamel (Minnesota)"
 date: 1948-08-11
 location: "Hamel (Minnesota)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, trace-evidence, time-day]
 source: Passport to Magonia
 ---
 

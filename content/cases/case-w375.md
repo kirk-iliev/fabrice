@@ -2,7 +2,7 @@
 title: "W375 — Scarborough, England: Frightening lights at ground level"
 date: 1837
 location: "Scarborough, England"
-tags: ["case", "wonders-in-the-sky", "scarborough", "england"]
+tags: ["case", "wonders-in-the-sky", "scarborough", "england", "shape-light", "animal-reaction", "time-night"]
 source: Wonders in the Sky
 ---
 

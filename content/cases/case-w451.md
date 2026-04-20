@@ -2,7 +2,7 @@
 title: "W451 — Manhattanville, New York, USA: Unexplained astronomical phenomenon"
 date: 12 April 1879
 location: "Manhattanville, New York, USA"
-tags: ["case", "wonders-in-the-sky", "manhattanville", "new-york", "usa"]
+tags: ["case", "wonders-in-the-sky", "manhattanville", "new-york", "usa", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

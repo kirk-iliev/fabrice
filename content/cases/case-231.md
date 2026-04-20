@@ -3,7 +3,7 @@ title: "Case 231 — Acquigny (France)"
 date: 1954-10-11
 location: "Acquigny (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-cylinder, trace-evidence]
 source: Passport to Magonia
 ---
 

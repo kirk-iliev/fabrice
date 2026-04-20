@@ -2,7 +2,7 @@
 title: "Case 917 — Plainc des Cafres (La Reunion Island)"
 date: 1968-07-31
 location: "Plainc des Cafres (La Reunion Island)"
-tags: [case, humanoid, landing, CE3]
+tags: [case, humanoid, landing, CE3, shape-cylinder, entities-humanoid, injury-or-burn, time-day]
 source: Passport to Magonia
 ---
 

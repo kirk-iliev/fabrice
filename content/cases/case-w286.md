@@ -2,7 +2,7 @@
 title: "W286 — London, England: Slow, waving 'rocket'"
 date: 16 December 1743
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

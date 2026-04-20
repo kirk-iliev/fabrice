@@ -2,7 +2,7 @@
 title: "Case 817 — Feb"
 date: 1967
 location: "Feb"
-tags: [case, CE1]
+tags: [case, CE1, trace-evidence]
 source: Passport to Magonia
 ---
 

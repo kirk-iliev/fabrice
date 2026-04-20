@@ -3,7 +3,7 @@ title: "Case 155 — Farm Lachassagne, near Ussel (France)"
 date: 1954-09-24
 location: "Farm Lachassagne, near Ussel (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-light, time-afternoon]
 source: Passport to Magonia
 ---
 

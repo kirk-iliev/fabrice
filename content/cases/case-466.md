@@ -3,7 +3,7 @@ title: "Case 466 — Abacatu (Brazil)"
 date: 1958-04-17
 location: "Abacatu (Brazil)"
 country: "Brazil"
-tags: [case, landing, CE2, brazil, south-america]
+tags: [case, landing, CE2, brazil, south-america, shape-disk, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

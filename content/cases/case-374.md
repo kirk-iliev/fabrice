@@ -3,7 +3,7 @@ title: "Case 374 — Greenhills (Ohio)"
 date: 1955-08-25
 location: "Greenhills (Ohio)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-light, entities-humanoid]
 source: Passport to Magonia
 ---
 

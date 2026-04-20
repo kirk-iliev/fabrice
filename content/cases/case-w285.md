@@ -2,7 +2,7 @@
 title: "W285 — England: Unknown planetoid orbiting Venus"
 date: 23 October 1740
 location: "England"
-tags: ["case", "wonders-in-the-sky", "england"]
+tags: ["case", "wonders-in-the-sky", "england", "shape-light"]
 source: Wonders in the Sky
 ---
 

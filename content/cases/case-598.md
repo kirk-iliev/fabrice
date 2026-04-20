@@ -3,7 +3,7 @@ title: "Case 598 — La Madera (New Mexico)"
 date: 1964-04-26
 location: "La Madera (New Mexico)"
 country: "United States"
-tags: [case, landing, trace-evidence, CE2, united-states, north-america]
+tags: [case, landing, trace-evidence, CE2, united-states, north-america, shape-cylinder]
 source: Passport to Magonia
 ---
 

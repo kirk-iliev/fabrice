@@ -2,7 +2,7 @@
 title: "W222 — Canterbury, England: A Star with an opening"
 date: 20 March 1661
 location: "Canterbury, England"
-tags: ["case", "wonders-in-the-sky", "canterbury", "england"]
+tags: ["case", "wonders-in-the-sky", "canterbury", "england", "shape-light"]
 source: Wonders in the Sky
 ---
 

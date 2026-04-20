@@ -2,7 +2,7 @@
 title: "W287 — Knott, Scotland: Armed men in the sky: Twenty-six witnesses, including a judge, observed a troop of armed men in the sky above"
 date: 23 June 1744
 location: "Knott, Scotland: Armed men in the sky"
-tags: ["case", "wonders-in-the-sky", "knott", "scotland"]
+tags: ["case", "wonders-in-the-sky", "knott", "scotland", "entities-humanoid", "time-evening"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 437 — Holly (West Virginia)"
 date: 1957-11-08
 location: "Holly (West Virginia)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cigar, entities-humanoid, trace-evidence]
 source: Passport to Magonia
 ---
 

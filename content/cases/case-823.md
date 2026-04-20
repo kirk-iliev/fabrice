@@ -3,7 +3,7 @@ title: "Case 823 — Leominster (Massachusetts)"
 date: 1967-03-08
 location: "Leominster (Massachusetts)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

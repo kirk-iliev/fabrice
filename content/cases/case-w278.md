@@ -2,7 +2,7 @@
 title: "W278 — Noes, Uppland, Sweden: Fiery globe: Two hours prior to sunrise, M. Suen-Hof saw red vapors in the sky, which stretched in"
 date: 1 October 1729
 location: "Noes, Uppland, Sweden: Fiery globe"
-tags: ["case", "wonders-in-the-sky", "noes", "uppland", "sweden"]
+tags: ["case", "wonders-in-the-sky", "noes", "uppland", "sweden", "shape-fireball"]
 source: Wonders in the Sky
 ---
 

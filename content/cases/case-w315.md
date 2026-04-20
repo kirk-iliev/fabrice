@@ -2,7 +2,7 @@
 title: "W315 — China, exact location unknown: Oscillating 'star'"
 date: 24 June 1784
 location: "China, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "china"]
+tags: ["case", "wonders-in-the-sky", "china", "shape-light"]
 source: Wonders in the Sky
 ---
 

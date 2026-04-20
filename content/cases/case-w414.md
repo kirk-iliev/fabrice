@@ -2,7 +2,7 @@
 title: "W414 — Copenhagen, Denmark: Unexplained object"
 date: 10 December 1855
 location: "Copenhagen, Denmark"
-tags: ["case", "wonders-in-the-sky", "copenhagen", "denmark"]
+tags: ["case", "wonders-in-the-sky", "copenhagen", "denmark", "shape-multiple"]
 source: Wonders in the Sky
 ---
 

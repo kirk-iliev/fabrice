@@ -3,7 +3,7 @@ title: "Case 735 — Sheboygan (Wisconsin)"
 date: 1966-03-24
 location: "Sheboygan (Wisconsin)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-disk, time-night]
 source: Passport to Magonia
 ---
 

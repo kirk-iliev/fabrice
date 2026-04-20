@@ -3,7 +3,7 @@ title: "Case 649 — Kuranda (Australia)"
 date: 1965-06-02
 location: "Kuranda (Australia)"
 country: "Australia"
-tags: [case, CE1, australia, oceania]
+tags: [case, CE1, australia, oceania, shape-sphere]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 807 — El Campo (Texas)"
 date: 1966-11-28
 location: "El Campo (Texas)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, vehicle-interference]
 source: Passport to Magonia
 ---
 

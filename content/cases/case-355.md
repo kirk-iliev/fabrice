@@ -3,7 +3,7 @@ title: "Case 355 — Bersaillin (France)"
 date: 1954-12-17
 location: "Bersaillin (France)"
 country: "France"
-tags: [case, landing, vehicle-interference, CE2, france, europe]
+tags: [case, landing, vehicle-interference, CE2, france, europe, shape-light, injury-or-burn, time-night]
 source: Passport to Magonia
 ---
 

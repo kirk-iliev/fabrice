@@ -3,7 +3,7 @@ title: "Case 186 — Ronsenac (France)"
 date: 1954-10-03
 location: "Ronsenac (France)"
 country: "France"
-tags: [case, trace-evidence, CE2, france, europe]
+tags: [case, trace-evidence, CE2, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

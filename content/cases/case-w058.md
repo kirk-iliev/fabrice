@@ -2,7 +2,7 @@
 title: "W058 — Yorkshire, England: Five Moons in formation"
 date: Late December 1200
 location: "Yorkshire, England"
-tags: ["case", "wonders-in-the-sky", "yorkshire", "england"]
+tags: ["case", "wonders-in-the-sky", "yorkshire", "england", "shape-multiple"]
 source: Wonders in the Sky
 ---
 

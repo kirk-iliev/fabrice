@@ -3,7 +3,7 @@ title: "Case 557 — Rome (Italy)"
 date: 1963-01-04
 location: "Rome (Italy)"
 country: "Italy"
-tags: [case, landing, CE2, italy, europe]
+tags: [case, landing, CE2, italy, europe, shape-cylinder, trace-evidence]
 source: Passport to Magonia
 ---
 

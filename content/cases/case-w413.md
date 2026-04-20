@@ -2,7 +2,7 @@
 title: "W413 — Tillington, Sussex, England: Red wheel in the sky"
 date: 11 August 1855
 location: "Tillington, Sussex, England"
-tags: ["case", "wonders-in-the-sky", "tillington", "sussex", "england"]
+tags: ["case", "wonders-in-the-sky", "tillington", "sussex", "england", "shape-disk", "time-night"]
 source: Wonders in the Sky
 ---
 

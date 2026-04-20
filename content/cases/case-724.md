@@ -3,7 +3,7 @@ title: "Case 724 — Rexburg (Idaho)"
 date: 1966-01-29
 location: "Rexburg (Idaho)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, time-night]
 source: Passport to Magonia
 ---
 

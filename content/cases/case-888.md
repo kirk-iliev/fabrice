@@ -3,7 +3,7 @@ title: "Case 888 — Duncan (Oklahoma)"
 date: 1967-10-21
 location: "Duncan (Oklahoma)"
 country: "United States"
-tags: [case, humanoid, landing, trace-evidence, CE3, united-states, north-america]
+tags: [case, humanoid, landing, trace-evidence, CE3, united-states, north-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

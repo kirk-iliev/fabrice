@@ -3,7 +3,7 @@ title: "Case 562 — Ascension (Paraguay)"
 date: 1963
 location: "Ascension (Paraguay)"
 country: "Paraguay"
-tags: [case, landing, CE2, paraguay, south-america]
+tags: [case, landing, CE2, paraguay, south-america, trace-evidence]
 source: Passport to Magonia
 ---
 

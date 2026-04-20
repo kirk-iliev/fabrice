@@ -2,7 +2,7 @@
 title: "W321 — Balasore, India: Phenomenon in the heavens"
 date: 20 August 1794
 location: "Balasore, India"
-tags: ["case", "wonders-in-the-sky", "balasore", "india"]
+tags: ["case", "wonders-in-the-sky", "balasore", "india", "shape-fireball", "time-dusk"]
 source: Wonders in the Sky
 ---
 

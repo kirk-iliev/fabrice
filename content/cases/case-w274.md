@@ -2,7 +2,7 @@
 title: "W274 — Oxford, England: A physicist puzzled: Very bright, whitish and blue object moving from the west in a straight line at 8:15 P.M.,"
 date: 19 March 1719
 location: "Oxford, England: A physicist puzzled"
-tags: ["case", "wonders-in-the-sky", "oxford", "england"]
+tags: ["case", "wonders-in-the-sky", "oxford", "england", "shape-fireball"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W221 — Darken, Surrey, England: Flying cathedrals"
 date: February 1661
 location: "Darken, Surrey, England"
-tags: ["case", "wonders-in-the-sky", "darken", "surrey", "england"]
+tags: ["case", "wonders-in-the-sky", "darken", "surrey", "england", "shape-multiple", "time-dusk"]
 source: Wonders in the Sky
 ---
 

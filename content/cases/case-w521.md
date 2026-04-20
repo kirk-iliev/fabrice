@@ -2,7 +2,7 @@
 title: "W521 — Hara-Yadori, near Tokyo, Japan: Female visitor"
 date: 22 February 1803
 location: "Hara-Yadori, near Tokyo, Japan"
-tags: ["case", "wonders-in-the-sky", "hara"]
+tags: ["case", "wonders-in-the-sky", "hara", "shape-disk", "entities-humanoid", "communication", "time-day"]
 source: Wonders in the Sky
 ---
 

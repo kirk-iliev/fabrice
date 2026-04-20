@@ -3,7 +3,7 @@ title: "Case 351 — Floresta (Venezuela)"
 date: 1954-12-10
 location: "Floresta (Venezuela)"
 country: "Venezuela"
-tags: [case, humanoid, CE3, venezuela, south-america]
+tags: [case, humanoid, CE3, venezuela, south-america, shape-disk, entities-humanoid, vehicle-interference]
 source: Passport to Magonia
 ---
 

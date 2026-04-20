@@ -3,7 +3,7 @@ title: "Case 463 — Moscow (USSR)"
 date: 1958-03-19
 location: "Moscow (USSR)"
 country: "USSR"
-tags: [case, CE1, ussr, europe]
+tags: [case, CE1, ussr, europe, shape-disk]
 source: Passport to Magonia
 ---
 

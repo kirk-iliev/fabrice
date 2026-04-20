@@ -3,7 +3,7 @@ title: "Case 763 — Beverly (Massachusetts)"
 date: 1966-04-22
 location: "Beverly (Massachusetts)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

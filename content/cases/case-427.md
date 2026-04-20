@@ -3,7 +3,7 @@ title: "Case 427 — Playa del Rey (California)"
 date: 1957-11-06
 location: "Playa del Rey (California)"
 country: "United States"
-tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america]
+tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america, shape-egg, entities-humanoid, time-dawn]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 116 — Ciudad Valleys (Mexico)"
 date: 1953-08-18
 location: "Ciudad Valleys (Mexico)"
 country: "Mexico"
-tags: [case, humanoid, CE3, mexico, north-america]
+tags: [case, humanoid, CE3, mexico, north-america, shape-disk, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

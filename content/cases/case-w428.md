@@ -2,7 +2,7 @@
 title: "W428 — Radcliffe Observatory, Oxford, England: Unknown astronomical body"
 date: 8 June 1868
 location: "Radcliffe Observatory, Oxford, England"
-tags: ["case", "wonders-in-the-sky", "radcliffe-observatory", "oxford", "england"]
+tags: ["case", "wonders-in-the-sky", "radcliffe-observatory", "oxford", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

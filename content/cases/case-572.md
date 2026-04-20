@@ -3,7 +3,7 @@ title: "Case 572 — Lyle (Minnesota)"
 date: 1963-06-04
 location: "Lyle (Minnesota)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, trace-evidence]
 source: Passport to Magonia
 ---
 

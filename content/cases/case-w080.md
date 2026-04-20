@@ -2,7 +2,7 @@
 title: "W080 — Paris, France: Roaming, flashing globe"
 date: Circa February 1382
 location: "Paris, France"
-tags: ["case", "wonders-in-the-sky", "paris", "france"]
+tags: ["case", "wonders-in-the-sky", "paris", "france", "shape-fireball"]
 source: Wonders in the Sky
 ---
 

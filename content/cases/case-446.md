@@ -3,7 +3,7 @@ title: "Case 446 — Ugines (France)"
 date: 1957-11-25
 location: "Ugines (France)"
 country: "France"
-tags: [case, landing, trace-evidence, vehicle-interference, CE2, france, europe]
+tags: [case, landing, trace-evidence, vehicle-interference, CE2, france, europe, shape-sphere]
 source: Passport to Magonia
 ---
 

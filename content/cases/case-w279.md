@@ -2,7 +2,7 @@
 title: "W279 — Salamanca, Spain: Globe of fire with beams"
 date: 2 November 1730
 location: "Salamanca, Spain"
-tags: ["case", "wonders-in-the-sky", "salamanca", "spain"]
+tags: ["case", "wonders-in-the-sky", "salamanca", "spain", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

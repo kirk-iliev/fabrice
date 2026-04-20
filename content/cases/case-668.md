@@ -1,7 +1,7 @@
 ---
 title: "Case 668 — Aug"
 location: "Aug"
-tags: [case, CE1]
+tags: [case, CE1, shape-sphere]
 source: Passport to Magonia
 ---
 

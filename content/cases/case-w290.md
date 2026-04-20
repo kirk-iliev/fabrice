@@ -2,7 +2,7 @@
 title: "W290 — Kazan, Russia: Abducted in a flying cauldron: A man named \" Yashka\" reportedly met a stranger dressed in white who took him to a"
 date: 1752
 location: "Kazan, Russia: Abducted in a flying cauldron"
-tags: ["case", "wonders-in-the-sky", "kazan", "russia"]
+tags: ["case", "wonders-in-the-sky", "kazan", "russia", "abduction"]
 source: Wonders in the Sky
 ---
 

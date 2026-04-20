@@ -2,7 +2,7 @@
 title: "W433 — Alen, Norway: Flying object with occupant"
 date: Spring 1870
 location: "Alen, Norway"
-tags: ["case", "wonders-in-the-sky", "alen", "norway"]
+tags: ["case", "wonders-in-the-sky", "alen", "norway", "entities-humanoid", "communication"]
 source: Wonders in the Sky
 ---
 

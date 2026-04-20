@@ -2,7 +2,7 @@
 title: "W075 — Uxbndge, England: A pillar with a red flame"
 date: 4 November 1322
 location: "Uxbndge, England"
-tags: ["case", "wonders-in-the-sky", "uxbndge", "england"]
+tags: ["case", "wonders-in-the-sky", "uxbndge", "england", "shape-cigar", "time-night"]
 source: Wonders in the Sky
 ---
 

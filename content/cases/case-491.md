@@ -3,7 +3,7 @@ title: "Case 491 — Blenheim (New Zealand)"
 date: 1959-07-13
 location: "Blenheim (New Zealand)"
 country: "New Zealand"
-tags: [case, humanoid, landing, CE3, new-zealand, oceania]
+tags: [case, humanoid, landing, CE3, new-zealand, oceania, shape-disk, entities-humanoid, injury-or-burn, time-day]
 source: Passport to Magonia
 ---
 

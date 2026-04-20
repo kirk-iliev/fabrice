@@ -3,7 +3,7 @@ title: "Case 315 — Mezicres (France)"
 date: 1954-10-27
 location: "Mezicres (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, trace-evidence]
 source: Passport to Magonia
 ---
 

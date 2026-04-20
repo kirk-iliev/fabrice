@@ -2,7 +2,7 @@
 title: "W430 — Fort Wayne, Indiana, USA: Circle of fire: About 2:30 A.M. an object \"larger than the moon when full\" was observed in the western"
 date: 8 June 1869
 location: "Fort Wayne, Indiana, USA: Circle of fire"
-tags: ["case", "wonders-in-the-sky", "fort-wayne", "indiana", "usa"]
+tags: ["case", "wonders-in-the-sky", "fort-wayne", "indiana", "usa", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

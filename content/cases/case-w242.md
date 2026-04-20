@@ -2,7 +2,7 @@
 title: "W242 — off Cherbourg, France: Triple sky ships"
 date: 8 February 1672
 location: "off Cherbourg, France"
-tags: ["case", "wonders-in-the-sky", "off-cherbourg", "france"]
+tags: ["case", "wonders-in-the-sky", "off-cherbourg", "france", "shape-multiple", "time-day"]
 source: Wonders in the Sky
 ---
 

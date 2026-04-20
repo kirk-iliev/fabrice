@@ -3,7 +3,7 @@ title: "Case 316 — Ciolica Alta (Italy)"
 date: 1954-10-27
 location: "Ciolica Alta (Italy)"
 country: "Italy"
-tags: [case, CE1, italy, europe]
+tags: [case, CE1, italy, europe, trace-evidence]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 389 — Vins-sur-Caramy (France)"
 date: 1957-04-14
 location: "Vins-sur-Caramy (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, vehicle-interference]
 source: Passport to Magonia
 ---
 

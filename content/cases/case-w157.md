@@ -2,7 +2,7 @@
 title: "W157 — Mount Kasuga, Japan: Wheel in the sky"
 date: 21 December 1576
 location: "Mount Kasuga, Japan"
-tags: ["case", "wonders-in-the-sky", "mount-kasuga", "japan"]
+tags: ["case", "wonders-in-the-sky", "mount-kasuga", "japan", "shape-disk"]
 source: Wonders in the Sky
 ---
 

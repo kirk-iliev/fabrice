@@ -3,7 +3,7 @@ title: "Case 706 — Aguas Blancas (Argentina)"
 date: 1965-10-01
 location: "Aguas Blancas (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, CE3, argentina, south-america]
+tags: [case, humanoid, CE3, argentina, south-america, entities-humanoid, physical-contact, time-morning]
 source: Passport to Magonia
 ---
 

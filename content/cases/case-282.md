@@ -3,7 +3,7 @@ title: "Case 282 — Cisternes-la-Foret (France)"
 date: 1954-10-18
 location: "Cisternes-la-Foret (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

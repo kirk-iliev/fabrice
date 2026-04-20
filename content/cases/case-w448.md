@@ -2,7 +2,7 @@
 title: "W448 — Rawlins, Wyoming, USA: Unidentified planetoid observed by two astronomers"
 date: 29 July 1878
 location: "Rawlins, Wyoming, USA"
-tags: ["case", "wonders-in-the-sky", "rawlins", "wyoming", "usa"]
+tags: ["case", "wonders-in-the-sky", "rawlins", "wyoming", "usa", "shape-light", "time-day"]
 source: Wonders in the Sky
 ---
 

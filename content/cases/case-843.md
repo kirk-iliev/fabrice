@@ -3,7 +3,7 @@ title: "Case 843 — Nieva-Segovia (Spain)"
 date: 1967-05-16
 location: "Nieva-Segovia (Spain)"
 country: "Spain"
-tags: [case, landing, CE2, spain, europe]
+tags: [case, landing, CE2, spain, europe, entities-humanoid]
 source: Passport to Magonia
 ---
 

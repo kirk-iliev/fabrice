@@ -3,7 +3,7 @@ title: "Case 845 — Evillers (France)"
 date: 1967-05-22
 location: "Evillers (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk, vehicle-interference, time-dusk]
 source: Passport to Magonia
 ---
 

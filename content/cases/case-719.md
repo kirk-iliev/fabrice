@@ -3,7 +3,7 @@ title: "Case 719 — Sauce Viejo (Argentina)"
 date: 1965-12-16
 location: "Sauce Viejo (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, vehicle-interference, CE3, argentina, south-america]
+tags: [case, humanoid, vehicle-interference, CE3, argentina, south-america, shape-light, entities-humanoid, time-night]
 source: Passport to Magonia
 ---
 

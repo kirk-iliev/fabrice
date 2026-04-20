@@ -2,7 +2,7 @@
 title: "W384 — Capodimonte Observatory, Naples, Italy: Black objects"
 date: 11 May 1845
 location: "Capodimonte Observatory, Naples, Italy"
-tags: ["case", "wonders-in-the-sky", "capodimonte-observatory", "naples", "italy"]
+tags: ["case", "wonders-in-the-sky", "capodimonte-observatory", "naples", "italy", "shape-multiple", "time-day"]
 source: Wonders in the Sky
 ---
 

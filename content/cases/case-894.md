@@ -3,7 +3,7 @@ title: "Case 894 — Ririe (Idaho)"
 date: 1967-11-02
 location: "Ririe (Idaho)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

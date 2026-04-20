@@ -3,7 +3,7 @@ title: "Case 913 — Ricardone (Argentina)"
 date: 1968-07-01
 location: "Ricardone (Argentina)"
 country: "Argentina"
-tags: [case, CE1, argentina, south-america]
+tags: [case, CE1, argentina, south-america, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

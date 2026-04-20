@@ -2,7 +2,7 @@
 title: "W230 — Saint Martin, Brittany, France: Flying red cross"
 date: Late July 1663
 location: "Saint Martin, Brittany, France"
-tags: ["case", "wonders-in-the-sky", "saint-martin", "brittany", "france"]
+tags: ["case", "wonders-in-the-sky", "saint-martin", "brittany", "france", "shape-cross"]
 source: Wonders in the Sky
 ---
 

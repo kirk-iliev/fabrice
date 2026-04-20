@@ -2,7 +2,7 @@
 title: "W091 — Castle Godego, Treviso, Italy: The lady in the light"
 date: 2 July 1420
 location: "Castle Godego, Treviso, Italy"
-tags: ["case", "wonders-in-the-sky", "castle-godego", "treviso", "italy"]
+tags: ["case", "wonders-in-the-sky", "castle-godego", "treviso", "italy", "shape-light", "entities-humanoid", "communication", "time-dusk"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W440 — Poissy, France: Slow transit: Several observers tracked a maneuvering object, red like Mars in color. It was in the sky"
 date: 30 November 1873
 location: "Poissy, France: Slow transit"
-tags: ["case", "wonders-in-the-sky", "poissy", "france"]
+tags: ["case", "wonders-in-the-sky", "poissy", "france", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

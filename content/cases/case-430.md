@@ -3,7 +3,7 @@ title: "Case 430 — Everittstown (New Jersey)"
 date: 1957-11-06
 location: "Everittstown (New Jersey)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-egg, entities-humanoid, communication, time-evening]
 source: Passport to Magonia
 ---
 

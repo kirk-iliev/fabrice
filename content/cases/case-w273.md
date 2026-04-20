@@ -2,7 +2,7 @@
 title: "W273 — at sea southwest of Martinique: Hovering object"
 date: 6 March 1717
 location: "at sea southwest of Martinique"
-tags: ["case", "wonders-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "shape-cylinder", "time-night"]
 source: Wonders in the Sky
 ---
 

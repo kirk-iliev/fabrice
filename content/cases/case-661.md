@@ -3,7 +3,7 @@ title: "Case 661 — Chosica Power Plant (Peru)"
 date: 1965-07-25
 location: "Chosica Power Plant (Peru)"
 country: "Peru"
-tags: [case, trace-evidence, CE2, peru, south-america]
+tags: [case, trace-evidence, CE2, peru, south-america, shape-disk, time-night]
 source: Passport to Magonia
 ---
 

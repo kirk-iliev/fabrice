@@ -3,7 +3,7 @@ title: "Case 828 — Iguala (Mexico)"
 date: 1967-03-25
 location: "Iguala (Mexico)"
 country: "Mexico"
-tags: [case, humanoid, landing, CE3, mexico, north-america]
+tags: [case, humanoid, landing, CE3, mexico, north-america, shape-light, time-dawn]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 698 — Puno (Peru)"
 date: 1965-09-08
 location: "Puno (Peru)"
 country: "Peru"
-tags: [case, humanoid, landing, CE3, peru, south-america]
+tags: [case, humanoid, landing, CE3, peru, south-america, shape-light, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

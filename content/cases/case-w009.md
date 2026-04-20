@@ -2,7 +2,7 @@
 title: "W009 — China, exact location unknown: Stars emerge from an object"
 date: 814
 location: "China, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "china"]
+tags: ["case", "wonders-in-the-sky", "china", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

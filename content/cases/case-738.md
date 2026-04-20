@@ -3,7 +3,7 @@ title: "Case 738 — Texahoma (Oklahoma)"
 date: 1966-03-26
 location: "Texahoma (Oklahoma)"
 country: "United States"
-tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america]
+tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america, shape-disk, time-night]
 source: Passport to Magonia
 ---
 

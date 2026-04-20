@@ -3,7 +3,7 @@ title: "Case 434 — Meridian (Mississippi)"
 date: 1957-11-07
 location: "Meridian (Mississippi)"
 country: "United States"
-tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america]
+tags: [case, humanoid, vehicle-interference, CE3, united-states, north-america, shape-multiple, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

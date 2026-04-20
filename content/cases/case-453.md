@@ -3,7 +3,7 @@ title: "Case 453 — Drakestown (New Jersey)"
 date: 1957-12-30
 location: "Drakestown (New Jersey)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, entities-humanoid, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

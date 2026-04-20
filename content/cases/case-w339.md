@@ -2,7 +2,7 @@
 title: "W339 — Thailand: Abduction by one-eyed humanoid"
 date: September 1810
 location: "Thailand"
-tags: ["case", "wonders-in-the-sky", "thailand"]
+tags: ["case", "wonders-in-the-sky", "thailand", "entities-humanoid", "abduction", "time-night"]
 source: Wonders in the Sky
 ---
 

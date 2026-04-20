@@ -3,7 +3,7 @@ title: "Case 836 — South Hill (Virginia)"
 date: 1967-04-21
 location: "South Hill (Virginia)"
 country: "United States"
-tags: [case, humanoid, landing, trace-evidence, CE3, united-states, north-america]
+tags: [case, humanoid, landing, trace-evidence, CE3, united-states, north-america, shape-cylinder, time-night]
 source: Passport to Magonia
 ---
 

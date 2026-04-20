@@ -3,7 +3,7 @@ title: "Case 657 — Vancluse (Australia)"
 date: 1965-07-19
 location: "Vancluse (Australia)"
 country: "Australia"
-tags: [case, CE1, australia, oceania]
+tags: [case, CE1, australia, oceania, shape-disk, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

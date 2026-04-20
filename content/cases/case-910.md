@@ -3,7 +3,7 @@ title: "Case 910 — Cabreria (Argentina)"
 date: 1968-06-19
 location: "Cabreria (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, landing, CE3, argentina, south-america]
+tags: [case, humanoid, landing, CE3, argentina, south-america, shape-light, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

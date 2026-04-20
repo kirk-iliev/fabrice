@@ -3,7 +3,7 @@ title: "Case 701 — Guarulhos (Brazil)"
 date: 1965-09-11
 location: "Guarulhos (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, landing, CE3, brazil, south-america]
+tags: [case, humanoid, landing, CE3, brazil, south-america, shape-disk, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

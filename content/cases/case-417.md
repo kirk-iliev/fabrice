@@ -3,7 +3,7 @@ title: "Case 417 — Provencal (Louisiana)"
 date: 1957
 location: "Provencal (Louisiana)"
 country: "United States"
-tags: [case, landing, vehicle-interference, CE2, united-states, north-america]
+tags: [case, landing, vehicle-interference, CE2, united-states, north-america, shape-oval, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W357 — Hereford, England: Bright unknown near Venus"
 date: 22 May 1823
 location: "Hereford, England"
-tags: ["case", "wonders-in-the-sky", "hereford", "england"]
+tags: ["case", "wonders-in-the-sky", "hereford", "england", "shape-light"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 379 — McKinney (Texas)"
 date: 1956-04-06
 location: "McKinney (Texas)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-sphere, vehicle-interference]
 source: Passport to Magonia
 ---
 

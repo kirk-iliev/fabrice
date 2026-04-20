@@ -3,7 +3,7 @@ title: "Case 188 — Limoges (France)"
 date: 1954-10-04
 location: "Limoges (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, trace-evidence]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W267 — Hamburg, Germany: Sparkling flying boats: People saw the sky \"crisscrossed with sparkling boat-like objects\" chasing one another,"
 date: 1704
 location: "Hamburg, Germany: Sparkling flying boats"
-tags: ["case", "wonders-in-the-sky", "hamburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "hamburg", "germany", "shape-multiple"]
 source: Wonders in the Sky
 ---
 

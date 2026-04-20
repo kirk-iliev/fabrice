@@ -3,7 +3,7 @@ title: "Case 584 — Trancas (Argentina)"
 date: 1963-10-21
 location: "Trancas (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, landing, CE3, argentina, south-america]
+tags: [case, humanoid, landing, CE3, argentina, south-america, shape-disk, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W169 — Besan^on, France: Self-propelled cloud"
 date: 23 January 1603
 location: "Besan^on, France"
-tags: ["case", "wonders-in-the-sky", "besan-on", "france"]
+tags: ["case", "wonders-in-the-sky", "besan-on", "france", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

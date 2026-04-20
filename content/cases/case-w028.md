@@ -2,7 +2,7 @@
 title: "W028 — Foggia, Italy: Strange flashes and a luminous lady"
 date: 25 April 1001
 location: "Foggia, Italy"
-tags: ["case", "wonders-in-the-sky", "foggia", "italy"]
+tags: ["case", "wonders-in-the-sky", "foggia", "italy", "shape-light", "entities-humanoid", "communication", "time-night"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W252 — Leipzig, Germany: Unknown astronomical object"
 date: 9 July 1686
 location: "Leipzig, Germany"
-tags: ["case", "wonders-in-the-sky", "leipzig", "germany"]
+tags: ["case", "wonders-in-the-sky", "leipzig", "germany", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

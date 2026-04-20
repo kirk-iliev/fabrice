@@ -3,7 +3,7 @@ title: "Case 643 — Kindrac (Minnesota)"
 date: 1965-04-08
 location: "Kindrac (Minnesota)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-light]
 source: Passport to Magonia
 ---
 

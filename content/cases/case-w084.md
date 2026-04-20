@@ -2,7 +2,7 @@
 title: "W084 — Bologna, Italy: Unknown creatures flying aboard a fiery object"
 date: 1390
 location: "Bologna, Italy"
-tags: ["case", "wonders-in-the-sky", "bologna", "italy"]
+tags: ["case", "wonders-in-the-sky", "bologna", "italy", "shape-fireball", "entities-humanoid"]
 source: Wonders in the Sky
 ---
 

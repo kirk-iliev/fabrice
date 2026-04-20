@@ -3,7 +3,7 @@ title: "Case 637 — Chalac (Argentina)"
 date: 1965-02-21
 location: "Chalac (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, CE3, argentina, south-america]
+tags: [case, humanoid, CE3, argentina, south-america, shape-light, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

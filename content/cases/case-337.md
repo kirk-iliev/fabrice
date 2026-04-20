@@ -2,7 +2,7 @@
 title: "Case 337 — Novy"
 date: 1954
 location: "Novy"
-tags: [case, vehicle-interference, CE2]
+tags: [case, vehicle-interference, CE2, shape-light]
 source: Passport to Magonia
 ---
 

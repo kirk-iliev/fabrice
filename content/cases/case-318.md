@@ -3,7 +3,7 @@ title: "Case 318 — Moussey (France)"
 date: 1954-10-27
 location: "Moussey (France)"
 country: "France"
-tags: [case, trace-evidence, CE2, france, europe]
+tags: [case, trace-evidence, CE2, france, europe, shape-triangle, time-day]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 615 — Tallulah Falls (Georgia)"
 date: 1964-07-07
 location: "Tallulah Falls (Georgia)"
 country: "United States"
-tags: [case, trace-evidence, CE2, united-states, north-america]
+tags: [case, trace-evidence, CE2, united-states, north-america, shape-disk, injury-or-burn, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W352 — Spello (Perugia), Umbria, Italy: Unknown stars in a moving triangle CD"
 date: 27 May 1820
 location: "Spello (Perugia), Umbria, Italy"
-tags: ["case", "wonders-in-the-sky", "spello", "umbria", "italy"]
+tags: ["case", "wonders-in-the-sky", "spello", "umbria", "italy", "shape-cross", "time-dusk"]
 source: Wonders in the Sky
 ---
 

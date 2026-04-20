@@ -2,7 +2,7 @@
 title: "W180 — Quimper-Corentin, France: Green flying creature"
 date: 1 February 1620
 location: "Quimper-Corentin, France"
-tags: ["case", "wonders-in-the-sky", "quimper"]
+tags: ["case", "wonders-in-the-sky", "quimper", "shape-fireball", "entities-humanoid", "injury-or-burn", "time-morning"]
 source: Wonders in the Sky
 ---
 

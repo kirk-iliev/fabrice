@@ -2,7 +2,7 @@
 title: "W146 — Buendia, Cuenca, Spain: Hovering cross"
 date: 5 March 1555
 location: "Buendia, Cuenca, Spain"
-tags: ["case", "wonders-in-the-sky", "buendia", "cuenca", "spain"]
+tags: ["case", "wonders-in-the-sky", "buendia", "cuenca", "spain", "shape-cross", "time-day"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 908 — Mendiozaca (Argentina)"
 date: 1968-06-14
 location: "Mendiozaca (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, CE3, argentina, south-america]
+tags: [case, humanoid, CE3, argentina, south-america, shape-light]
 source: Passport to Magonia
 ---
 

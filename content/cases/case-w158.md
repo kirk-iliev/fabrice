@@ -2,7 +2,7 @@
 title: "W158 — near Tubingen, Germany: Flying black hats"
 date: 5 December 1577
 location: "near Tubingen, Germany"
-tags: ["case", "wonders-in-the-sky", "tubingen", "germany"]
+tags: ["case", "wonders-in-the-sky", "tubingen", "germany", "shape-light", "time-day"]
 source: Wonders in the Sky
 ---
 

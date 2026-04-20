@@ -2,7 +2,7 @@
 title: "W223 — Chard, Somersetshire, England: Multiple Objects"
 date: April 1661
 location: "Chard, Somersetshire, England"
-tags: ["case", "wonders-in-the-sky", "chard", "somersetshire", "england"]
+tags: ["case", "wonders-in-the-sky", "chard", "somersetshire", "england", "shape-cloud"]
 source: Wonders in the Sky
 ---
 

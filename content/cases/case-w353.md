@@ -2,7 +2,7 @@
 title: "W353 — Embrun, France: Arago's unknown formation: Military precision"
 date: 7 September 1820
 location: "Embrun, France"
-tags: ["case", "wonders-in-the-sky", "embrun", "france"]
+tags: ["case", "wonders-in-the-sky", "embrun", "france", "shape-multiple", "time-night"]
 source: Wonders in the Sky
 ---
 

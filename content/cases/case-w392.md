@@ -2,7 +2,7 @@
 title: "W392 — Bonn, Germany: Fast-moving intruder"
 date: 11 October 1847
 location: "Bonn, Germany"
-tags: ["case", "wonders-in-the-sky", "bonn", "germany"]
+tags: ["case", "wonders-in-the-sky", "bonn", "germany", "time-day"]
 source: Wonders in the Sky
 ---
 

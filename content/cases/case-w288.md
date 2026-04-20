@@ -2,7 +2,7 @@
 title: "W288 — London, England: Flying trumpet: Reverend George Costard reported seeing an object shaped like a trumpet, flying over"
 date: 14 July 1745
 location: "London, England: Flying trumpet"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "shape-cigar", "time-dusk"]
 source: Wonders in the Sky
 ---
 

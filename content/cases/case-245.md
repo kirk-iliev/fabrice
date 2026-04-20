@@ -3,7 +3,7 @@ title: "Case 245 — Sainte-Marie d’Herblay (France)"
 date: 1954-10-12
 location: "Sainte-Marie d’Herblay (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-cigar, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

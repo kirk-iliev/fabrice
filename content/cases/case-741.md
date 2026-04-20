@@ -3,7 +3,7 @@ title: "Case 741 — Lexisburg (Indiana)"
 date: 1966-03-30
 location: "Lexisburg (Indiana)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-oval]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 653 — Bairio Paraiso dos Barbeiros (Brazil)"
 date: 1965-07-12
 location: "Bairio Paraiso dos Barbeiros (Brazil)"
 country: "Brazil"
-tags: [case, landing, CE2, brazil, south-america]
+tags: [case, landing, CE2, brazil, south-america, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W307 — Mount Prospect, Inishannon, Ireland: Sky throne"
 date: 13 June 1765
 location: "Mount Prospect, Inishannon, Ireland"
-tags: ["case", "wonders-in-the-sky", "mount-prospect", "inishannon", "ireland"]
+tags: ["case", "wonders-in-the-sky", "mount-prospect", "inishannon", "ireland", "time-dusk"]
 source: Wonders in the Sky
 ---
 

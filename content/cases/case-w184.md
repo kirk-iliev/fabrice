@@ -2,7 +2,7 @@
 title: "W184 — Wiltshire, England: Dancing elves, a paralyzed witness"
 date: 1634
 location: "Wiltshire, England"
-tags: ["case", "wonders-in-the-sky", "wiltshire", "england"]
+tags: ["case", "wonders-in-the-sky", "wiltshire", "england", "entities-humanoid", "physical-contact", "time-night"]
 source: Wonders in the Sky
 ---
 

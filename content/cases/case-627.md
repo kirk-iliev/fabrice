@@ -3,7 +3,7 @@ title: "Case 627 — Saint-Alexis de Montcalm (Canada)"
 date: 1964
 location: "Saint-Alexis de Montcalm (Canada)"
 country: "Canada"
-tags: [case, trace-evidence, CE2, canada, north-america]
+tags: [case, trace-evidence, CE2, canada, north-america, shape-light, time-night]
 source: Passport to Magonia
 ---
 

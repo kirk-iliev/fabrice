@@ -3,7 +3,7 @@ title: "Case 886 — East Tucson (Arizona)"
 date: 1967-10-09
 location: "East Tucson (Arizona)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cylinder, trace-evidence]
 source: Passport to Magonia
 ---
 

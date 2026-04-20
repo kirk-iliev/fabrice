@@ -2,7 +2,7 @@
 title: "W249 — London, England: Landing of a large ship"
 date: 9 February 1678
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "shape-cigar", "entities-humanoid", "abduction", "time-morning"]
 source: Wonders in the Sky
 ---
 

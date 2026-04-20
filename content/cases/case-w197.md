@@ -2,7 +2,7 @@
 title: "W197 — Caudan, Brittany, France: A Procession of sky beings"
 date: April 1645
 location: "Caudan, Brittany, France"
-tags: ["case", "wonders-in-the-sky", "caudan", "brittany", "france"]
+tags: ["case", "wonders-in-the-sky", "caudan", "brittany", "france", "shape-light", "entities-humanoid"]
 source: Wonders in the Sky
 ---
 

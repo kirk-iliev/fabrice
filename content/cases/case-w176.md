@@ -2,7 +2,7 @@
 title: "W176 — Perth, Scotland: Abducted by fairies: Isobel Haldane testified that she was carried out of her bed, \"whether by God or the Devil,"
 date: 1613
 location: "Perth, Scotland: Abducted by fairies"
-tags: ["case", "wonders-in-the-sky", "perth", "scotland"]
+tags: ["case", "wonders-in-the-sky", "perth", "scotland", "entities-humanoid", "abduction"]
 source: Wonders in the Sky
 ---
 

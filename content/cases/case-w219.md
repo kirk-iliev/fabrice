@@ -2,7 +2,7 @@
 title: "W219 — Ilford, Essex, England: Dogfight in the sky"
 date: 30 November 1660
 location: "Ilford, Essex, England"
-tags: ["case", "wonders-in-the-sky", "ilford", "essex", "england"]
+tags: ["case", "wonders-in-the-sky", "ilford", "essex", "england", "shape-fireball", "time-dawn"]
 source: Wonders in the Sky
 ---
 

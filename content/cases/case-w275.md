@@ -2,7 +2,7 @@
 title: "W275 — Bern, Switzerland: Three globes emerge from a pillar of fire"
 date: 16 January 1721
 location: "Bern, Switzerland"
-tags: ["case", "wonders-in-the-sky", "bern", "switzerland"]
+tags: ["case", "wonders-in-the-sky", "bern", "switzerland", "shape-multiple", "time-night"]
 source: Wonders in the Sky
 ---
 

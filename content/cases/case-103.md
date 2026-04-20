@@ -3,7 +3,7 @@ title: "Case 103 — Le Vigan (France)"
 date: 1952-10-15
 location: "Le Vigan (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-cigar, entities-humanoid, time-night]
 source: Passport to Magonia
 ---
 

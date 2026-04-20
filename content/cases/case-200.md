@@ -3,7 +3,7 @@ title: "Case 200 — Mouchamps (France)"
 date: 1954-10-06
 location: "Mouchamps (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-fireball, trace-evidence]
 source: Passport to Magonia
 ---
 

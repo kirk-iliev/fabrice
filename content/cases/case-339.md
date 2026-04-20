@@ -3,7 +3,7 @@ title: "Case 339 — sola (Italy)"
 date: 1954-11-14
 location: "sola (Italy)"
 country: "Italy"
-tags: [case, humanoid, landing, CE3, italy, europe]
+tags: [case, humanoid, landing, CE3, italy, europe, shape-cigar, entities-humanoid, physical-contact, time-afternoon]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 874 — Maturin (Venezuela)"
 date: 1967-08-26
 location: "Maturin (Venezuela)"
 country: "Venezuela"
-tags: [case, humanoid, landing, CE3, venezuela, south-america]
+tags: [case, humanoid, landing, CE3, venezuela, south-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

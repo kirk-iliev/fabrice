@@ -2,7 +2,7 @@
 title: "W431 — Adamstown, Pennsylvania: A silvery object lands"
 date: 7 August 1869
 location: "Adamstown, Pennsylvania"
-tags: ["case", "wonders-in-the-sky", "adamstown", "pennsylvania"]
+tags: ["case", "wonders-in-the-sky", "adamstown", "pennsylvania", "shape-rectangle", "trace-evidence", "time-day"]
 source: Wonders in the Sky
 ---
 

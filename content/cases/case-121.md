@@ -3,7 +3,7 @@ title: "Case 121 — Sherbrook (Canada)"
 date: 1953
 location: "Sherbrook (Canada)"
 country: "Canada"
-tags: [case, CE1, canada, north-america]
+tags: [case, CE1, canada, north-america, shape-sphere, entities-humanoid, animal-reaction, time-night]
 source: Passport to Magonia
 ---
 

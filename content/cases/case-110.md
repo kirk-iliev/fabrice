@@ -3,7 +3,7 @@ title: "Case 110 — Houston (Texas)"
 date: 1953-06-18
 location: "Houston (Texas)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-humanoid, entities-humanoid, time-night]
 source: Passport to Magonia
 ---
 

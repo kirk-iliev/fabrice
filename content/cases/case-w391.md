@@ -2,7 +2,7 @@
 title: "W391 — Holloway, London, England: Unknown object ascending"
 date: 19 March 1847
 location: "Holloway, London, England"
-tags: ["case", "wonders-in-the-sky", "holloway", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "holloway", "london", "england", "shape-cloud", "time-dusk"]
 source: Wonders in the Sky
 ---
 

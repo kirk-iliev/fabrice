@@ -2,7 +2,7 @@
 title: "W309 — Copenhagen, Denmark: Unidentified planetoid orbiting Venus"
 date: 4 January 1768
 location: "Copenhagen, Denmark"
-tags: ["case", "wonders-in-the-sky", "copenhagen", "denmark"]
+tags: ["case", "wonders-in-the-sky", "copenhagen", "denmark", "shape-light"]
 source: Wonders in the Sky
 ---
 

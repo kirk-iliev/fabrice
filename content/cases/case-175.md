@@ -3,7 +3,7 @@ title: "Case 175 — Branges, near Louhans (France)"
 date: 1954-10-01
 location: "Branges, near Louhans (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, time-night]
 source: Passport to Magonia
 ---
 

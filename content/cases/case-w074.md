@@ -2,7 +2,7 @@
 title: "W074 — Durham, Saint Leonard, England: Luminous phenomenon over a the burial site"
 date: 1320
 location: "Durham, Saint Leonard, England"
-tags: ["case", "wonders-in-the-sky", "durham", "saint-leonard", "england"]
+tags: ["case", "wonders-in-the-sky", "durham", "saint-leonard", "england", "shape-light"]
 source: Wonders in the Sky
 ---
 

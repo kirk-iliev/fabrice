@@ -2,7 +2,7 @@
 title: "W141 — Magdeburg, Germany: A phenomenon scares an Emperor"
 date: March 1551
 location: "Magdeburg, Germany"
-tags: ["case", "wonders-in-the-sky", "magdeburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "magdeburg", "germany", "shape-light", "time-day"]
 source: Wonders in the Sky
 ---
 

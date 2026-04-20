@@ -2,7 +2,7 @@
 title: "W078 — England and France: Armies and towers in the sky"
 date: Summer 1360
 location: "England and France"
-tags: ["case", "wonders-in-the-sky", "england-and-france"]
+tags: ["case", "wonders-in-the-sky", "england-and-france", "shape-multiple", "entities-humanoid", "time-day"]
 source: Wonders in the Sky
 ---
 

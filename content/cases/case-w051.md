@@ -2,7 +2,7 @@
 title: "W051 — Teruel, Aragon, Spain: The King observes a mystery"
 date: 1171
 location: "Teruel, Aragon, Spain"
-tags: ["case", "wonders-in-the-sky", "teruel", "aragon", "spain"]
+tags: ["case", "wonders-in-the-sky", "teruel", "aragon", "spain", "shape-light", "animal-reaction"]
 source: Wonders in the Sky
 ---
 

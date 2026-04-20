@@ -8,8 +8,6 @@ source: Wonders in the Sky
 
 ## 93-4. — 1996
 
-### 
-
 
 
 **Source:** 

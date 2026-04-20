@@ -3,7 +3,7 @@ title: "Case 816 — Hilliards (Ohio)"
 date: 1967-02-05
 location: "Hilliards (Ohio)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-disk, entities-humanoid, abduction, time-evening]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W489 — England: An eclipse and the Antichrist: \"Just as the superstitious idolatries of Antichrist were arrived at their height by"
 date: 29 June 1033
 location: "England: An eclipse and the Antichrist"
-tags: ["case", "wonders-in-the-sky", "england"]
+tags: ["case", "wonders-in-the-sky", "england", "time-dawn"]
 source: Wonders in the Sky
 ---
 

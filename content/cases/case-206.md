@@ -3,7 +3,7 @@ title: "Case 206 — Jcttingen (France)"
 date: 1954-10-07
 location: "Jcttingen (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, time-dawn]
 source: Passport to Magonia
 ---
 

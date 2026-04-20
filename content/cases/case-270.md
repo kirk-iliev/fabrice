@@ -3,7 +3,7 @@ title: "Case 270 — Quasso (Italy)"
 date: 1954-10-16
 location: "Quasso (Italy)"
 country: "Italy"
-tags: [case, humanoid, CE3, italy, europe]
+tags: [case, humanoid, CE3, italy, europe, shape-disk, entities-humanoid]
 source: Passport to Magonia
 ---
 

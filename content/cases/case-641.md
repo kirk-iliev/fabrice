@@ -3,7 +3,7 @@ title: "Case 641 — Fort Myers (Florida)"
 date: 1965-03-15
 location: "Fort Myers (Florida)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cone, injury-or-burn]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 261 — Perpignan (France)"
 date: 1954-10-15
 location: "Perpignan (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-sphere, entities-humanoid, animal-reaction]
 source: Passport to Magonia
 ---
 

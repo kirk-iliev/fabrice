@@ -3,7 +3,7 @@ title: "Case 012 — Omaha (Nebraska)"
 date: 1897-03-28
 location: "Omaha (Nebraska)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-light]
 source: Passport to Magonia
 ---
 

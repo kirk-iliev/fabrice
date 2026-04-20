@@ -3,7 +3,7 @@ title: "Case 772 — Westport (Connecticut)"
 date: 1966-06-11
 location: "Westport (Connecticut)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

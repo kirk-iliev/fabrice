@@ -2,7 +2,7 @@
 title: "W294 — Colchester, Essex, England: Wandering oval object"
 date: 29 December 1758
 location: "Colchester, Essex, England"
-tags: ["case", "wonders-in-the-sky", "colchester", "essex", "england"]
+tags: ["case", "wonders-in-the-sky", "colchester", "essex", "england", "shape-sphere", "time-night"]
 source: Wonders in the Sky
 ---
 

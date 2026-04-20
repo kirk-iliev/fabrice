@@ -3,7 +3,7 @@ title: "Case 837 — Kitchener (Canada)"
 date: 1967-04-26
 location: "Kitchener (Canada)"
 country: "Canada"
-tags: [case, humanoid, landing, CE3, canada, north-america]
+tags: [case, humanoid, landing, CE3, canada, north-america, shape-cylinder, trace-evidence]
 source: Passport to Magonia
 ---
 

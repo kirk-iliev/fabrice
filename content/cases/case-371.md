@@ -3,7 +3,7 @@ title: "Case 371 — Bradford (England)"
 date: 1955-08-19
 location: "Bradford (England)"
 country: "Great Britain"
-tags: [case, landing, CE2, great-britain, europe]
+tags: [case, landing, CE2, great-britain, europe, shape-cigar]
 source: Passport to Magonia
 ---
 

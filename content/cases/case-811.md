@@ -3,7 +3,7 @@ title: "Case 811 — Charleston (West Virginia)"
 date: 1967-01-19
 location: "Charleston (West Virginia)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-sphere, vehicle-interference]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 205 — Beruges (France)"
 date: 1954-10-07
 location: "Beruges (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-light, time-night]
 source: Passport to Magonia
 ---
 

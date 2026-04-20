@@ -2,7 +2,7 @@
 title: "W325 — Gerona, Catalonia, Spain: Maneuvering stars"
 date: 13 November 1799
 location: "Gerona, Catalonia, Spain"
-tags: ["case", "wonders-in-the-sky", "gerona", "catalonia", "spain"]
+tags: ["case", "wonders-in-the-sky", "gerona", "catalonia", "spain", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

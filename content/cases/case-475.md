@@ -3,7 +3,7 @@ title: "Case 475 — Soviet Union, exact location not revealed"
 date: 1958-11-17
 location: "Soviet Union, exact location not revealed"
 country: "USSR"
-tags: [case, landing, CE2, ussr, europe]
+tags: [case, landing, CE2, ussr, europe, shape-light]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W255 — England, exact location unknown: Strange object"
 date: 20 December 1689
 location: "England, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "england"]
+tags: ["case", "wonders-in-the-sky", "england", "shape-fireball", "time-dawn"]
 source: Wonders in the Sky
 ---
 

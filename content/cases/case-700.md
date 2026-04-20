@@ -3,7 +3,7 @@ title: "Case 700 — Mexico City (Mexico)"
 date: 1965-09-10
 location: "Mexico City (Mexico)"
 country: "Mexico"
-tags: [case, humanoid, CE3, mexico, north-america]
+tags: [case, humanoid, CE3, mexico, north-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

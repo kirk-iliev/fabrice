@@ -2,7 +2,7 @@
 title: "W011 — China, exact location unknown: Slow flying globe: A globe appeared at the zenith, followed by a tail. It flew slowly West under the moon,"
 date: 817
 location: "China, exact location unknown: Slow flying globe"
-tags: ["case", "wonders-in-the-sky", "china"]
+tags: ["case", "wonders-in-the-sky", "china", "shape-sphere"]
 source: Wonders in the Sky
 ---
 

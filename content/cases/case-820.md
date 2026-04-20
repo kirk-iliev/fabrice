@@ -3,7 +3,7 @@ title: "Case 820 — Riachuclo (Chile)"
 date: 1967-02-24
 location: "Riachuclo (Chile)"
 country: "Chile"
-tags: [case, humanoid, vehicle-interference, CE3, chile, south-america]
+tags: [case, humanoid, vehicle-interference, CE3, chile, south-america, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 314 — Linzcux (France)"
 date: 1954-10-27
 location: "Linzcux (France)"
 country: "France"
-tags: [case, vehicle-interference, CE2, france, europe]
+tags: [case, vehicle-interference, CE2, france, europe, shape-light]
 source: Passport to Magonia
 ---
 

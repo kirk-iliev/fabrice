@@ -2,7 +2,7 @@
 title: "W056 — Dunstaple, Bedfordshire, England: Marvelous vision"
 date: 9 August 1189
 location: "Dunstaple, Bedfordshire, England"
-tags: ["case", "wonders-in-the-sky", "dunstaple", "bedfordshire", "england"]
+tags: ["case", "wonders-in-the-sky", "dunstaple", "bedfordshire", "england", "shape-cross", "entities-humanoid", "time-afternoon"]
 source: Wonders in the Sky
 ---
 

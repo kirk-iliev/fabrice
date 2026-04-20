@@ -3,7 +3,7 @@ title: "Case 651 — Puerto La Cruz (Portugal)"
 date: 1965-07-06
 location: "Puerto La Cruz (Portugal)"
 country: "Portugal"
-tags: [case, CE1, portugal, europe]
+tags: [case, CE1, portugal, europe, shape-cigar, time-night]
 source: Passport to Magonia
 ---
 

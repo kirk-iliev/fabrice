@@ -3,7 +3,7 @@ title: "Case 087 — Red Springs (North Carolina)"
 date: 1951
 location: "Red Springs (North Carolina)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

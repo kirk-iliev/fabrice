@@ -3,7 +3,7 @@ title: "Case 683 — Cuzco (Peru)"
 date: 1965-08-20
 location: "Cuzco (Peru)"
 country: "Peru"
-tags: [case, humanoid, landing, CE3, peru, south-america]
+tags: [case, humanoid, landing, CE3, peru, south-america, entities-humanoid, physical-contact, time-day]
 source: Passport to Magonia
 ---
 

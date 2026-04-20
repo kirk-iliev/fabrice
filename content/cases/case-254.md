@@ -3,7 +3,7 @@ title: "Case 254 — Angles (France)"
 date: 1954-10-14
 location: "Angles (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-light, time-dusk]
 source: Passport to Magonia
 ---
 

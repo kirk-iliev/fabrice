@@ -3,7 +3,7 @@ title: "Case 791 — Minot Air Force Base (North Dakota)"
 date: 1966-08-24
 location: "Minot Air Force Base (North Dakota)"
 country: "United States"
-tags: [case, landing, vehicle-interference, CE2, united-states, north-america]
+tags: [case, landing, vehicle-interference, CE2, united-states, north-america, shape-light]
 source: Passport to Magonia
 ---
 

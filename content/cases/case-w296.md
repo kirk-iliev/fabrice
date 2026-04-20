@@ -2,7 +2,7 @@
 title: "W296 — Lonmora, Sweden: Abducted for four days"
 date: 16 September 1759
 location: "Lonmora, Sweden"
-tags: ["case", "wonders-in-the-sky", "lonmora", "sweden"]
+tags: ["case", "wonders-in-the-sky", "lonmora", "sweden", "entities-humanoid", "abduction", "time-dusk"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 246 — Dompierre-ks-Tilleuls (France)"
 date: 1954-10-12
 location: "Dompierre-ks-Tilleuls (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

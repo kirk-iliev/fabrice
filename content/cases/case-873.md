@@ -3,7 +3,7 @@ title: "Case 873 — Maiquetia Airport (Venezuela)"
 date: 1967-08-26
 location: "Maiquetia Airport (Venezuela)"
 country: "Venezuela"
-tags: [case, humanoid, CE3, venezuela, south-america]
+tags: [case, humanoid, CE3, venezuela, south-america, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

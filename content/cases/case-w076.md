@@ -2,7 +2,7 @@
 title: "W076 — Florence, Italy: Low-flying cigar-shaped: objects at the time of the Black Plague"
 date: About 1347
 location: "Florence, Italy: Low-flying cigar-shaped"
-tags: ["case", "wonders-in-the-sky", "florence", "italy"]
+tags: ["case", "wonders-in-the-sky", "florence", "italy", "shape-cigar", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

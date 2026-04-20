@@ -3,7 +3,7 @@ title: "Case 879 — Caracas (Venezuela)"
 date: 1967-09-08
 location: "Caracas (Venezuela)"
 country: "Venezuela"
-tags: [case, humanoid, CE3, venezuela, south-america]
+tags: [case, humanoid, CE3, venezuela, south-america, shape-light, entities-humanoid, time-night]
 source: Passport to Magonia
 ---
 

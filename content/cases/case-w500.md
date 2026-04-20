@@ -2,7 +2,7 @@
 title: "W500 — Mozhcharyk, Russia: Fiery columns, pillars of fire"
 date: January 1319
 location: "Mozhcharyk, Russia"
-tags: ["case", "wonders-in-the-sky", "mozhcharyk", "russia"]
+tags: ["case", "wonders-in-the-sky", "mozhcharyk", "russia", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

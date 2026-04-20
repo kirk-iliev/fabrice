@@ -2,7 +2,7 @@
 title: "W260 — Tobolsk, Russia: Human form in the sky"
 date: 25 November 1696
 location: "Tobolsk, Russia"
-tags: ["case", "wonders-in-the-sky", "tobolsk", "russia"]
+tags: ["case", "wonders-in-the-sky", "tobolsk", "russia", "shape-light", "entities-humanoid", "time-day"]
 source: Wonders in the Sky
 ---
 

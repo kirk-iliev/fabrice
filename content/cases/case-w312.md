@@ -2,7 +2,7 @@
 title: "W312 — France, location unknown: An unidentified Messier object"
 date: 17 June 1777
 location: "France, location unknown"
-tags: ["case", "wonders-in-the-sky", "france"]
+tags: ["case", "wonders-in-the-sky", "france", "shape-multiple", "time-night"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W110 — Apulia, Italy: Three suns at night: \"Upon the coming of the little King Charles the VHIth in Naples...in Apulia during the"
 date: 1494
 location: "Apulia, Italy: Three suns at night"
-tags: ["case", "wonders-in-the-sky", "apulia", "italy"]
+tags: ["case", "wonders-in-the-sky", "apulia", "italy", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

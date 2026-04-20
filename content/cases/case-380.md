@@ -3,7 +3,7 @@ title: "Case 380 — Elboeuf (France)"
 date: 1956-04-08
 location: "Elboeuf (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

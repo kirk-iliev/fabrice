@@ -3,7 +3,7 @@ title: "Case 197 — Le Mans (France)"
 date: 1954-10-05
 location: "Le Mans (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-light, physical-contact, time-morning]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W199 — St. Teath, Cornwall: Abductee becomes a healer"
 date: April 1646
 location: "St. Teath, Cornwall"
-tags: ["case", "wonders-in-the-sky", "st-teath", "cornwall"]
+tags: ["case", "wonders-in-the-sky", "st-teath", "cornwall", "shape-humanoid", "entities-humanoid", "abduction", "time-afternoon"]
 source: Wonders in the Sky
 ---
 

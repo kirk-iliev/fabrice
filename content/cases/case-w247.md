@@ -2,7 +2,7 @@
 title: "W247 — London, England: Assaulted by unknown entities"
 date: 22 March 1677
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "entities-humanoid", "physical-contact", "time-night"]
 source: Wonders in the Sky
 ---
 

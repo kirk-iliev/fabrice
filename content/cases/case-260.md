@@ -3,7 +3,7 @@ title: "Case 260 — Thieulloy-la-Ville (France)"
 date: 1954-10-14
 location: "Thieulloy-la-Ville (France)"
 country: "France"
-tags: [case, landing, vehicle-interference, CE2, france, europe]
+tags: [case, landing, vehicle-interference, CE2, france, europe, time-night]
 source: Passport to Magonia
 ---
 

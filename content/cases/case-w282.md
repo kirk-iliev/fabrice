@@ -2,7 +2,7 @@
 title: "W282 — Sheffield, England: Beams of hot light from a luminous body"
 date: 5 December 1737
 location: "Sheffield, England"
-tags: ["case", "wonders-in-the-sky", "sheffield", "england"]
+tags: ["case", "wonders-in-the-sky", "sheffield", "england", "shape-cloud", "injury-or-burn", "time-dusk"]
 source: Wonders in the Sky
 ---
 

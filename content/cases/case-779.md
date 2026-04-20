@@ -3,7 +3,7 @@ title: "Case 779 — Union-Kirkwood (Pennsylvania)"
 date: 1966-07-11
 location: "Union-Kirkwood (Pennsylvania)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-rectangle, trace-evidence]
 source: Passport to Magonia
 ---
 

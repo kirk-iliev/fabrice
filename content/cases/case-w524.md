@@ -2,7 +2,7 @@
 title: "W524 — Palmyra, New York, USA: Golden apparition"
 date: 21 September 1823
 location: "Palmyra, New York, USA"
-tags: ["case", "wonders-in-the-sky", "palmyra", "new-york", "usa"]
+tags: ["case", "wonders-in-the-sky", "palmyra", "new-york", "usa", "shape-light", "entities-humanoid", "communication", "time-night"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 190 — Chaleix (France)"
 date: 1954-10-04
 location: "Chaleix (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

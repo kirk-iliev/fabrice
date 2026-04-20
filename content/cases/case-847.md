@@ -3,7 +3,7 @@ title: "Case 847 — Richmond (Virginia)"
 date: 1967-06-01
 location: "Richmond (Virginia)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, injury-or-burn]
 source: Passport to Magonia
 ---
 

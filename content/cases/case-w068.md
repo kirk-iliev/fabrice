@@ -2,7 +2,7 @@
 title: "W068 — Naples, Italy: A light enters the bedroom of a sick man"
 date: 1273
 location: "Naples, Italy"
-tags: ["case", "wonders-in-the-sky", "naples", "italy"]
+tags: ["case", "wonders-in-the-sky", "naples", "italy", "shape-light"]
 source: Wonders in the Sky
 ---
 

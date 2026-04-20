@@ -2,7 +2,7 @@
 title: "W072 — Loreto, Italy: Globes of light, and an elliptical object"
 date: 8 September 1296
 location: "Loreto, Italy"
-tags: ["case", "wonders-in-the-sky", "loreto", "italy"]
+tags: ["case", "wonders-in-the-sky", "loreto", "italy", "shape-light", "time-dawn"]
 source: Wonders in the Sky
 ---
 

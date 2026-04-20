@@ -3,7 +3,7 @@ title: "Case 242 — Orchamps (France)"
 date: 1954-10-12
 location: "Orchamps (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, entities-humanoid]
 source: Passport to Magonia
 ---
 

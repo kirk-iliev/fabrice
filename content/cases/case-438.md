@@ -3,7 +3,7 @@ title: "Case 438 — Waterloo (Iowa)"
 date: 1957-11-08
 location: "Waterloo (Iowa)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-cigar, entities-humanoid, time-night]
 source: Passport to Magonia
 ---
 

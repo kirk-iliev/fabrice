@@ -2,7 +2,7 @@
 title: "W047 — Rome, Italy: Three lights and a cross in the sky"
 date: 1155
 location: "Rome, Italy"
-tags: ["case", "wonders-in-the-sky", "rome", "italy"]
+tags: ["case", "wonders-in-the-sky", "rome", "italy", "shape-cross", "time-day"]
 source: Wonders in the Sky
 ---
 

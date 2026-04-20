@@ -2,7 +2,7 @@
 title: "W361 — Tietjerk, Friesland, Holland: Fiery man from the sky"
 date: 1827
 location: "Tietjerk, Friesland, Holland"
-tags: ["case", "wonders-in-the-sky", "tietjerk", "friesland", "holland"]
+tags: ["case", "wonders-in-the-sky", "tietjerk", "friesland", "holland", "shape-fireball", "entities-humanoid"]
 source: Wonders in the Sky
 ---
 

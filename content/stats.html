@@ -1,0 +1,294 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Fabrice — stats & patterns</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+  body { margin: 0; background: #0a0a0a; color: #ddd;
+         font-family: system-ui, sans-serif; padding: 24px; }
+  h1 { margin: 0 0 4px 0; font-size: 22px; }
+  .sub { opacity: 0.6; margin-bottom: 24px; font-size: 13px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  .grid > .wide { grid-column: 1 / -1; }
+  .card {
+    background: #151515; padding: 16px; border-radius: 8px;
+    border: 1px solid #222;
+  }
+  .card h2 { margin: 0 0 10px 0; font-size: 14px; font-weight: 600; opacity: 0.85; }
+  canvas { max-width: 100%; }
+  a { color: #8ab4ff; }
+  .nav { margin-bottom: 16px; font-size: 13px; opacity: 0.75; }
+  .big { font-size: 32px; font-weight: 600; }
+  .big-sub { opacity: 0.6; font-size: 12px; }
+  table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  td { padding: 3px 8px; }
+  td:last-child { text-align: right; font-variant-numeric: tabular-nums; opacity: 0.85; }
+  tr:hover { background: #1a1a1a; }
+  @media (max-width: 720px) { .grid { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+
+<div class="nav"><a href="./">wiki home</a> · <a href="./map.html">globe</a> · stats</div>
+<h1>Patterns in the Vallée catalog</h1>
+<div class="sub">Aggregates across 1,452 cases from <i>Passport to Magonia</i> and <i>Wonders in the Sky</i>.</div>
+
+<div class="grid">
+
+  <div class="card"><h2>Total cases</h2>
+    <div class="big" id="total-cases">...</div>
+    <div class="big-sub"><span id="geo-pct">...</span> with coordinates</div>
+  </div>
+
+  <div class="card"><h2>By source</h2>
+    <canvas id="chart-source"></canvas>
+  </div>
+
+  <div class="card wide"><h2>Cases per year — the waves</h2>
+    <canvas id="chart-timeseries" height="90"></canvas>
+  </div>
+
+  <div class="card"><h2>Close-encounter classification (Passport only)</h2>
+    <canvas id="chart-category"></canvas>
+  </div>
+
+  <div class="card"><h2>Location precision</h2>
+    <canvas id="chart-precision"></canvas>
+  </div>
+
+  <div class="card"><h2>Top countries</h2>
+    <table id="top-countries"></table>
+  </div>
+
+  <div class="card"><h2>Cases per decade (1800+)</h2>
+    <canvas id="chart-decade"></canvas>
+  </div>
+
+  <div class="card wide"><h2>Reported shapes</h2>
+    <canvas id="chart-shape" height="70"></canvas>
+  </div>
+
+  <div class="card"><h2>Entities observed</h2>
+    <canvas id="chart-entities"></canvas>
+  </div>
+
+  <div class="card"><h2>Interaction type</h2>
+    <canvas id="chart-interaction"></canvas>
+  </div>
+
+  <div class="card"><h2>Time of day</h2>
+    <canvas id="chart-tod"></canvas>
+  </div>
+
+  <div class="card"><h2>Humanoid encounters by decade</h2>
+    <canvas id="chart-humanoid-decade"></canvas>
+  </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<script>
+(async function () {
+  const cases = await fetch("./cases-geo.json").then(r => r.json());
+
+  document.getElementById("total-cases").textContent = "1,452";
+  document.getElementById("geo-pct").textContent =
+    `${cases.length} (${((cases.length / 1452) * 100).toFixed(1)}%)`;
+
+  Chart.defaults.color = "#bbb";
+  Chart.defaults.borderColor = "#222";
+  Chart.defaults.font.family = "system-ui, sans-serif";
+
+  const PASSPORT = "#ff7043", WONDERS = "#64b5f6";
+
+  // Count helpers
+  const countBy = (arr, fn) => {
+    const m = new Map();
+    for (const x of arr) {
+      const k = fn(x);
+      if (k === null || k === undefined) continue;
+      m.set(k, (m.get(k) || 0) + 1);
+    }
+    return m;
+  };
+  const sortEntries = (m, desc = true) =>
+    [...m.entries()].sort((a, b) => desc ? b[1] - a[1] : a[1] - b[1]);
+
+  // --- Source split ---
+  const bySource = countBy(cases, c => c.source_book);
+  new Chart(document.getElementById("chart-source"), {
+    type: "doughnut",
+    data: {
+      labels: [...bySource.keys()],
+      datasets: [{
+        data: [...bySource.values()],
+        backgroundColor: [...bySource.keys()].map(
+          k => k === "Passport to Magonia" ? PASSPORT : WONDERS)
+      }]
+    },
+    options: { plugins: { legend: { position: "bottom" } } }
+  });
+
+  // --- Timeseries (yearly, limited to 1800+) ---
+  const years = cases.map(c => c.year).filter(y => y != null && y >= 1800);
+  const minY = 1800, maxY = Math.max(...years);
+  const yearCounts = {};
+  for (let y = minY; y <= maxY; y++) yearCounts[y] = { total: 0, passport: 0, wonders: 0 };
+  for (const c of cases) {
+    if (c.year == null || c.year < minY) continue;
+    const b = yearCounts[c.year]; if (!b) continue;
+    b.total++;
+    if (c.source_book === "Passport to Magonia") b.passport++; else b.wonders++;
+  }
+  const labels = Object.keys(yearCounts);
+  new Chart(document.getElementById("chart-timeseries"), {
+    type: "bar",
+    data: {
+      labels,
+      datasets: [
+        { label: "Passport", data: labels.map(y => yearCounts[y].passport),
+          backgroundColor: PASSPORT, stack: "s" },
+        { label: "Wonders", data: labels.map(y => yearCounts[y].wonders),
+          backgroundColor: WONDERS, stack: "s" },
+      ]
+    },
+    options: {
+      scales: {
+        x: { stacked: true, ticks: { maxTicksLimit: 20 }, grid: { display: false } },
+        y: { stacked: true, title: { display: true, text: "cases" } }
+      },
+      plugins: { legend: { position: "bottom" } }
+    }
+  });
+
+  // --- Category (Passport only) ---
+  const byCat = countBy(cases.filter(c => c.category), c => c.category);
+  const catOrder = ["CE1", "CE2", "CE3"].filter(k => byCat.has(k));
+  new Chart(document.getElementById("chart-category"), {
+    type: "bar",
+    data: {
+      labels: catOrder,
+      datasets: [{ data: catOrder.map(k => byCat.get(k)), backgroundColor: PASSPORT }]
+    },
+    options: { plugins: { legend: { display: false } }, indexAxis: "y" }
+  });
+
+  // --- Precision ---
+  const byPrec = countBy(cases, c => c.precision || "none");
+  const precOrder = ["exact", "city", "region", "vague", "none"];
+  const precLabels = precOrder.filter(k => byPrec.has(k));
+  new Chart(document.getElementById("chart-precision"), {
+    type: "bar",
+    data: {
+      labels: precLabels,
+      datasets: [{
+        data: precLabels.map(k => byPrec.get(k)),
+        backgroundColor: ["#4caf50", "#8bc34a", "#ffc107", "#ff9800", "#555"]
+      }]
+    },
+    options: { plugins: { legend: { display: false } }, indexAxis: "y" }
+  });
+
+  // --- Top countries table ---
+  const byCountry = countBy(cases.filter(c => c.country), c => c.country);
+  const top = sortEntries(byCountry).slice(0, 15);
+  document.getElementById("top-countries").innerHTML =
+    top.map(([k, v]) => `<tr><td>${k}</td><td>${v}</td></tr>`).join("");
+
+  // --- Cases per decade ---
+  const decadeCounts = {};
+  for (const c of cases) {
+    if (c.year == null || c.year < 1800) continue;
+    const d = Math.floor(c.year / 10) * 10;
+    decadeCounts[d] = (decadeCounts[d] || 0) + 1;
+  }
+  const decLabels = Object.keys(decadeCounts).sort();
+  new Chart(document.getElementById("chart-decade"), {
+    type: "bar",
+    data: {
+      labels: decLabels.map(d => `${d}s`),
+      datasets: [{
+        data: decLabels.map(d => decadeCounts[d]),
+        backgroundColor: "#64b5f6"
+      }]
+    },
+    options: { plugins: { legend: { display: false } } }
+  });
+
+  // --- Shapes ---
+  const byShape = countBy(cases.filter(c => c.shape), c => c.shape);
+  const shapeEntries = sortEntries(byShape).slice(0, 14);
+  new Chart(document.getElementById("chart-shape"), {
+    type: "bar",
+    data: {
+      labels: shapeEntries.map(([k]) => k),
+      datasets: [{ data: shapeEntries.map(([,v]) => v), backgroundColor: "#ba68c8" }]
+    },
+    options: { plugins: { legend: { display: false } },
+               scales: { y: { title: { display: true, text: "cases" } } } }
+  });
+
+  // --- Entities ---
+  const byEnt = countBy(cases.filter(c => c.entities), c => c.entities);
+  const entEntries = sortEntries(byEnt);
+  new Chart(document.getElementById("chart-entities"), {
+    type: "doughnut",
+    data: {
+      labels: entEntries.map(([k]) => k),
+      datasets: [{
+        data: entEntries.map(([,v]) => v),
+        backgroundColor: ["#555", "#ff7043", "#81c784", "#ffd54f", "#9575cd", "#90a4ae"]
+      }]
+    },
+    options: { plugins: { legend: { position: "bottom" } } }
+  });
+
+  // --- Interaction ---
+  const byInter = countBy(cases.filter(c => c.interaction && c.interaction !== "none"),
+                          c => c.interaction);
+  const interEntries = sortEntries(byInter);
+  new Chart(document.getElementById("chart-interaction"), {
+    type: "bar",
+    data: {
+      labels: interEntries.map(([k]) => k.replace(/_/g, " ")),
+      datasets: [{ data: interEntries.map(([,v]) => v), backgroundColor: "#4db6ac" }]
+    },
+    options: { plugins: { legend: { display: false } }, indexAxis: "y" }
+  });
+
+  // --- Time of day ---
+  const todOrder = ["dawn", "morning", "day", "afternoon", "dusk", "night", "evening"];
+  const byTod = countBy(cases.filter(c => c.time_of_day && c.time_of_day !== "unknown"),
+                        c => c.time_of_day);
+  const todLabels = todOrder.filter(k => byTod.has(k));
+  new Chart(document.getElementById("chart-tod"), {
+    type: "bar",
+    data: {
+      labels: todLabels,
+      datasets: [{ data: todLabels.map(k => byTod.get(k)), backgroundColor: "#ffb74d" }]
+    },
+    options: { plugins: { legend: { display: false } } }
+  });
+
+  // --- Humanoid encounters by decade ---
+  const humDecade = {};
+  for (const c of cases) {
+    if (c.year == null || c.year < 1800) continue;
+    if (c.entities !== "humanoid") continue;
+    const d = Math.floor(c.year / 10) * 10;
+    humDecade[d] = (humDecade[d] || 0) + 1;
+  }
+  const humLabels = Object.keys(humDecade).sort();
+  new Chart(document.getElementById("chart-humanoid-decade"), {
+    type: "bar",
+    data: {
+      labels: humLabels.map(d => `${d}s`),
+      datasets: [{ data: humLabels.map(d => humDecade[d]), backgroundColor: "#ff7043" }]
+    },
+    options: { plugins: { legend: { display: false } } }
+  });
+})();
+</script>
+</body>
+</html>

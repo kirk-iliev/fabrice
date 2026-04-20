@@ -3,7 +3,7 @@ title: "Case 323 — Corrompu (France)"
 date: 1954-10-31
 location: "Corrompu (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-oval, vehicle-interference]
 source: Passport to Magonia
 ---
 

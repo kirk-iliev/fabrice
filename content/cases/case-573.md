@@ -3,7 +3,7 @@ title: "Case 573 — Sandy Creek (Australia)"
 date: 1963-06-28
 location: "Sandy Creek (Australia)"
 country: "Australia"
-tags: [case, landing, CE2, australia, oceania]
+tags: [case, landing, CE2, australia, oceania, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

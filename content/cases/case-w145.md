@@ -2,7 +2,7 @@
 title: "W145 — Iena, Germany: Spheres and disks"
 date: 13 June 1554
 location: "Iena, Germany"
-tags: ["case", "wonders-in-the-sky", "iena", "germany"]
+tags: ["case", "wonders-in-the-sky", "iena", "germany", "shape-multiple"]
 source: Wonders in the Sky
 ---
 

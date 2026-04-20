@@ -3,7 +3,7 @@ title: "Case 178 — Jonchcs (France)"
 date: 1954-10-02
 location: "Jonchcs (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-light, entities-humanoid]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W344 — near Agen, France: Slow-moving, round object"
 date: 5 September 1814
 location: "near Agen, France"
-tags: ["case", "wonders-in-the-sky", "agen", "france"]
+tags: ["case", "wonders-in-the-sky", "agen", "france", "shape-sphere", "trace-evidence", "time-morning"]
 source: Wonders in the Sky
 ---
 

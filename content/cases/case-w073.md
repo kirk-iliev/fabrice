@@ -2,7 +2,7 @@
 title: "W073 — Tier (Treves), Germany: Globes of light, and an elliptical object"
 date: 24 December 1299
 location: "Tier (Treves), Germany"
-tags: ["case", "wonders-in-the-sky", "tier", "germany"]
+tags: ["case", "wonders-in-the-sky", "tier", "germany", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

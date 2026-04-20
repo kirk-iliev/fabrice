@@ -3,7 +3,7 @@ title: "Case 115 — Tours (France)"
 date: 1953-08-16
 location: "Tours (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

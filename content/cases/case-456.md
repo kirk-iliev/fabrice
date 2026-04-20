@@ -2,7 +2,7 @@
 title: "Case 456 — Jan"
 date: 1958
 location: "Jan"
-tags: [case, humanoid, CE3]
+tags: [case, humanoid, CE3, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

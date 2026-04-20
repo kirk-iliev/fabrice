@@ -2,7 +2,7 @@
 title: "W170 — Kyoto, near Nijo Castle, Japan: Hovering red wheel"
 date: May 1606
 location: "Kyoto, near Nijo Castle, Japan"
-tags: ["case", "wonders-in-the-sky", "kyoto", "nijo-castle", "japan"]
+tags: ["case", "wonders-in-the-sky", "kyoto", "nijo-castle", "japan", "shape-multiple", "time-night"]
 source: Wonders in the Sky
 ---
 

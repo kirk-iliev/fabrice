@@ -3,7 +3,7 @@ title: "Case 187 — Benet (France)"
 date: 1954-10-03
 location: "Benet (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-cylinder, trace-evidence]
 source: Passport to Magonia
 ---
 

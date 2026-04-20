@@ -3,7 +3,7 @@ title: "Case 163 — Saint Nicolas de Redon (France)"
 date: 1954-09-28
 location: "Saint Nicolas de Redon (France)"
 country: "France"
-tags: [case, vehicle-interference, CE2, france, europe]
+tags: [case, vehicle-interference, CE2, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

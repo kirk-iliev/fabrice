@@ -2,7 +2,7 @@
 title: "W007 — Near Aachen on Via Aquisgrana, Germany: Great flaming globe"
 date: 811
 location: "Near Aachen on Via Aquisgrana, Germany"
-tags: ["case", "wonders-in-the-sky", "germany"]
+tags: ["case", "wonders-in-the-sky", "germany", "shape-fireball", "animal-reaction", "time-dawn"]
 source: Wonders in the Sky
 ---
 

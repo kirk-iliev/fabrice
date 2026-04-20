@@ -3,7 +3,7 @@ title: "Case 757 — Dorchester (Massachusetts)"
 date: 1966-04-12
 location: "Dorchester (Massachusetts)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

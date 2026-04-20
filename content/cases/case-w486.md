@@ -2,7 +2,7 @@
 title: "W486 — Clent, Shropshire, England: Beam of light: A column of white light projects a beam towards a thorn tree where rested the head of"
 date: 819
 location: "Clent, Shropshire, England: Beam of light"
-tags: ["case", "wonders-in-the-sky", "clent", "shropshire", "england"]
+tags: ["case", "wonders-in-the-sky", "clent", "shropshire", "england", "shape-light"]
 source: Wonders in the Sky
 ---
 

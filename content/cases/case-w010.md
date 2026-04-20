@@ -2,7 +2,7 @@
 title: "W010 — Lyons, France: Saint Agobard and the abductees from Magonia"
 date: Circa 815
 location: "Lyons, France"
-tags: ["case", "wonders-in-the-sky", "lyons", "france"]
+tags: ["case", "wonders-in-the-sky", "lyons", "france", "shape-multiple", "entities-humanoid", "abduction"]
 source: Wonders in the Sky
 ---
 

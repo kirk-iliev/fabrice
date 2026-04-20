@@ -3,7 +3,7 @@ title: "Case 160 — Premanon (France)"
 date: 1954-09-27
 location: "Premanon (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, entities-humanoid, animal-reaction]
 source: Passport to Magonia
 ---
 

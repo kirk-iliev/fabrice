@@ -2,7 +2,7 @@
 title: "W378 — India, location unknown: Disk with appendage: A flying disk, about the apparent size of the moon but brighter, from which projected a"
 date: 1838
 location: "India, location unknown: Disk with appendage"
-tags: ["case", "wonders-in-the-sky", "india"]
+tags: ["case", "wonders-in-the-sky", "india", "shape-disk"]
 source: Wonders in the Sky
 ---
 

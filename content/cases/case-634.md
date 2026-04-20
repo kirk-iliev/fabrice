@@ -3,7 +3,7 @@ title: "Case 634 — Marion (Virginia)"
 date: 1965-01-25
 location: "Marion (Virginia)"
 country: "United States"
-tags: [case, trace-evidence, CE2, united-states, north-america]
+tags: [case, trace-evidence, CE2, united-states, north-america, time-night]
 source: Passport to Magonia
 ---
 

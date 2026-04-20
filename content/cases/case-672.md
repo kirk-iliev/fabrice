@@ -3,7 +3,7 @@ title: "Case 672 — Dallas (Texas)"
 date: 1965-08-04
 location: "Dallas (Texas)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-light, vehicle-interference]
 source: Passport to Magonia
 ---
 

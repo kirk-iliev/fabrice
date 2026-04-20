@@ -3,7 +3,7 @@ title: "Case 713 — Pinhal (Brazil)"
 date: 1965-10-30
 location: "Pinhal (Brazil)"
 country: "Brazil"
-tags: [case, landing, CE2, brazil, south-america]
+tags: [case, landing, CE2, brazil, south-america, shape-light, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

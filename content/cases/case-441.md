@@ -3,7 +3,7 @@ title: "Case 441 — Bage City (Brazil)"
 date: 1957-11-16
 location: "Bage City (Brazil)"
 country: "Brazil"
-tags: [case, landing, CE2, brazil, south-america]
+tags: [case, landing, CE2, brazil, south-america, shape-light, trace-evidence]
 source: Passport to Magonia
 ---
 

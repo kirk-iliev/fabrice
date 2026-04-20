@@ -3,7 +3,7 @@ title: "Case 443 — Aston (Great Britain)"
 date: 1957-11-18
 location: "Aston (Great Britain)"
 country: "Great Britain"
-tags: [case, humanoid, CE3, great-britain, europe]
+tags: [case, humanoid, CE3, great-britain, europe, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

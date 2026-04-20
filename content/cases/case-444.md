@@ -2,7 +2,7 @@
 title: "Case 444 — Noy"
 date: 1957
 location: "Noy"
-tags: [case, humanoid, CE3]
+tags: [case, humanoid, CE3, shape-pyramid, entities-humanoid]
 source: Passport to Magonia
 ---
 

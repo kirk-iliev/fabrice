@@ -2,7 +2,7 @@
 title: "W302 — Basel and Solothurn, Switzerland: Slow-flying spindle in the Sky"
 date: 9 August 1762
 location: "Basel and Solothurn, Switzerland"
-tags: ["case", "wonders-in-the-sky", "basel-and-solothurn", "switzerland"]
+tags: ["case", "wonders-in-the-sky", "basel-and-solothurn", "switzerland", "shape-cigar", "time-day"]
 source: Wonders in the Sky
 ---
 

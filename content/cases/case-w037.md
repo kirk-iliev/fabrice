@@ -2,7 +2,7 @@
 title: "W037 — Zhengjiang, China: Light rising from the river"
 date: December 1071
 location: "Zhengjiang, China"
-tags: ["case", "wonders-in-the-sky", "zhengjiang", "china"]
+tags: ["case", "wonders-in-the-sky", "zhengjiang", "china", "shape-light", "animal-reaction"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W387 — Darmstadt, Germany: Slag residue falling"
 date: 7 June 1846
 location: "Darmstadt, Germany"
-tags: ["case", "wonders-in-the-sky", "darmstadt", "germany"]
+tags: ["case", "wonders-in-the-sky", "darmstadt", "germany", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

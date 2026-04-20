@@ -2,7 +2,7 @@
 title: "W085 — Messina, Sicily, Italy: Light descending, ascending"
 date: 26 January 1390
 location: "Messina, Sicily, Italy"
-tags: ["case", "wonders-in-the-sky", "messina", "sicily", "italy"]
+tags: ["case", "wonders-in-the-sky", "messina", "sicily", "italy", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

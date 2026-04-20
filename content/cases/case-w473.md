@@ -2,7 +2,7 @@
 title: "W473 — Clonfert, Ireland: Saint Brendan flies up into the sky"
 date: 553
 location: "Clonfert, Ireland"
-tags: ["case", "wonders-in-the-sky", "clonfert", "ireland"]
+tags: ["case", "wonders-in-the-sky", "clonfert", "ireland", "entities-humanoid", "abduction"]
 source: Wonders in the Sky
 ---
 

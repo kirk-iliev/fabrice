@@ -3,7 +3,7 @@ title: "Case 146 — Feyzin (France)"
 date: 1954-09-15
 location: "Feyzin (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-light]
 source: Passport to Magonia
 ---
 

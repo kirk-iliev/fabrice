@@ -2,7 +2,7 @@
 title: "W070 — Parma, Saint Rufiino, Italy: A duel of stars"
 date: Circa 1284
 location: "Parma, Saint Rufiino, Italy"
-tags: ["case", "wonders-in-the-sky", "parma", "saint-rufiino", "italy"]
+tags: ["case", "wonders-in-the-sky", "parma", "saint-rufiino", "italy", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

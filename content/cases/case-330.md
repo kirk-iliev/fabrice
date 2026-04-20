@@ -3,7 +3,7 @@ title: "Case 330 — Monte Ortobene (Sardinia)"
 date: 1954-11-07
 location: "Monte Ortobene (Sardinia)"
 country: "Italy"
-tags: [case, landing, CE2, italy, europe]
+tags: [case, landing, CE2, italy, europe, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

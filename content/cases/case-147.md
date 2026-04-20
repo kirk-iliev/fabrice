@@ -3,7 +3,7 @@ title: "Case 147 — Cenon (France)"
 date: 1954-09-17
 location: "Cenon (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, shape-rectangle, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 625 — Ulysses (Oklahoma)"
 date: 1964-09-11
 location: "Ulysses (Oklahoma)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 730 — Milan (Michigan)"
 date: 1966-03-17
 location: "Milan (Michigan)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W525 — Pliny 26, Dio Cassius 14, Cicero 9, confirming their psychological impact on the: educated Roman mind. Lycosthenes writing in AD 1552 collated 59 heavenly portents in"
 date: 30
 location: "Pliny 26, Dio Cassius 14, Cicero 9, confirming their psychological impact on the"
-tags: ["case", "wonders-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "shape-multiple"]
 source: Wonders in the Sky
 ---
 

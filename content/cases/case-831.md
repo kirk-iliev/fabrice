@@ -3,7 +3,7 @@ title: "Case 831 — New Westminster (Canada)"
 date: 1967-04-01
 location: "New Westminster (Canada)"
 country: "Canada"
-tags: [case, CE1, canada, north-america]
+tags: [case, CE1, canada, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

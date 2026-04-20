@@ -3,7 +3,7 @@ title: "Case 063 — Raveo (Italy)"
 date: 1947-08-14
 location: "Raveo (Italy)"
 country: "Italy"
-tags: [case, humanoid, CE3, italy, europe]
+tags: [case, humanoid, CE3, italy, europe, shape-disk, entities-humanoid, injury-or-burn]
 source: Passport to Magonia
 ---
 

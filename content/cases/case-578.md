@@ -3,7 +3,7 @@ title: "Case 578 — Ellsworth (Maine)"
 date: 1963-08-13
 location: "Ellsworth (Maine)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-cylinder]
 source: Passport to Magonia
 ---
 

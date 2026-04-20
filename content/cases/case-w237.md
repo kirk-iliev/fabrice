@@ -2,7 +2,7 @@
 title: "W237 — Bayarcal, Spain: Procession of lights"
 date: Late December 1667
 location: "Bayarcal, Spain"
-tags: ["case", "wonders-in-the-sky", "bayarcal", "spain"]
+tags: ["case", "wonders-in-the-sky", "bayarcal", "spain", "shape-cross", "time-night"]
 source: Wonders in the Sky
 ---
 

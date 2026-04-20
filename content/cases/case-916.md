@@ -3,7 +3,7 @@ title: "Case 916 — Sierra Chica (Argentina)"
 date: 1968-07-02
 location: "Sierra Chica (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, CE3, argentina, south-america]
+tags: [case, humanoid, CE3, argentina, south-america, shape-elliptical, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

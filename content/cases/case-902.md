@@ -3,7 +3,7 @@ title: "Case 902 — Ashland (Nebraska)"
 date: 1967-12-03
 location: "Ashland (Nebraska)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

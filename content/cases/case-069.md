@@ -2,7 +2,7 @@
 title: "Case 069 — France (exact location unknown)"
 date: 1949-02-17
 location: "France (exact location unknown)"
-tags: [case, humanoid, landing, CE3]
+tags: [case, humanoid, landing, CE3, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

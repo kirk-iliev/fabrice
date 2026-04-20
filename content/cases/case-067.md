@@ -3,7 +3,7 @@ title: "Case 067 — Maplewood (Ohio)"
 date: 1948-08-29
 location: "Maplewood (Ohio)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-sphere, trace-evidence, time-day]
 source: Passport to Magonia
 ---
 

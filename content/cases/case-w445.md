@@ -2,7 +2,7 @@
 title: "W445 — Vence, France: Luminous balls emerge from a cloud-like formation"
 date: 23 March 1877
 location: "Vence, France"
-tags: ["case", "wonders-in-the-sky", "vence", "france"]
+tags: ["case", "wonders-in-the-sky", "vence", "france", "shape-fireball"]
 source: Wonders in the Sky
 ---
 

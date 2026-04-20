@@ -2,7 +2,7 @@
 title: "W218 — Oxford, England: Humanoid: A scholar named Allen, of Magdalen College in Oxford, who was in bed, heard a noise"
 date: 10 November 1660
 location: "Oxford, England: Humanoid"
-tags: ["case", "wonders-in-the-sky", "oxford", "england"]
+tags: ["case", "wonders-in-the-sky", "oxford", "england", "entities-humanoid", "communication", "time-night"]
 source: Wonders in the Sky
 ---
 

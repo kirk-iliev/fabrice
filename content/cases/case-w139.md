@@ -2,7 +2,7 @@
 title: "W139 — near Waldstadt, Germany: Woman taken up by the devil and dropped from the sky"
 date: 1551
 location: "near Waldstadt, Germany"
-tags: ["case", "wonders-in-the-sky", "waldstadt", "germany"]
+tags: ["case", "wonders-in-the-sky", "waldstadt", "germany", "abduction"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 803 — El Campo (Texas)"
 date: 1966-11-02
 location: "El Campo (Texas)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-light, vehicle-interference, time-evening]
 source: Passport to Magonia
 ---
 

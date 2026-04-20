@@ -2,7 +2,7 @@
 title: "W299 — Weyloe, Denmark: A pale object emits a beam"
 date: 26 December 1761
 location: "Weyloe, Denmark"
-tags: ["case", "wonders-in-the-sky", "weyloe", "denmark"]
+tags: ["case", "wonders-in-the-sky", "weyloe", "denmark", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

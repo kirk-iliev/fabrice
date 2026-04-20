@@ -3,7 +3,7 @@ title: "Case 184 — Chereng (France)"
 date: 1954-10-03
 location: "Chereng (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, shape-light, trace-evidence, time-day]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 148 — Casablanca (Morocco)"
 date: 1954-09-18
 location: "Casablanca (Morocco)"
 country: "Morocco"
-tags: [case, CE1, morocco, africa]
+tags: [case, CE1, morocco, africa, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

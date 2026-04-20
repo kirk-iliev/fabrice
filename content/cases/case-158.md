@@ -3,7 +3,7 @@ title: "Case 158 — Figeac (France)"
 date: 1954-09-27
 location: "Figeac (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-rectangle, entities-humanoid]
 source: Passport to Magonia
 ---
 

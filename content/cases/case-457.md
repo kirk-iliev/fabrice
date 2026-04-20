@@ -3,7 +3,7 @@ title: "Case 457 — Farm Hill (Australia)"
 date: 1958-01-13
 location: "Farm Hill (Australia)"
 country: "Australia"
-tags: [case, vehicle-interference, CE2, australia, oceania]
+tags: [case, vehicle-interference, CE2, australia, oceania, shape-dome]
 source: Passport to Magonia
 ---
 

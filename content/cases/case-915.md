@@ -3,7 +3,7 @@ title: "Case 915 — Cofico (Argentina)"
 date: 1968-07-02
 location: "Cofico (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, CE3, argentina, south-america]
+tags: [case, humanoid, CE3, argentina, south-america, shape-light, entities-humanoid]
 source: Passport to Magonia
 ---
 

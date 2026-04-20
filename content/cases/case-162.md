@@ -3,7 +3,7 @@ title: "Case 162 — Bouzais (France)"
 date: 1954-09-28
 location: "Bouzais (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-light, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

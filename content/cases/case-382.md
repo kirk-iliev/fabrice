@@ -3,7 +3,7 @@ title: "Case 382 — Jacksonville (Florida)"
 date: 1956-05-09
 location: "Jacksonville (Florida)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-light, abduction]
 source: Passport to Magonia
 ---
 

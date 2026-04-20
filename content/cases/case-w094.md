@@ -2,7 +2,7 @@
 title: "W094 — Bibbiena, Arezzo, Italy: Unexplained golden globes of light"
 date: June 1444
 location: "Bibbiena, Arezzo, Italy"
-tags: ["case", "wonders-in-the-sky", "bibbiena", "arezzo", "italy"]
+tags: ["case", "wonders-in-the-sky", "bibbiena", "arezzo", "italy", "shape-light", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

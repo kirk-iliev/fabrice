@@ -3,7 +3,7 @@ title: "Case 878 — Valencia (Venezuela)"
 date: 1967-09-04
 location: "Valencia (Venezuela)"
 country: "Venezuela"
-tags: [case, humanoid, CE3, venezuela, south-america]
+tags: [case, humanoid, CE3, venezuela, south-america, shape-disk, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 923 — Fleury-d'Aude (France)"
 date: 1968-11-22
 location: "Fleury-d'Aude (France)"
 country: "France"
-tags: [case, humanoid, landing, CE3, france, europe]
+tags: [case, humanoid, landing, CE3, france, europe, shape-lens, injury-or-burn]
 source: Passport to Magonia
 ---
 

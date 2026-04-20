@@ -2,7 +2,7 @@
 title: "W457 — Nile Valley, Egypt: Moses and the blue object"
 date: Circa 1447 BC
 location: "Nile Valley, Egypt"
-tags: ["case", "wonders-in-the-sky", "nile-valley", "egypt"]
+tags: ["case", "wonders-in-the-sky", "nile-valley", "egypt", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

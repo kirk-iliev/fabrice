@@ -3,7 +3,7 @@ title: "Case 090 — Summer, 1952 Itenhaem (Brazil)"
 date: 1952
 location: "Summer, 1952 Itenhaem (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, CE3, brazil, south-america]
+tags: [case, humanoid, CE3, brazil, south-america, shape-disk, entities-humanoid, time-night]
 source: Passport to Magonia
 ---
 

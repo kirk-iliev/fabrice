@@ -3,7 +3,7 @@ title: "Case 541 — Duas Pontes (Brazil)"
 date: 1962-08-17
 location: "Duas Pontes (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, CE3, brazil, south-america]
+tags: [case, humanoid, CE3, brazil, south-america, shape-hat, entities-humanoid, trace-evidence, time-evening]
 source: Passport to Magonia
 ---
 

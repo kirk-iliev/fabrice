@@ -2,7 +2,7 @@
 title: "W109 — Guanahany, Bahamas: The light seen by Columbus"
 date: 11 October 1492
 location: "Guanahany, Bahamas"
-tags: ["case", "wonders-in-the-sky", "guanahany", "bahamas"]
+tags: ["case", "wonders-in-the-sky", "guanahany", "bahamas", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

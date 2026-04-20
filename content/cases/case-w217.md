@@ -2,7 +2,7 @@
 title: "W217 — Yelden, England: Bright object: A bright object seen in the sky for two hours by a credible witness. The record reads:"
 date: 30 October 1660
 location: "Yelden, England: Bright object"
-tags: ["case", "wonders-in-the-sky", "yelden", "england"]
+tags: ["case", "wonders-in-the-sky", "yelden", "england", "shape-light", "time-dawn"]
 source: Wonders in the Sky
 ---
 

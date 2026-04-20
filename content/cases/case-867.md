@@ -3,7 +3,7 @@ title: "Case 867 — Salina (Venezuela)"
 date: 1967-08-08
 location: "Salina (Venezuela)"
 country: "Venezuela"
-tags: [case, CE1, venezuela, south-america]
+tags: [case, CE1, venezuela, south-america, shape-disk, time-evening]
 source: Passport to Magonia
 ---
 

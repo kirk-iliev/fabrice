@@ -3,7 +3,7 @@ title: "Case 688 — Terreon (Mexico)"
 date: 1965-08-25
 location: "Terreon (Mexico)"
 country: "Mexico"
-tags: [case, CE1, mexico, north-america]
+tags: [case, CE1, mexico, north-america, shape-fireball, time-night]
 source: Passport to Magonia
 ---
 

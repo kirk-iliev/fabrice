@@ -3,7 +3,7 @@ title: "Case 131 — East Dandenong (Australia)"
 date: 1954-06-09
 location: "East Dandenong (Australia)"
 country: "Australia"
-tags: [case, CE1, australia, oceania]
+tags: [case, CE1, australia, oceania, shape-cylinder]
 source: Passport to Magonia
 ---
 

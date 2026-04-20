@@ -3,7 +3,7 @@ title: "Case 027 — Josserand (Texas)"
 date: 1897-04-22
 location: "Josserand (Texas)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

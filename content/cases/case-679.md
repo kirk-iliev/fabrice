@@ -3,7 +3,7 @@ title: "Case 679 — Stranraer (Scotland)"
 date: 1965-08-14
 location: "Stranraer (Scotland)"
 country: "Great Britain"
-tags: [case, landing, CE2, great-britain, europe]
+tags: [case, landing, CE2, great-britain, europe, shape-disk]
 source: Passport to Magonia
 ---
 

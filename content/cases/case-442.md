@@ -2,7 +2,7 @@
 title: "Case 442 — Novy"
 date: 1957
 location: "Novy"
-tags: [case, humanoid, CE3]
+tags: [case, humanoid, CE3, shape-disk, entities-humanoid, trace-evidence]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 775 — Le Rouret (France)"
 date: 1966-06-18
 location: "Le Rouret (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 821 — Red Hill (New Hampshire)"
 date: 1967-03-03
 location: "Red Hill (New Hampshire)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-light, animal-reaction]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 770 — West Point City (Pennsylvania)"
 date: 1966-06-03
 location: "West Point City (Pennsylvania)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

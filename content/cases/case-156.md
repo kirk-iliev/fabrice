@@ -3,7 +3,7 @@ title: "Case 156 — Chabeuil (France)"
 date: 1954-09-26
 location: "Chabeuil (France)"
 country: "France"
-tags: [case, humanoid, trace-evidence, CE3, france, europe]
+tags: [case, humanoid, trace-evidence, CE3, france, europe, shape-disk, entities-humanoid]
 source: Passport to Magonia
 ---
 

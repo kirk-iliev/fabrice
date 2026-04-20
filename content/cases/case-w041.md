@@ -2,7 +2,7 @@
 title: "W041 — Antioch, Turkey: Scintillating globe"
 date: Circa 15 September 1098
 location: "Antioch, Turkey"
-tags: ["case", "wonders-in-the-sky", "antioch", "turkey"]
+tags: ["case", "wonders-in-the-sky", "antioch", "turkey", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

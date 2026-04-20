@@ -3,7 +3,7 @@ title: "Case 094 — Dai-el-Aouagri (Morocco)"
 date: 1952-07-20
 location: "Dai-el-Aouagri (Morocco)"
 country: "Morocco"
-tags: [case, trace-evidence, CE2, morocco, africa]
+tags: [case, trace-evidence, CE2, morocco, africa, shape-disk, time-night]
 source: Passport to Magonia
 ---
 

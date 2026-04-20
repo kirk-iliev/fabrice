@@ -3,7 +3,7 @@ title: "Case 918 — Lins (Brazil)"
 date: 1968-08-27
 location: "Lins (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, CE3, brazil, south-america]
+tags: [case, humanoid, CE3, brazil, south-america, shape-sphere, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

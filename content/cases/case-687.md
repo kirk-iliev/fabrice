@@ -3,7 +3,7 @@ title: "Case 687 — Apostoles (Argentina)"
 date: 1965-08-23
 location: "Apostoles (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, landing, CE3, argentina, south-america]
+tags: [case, humanoid, landing, CE3, argentina, south-america, shape-sphere, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

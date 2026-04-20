@@ -3,7 +3,7 @@ title: "Case 508 — Hamburg (Germany)"
 date: 1960
 location: "Hamburg (Germany)"
 country: "Germany"
-tags: [case, landing, CE2, germany, europe]
+tags: [case, landing, CE2, germany, europe, shape-disk, time-day]
 source: Passport to Magonia
 ---
 

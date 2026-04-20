@@ -3,7 +3,7 @@ title: "Case 592 — Libreville (Gabon)"
 date: 1963-12-25
 location: "Libreville (Gabon)"
 country: "Gabon"
-tags: [case, humanoid, landing, trace-evidence, CE3, gabon, africa]
+tags: [case, humanoid, landing, trace-evidence, CE3, gabon, africa, shape-disk, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

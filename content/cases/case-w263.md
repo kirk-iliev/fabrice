@@ -2,7 +2,7 @@
 title: "W263 — St. Didier, Vaucluse, near Avignon, France: Merging globes in the sky"
 date: 1699
 location: "St. Didier, Vaucluse, near Avignon, France"
-tags: ["case", "wonders-in-the-sky", "st-didier", "vaucluse", "avignon", "france"]
+tags: ["case", "wonders-in-the-sky", "st-didier", "vaucluse", "avignon", "france", "shape-light"]
 source: Wonders in the Sky
 ---
 

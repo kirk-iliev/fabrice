@@ -2,7 +2,7 @@
 title: "W373 — Saratov Province, Russia: Hovering globe"
 date: 8 July 1836
 location: "Saratov Province, Russia"
-tags: ["case", "wonders-in-the-sky", "saratov-province", "russia"]
+tags: ["case", "wonders-in-the-sky", "saratov-province", "russia", "shape-sphere", "trace-evidence", "time-night"]
 source: Wonders in the Sky
 ---
 

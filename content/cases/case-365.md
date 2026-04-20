@@ -3,7 +3,7 @@ title: "Case 365 — Stockton (Georgia)"
 date: 1955-07-03
 location: "Stockton (Georgia)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, entities-humanoid]
 source: Passport to Magonia
 ---
 

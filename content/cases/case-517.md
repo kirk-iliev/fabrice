@@ -3,7 +3,7 @@ title: "Case 517 — Eagle River (Wisconsin)"
 date: 1961-04-18
 location: "Eagle River (Wisconsin)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-cylinder, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

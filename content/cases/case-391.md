@@ -3,7 +3,7 @@ title: "Case 391 — Palalda (France)"
 date: 1957-04-22
 location: "Palalda (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-fireball, trace-evidence]
 source: Passport to Magonia
 ---
 

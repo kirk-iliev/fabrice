@@ -3,7 +3,7 @@ title: "Case 167 — Grand-Couronne (France)"
 date: 1954-09-30
 location: "Grand-Couronne (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-multiple]
 source: Passport to Magonia
 ---
 

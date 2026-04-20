@@ -3,7 +3,7 @@ title: "Case 483 — Kolobreg (Poland)"
 date: 1959
 location: "Kolobreg (Poland)"
 country: "Poland"
-tags: [case, humanoid, landing, CE3, poland, europe]
+tags: [case, humanoid, landing, CE3, poland, europe, shape-triangle]
 source: Passport to Magonia
 ---
 

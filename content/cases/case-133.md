@@ -3,7 +3,7 @@ title: "Case 133 — Garson (Canada)"
 date: 1954-07-07
 location: "Garson (Canada)"
 country: "Canada"
-tags: [case, humanoid, landing, trace-evidence, CE3, canada, north-america]
+tags: [case, humanoid, landing, trace-evidence, CE3, canada, north-america, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

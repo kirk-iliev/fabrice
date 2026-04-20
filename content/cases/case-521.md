@@ -3,7 +3,7 @@ title: "Case 521 — Las Vegas (Nevada)"
 date: 1961-07-17
 location: "Las Vegas (Nevada)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, vehicle-interference]
 source: Passport to Magonia
 ---
 

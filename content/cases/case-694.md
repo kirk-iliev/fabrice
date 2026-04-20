@@ -3,7 +3,7 @@ title: "Case 694 — Damon (Texas)"
 date: 1965-09-03
 location: "Damon (Texas)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-rectangle, entities-humanoid, injury-or-burn, time-night]
 source: Passport to Magonia
 ---
 

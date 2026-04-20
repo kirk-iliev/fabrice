@@ -2,7 +2,7 @@
 title: "W399 — Reims, France: Star moving in the sky with sudden accelerations"
 date: 13 February 1849
 location: "Reims, France"
-tags: ["case", "wonders-in-the-sky", "reims", "france"]
+tags: ["case", "wonders-in-the-sky", "reims", "france", "shape-light", "time-dusk"]
 source: Wonders in the Sky
 ---
 

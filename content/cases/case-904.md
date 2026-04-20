@@ -3,7 +3,7 @@ title: "Case 904 — Criacao do Cabrito (Azores)"
 date: 1968-02-01
 location: "Criacao do Cabrito (Azores)"
 country: "Portugal"
-tags: [case, humanoid, CE3, portugal, europe]
+tags: [case, humanoid, CE3, portugal, europe, shape-sphere, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

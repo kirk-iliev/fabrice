@@ -3,7 +3,7 @@ title: "Case 680 — Nablus (Jordan)"
 date: 1965-08-15
 location: "Nablus (Jordan)"
 country: "Jordan"
-tags: [case, CE1, jordan, middle-east]
+tags: [case, CE1, jordan, middle-east, shape-cigar, vehicle-interference]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 919 — Mendoza (Argentina)"
 date: 1968-08-31
 location: "Mendoza (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, trace-evidence, CE3, argentina, south-america]
+tags: [case, humanoid, trace-evidence, CE3, argentina, south-america, shape-disk, entities-humanoid]
 source: Passport to Magonia
 ---
 

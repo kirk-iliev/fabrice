@@ -2,7 +2,7 @@
 title: "W495 — Bingen, Germany: Figures within fiery flying disks"
 date: 1141
 location: "Bingen, Germany"
-tags: ["case", "wonders-in-the-sky", "bingen", "germany"]
+tags: ["case", "wonders-in-the-sky", "bingen", "germany", "shape-light"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 092 — Magneville (France)"
 date: 1952-06-15
 location: "Magneville (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-disk, time-day]
 source: Passport to Magonia
 ---
 

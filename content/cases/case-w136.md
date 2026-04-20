@@ -2,7 +2,7 @@
 title: "W136 — near Trebnitz, Saxony, Germany: Bloody rain, split sun"
 date: 19 June 1550
 location: "near Trebnitz, Saxony, Germany"
-tags: ["case", "wonders-in-the-sky", "trebnitz", "saxony", "germany"]
+tags: ["case", "wonders-in-the-sky", "trebnitz", "saxony", "germany", "shape-cross", "time-day"]
 source: Wonders in the Sky
 ---
 

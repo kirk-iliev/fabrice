@@ -3,7 +3,7 @@ title: "Case 473 — Caledon East (Canada)"
 date: 1958-10-31
 location: "Caledon East (Canada)"
 country: "Canada"
-tags: [case, landing, CE2, canada, north-america]
+tags: [case, landing, CE2, canada, north-america, shape-cigar, trace-evidence]
 source: Passport to Magonia
 ---
 

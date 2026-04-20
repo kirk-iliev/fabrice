@@ -3,7 +3,7 @@ title: "Case 015 — Girard, near Green Ridge (Illinois)"
 date: 1897-04-12
 location: "Girard, near Green Ridge (Illinois)"
 country: "United States"
-tags: [case, landing, trace-evidence, CE2, united-states, north-america]
+tags: [case, landing, trace-evidence, CE2, united-states, north-america, shape-cigar, entities-humanoid, time-night]
 source: Passport to Magonia
 ---
 

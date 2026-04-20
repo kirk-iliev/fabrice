@@ -2,7 +2,7 @@
 title: "W276 — Vilvoorde, Brabant, Belgium: Terrifying objects CD"
 date: 29 October 1726
 location: "Vilvoorde, Brabant, Belgium"
-tags: ["case", "wonders-in-the-sky", "vilvoorde", "brabant", "belgium"]
+tags: ["case", "wonders-in-the-sky", "vilvoorde", "brabant", "belgium", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 020 — Perry Springs (Missouri)"
 date: 1897-04-15
 location: "Perry Springs (Missouri)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-light, vehicle-interference]
 source: Passport to Magonia
 ---
 

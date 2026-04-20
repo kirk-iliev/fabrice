@@ -3,7 +3,7 @@ title: "Case 834 — Crestview (Florida)"
 date: 1967-04-07
 location: "Crestview (Florida)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-multiple, time-day]
 source: Passport to Magonia
 ---
 

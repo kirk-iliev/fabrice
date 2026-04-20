@@ -3,7 +3,7 @@ title: "Case 502 — Beira (Mozambique)"
 date: 1960-04-05
 location: "Beira (Mozambique)"
 country: "Mozambique"
-tags: [case, humanoid, landing, CE3, mozambique, africa]
+tags: [case, humanoid, landing, CE3, mozambique, africa, shape-disk, entities-humanoid, trace-evidence]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W463 — Phrygia, near Otryae, Turkey: A falling meteorite stops a battle"
 date: 72 BC
 location: "Phrygia, near Otryae, Turkey"
-tags: ["case", "wonders-in-the-sky", "phrygia", "otryae", "turkey"]
+tags: ["case", "wonders-in-the-sky", "phrygia", "otryae", "turkey", "shape-cylinder", "time-day"]
 source: Wonders in the Sky
 ---
 

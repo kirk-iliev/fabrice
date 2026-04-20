@@ -2,7 +2,7 @@
 title: "W086 — England: Another wheel-shaped object: According to Raphael Holinshed's landmark chronicle of British history, a wheel- or"
 date: Winter 1394
 location: "England: Another wheel-shaped object"
-tags: ["case", "wonders-in-the-sky", "england"]
+tags: ["case", "wonders-in-the-sky", "england", "shape-multiple", "time-night"]
 source: Wonders in the Sky
 ---
 

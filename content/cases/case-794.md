@@ -3,7 +3,7 @@ title: "Case 794 — Texas"
 date: 1966-09-05
 location: "Texas"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-light, entities-humanoid, time-evening]
 source: Passport to Magonia
 ---
 

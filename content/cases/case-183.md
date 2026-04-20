@@ -3,7 +3,7 @@ title: "Case 183 — Vron (France)"
 date: 1954-10-03
 location: "Vron (France)"
 country: "France"
-tags: [case, landing, CE2, france, europe]
+tags: [case, landing, CE2, france, europe, entities-humanoid]
 source: Passport to Magonia
 ---
 

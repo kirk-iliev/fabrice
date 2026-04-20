@@ -2,7 +2,7 @@
 title: "Case 113 — July Villares des Saz (Spain)"
 location: "July Villares des Saz (Spain)"
 country: "Spain"
-tags: [case, humanoid, trace-evidence, CE3, spain, europe]
+tags: [case, humanoid, trace-evidence, CE3, spain, europe, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

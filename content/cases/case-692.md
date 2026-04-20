@@ -3,7 +3,7 @@ title: "Case 692 — San Justo (Argentina)"
 date: 1965-09-03
 location: "San Justo (Argentina)"
 country: "Argentina"
-tags: [case, CE1, argentina, south-america]
+tags: [case, CE1, argentina, south-america, shape-sphere, entities-humanoid, trace-evidence, time-night]
 source: Passport to Magonia
 ---
 

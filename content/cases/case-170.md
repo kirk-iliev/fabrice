@@ -3,7 +3,7 @@ title: "Case 170 — Blanzy (France)"
 date: 1954-10-01
 location: "Blanzy (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-cigar]
 source: Passport to Magonia
 ---
 

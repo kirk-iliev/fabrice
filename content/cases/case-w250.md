@@ -2,7 +2,7 @@
 title: "W250 — Lisbon, Portugal: Landing of a hairy occupant"
 date: 17 September 1680
 location: "Lisbon, Portugal"
-tags: ["case", "wonders-in-the-sky", "lisbon", "portugal"]
+tags: ["case", "wonders-in-the-sky", "lisbon", "portugal", "shape-cloud", "entities-humanoid"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W496 — Germany: Three suns, three moons"
 date: September 1157
 location: "Germany"
-tags: ["case", "wonders-in-the-sky", "germany"]
+tags: ["case", "wonders-in-the-sky", "germany", "shape-multiple", "time-day"]
 source: Wonders in the Sky
 ---
 

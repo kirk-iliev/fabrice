@@ -3,7 +3,7 @@ title: "Case 095 — Vico (Italy)"
 date: 1952-07-24
 location: "Vico (Italy)"
 country: "Italy"
-tags: [case, CE1, italy, europe]
+tags: [case, CE1, italy, europe, shape-disk, entities-humanoid, injury-or-burn, time-night]
 source: Passport to Magonia
 ---
 

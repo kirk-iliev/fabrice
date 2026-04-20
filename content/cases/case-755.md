@@ -3,7 +3,7 @@ title: "Case 755 — Norwalk (Connecticut)"
 date: 1966-04-08
 location: "Norwalk (Connecticut)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, time-morning]
 source: Passport to Magonia
 ---
 

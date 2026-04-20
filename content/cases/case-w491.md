@@ -2,7 +2,7 @@
 title: "W491 — Piacenza, Italy: Blue luminous dove, a great cross"
 date: 1 March 1095
 location: "Piacenza, Italy"
-tags: ["case", "wonders-in-the-sky", "piacenza", "italy"]
+tags: ["case", "wonders-in-the-sky", "piacenza", "italy", "shape-cross", "time-day"]
 source: Wonders in the Sky
 ---
 

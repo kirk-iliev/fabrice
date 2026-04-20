@@ -3,7 +3,7 @@ title: "Case 814 — Studham (Great Britain)"
 date: 1967-01-28
 location: "Studham (Great Britain)"
 country: "Great Britain"
-tags: [case, CE1, great-britain, europe]
+tags: [case, CE1, great-britain, europe, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

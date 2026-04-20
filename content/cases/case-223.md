@@ -3,7 +3,7 @@ title: "Case 223 — Beirut (Lebanon)"
 date: 1954-10-09
 location: "Beirut (Lebanon)"
 country: "Lebanon"
-tags: [case, landing, CE2, lebanon, middle-east]
+tags: [case, landing, CE2, lebanon, middle-east, shape-disk]
 source: Passport to Magonia
 ---
 

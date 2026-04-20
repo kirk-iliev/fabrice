@@ -2,7 +2,7 @@
 title: "W036 — Northumbria, England: Fiery sign revolves, moves up and down"
 date: 1067
 location: "Northumbria, England"
-tags: ["case", "wonders-in-the-sky", "northumbria", "england"]
+tags: ["case", "wonders-in-the-sky", "northumbria", "england", "shape-fireball", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W355 — Buchholz, Germany: Two objects: Astronomer Pastorff sees two round spots passing in front of the Sun."
 date: 23 October 1822
 location: "Buchholz, Germany: Two objects"
-tags: ["case", "wonders-in-the-sky", "buchholz", "germany"]
+tags: ["case", "wonders-in-the-sky", "buchholz", "germany", "shape-multiple"]
 source: Wonders in the Sky
 ---
 

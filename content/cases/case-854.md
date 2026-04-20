@@ -3,7 +3,7 @@ title: "Case 854 — Santa Clara del Mar (Argentina)"
 date: 1967-07-11
 location: "Santa Clara del Mar (Argentina)"
 country: "Argentina"
-tags: [case, CE1, argentina, south-america]
+tags: [case, CE1, argentina, south-america, shape-cigar, time-evening]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 839 — Durango (Mexico)"
 date: 1967-05-06
 location: "Durango (Mexico)"
 country: "Mexico"
-tags: [case, vehicle-interference, CE2, mexico, north-america]
+tags: [case, vehicle-interference, CE2, mexico, north-america, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

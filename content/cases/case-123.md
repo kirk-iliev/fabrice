@@ -3,7 +3,7 @@ title: "Case 123 — Marignane Airport (France)"
 date: 1954-01-04
 location: "Marignane Airport (France)"
 country: "France"
-tags: [case, humanoid, CE3, france, europe]
+tags: [case, humanoid, CE3, france, europe, shape-sphere]
 source: Passport to Magonia
 ---
 

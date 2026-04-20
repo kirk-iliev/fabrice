@@ -2,7 +2,7 @@
 title: "W082 — London and Dover, England: Three lights join as one"
 date: 15 July 1385
 location: "London and Dover, England"
-tags: ["case", "wonders-in-the-sky", "london-and-dover", "england"]
+tags: ["case", "wonders-in-the-sky", "london-and-dover", "england", "shape-fireball", "time-dusk"]
 source: Wonders in the Sky
 ---
 

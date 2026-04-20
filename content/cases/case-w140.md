@@ -2,7 +2,7 @@
 title: "W140 — Lisbon, Portugal:: Flying red cylinders"
 date: 3 January 1551
 location: "Lisbon, Portugal:"
-tags: ["case", "wonders-in-the-sky", "lisbon", "portugal"]
+tags: ["case", "wonders-in-the-sky", "lisbon", "portugal", "shape-cylinder"]
 source: Wonders in the Sky
 ---
 

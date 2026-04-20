@@ -3,7 +3,7 @@ title: "Case 567 — Colonia Yerua (Argentina)"
 date: 1963-03-12
 location: "Colonia Yerua (Argentina)"
 country: "Argentina"
-tags: [case, CE1, argentina, south-america]
+tags: [case, CE1, argentina, south-america, shape-light, trace-evidence]
 source: Passport to Magonia
 ---
 

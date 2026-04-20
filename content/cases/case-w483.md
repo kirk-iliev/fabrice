@@ -2,7 +2,7 @@
 title: "W483 — Lindsey, England: Miracles from Heaven chase the Devil away"
 date: Circa 685
 location: "Lindsey, England"
-tags: ["case", "wonders-in-the-sky", "lindsey", "england"]
+tags: ["case", "wonders-in-the-sky", "lindsey", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

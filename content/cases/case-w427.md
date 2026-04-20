@@ -2,7 +2,7 @@
 title: "W427 — Chatham, England: A group of black disks"
 date: 4 December 1867
 location: "Chatham, England"
-tags: ["case", "wonders-in-the-sky", "chatham", "england"]
+tags: ["case", "wonders-in-the-sky", "chatham", "england", "shape-disk", "trace-evidence", "time-afternoon"]
 source: Wonders in the Sky
 ---
 

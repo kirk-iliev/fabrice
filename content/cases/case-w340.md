@@ -2,7 +2,7 @@
 title: "W340 — Brezeau, Holland: Strange globe absorbs water"
 date: 19 September 1810
 location: "Brezeau, Holland"
-tags: ["case", "wonders-in-the-sky", "brezeau", "holland"]
+tags: ["case", "wonders-in-the-sky", "brezeau", "holland", "shape-fireball", "time-dusk"]
 source: Wonders in the Sky
 ---
 

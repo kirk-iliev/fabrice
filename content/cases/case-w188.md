@@ -2,7 +2,7 @@
 title: "W188 — Yuan, Fengxian, Shansi province, China Flying star at funeral: A red, white, yellow and blue \"star\" flew over a funeral, circling the village for a long"
 date: April 1639
 location: "Yuan, Fengxian, Shansi province, China Flying star at funeral"
-tags: ["case", "wonders-in-the-sky", "yuan", "fengxian", "shansi-province", "china"]
+tags: ["case", "wonders-in-the-sky", "yuan", "fengxian", "shansi-province", "china", "shape-light", "time-day"]
 source: Wonders in the Sky
 ---
 

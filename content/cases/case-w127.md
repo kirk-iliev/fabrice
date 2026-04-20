@@ -2,7 +2,7 @@
 title: "W127 — Monte Stella, Brescia, Lombardy, Italy Apparition, with a message: Antonio de' Antoni, a poor deaf-mute shepherd of Gardone Val Trompia, was reciting the"
 date: 31 May 1536
 location: "Monte Stella, Brescia, Lombardy, Italy Apparition, with a message"
-tags: ["case", "wonders-in-the-sky", "monte-stella", "brescia", "lombardy", "italy", "with"]
+tags: ["case", "wonders-in-the-sky", "monte-stella", "brescia", "lombardy", "italy", "with", "shape-light", "entities-humanoid", "communication", "time-day"]
 source: Wonders in the Sky
 ---
 

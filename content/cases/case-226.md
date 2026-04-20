@@ -3,7 +3,7 @@ title: "Case 226 — Quarouble (France)"
 date: 1954-10-10
 location: "Quarouble (France)"
 country: "France"
-tags: [case, humanoid, landing, trace-evidence, CE3, france, europe]
+tags: [case, humanoid, landing, trace-evidence, CE3, france, europe, shape-disk, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

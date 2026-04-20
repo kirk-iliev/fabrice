@@ -2,7 +2,7 @@
 title: "W507 — Montreal, Quebec, Canada: The language of Heaven"
 date: 1663
 location: "Montreal, Quebec, Canada"
-tags: ["case", "wonders-in-the-sky", "montreal", "quebec", "canada"]
+tags: ["case", "wonders-in-the-sky", "montreal", "quebec", "canada", "shape-fireball", "time-morning"]
 source: Wonders in the Sky
 ---
 

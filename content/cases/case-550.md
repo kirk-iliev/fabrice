@@ -3,7 +3,7 @@ title: "Case 550 — Norwood (Australia)"
 date: 1962-10-28
 location: "Norwood (Australia)"
 country: "Australia"
-tags: [case, landing, CE2, australia, oceania]
+tags: [case, landing, CE2, australia, oceania, shape-oval, entities-humanoid]
 source: Passport to Magonia
 ---
 

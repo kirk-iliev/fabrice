@@ -3,7 +3,7 @@ title: "Case 717 — Cyrus (Minnesota)"
 date: 1965-11-16
 location: "Cyrus (Minnesota)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-cylinder, vehicle-interference]
 source: Passport to Magonia
 ---
 

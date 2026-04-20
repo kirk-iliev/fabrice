@@ -3,7 +3,7 @@ title: "Case 401 — Ubatuba (Brazil)"
 date: 1957-09-10
 location: "Ubatuba (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, CE3, brazil, south-america]
+tags: [case, humanoid, CE3, brazil, south-america, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

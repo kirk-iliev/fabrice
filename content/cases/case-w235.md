@@ -2,7 +2,7 @@
 title: "W235 — Gjov, Faeroe Islands: Luminous visitor"
 date: 20 January 1667
 location: "Gjov, Faeroe Islands"
-tags: ["case", "wonders-in-the-sky", "gjov", "faeroe-islands"]
+tags: ["case", "wonders-in-the-sky", "gjov", "faeroe-islands", "shape-light", "entities-humanoid", "communication", "time-night"]
 source: Wonders in the Sky
 ---
 

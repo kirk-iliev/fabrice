@@ -2,7 +2,7 @@
 title: "W144 — which I am told was seen as far as Marseille. Then it was also seen at nearby St.: Chamas by the sea, such that near the moon (which at that time was near its first quarter) a"
 date: 7 and 8
 location: "which I am told was seen as far as Marseille. Then it was also seen at nearby St."
-tags: ["case", "wonders-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

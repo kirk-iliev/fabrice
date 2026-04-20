@@ -2,7 +2,7 @@
 title: "W301 — Nuremberg, Germany: Unknown astronomical object"
 date: February 1762
 location: "Nuremberg, Germany"
-tags: ["case", "wonders-in-the-sky", "nuremberg", "germany"]
+tags: ["case", "wonders-in-the-sky", "nuremberg", "germany", "shape-sphere", "time-day"]
 source: Wonders in the Sky
 ---
 

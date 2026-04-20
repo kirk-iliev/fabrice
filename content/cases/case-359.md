@@ -3,7 +3,7 @@ title: "Case 359 — Melbourne (Australia)"
 date: 1955-01-03
 location: "Melbourne (Australia)"
 country: "Australia"
-tags: [case, CE1, australia, oceania]
+tags: [case, CE1, australia, oceania, vehicle-interference]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W039 — Drutsk and Polotsk, Ukraine: First reference to the Devil's Hunt"
 date: 1092
 location: "Drutsk and Polotsk, Ukraine"
-tags: ["case", "wonders-in-the-sky", "drutsk-and-polotsk", "ukraine"]
+tags: ["case", "wonders-in-the-sky", "drutsk-and-polotsk", "ukraine", "shape-circle", "entities-humanoid", "injury-or-burn"]
 source: Wonders in the Sky
 ---
 

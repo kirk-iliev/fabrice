@@ -2,7 +2,7 @@
 title: "W298 — unknown location: Planetoid orbiting Venus"
 date: 6 June 1761
 location: "unknown location"
-tags: ["case", "wonders-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W206 — Near Rome, Italy: Huge object drops strange matter"
 date: May 1652
 location: "Near Rome, Italy"
-tags: ["case", "wonders-in-the-sky", "rome", "italy"]
+tags: ["case", "wonders-in-the-sky", "rome", "italy", "shape-light", "trace-evidence"]
 source: Wonders in the Sky
 ---
 

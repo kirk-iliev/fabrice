@@ -3,7 +3,7 @@ title: "Case 381 — Henderson (North Carolina)"
 date: 1956-04-16
 location: "Henderson (North Carolina)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-cylinder, time-dawn]
 source: Passport to Magonia
 ---
 

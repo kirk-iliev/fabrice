@@ -3,7 +3,7 @@ title: "Case 287 — Livorno (Italy)"
 date: 1954-10-19
 location: "Livorno (Italy)"
 country: "Italy"
-tags: [case, humanoid, landing, CE3, italy, europe]
+tags: [case, humanoid, landing, CE3, italy, europe, shape-disk, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

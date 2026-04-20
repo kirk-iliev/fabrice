@@ -3,7 +3,7 @@ title: "Case 556 — Buenos Aires Airport (Argentina)"
 date: 1962-12-21
 location: "Buenos Aires Airport (Argentina)"
 country: "Argentina"
-tags: [case, CE1, argentina, south-america]
+tags: [case, CE1, argentina, south-america, shape-disk]
 source: Passport to Magonia
 ---
 

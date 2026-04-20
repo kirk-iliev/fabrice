@@ -2,7 +2,7 @@
 title: "W389 — La Salette, France: Brilliant light and apparition"
 date: 19 September 1846
 location: "La Salette, France"
-tags: ["case", "wonders-in-the-sky", "la-salette", "france"]
+tags: ["case", "wonders-in-the-sky", "la-salette", "france", "shape-light", "entities-humanoid", "communication", "time-day"]
 source: Wonders in the Sky
 ---
 

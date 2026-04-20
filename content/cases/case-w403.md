@@ -2,7 +2,7 @@
 title: "W403 — Cherbourg, France: Light, swinging motion"
 date: 15 January 1850
 location: "Cherbourg, France"
-tags: ["case", "wonders-in-the-sky", "cherbourg", "france"]
+tags: ["case", "wonders-in-the-sky", "cherbourg", "france", "shape-light", "time-dusk"]
 source: Wonders in the Sky
 ---
 

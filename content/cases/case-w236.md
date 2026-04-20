@@ -2,7 +2,7 @@
 title: "W236 — Mittelfischach, Germany: Sign of wonder"
 date: 15 November 1667
 location: "Mittelfischach, Germany"
-tags: ["case", "wonders-in-the-sky", "mittelfischach", "germany"]
+tags: ["case", "wonders-in-the-sky", "mittelfischach", "germany", "shape-multiple", "time-dawn"]
 source: Wonders in the Sky
 ---
 

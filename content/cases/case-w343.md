@@ -2,7 +2,7 @@
 title: "W343 — Portsmouth, Virginia, USA: A letter to Thomas Jefferson"
 date: 25 July 1813
 location: "Portsmouth, Virginia, USA"
-tags: ["case", "wonders-in-the-sky", "portsmouth", "virginia", "usa"]
+tags: ["case", "wonders-in-the-sky", "portsmouth", "virginia", "usa", "shape-fireball", "time-day"]
 source: Wonders in the Sky
 ---
 

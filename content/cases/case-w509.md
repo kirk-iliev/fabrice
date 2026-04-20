@@ -2,7 +2,7 @@
 title: "W509 — Florence, Tuscany, Italy: Fiery globe: An Italian magazine called Alata Quaderni (No. 1, Feb 1979), mentions an ancient sourer"
 date: 31 March 1676
 location: "Florence, Tuscany, Italy: Fiery globe"
-tags: ["case", "wonders-in-the-sky", "florence", "tuscany", "italy"]
+tags: ["case", "wonders-in-the-sky", "florence", "tuscany", "italy", "shape-fireball"]
 source: Wonders in the Sky
 ---
 

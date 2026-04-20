@@ -3,7 +3,7 @@ title: "Case 911 — Miramar (Argentina)"
 date: 1968-06-21
 location: "Miramar (Argentina)"
 country: "Argentina"
-tags: [case, trace-evidence, CE2, argentina, south-america]
+tags: [case, trace-evidence, CE2, argentina, south-america, shape-disk]
 source: Passport to Magonia
 ---
 

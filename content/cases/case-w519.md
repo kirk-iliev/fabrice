@@ -2,7 +2,7 @@
 title: "W519 — Alengon, France: Crashed UFO, the pilot escapes!"
 date: 17 July 1790
 location: "Alengon, France"
-tags: ["case", "wonders-in-the-sky", "alengon", "france"]
+tags: ["case", "wonders-in-the-sky", "alengon", "france", "shape-sphere", "entities-humanoid", "communication", "time-dawn"]
 source: Wonders in the Sky
 ---
 

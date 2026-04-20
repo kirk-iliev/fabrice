@@ -2,7 +2,7 @@
 title: "W042 — Germany: Prodigies herald the coming Crusade"
 date: Circa 1100
 location: "Germany"
-tags: ["case", "wonders-in-the-sky", "germany"]
+tags: ["case", "wonders-in-the-sky", "germany", "shape-multiple", "entities-humanoid", "communication", "time-day"]
 source: Wonders in the Sky
 ---
 

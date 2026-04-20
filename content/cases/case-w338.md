@@ -2,7 +2,7 @@
 title: "W338 — Meklong, Thailand: Silver entity: A missionary and physician, Dr. Jacob Hazlitt, reported that he saw a man in silver"
 date: August 1810
 location: "Meklong, Thailand: Silver entity"
-tags: ["case", "wonders-in-the-sky", "meklong", "thailand"]
+tags: ["case", "wonders-in-the-sky", "meklong", "thailand", "entities-humanoid", "abduction"]
 source: Wonders in the Sky
 ---
 

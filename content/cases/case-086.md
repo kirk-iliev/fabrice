@@ -3,7 +3,7 @@ title: "Case 086 — Peru (Nebraska)"
 date: 1951
 location: "Peru (Nebraska)"
 country: "United States"
-tags: [case, trace-evidence, CE2, united-states, north-america]
+tags: [case, trace-evidence, CE2, united-states, north-america, shape-cauldron, time-night]
 source: Passport to Magonia
 ---
 

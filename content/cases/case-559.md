@@ -3,7 +3,7 @@ title: "Case 559 — an, 28,1963 Shilton (Great Britain)"
 date: 1963
 location: "an, 28,1963 Shilton (Great Britain)"
 country: "Great Britain"
-tags: [case, CE1, great-britain, europe]
+tags: [case, CE1, great-britain, europe, trace-evidence]
 source: Passport to Magonia
 ---
 

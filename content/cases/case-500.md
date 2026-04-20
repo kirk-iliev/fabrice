@@ -3,7 +3,7 @@ title: "Case 500 — Oakdale (California)"
 date: 1959-12-22
 location: "Oakdale (California)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk]
 source: Passport to Magonia
 ---
 

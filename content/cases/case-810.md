@@ -3,7 +3,7 @@ title: "Case 810 — Freetown (Indiana)"
 date: 1967-01-17
 location: "Freetown (Indiana)"
 country: "United States"
-tags: [case, CE1, united-states, north-america]
+tags: [case, CE1, united-states, north-america, shape-disk, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

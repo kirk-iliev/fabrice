@@ -3,7 +3,7 @@ title: "Case 439 — Lake City (Missouri)"
 date: 1957-11-09
 location: "Lake City (Missouri)"
 country: "United States"
-tags: [case, vehicle-interference, CE2, united-states, north-america]
+tags: [case, vehicle-interference, CE2, united-states, north-america, shape-cigar, time-afternoon]
 source: Passport to Magonia
 ---
 

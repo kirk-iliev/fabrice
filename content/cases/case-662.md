@@ -3,7 +3,7 @@ title: "Case 662 — Carazinho (Brazil)"
 date: 1965-07-26
 location: "Carazinho (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, landing, CE3, brazil, south-america]
+tags: [case, humanoid, landing, CE3, brazil, south-america, shape-sphere, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

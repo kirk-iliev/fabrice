@@ -2,7 +2,7 @@
 title: "W059 — Mount Alverne, Italy: Mystical light, visitation"
 date: 14 September 1224
 location: "Mount Alverne, Italy"
-tags: ["case", "wonders-in-the-sky", "mount-alverne", "italy"]
+tags: ["case", "wonders-in-the-sky", "mount-alverne", "italy", "shape-light", "communication"]
 source: Wonders in the Sky
 ---
 

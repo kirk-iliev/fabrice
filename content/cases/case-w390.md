@@ -2,7 +2,7 @@
 title: "W390 — Rangoon River, China: Light beam and extreme heat"
 date: November 1846
 location: "Rangoon River, China"
-tags: ["case", "wonders-in-the-sky", "rangoon-river", "china"]
+tags: ["case", "wonders-in-the-sky", "rangoon-river", "china", "shape-fireball", "time-night"]
 source: Wonders in the Sky
 ---
 

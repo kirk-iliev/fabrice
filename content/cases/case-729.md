@@ -3,7 +3,7 @@ title: "Case 729 — Harrow (Canada)"
 date: 1966-03-17
 location: "Harrow (Canada)"
 country: "Canada"
-tags: [case, CE1, canada, north-america]
+tags: [case, CE1, canada, north-america, shape-cylinder]
 source: Passport to Magonia
 ---
 

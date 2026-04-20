@@ -3,7 +3,7 @@ title: "Case 262 — Boaria (Italy)"
 date: 1954-10-15
 location: "Boaria (Italy)"
 country: "Italy"
-tags: [case, trace-evidence, CE2, italy, europe]
+tags: [case, trace-evidence, CE2, italy, europe, injury-or-burn]
 source: Passport to Magonia
 ---
 

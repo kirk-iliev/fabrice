@@ -2,7 +2,7 @@
 title: "W332 — Geneva, New York, USA: Dark object crossing the lunar disk"
 date: 27 June 1806
 location: "Geneva, New York, USA"
-tags: ["case", "wonders-in-the-sky", "geneva", "new-york", "usa"]
+tags: ["case", "wonders-in-the-sky", "geneva", "new-york", "usa", "shape-cigar", "time-night"]
 source: Wonders in the Sky
 ---
 

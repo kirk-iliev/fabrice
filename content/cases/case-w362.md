@@ -2,7 +2,7 @@
 title: "W362 — Mount Wingen, Australia: Cigar-shaped object lands"
 date: March 1828
 location: "Mount Wingen, Australia"
-tags: ["case", "wonders-in-the-sky", "mount-wingen", "australia"]
+tags: ["case", "wonders-in-the-sky", "mount-wingen", "australia", "shape-cigar", "entities-humanoid", "multiple"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 460 — Conceicao Almeida (Brazil)"
 date: 1958-02-24
 location: "Conceicao Almeida (Brazil)"
 country: "Brazil"
-tags: [case, landing, vehicle-interference, CE2, brazil, south-america]
+tags: [case, landing, vehicle-interference, CE2, brazil, south-america, shape-sphere, time-night]
 source: Passport to Magonia
 ---
 

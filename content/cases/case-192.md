@@ -3,7 +3,7 @@ title: "Case 192 — Montceau-les-Mines (France)"
 date: 1954
 location: "Montceau-les-Mines (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-disk, time-morning]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 031 — Hot Springs (Arkansas)"
 date: 1897-05-06
 location: "Hot Springs (Arkansas)"
 country: "United States"
-tags: [case, humanoid, CE3, united-states, north-america]
+tags: [case, humanoid, CE3, united-states, north-america, shape-cigar, entities-humanoid, communication, time-night]
 source: Passport to Magonia
 ---
 

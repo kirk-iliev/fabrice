@@ -3,7 +3,7 @@ title: "Case 412 — Francisco de Sales (Brazil)"
 date: 1957-10-14
 location: "Francisco de Sales (Brazil)"
 country: "Brazil"
-tags: [case, CE1, brazil, south-america]
+tags: [case, CE1, brazil, south-america, shape-light, time-day]
 source: Passport to Magonia
 ---
 

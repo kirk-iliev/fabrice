@@ -2,7 +2,7 @@
 title: "W470 — Antioch (Antalaya), Syria: Amazing luminous cross"
 date: 353
 location: "Antioch (Antalaya), Syria"
-tags: ["case", "wonders-in-the-sky", "antioch", "syria"]
+tags: ["case", "wonders-in-the-sky", "antioch", "syria", "shape-cross"]
 source: Wonders in the Sky
 ---
 

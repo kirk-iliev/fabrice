@@ -3,7 +3,7 @@ title: "Case 039 — Hamburg (Germany)"
 date: 1914-06
 location: "Hamburg (Germany)"
 country: "Germany"
-tags: [case, humanoid, CE3, germany, europe]
+tags: [case, humanoid, CE3, germany, europe, shape-cigar, entities-humanoid]
 source: Passport to Magonia
 ---
 

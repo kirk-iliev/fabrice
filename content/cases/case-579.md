@@ -3,7 +3,7 @@ title: "Case 579 — Rome (Italy)"
 date: 1963-08-20
 location: "Rome (Italy)"
 country: "Italy"
-tags: [case, CE1, italy, europe]
+tags: [case, CE1, italy, europe, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

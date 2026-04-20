@@ -2,7 +2,7 @@
 title: "W347 — Worthing, England: Motionless light in the sky"
 date: 3 August 1818
 location: "Worthing, England"
-tags: ["case", "wonders-in-the-sky", "worthing", "england"]
+tags: ["case", "wonders-in-the-sky", "worthing", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

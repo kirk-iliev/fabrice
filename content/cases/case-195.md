@@ -3,7 +3,7 @@ title: "Case 195 — Roverbello (Italy)"
 date: 1954-10-05
 location: "Roverbello (Italy)"
 country: "Italy"
-tags: [case, humanoid, CE3, italy, europe]
+tags: [case, humanoid, CE3, italy, europe, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

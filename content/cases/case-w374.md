@@ -2,7 +2,7 @@
 title: "W374 — Buchholz, Germany: Unexplained objects"
 date: 1 November 1836
 location: "Buchholz, Germany"
-tags: ["case", "wonders-in-the-sky", "buchholz", "germany"]
+tags: ["case", "wonders-in-the-sky", "buchholz", "germany", "shape-multiple", "time-day"]
 source: Wonders in the Sky
 ---
 

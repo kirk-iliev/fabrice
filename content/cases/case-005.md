@@ -1,13 +1,13 @@
 ---
-title: "Case 005 — 1880 Eastern Venezuela"
+title: "Case 005 — Eastern Venezuela"
 date: 1880
-location: "1880 Eastern Venezuela"
+location: "Eastern Venezuela"
 country: "Venezuela"
-tags: [case, CE1, venezuela, south-america]
+tags: [case, CE1, venezuela, south-america, shape-fireball]
 source: Passport to Magonia
 ---
 
-## 1880 Eastern Venezuela — 1880
+## Eastern Venezuela — 1880
 
 A 14-year-old boy saw a luminous ball descending from the sky and hovering near him. He felt somehow "drawn" to it, but succeeded in backing away in spite of his terror. (Lor. Ill 206)
 

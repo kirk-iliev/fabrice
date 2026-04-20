@@ -2,7 +2,7 @@
 title: "W505 — a Spanish soldier suddenly appeared in the Main Square in Mexico City. He: belonged to a regimental unit stationed in Manila in the Philippines, some 9,000 miles"
 date: 1593
 location: "a Spanish soldier suddenly appeared in the Main Square in Mexico City. He"
-tags: ["case", "wonders-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "abduction", "time-night"]
 source: Wonders in the Sky
 ---
 

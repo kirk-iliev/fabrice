@@ -3,7 +3,7 @@ title: "Case 830 — Hanley (Great Britain)"
 date: 1967-03-31
 location: "Hanley (Great Britain)"
 country: "Great Britain"
-tags: [case, CE1, great-britain, europe]
+tags: [case, CE1, great-britain, europe, shape-multiple]
 source: Passport to Magonia
 ---
 

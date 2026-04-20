@@ -2,7 +2,7 @@
 title: "W226 — Eastberry, Berkshire, England: Dark objects"
 date: 29 June 1661
 location: "Eastberry, Berkshire, England"
-tags: ["case", "wonders-in-the-sky", "eastberry", "berkshire", "england"]
+tags: ["case", "wonders-in-the-sky", "eastberry", "berkshire", "england", "shape-multiple", "time-day"]
 source: Wonders in the Sky
 ---
 

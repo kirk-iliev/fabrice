@@ -2,7 +2,7 @@
 title: "W442 — Sheridan, Pennsylvania: Gliding light and human figure"
 date: About 12 January 1876
 location: "Sheridan, Pennsylvania"
-tags: ["case", "wonders-in-the-sky", "sheridan", "pennsylvania"]
+tags: ["case", "wonders-in-the-sky", "sheridan", "pennsylvania", "shape-light", "entities-humanoid", "animal-reaction", "time-night"]
 source: Wonders in the Sky
 ---
 

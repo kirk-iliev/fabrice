@@ -2,7 +2,7 @@
 title: "W446 — Bloomington, Indiana, USA: Five luminous objects in the sky, stationary"
 date: 7 September 1877
 location: "Bloomington, Indiana, USA"
-tags: ["case", "wonders-in-the-sky", "bloomington", "indiana", "usa"]
+tags: ["case", "wonders-in-the-sky", "bloomington", "indiana", "usa", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

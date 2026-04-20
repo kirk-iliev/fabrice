@@ -2,7 +2,7 @@
 title: "W432 — Ottumwa, Iowa: Astronomer's sighting"
 date: 7 August 1869
 location: "Ottumwa, Iowa"
-tags: ["case", "wonders-in-the-sky", "ottumwa", "iowa"]
+tags: ["case", "wonders-in-the-sky", "ottumwa", "iowa", "shape-light", "time-day"]
 source: Wonders in the Sky
 ---
 

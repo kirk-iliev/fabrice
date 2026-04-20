@@ -2,7 +2,7 @@
 title: "W449 — Edwardsville, Kansas, USA: Unknown light rushes down the train tracks"
 date: 30 July 1878
 location: "Edwardsville, Kansas, USA"
-tags: ["case", "wonders-in-the-sky", "edwardsville", "kansas", "usa"]
+tags: ["case", "wonders-in-the-sky", "edwardsville", "kansas", "usa", "shape-fireball", "vehicle-interference", "time-day"]
 source: Wonders in the Sky
 ---
 

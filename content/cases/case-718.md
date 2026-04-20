@@ -3,7 +3,7 @@ title: "Case 718 — Springhill (Nova Scotia)"
 date: 1965-11-29
 location: "Springhill (Nova Scotia)"
 country: "Canada"
-tags: [case, landing, trace-evidence, CE2, canada, north-america]
+tags: [case, landing, trace-evidence, CE2, canada, north-america, shape-disk, entities-humanoid, time-evening]
 source: Passport to Magonia
 ---
 

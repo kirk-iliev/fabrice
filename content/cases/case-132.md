@@ -3,7 +3,7 @@ title: "Case 132 — Ridgeway (Canada)"
 date: 1954-06-21
 location: "Ridgeway (Canada)"
 country: "Canada"
-tags: [case, CE1, canada, north-america]
+tags: [case, CE1, canada, north-america, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

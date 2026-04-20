@@ -3,7 +3,7 @@ title: "Case 675 — Cherry Creek (New York)"
 date: 1965-08-05
 location: "Cherry Creek (New York)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, trace-evidence]
 source: Passport to Magonia
 ---
 

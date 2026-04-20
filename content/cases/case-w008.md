@@ -2,7 +2,7 @@
 title: "W008 — Santiago de Compostela, Spain: Mysterious star CD"
 date: 813
 location: "Santiago de Compostela, Spain"
-tags: ["case", "wonders-in-the-sky", "santiago-de-compostela", "spain"]
+tags: ["case", "wonders-in-the-sky", "santiago-de-compostela", "spain", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

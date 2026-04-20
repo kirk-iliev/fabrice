@@ -3,7 +3,7 @@ title: "Case 215 — Dreux (France)"
 date: 1954-10-09
 location: "Dreux (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, shape-sphere]
 source: Passport to Magonia
 ---
 

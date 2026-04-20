@@ -2,7 +2,7 @@
 title: "W001 — Berecingum Convent, near London, England: Circling light"
 date: 675
 location: "Berecingum Convent, near London, England"
-tags: ["case", "wonders-in-the-sky", "berecingum-convent", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "berecingum-convent", "london", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 

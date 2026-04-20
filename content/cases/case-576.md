@@ -3,7 +3,7 @@ title: "Case 576 — Centralia (Illinois)"
 date: 1963-08-01
 location: "Centralia (Illinois)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-light, time-night]
 source: Passport to Magonia
 ---
 

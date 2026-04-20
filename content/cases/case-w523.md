@@ -2,7 +2,7 @@
 title: "W523 — Manchester, New York, USA: Two glorious entities"
 date: Early spring 1820
 location: "Manchester, New York, USA"
-tags: ["case", "wonders-in-the-sky", "manchester", "new-york", "usa"]
+tags: ["case", "wonders-in-the-sky", "manchester", "new-york", "usa", "shape-light", "entities-humanoid", "communication", "time-morning"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 743 — Vicksburg (Michigan)"
 date: 1966-03-31
 location: "Vicksburg (Michigan)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-disk, vehicle-interference, time-night]
 source: Passport to Magonia
 ---
 

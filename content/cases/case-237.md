@@ -3,7 +3,7 @@ title: "Case 237 — Lavarande (Algeria)"
 date: 1954-10-11
 location: "Lavarande (Algeria)"
 country: "Algeria"
-tags: [case, CE1, algeria, africa]
+tags: [case, CE1, algeria, africa, shape-disk, vehicle-interference]
 source: Passport to Magonia
 ---
 

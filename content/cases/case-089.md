@@ -3,7 +3,7 @@ title: "Case 089 — Kiirly 1952 Goose Bay (Labrador)"
 date: 1952
 location: "Kiirly 1952 Goose Bay (Labrador)"
 country: "Canada"
-tags: [case, humanoid, CE3, canada, north-america]
+tags: [case, humanoid, CE3, canada, north-america, shape-sphere, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

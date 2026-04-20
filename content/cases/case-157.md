@@ -3,7 +3,7 @@ title: "Case 157 — Koussignargues (France)"
 date: 1954-09-27
 location: "Koussignargues (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, trace-evidence, time-dusk]
 source: Passport to Magonia
 ---
 

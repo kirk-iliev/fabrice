@@ -3,7 +3,7 @@ title: "Case 632 — Brands Flat (Virginia)"
 date: 1965-01-19
 location: "Brands Flat (Virginia)"
 country: "United States"
-tags: [case, humanoid, landing, CE3, united-states, north-america]
+tags: [case, humanoid, landing, CE3, united-states, north-america, shape-disk, entities-humanoid, communication, time-day]
 source: Passport to Magonia
 ---
 

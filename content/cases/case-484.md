@@ -3,7 +3,7 @@ title: "Case 484 — Purnong (Australia)"
 date: 1959-03-13
 location: "Purnong (Australia)"
 country: "Australia"
-tags: [case, humanoid, CE3, australia, oceania]
+tags: [case, humanoid, CE3, australia, oceania, shape-dome]
 source: Passport to Magonia
 ---
 

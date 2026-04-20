@@ -2,7 +2,7 @@
 title: "W057 — London, England: Bright white ball of light, hovering"
 date: June 1193
 location: "London, England"
-tags: ["case", "wonders-in-the-sky", "london", "england"]
+tags: ["case", "wonders-in-the-sky", "london", "england", "shape-cloud", "time-day"]
 source: Wonders in the Sky
 ---
 

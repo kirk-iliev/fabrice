@@ -2,7 +2,7 @@
 title: "W318 — Gottingen, Germany: Object in front of the sun"
 date: 12 November 1791
 location: "Gottingen, Germany"
-tags: ["case", "wonders-in-the-sky", "gottingen", "germany"]
+tags: ["case", "wonders-in-the-sky", "gottingen", "germany", "shape-disk", "time-day"]
 source: Wonders in the Sky
 ---
 

@@ -3,7 +3,7 @@ title: "Case 338 — Curitiba (Brazil)"
 date: 1954-11-13
 location: "Curitiba (Brazil)"
 country: "Brazil"
-tags: [case, humanoid, CE3, brazil, south-america]
+tags: [case, humanoid, CE3, brazil, south-america, shape-disk, entities-humanoid, physical-contact, time-night]
 source: Passport to Magonia
 ---
 

@@ -2,7 +2,7 @@
 title: "W133 — Near Rome, Italy: Strange objects fly over"
 date: 13 November 1547
 location: "Near Rome, Italy"
-tags: ["case", "wonders-in-the-sky", "rome", "italy"]
+tags: ["case", "wonders-in-the-sky", "rome", "italy", "shape-cross", "time-afternoon"]
 source: Wonders in the Sky
 ---
 

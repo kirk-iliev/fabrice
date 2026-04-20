@@ -3,7 +3,7 @@ title: "Case 128 — San Nicholas Island (California)"
 date: 1954-04-22
 location: "San Nicholas Island (California)"
 country: "United States"
-tags: [case, landing, CE2, united-states, north-america]
+tags: [case, landing, CE2, united-states, north-america, shape-cigar, trace-evidence]
 source: Passport to Magonia
 ---
 

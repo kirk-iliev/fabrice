@@ -3,7 +3,7 @@ title: "Case 356 — Valencia (Venezuela)"
 date: 1954-12-19
 location: "Valencia (Venezuela)"
 country: "Venezuela"
-tags: [case, humanoid, CE3, venezuela, south-america]
+tags: [case, humanoid, CE3, venezuela, south-america, shape-disk, entities-humanoid, physical-contact]
 source: Passport to Magonia
 ---
 

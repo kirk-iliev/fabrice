@@ -3,7 +3,7 @@ title: "Case 193 — Villers-le-Tilleul (France)"
 date: 1954-10-04
 location: "Villers-le-Tilleul (France)"
 country: "France"
-tags: [case, CE1, france, europe]
+tags: [case, CE1, france, europe, entities-humanoid]
 source: Passport to Magonia
 ---
 

@@ -3,7 +3,7 @@ title: "Case 610 — June 5;1964 Pajasblancas (Argentina)"
 date: 1964
 location: "June 5;1964 Pajasblancas (Argentina)"
 country: "Argentina"
-tags: [case, humanoid, landing, CE3, argentina, south-america]
+tags: [case, humanoid, landing, CE3, argentina, south-america, shape-light, entities-humanoid, communication]
 source: Passport to Magonia
 ---
 

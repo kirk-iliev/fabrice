@@ -2,7 +2,7 @@
 title: "W262 — Mecklenburg & Hamburg, Germany: Two wheels in the sky"
 date: 4 November 1697
 location: "Mecklenburg & Hamburg, Germany"
-tags: ["case", "wonders-in-the-sky", "mecklenburg-hamburg", "germany"]
+tags: ["case", "wonders-in-the-sky", "mecklenburg-hamburg", "germany", "shape-multiple", "time-dusk"]
 source: Wonders in the Sky
 ---
 

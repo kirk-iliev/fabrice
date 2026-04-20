@@ -2,7 +2,7 @@
 title: "W244 — Japan, exact location unknown: Fast flying \"dark cloud\""
 date: 1674
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan"]
+tags: ["case", "wonders-in-the-sky", "japan", "shape-cloud"]
 source: Wonders in the Sky
 ---
 

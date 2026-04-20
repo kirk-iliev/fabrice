@@ -2,7 +2,7 @@
 title: "W162 — Straits of Magellan: Red, fiery flying shield"
 date: 7 February 1580
 location: "Straits of Magellan"
-tags: ["case", "wonders-in-the-sky", "straits-of-magellan"]
+tags: ["case", "wonders-in-the-sky", "straits-of-magellan", "shape-disk", "time-night"]
 source: Wonders in the Sky
 ---
 

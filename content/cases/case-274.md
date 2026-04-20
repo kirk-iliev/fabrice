@@ -3,7 +3,7 @@ title: "Case 274 — Baillolet (France)"
 date: 1954-10-16
 location: "Baillolet (France)"
 country: "France"
-tags: [case, humanoid, vehicle-interference, CE3, france, europe]
+tags: [case, humanoid, vehicle-interference, CE3, france, europe, shape-multiple, entities-humanoid, time-dusk]
 source: Passport to Magonia
 ---
 

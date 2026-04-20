@@ -2,7 +2,7 @@
 title: "W118 — Moldavia, Romania: An object resembling a face"
 date: 8 November 1517
 location: "Moldavia, Romania"
-tags: ["case", "wonders-in-the-sky", "moldavia", "romania"]
+tags: ["case", "wonders-in-the-sky", "moldavia", "romania", "shape-light", "entities-humanoid"]
 source: Wonders in the Sky
 ---
 

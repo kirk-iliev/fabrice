@@ -2,7 +2,7 @@
 title: "W311 — Waltham Abbey, Hertfordshire, England: Light ball"
 date: 8 May 1775
 location: "Waltham Abbey, Hertfordshire, England"
-tags: ["case", "wonders-in-the-sky", "waltham-abbey", "hertfordshire", "england"]
+tags: ["case", "wonders-in-the-sky", "waltham-abbey", "hertfordshire", "england", "shape-light", "time-night"]
 source: Wonders in the Sky
 ---
 
