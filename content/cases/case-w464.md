@@ -2,7 +2,7 @@
 title: "W464 — China: A \"Guest Star\" hovers over the land: The Han Shu, composed in 100 AD, reports that a \"guest star\" was observed during \"first"
 date: 68 BC
 location: "China: A \"Guest Star\" hovers over the land"
-tags: ["case", "wonders-in-the-sky", "china-a-guest-star-hovers-over-the-land"]
+tags: ["case", "wonders-in-the-sky", "china"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W002 — Ireland, location unknown: Three flying shields"
 date: Circa May 698
 location: "Ireland, location unknown"
-tags: ["case", "wonders-in-the-sky", "ireland", "location-unknown"]
+tags: ["case", "wonders-in-the-sky", "ireland"]
 source: Wonders in the Sky
 ---
 

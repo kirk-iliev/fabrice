@@ -2,7 +2,7 @@
 title: "W234 — Tokyo (Edo), Japan: Flying figure: A mysterious light \"20 feet long\" shaped like a man flew towards the East. This is another"
 date: 26 May 1666
 location: "Tokyo (Edo), Japan: Flying figure"
-tags: ["case", "wonders-in-the-sky", "tokyo", "japan-flying-figure"]
+tags: ["case", "wonders-in-the-sky", "tokyo", "japan"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W297 — France: Planetoid orbiting Venus: Prominent French astronomer J. L. Lagrange observed an object that seemed to be in orbit"
 date: 7 May 1761
 location: "France: Planetoid orbiting Venus"
-tags: ["case", "wonders-in-the-sky", "france-planetoid-orbiting-venus"]
+tags: ["case", "wonders-in-the-sky", "france"]
 source: Wonders in the Sky
 ---
 

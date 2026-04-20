@@ -2,7 +2,7 @@
 title: "W126 — Peru: Another mysterious \"non-comet\""
 date: August 1533
 location: "Peru: Another mysterious \"non-comet\""
-tags: ["case", "wonders-in-the-sky", "peru-another-mysterious-non-comet"]
+tags: ["case", "wonders-in-the-sky", "peru"]
 source: Wonders in the Sky
 ---
 

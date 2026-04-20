@@ -17,17 +17,36 @@ DATE_LOC_RE = re.compile(f"^({prefix}{day}{month}{year}),\\s+(.*)$", re.IGNORECA
 
 def extract_location_tags(location_str):
     tags = []
+    # Strip anything after a colon, dash, or em-dash to remove trailing descriptions
+    location_str = re.split(r'[:\-—]', location_str)[0]
+    
     # Split by comma to get geographic levels (e.g., City, Region, Country)
     parts = [p.strip() for p in location_str.split(',')]
     for part in parts:
-        # Clean up prefixes like 'near '
-        part = re.sub(r'^(near|outside|above|over|around)\s+', '', part, flags=re.IGNORECASE)
+        # Clean up prefixes
+        part = re.sub(r'^(near|outside|above|over|around|between|the)\s+', '', part, flags=re.IGNORECASE)
         # Remove anything in parentheses like '(Istanbul)'
         part = re.sub(r'\(.*?\)', '', part).strip()
+        
+        # Split on common OCR miss-merges
+        part = re.split(r'\s+(apparition|hovering|flying|disk|intruder|watering|object|meteor|light|wonders|a\s|circles|angel|three|unexplained)', part, flags=re.IGNORECASE)[0]
+        
+        # Filter out common "unknown" phrases and months
+        months = ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+        if part.lower() in ["location unknown", "exact location unknown", "unknown location", "unknown", "somewhere", "unspecified", "students", "with a message", "melted metal"] + months:
+            continue
+            
         if part:
             # Lowercase, replace non-alphanumeric with hyphens
             tag = re.sub(r'[^a-z0-9]+', '-', part.lower()).strip('-')
-            if tag and tag not in tags:
+            
+            # Reject tags that contain numbers (likely dates/pages)
+            if any(char.isdigit() for char in tag):
+                continue
+            
+            # Robustness heuristic: A geographic tag shouldn't be a full sentence.
+            # Reject if it has more than 2 hyphens (3 words) or is longer than 25 chars.
+            if tag and tag.count('-') < 3 and len(tag) <= 25 and tag not in tags:
                 tags.append(tag)
     return tags
 

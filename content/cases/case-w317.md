@@ -2,7 +2,7 @@
 title: "W317 — Zamora, Spain: Two large flying globes: A letter from an Irish clergyman at the University of Zamora mentions that between 4 and"
 date: 12 June 1788
 location: "Zamora, Spain: Two large flying globes"
-tags: ["case", "wonders-in-the-sky", "zamora", "spain-two-large-flying-globes"]
+tags: ["case", "wonders-in-the-sky", "zamora", "spain"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W492 — Britain: Death of a sky visitor: But where is the Alien body?"
 date: 1211
 location: "Britain: Death of a sky visitor"
-tags: ["case", "wonders-in-the-sky", "britain-death-of-a-sky-visitor"]
+tags: ["case", "wonders-in-the-sky", "britain"]
 source: Wonders in the Sky
 ---
 

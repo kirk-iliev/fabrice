@@ -2,7 +2,7 @@
 title: "W024 — Japan, exact location unknown: Three bright objects meet in the sky"
 date: 3 August 989
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

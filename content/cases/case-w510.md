@@ -2,7 +2,7 @@
 title: "W510 — Hatfield, Yorkshire, England: Fearful unknowns: Objects turning in the sky, frightening men and cattle. One destroyed some trees, fell into"
 date: 1685
 location: "Hatfield, Yorkshire, England: Fearful unknowns"
-tags: ["case", "wonders-in-the-sky", "hatfield", "yorkshire", "england-fearful-unknowns"]
+tags: ["case", "wonders-in-the-sky", "hatfield", "yorkshire", "england"]
 source: Wonders in the Sky
 ---
 

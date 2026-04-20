@@ -2,7 +2,7 @@
 title: "W171 — between Angouleme and Cognac, France: Flying warriors"
 date: 1608
 location: "between Angouleme and Cognac, France"
-tags: ["case", "wonders-in-the-sky", "between-angouleme-and-cognac", "france"]
+tags: ["case", "wonders-in-the-sky", "angouleme-and-cognac", "france"]
 source: Wonders in the Sky
 ---
 

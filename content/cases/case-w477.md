@@ -2,7 +2,7 @@
 title: "W477 — Medina, Saudi Arabia Angel apparition to Islam's prophet"
 date: 610
 location: "Medina, Saudi Arabia Angel apparition to Islam's prophet"
-tags: ["case", "wonders-in-the-sky", "medina", "saudi-arabia-angel-apparition-to-islam-s-prophet"]
+tags: ["case", "wonders-in-the-sky", "medina", "saudi-arabia"]
 source: Wonders in the Sky
 ---
 

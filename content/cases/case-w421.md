@@ -2,7 +2,7 @@
 title: "W421 — Nebraska City, USA Three unexplained objects in apparent: formation"
 date: 24 September 1860
 location: "Nebraska City, USA Three unexplained objects in apparent"
-tags: ["case", "wonders-in-the-sky", "nebraska-city", "usa-three-unexplained-objects-in-apparent"]
+tags: ["case", "wonders-in-the-sky", "nebraska-city", "usa"]
 source: Wonders in the Sky
 ---
 

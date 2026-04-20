@@ -2,7 +2,7 @@
 title: "W345 — Lanuejols, France: Large disk: At 6:25 P.M. three travelers who had just visited the roman monument near Lanuejols and"
 date: 25 September 1817
 location: "Lanuejols, France: Large disk"
-tags: ["case", "wonders-in-the-sky", "lanuejols", "france-large-disk"]
+tags: ["case", "wonders-in-the-sky", "lanuejols", "france"]
 source: Wonders in the Sky
 ---
 

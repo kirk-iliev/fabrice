@@ -2,7 +2,7 @@
 title: "W022 — Japan, exact location unknown: Triangular formation"
 date: 9 September 967
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W102 — Japan, location unknown: Object, unknown substance CD"
 date: 27 September 1477
 location: "Japan, location unknown"
-tags: ["case", "wonders-in-the-sky", "japan", "location-unknown"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

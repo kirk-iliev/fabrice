@@ -2,7 +2,7 @@
 title: "W208 — Leicester and Nottinghamshire, England: Flying coffin"
 date: 1659
 location: "Leicester and Nottinghamshire, England"
-tags: ["case", "wonders-in-the-sky", "leicester-and-nottinghamshire", "england"]
+tags: ["case", "wonders-in-the-sky", "england"]
 source: Wonders in the Sky
 ---
 

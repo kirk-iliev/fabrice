@@ -2,7 +2,7 @@
 title: "W069 — China, location unknown: Strange event seen at dawn"
 date: 3 June 1277
 location: "China, location unknown"
-tags: ["case", "wonders-in-the-sky", "china", "location-unknown"]
+tags: ["case", "wonders-in-the-sky", "china"]
 source: Wonders in the Sky
 ---
 

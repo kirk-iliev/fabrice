@@ -2,7 +2,7 @@
 title: "W040 — Japan, exact location unknown: A necklace of ten lights in the sky CD"
 date: July 1096
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

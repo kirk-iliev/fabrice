@@ -2,7 +2,7 @@
 title: "W038 — Estella, Navarra, Spain: A great star, and the Holy Virgin: Estella, in Navarra, is another place named after an unusual aerial sighting. The Virgin"
 date: July 1085
 location: "Estella, Navarra, Spain: A great star, and the Holy Virgin"
-tags: ["case", "wonders-in-the-sky", "estella", "navarra", "spain-a-great-star", "and-the-holy-virgin"]
+tags: ["case", "wonders-in-the-sky", "estella", "navarra", "spain"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W019 — Bulgaria: The Jinni in the red clouds: In July 921 the ambassador Susan ar-Rassi headed a mission that left Baghdad for Vulga"
 date: 12 May 922
 location: "Bulgaria: The Jinni in the red clouds"
-tags: ["case", "wonders-in-the-sky", "bulgaria-the-jinni-in-the-red-clouds"]
+tags: ["case", "wonders-in-the-sky", "bulgaria"]
 source: Wonders in the Sky
 ---
 

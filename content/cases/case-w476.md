@@ -2,7 +2,7 @@
 title: "W476 — France, exact location unknown: Domes in the sky"
 date: September 585
 location: "France, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "france", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "france"]
 source: Wonders in the Sky
 ---
 

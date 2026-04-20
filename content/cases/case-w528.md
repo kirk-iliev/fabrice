@@ -2,7 +2,7 @@
 title: "W528 — Frankfurt am Main, 1672. [Goethe Universitatsbibliothek Frankfurt-am-Main, coll.: Gustav Freytag, Einblattdr. G.Fr.121."
 date: 1671
 location: "Frankfurt am Main, 1672. [Goethe Universitatsbibliothek Frankfurt-am-Main, coll."
-tags: ["case", "wonders-in-the-sky", "frankfurt-am-main", "1672-goethe-universitatsbibliothek-frankfurt-am-main", "coll"]
+tags: ["case", "wonders-in-the-sky", "frankfurt-am-main"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W077 — Japan, exact location unknown: Two shining objects clash"
 date: 20 July 1349
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

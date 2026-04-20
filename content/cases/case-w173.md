@@ -2,7 +2,7 @@
 title: "W173 — Genoa harbour, Italy Three coaches drawn by fiery creatures"
 date: 15 August 1608
 location: "Genoa harbour, Italy Three coaches drawn by fiery creatures"
-tags: ["case", "wonders-in-the-sky", "genoa-harbour", "italy-three-coaches-drawn-by-fiery-creatures"]
+tags: ["case", "wonders-in-the-sky", "genoa-harbour", "italy"]
 source: Wonders in the Sky
 ---
 

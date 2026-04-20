@@ -2,7 +2,7 @@
 title: "W175 — Switzerland: Battling sky armies"
 date: 3 July 1612
 location: "Switzerland: Battling sky armies"
-tags: ["case", "wonders-in-the-sky", "switzerland-battling-sky-armies"]
+tags: ["case", "wonders-in-the-sky", "switzerland"]
 source: Wonders in the Sky
 ---
 

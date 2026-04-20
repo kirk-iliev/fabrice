@@ -2,7 +2,7 @@
 title: "W515 — Castel Nuovo, Italy A light follows Casanova: Casanova saw a \"pyramid-shaped flame\" 50 cm high, 1.2 m above ground, 3 meters away."
 date: 31 August 1743
 location: "Castel Nuovo, Italy A light follows Casanova"
-tags: ["case", "wonders-in-the-sky", "castel-nuovo", "italy-a-light-follows-casanova"]
+tags: ["case", "wonders-in-the-sky", "castel-nuovo", "italy"]
 source: Wonders in the Sky
 ---
 

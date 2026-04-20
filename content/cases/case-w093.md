@@ -2,7 +2,7 @@
 title: "W093 — Nice, France: Luminous globe"
 date: 5 January 1433
 location: "Nice, France: Luminous globe"
-tags: ["case", "wonders-in-the-sky", "nice", "france-luminous-globe"]
+tags: ["case", "wonders-in-the-sky", "nice", "france"]
 source: Wonders in the Sky
 ---
 

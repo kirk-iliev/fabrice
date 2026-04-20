@@ -2,7 +2,7 @@
 title: "W529 — Aubeck cofounded a remarkable collaborative network of librarians, students,: and scholars of paranormal history on the Internet. This group, known as the Magoniax"
 date: In 2003
 location: "Aubeck cofounded a remarkable collaborative network of librarians, students,"
-tags: ["case", "wonders-in-the-sky", "aubeck-cofounded-a-remarkable-collaborative-network-of-librarians", "students"]
+tags: ["case", "wonders-in-the-sky", "aubeck-cofounded"]
 source: Wonders in the Sky
 ---
 

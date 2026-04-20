@@ -2,7 +2,7 @@
 title: "W122 — Cuenca, Spain: Contact with a flying Alien"
 date: 1521
 location: "Cuenca, Spain: Contact with a flying Alien"
-tags: ["case", "wonders-in-the-sky", "cuenca", "spain-contact-with-a-flying-alien"]
+tags: ["case", "wonders-in-the-sky", "cuenca", "spain"]
 source: Wonders in the Sky
 ---
 

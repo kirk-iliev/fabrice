@@ -2,7 +2,7 @@
 title: "W281 — London, England: Unexplained light: Dr. John Bevis observed an unknown light in the sky. It remained stationary for one hour."
 date: 17 March 1735
 location: "London, England: Unexplained light"
-tags: ["case", "wonders-in-the-sky", "london", "england-unexplained-light"]
+tags: ["case", "wonders-in-the-sky", "london", "england"]
 source: Wonders in the Sky
 ---
 

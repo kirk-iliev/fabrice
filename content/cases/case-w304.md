@@ -2,7 +2,7 @@
 title: "W304 — unknown location: Mystery satellite of planet Venus"
 date: 4 March 1764
 location: "unknown location"
-tags: ["case", "wonders-in-the-sky", "unknown-location"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

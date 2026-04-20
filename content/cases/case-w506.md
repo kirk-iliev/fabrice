@@ -2,7 +2,7 @@
 title: "W506 — Chaldan Monastery, Tibet Flying double hat: This case was mentioned by researcher W. Raymond Drake in 1975, based on the diary of"
 date: November 1661
 location: "Chaldan Monastery, Tibet Flying double hat"
-tags: ["case", "wonders-in-the-sky", "chaldan-monastery", "tibet-flying-double-hat"]
+tags: ["case", "wonders-in-the-sky", "chaldan-monastery", "tibet"]
 source: Wonders in the Sky
 ---
 

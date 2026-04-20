@@ -2,7 +2,7 @@
 title: "W061 — Japan: circling lights in the sky: About 8 P.M., by clear sky, a fortune teller named Suketoshi Abe, consultant to Shogun"
 date: 2 October 1235
 location: "Japan: circling lights in the sky"
-tags: ["case", "wonders-in-the-sky", "japan-circling-lights-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W191 — Aragon, Spain: Apparitions: Domingo Sanchez, gardener at the Monastery of Maria de Aragon, who was sworn to"
 date: 13 April 1641
 location: "Aragon, Spain: Apparitions"
-tags: ["case", "wonders-in-the-sky", "aragon", "spain-apparitions"]
+tags: ["case", "wonders-in-the-sky", "aragon", "spain"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W015 — Japan, exact location unknown: Stellar maneuvers"
 date: 3 September 881
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

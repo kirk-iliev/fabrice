@@ -2,7 +2,7 @@
 title: "W313 — Bussieres, France: Flaming dragon: About 6 P.M. a flaming \"dragon\" was seen in the sky for 15 minutes, illuminating"
 date: 5 February 1780
 location: "Bussieres, France: Flaming dragon"
-tags: ["case", "wonders-in-the-sky", "bussieres", "france-flaming-dragon"]
+tags: ["case", "wonders-in-the-sky", "bussieres", "france"]
 source: Wonders in the Sky
 ---
 

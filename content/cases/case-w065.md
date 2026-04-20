@@ -2,7 +2,7 @@
 title: "W065 — Padua, Italy: Flying light, seen for an hour"
 date: 1252
 location: "Padua, Italy: Flying light, seen for an hour"
-tags: ["case", "wonders-in-the-sky", "padua", "italy-flying-light", "seen-for-an-hour"]
+tags: ["case", "wonders-in-the-sky", "padua", "italy"]
 source: Wonders in the Sky
 ---
 

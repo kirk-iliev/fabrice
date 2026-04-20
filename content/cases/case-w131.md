@@ -2,7 +2,7 @@
 title: "W131 — Caranza near La Spezia, Italy: Disk changes color: A manuscript by the chronicler, Father Antonio Cesena, found in the public library at La"
 date: 1546
 location: "Caranza near La Spezia, Italy: Disk changes color"
-tags: ["case", "wonders-in-the-sky", "caranza-near-la-spezia", "italy-disk-changes-color"]
+tags: ["case", "wonders-in-the-sky", "italy"]
 source: Wonders in the Sky
 ---
 

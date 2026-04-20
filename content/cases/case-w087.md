@@ -2,7 +2,7 @@
 title: "W087 — Forli, Italy: Huge celestial object: At the second hour of the night, men walking in the main square of Forli saw an enormous"
 date: 2 September 1394
 location: "Forli, Italy: Huge celestial object"
-tags: ["case", "wonders-in-the-sky", "forli", "italy-huge-celestial-object"]
+tags: ["case", "wonders-in-the-sky", "forli", "italy"]
 source: Wonders in the Sky
 ---
 

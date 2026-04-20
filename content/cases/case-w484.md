@@ -2,7 +2,7 @@
 title: "W484 — Cordoba, Spain: Three suns, a sickle of fire: \"In the nones of April, on Sunday during the first, second and almost the third hours, all"
 date: April 750
 location: "Cordoba, Spain: Three suns, a sickle of fire"
-tags: ["case", "wonders-in-the-sky", "cordoba", "spain-three-suns", "a-sickle-of-fire"]
+tags: ["case", "wonders-in-the-sky", "cordoba", "spain"]
 source: Wonders in the Sky
 ---
 

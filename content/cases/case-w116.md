@@ -2,7 +2,7 @@
 title: "W116 — Villefranche-du-Rouergue Vehicle interference: Light beings free up: a chariot"
 date: 19 March 1509
 location: "Villefranche-du-Rouergue Vehicle interference: Light beings free up"
-tags: ["case", "wonders-in-the-sky", "villefranche-du-rouergue-vehicle-interference-light-beings-free-up"]
+tags: ["case", "wonders-in-the-sky", "villefranche"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W050 — China, location unknown: Wheels fall off as two dragons fly away"
 date: 1169
 location: "China, location unknown"
-tags: ["case", "wonders-in-the-sky", "china", "location-unknown"]
+tags: ["case", "wonders-in-the-sky", "china"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W466 — Galilee: The Star of Bethlehem"
 date: Circa 5 BC
 location: "Galilee: The Star of Bethlehem"
-tags: ["case", "wonders-in-the-sky", "galilee-the-star-of-bethlehem"]
+tags: ["case", "wonders-in-the-sky", "galilee"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W027 — Abbey of Saint-Leger, Cote d'Or, France: Bedroom visitation"
 date: Circa 999
 location: "Abbey of Saint-Leger, Cote d'Or, France"
-tags: ["case", "wonders-in-the-sky", "abbey-of-saint-leger", "cote-d-or", "france"]
+tags: ["case", "wonders-in-the-sky", "abbey-of-saint"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W482 — Faremoutiers-en-Brie, France: A Virtuous Virgin is taken to Heaven"
 date: 640
 location: "Faremoutiers-en-Brie, France"
-tags: ["case", "wonders-in-the-sky", "faremoutiers-en-brie", "france"]
+tags: ["case", "wonders-in-the-sky", "faremoutiers"]
 source: Wonders in the Sky
 ---
 

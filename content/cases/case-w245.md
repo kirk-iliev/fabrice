@@ -2,7 +2,7 @@
 title: "W245 — London, England: Bedroom visitation: In a diary entry, spiritual writer Jane Lead describes a visit from three mysterious figures."
 date: 23 May 1676
 location: "London, England: Bedroom visitation"
-tags: ["case", "wonders-in-the-sky", "london", "england-bedroom-visitation"]
+tags: ["case", "wonders-in-the-sky", "london", "england"]
 source: Wonders in the Sky
 ---
 

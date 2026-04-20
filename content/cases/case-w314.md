@@ -2,7 +2,7 @@
 title: "W314 — Japan, location unknown: Low-flyers"
 date: March 1783
 location: "Japan, location unknown: Low-flyers"
-tags: ["case", "wonders-in-the-sky", "japan", "location-unknown-low-flyers"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

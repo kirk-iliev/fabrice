@@ -2,7 +2,7 @@
 title: "W269 — Southern coast of England: Huge cylinder"
 date: 18 December 1707
 location: "Southern coast of England"
-tags: ["case", "wonders-in-the-sky", "southern-coast-of-england"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

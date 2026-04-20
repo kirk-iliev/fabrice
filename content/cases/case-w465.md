@@ -2,7 +2,7 @@
 title: "W465 — Roman Empire: Flashes of fire"
 date: 62 BC
 location: "Roman Empire: Flashes of fire"
-tags: ["case", "wonders-in-the-sky", "roman-empire-flashes-of-fire"]
+tags: ["case", "wonders-in-the-sky", "roman-empire"]
 source: Wonders in the Sky
 ---
 

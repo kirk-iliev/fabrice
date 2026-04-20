@@ -2,7 +2,7 @@
 title: "W266 — Japan, exact location unknown: Red residue from a sun-like object"
 date: September 1702
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

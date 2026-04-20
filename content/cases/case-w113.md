@@ -2,7 +2,7 @@
 title: "W113 — towns across Europe had the equipment.: For the purposes of our study, it is important to note that printing, which made an"
 date: in 1453
 location: "towns across Europe had the equipment."
-tags: ["case", "wonders-in-the-sky", "towns-across-europe-had-the-equipment"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

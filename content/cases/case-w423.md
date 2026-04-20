@@ -2,7 +2,7 @@
 title: "W423 — North Atlantic Ocean: Three luminous bodies"
 date: 1861
 location: "North Atlantic Ocean: Three luminous bodies"
-tags: ["case", "wonders-in-the-sky", "north-atlantic-ocean-three-luminous-bodies"]
+tags: ["case", "wonders-in-the-sky", "north-atlantic-ocean"]
 source: Wonders in the Sky
 ---
 

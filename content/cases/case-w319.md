@@ -2,7 +2,7 @@
 title: "W319 — England, exact location unknown: Opaque body"
 date: 19 January 1793
 location: "England, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "england", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "england"]
 source: Wonders in the Sky
 ---
 

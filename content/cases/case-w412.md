@@ -2,7 +2,7 @@
 title: "W412 — Bonn, Germany: Dark unknown body: A dark body was seen crossing the disk of the sun. It was reported by astronomers Ritter"
 date: 11 June 1855
 location: "Bonn, Germany: Dark unknown body"
-tags: ["case", "wonders-in-the-sky", "bonn", "germany-dark-unknown-body"]
+tags: ["case", "wonders-in-the-sky", "bonn", "germany"]
 source: Wonders in the Sky
 ---
 

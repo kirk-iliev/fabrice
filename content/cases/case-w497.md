@@ -2,7 +2,7 @@
 title: "W497 — Northern Ireland: A mass of fire in the air: On the night the bishop of all Northern Ireland died, \"the night was illumined from"
 date: 1173
 location: "Northern Ireland: A mass of fire in the air"
-tags: ["case", "wonders-in-the-sky", "northern-ireland-a-mass-of-fire-in-the-air"]
+tags: ["case", "wonders-in-the-sky", "northern-ireland"]
 source: Wonders in the Sky
 ---
 

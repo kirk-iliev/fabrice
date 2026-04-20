@@ -2,7 +2,7 @@
 title: "W160 — Paris, France: Flying intruder"
 date: 18 February 1579
 location: "Paris, France: Flying intruder"
-tags: ["case", "wonders-in-the-sky", "paris", "france-flying-intruder"]
+tags: ["case", "wonders-in-the-sky", "paris", "france"]
 source: Wonders in the Sky
 ---
 

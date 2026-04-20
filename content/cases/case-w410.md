@@ -2,7 +2,7 @@
 title: "W410 — unknown location: Multiple unknowns: A contributor named R. P. Greg reports that a friend of his saw an object equal in size to"
 date: 22 May 1854
 location: "unknown location: Multiple unknowns"
-tags: ["case", "wonders-in-the-sky", "unknown-location-multiple-unknowns"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

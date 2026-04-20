@@ -2,7 +2,7 @@
 title: "W326 — German astronomer Olbers had published a method for calculating the orbits: of comets, thus removing them from the realm of cosmic enigmas to treat them rationally"
 date: In 1797
 location: "German astronomer Olbers had published a method for calculating the orbits"
-tags: ["case", "wonders-in-the-sky", "german-astronomer-olbers-had-published-a-method-for-calculating-the-orbits"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

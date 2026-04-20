@@ -2,7 +2,7 @@
 title: "W166 — Scotland, location unknown: Tubular object"
 date: 1590
 location: "Scotland, location unknown"
-tags: ["case", "wonders-in-the-sky", "scotland", "location-unknown"]
+tags: ["case", "wonders-in-the-sky", "scotland"]
 source: Wonders in the Sky
 ---
 

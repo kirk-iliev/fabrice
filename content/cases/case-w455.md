@@ -2,7 +2,7 @@
 title: "W455 — 290."
 date: 1994
 location: "290."
-tags: ["case", "wonders-in-the-sky", "290"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

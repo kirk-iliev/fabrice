@@ -2,7 +2,7 @@
 title: "W416 — Jay, Ohio, USA: Silent vessel with passengers: Alerted by a sudden shadow over the place where they were standing, several witnesses"
 date: 1858
 location: "Jay, Ohio, USA: Silent vessel with passengers"
-tags: ["case", "wonders-in-the-sky", "jay", "ohio", "usa-silent-vessel-with-passengers"]
+tags: ["case", "wonders-in-the-sky", "jay", "ohio", "usa"]
 source: Wonders in the Sky
 ---
 

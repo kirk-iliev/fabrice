@@ -2,7 +2,7 @@
 title: "W114 — between Urbino and Gubbio, central Italy: Abortions caused by a horrible object in the sky"
 date: 1501
 location: "between Urbino and Gubbio, central Italy"
-tags: ["case", "wonders-in-the-sky", "between-urbino-and-gubbio", "central-italy"]
+tags: ["case", "wonders-in-the-sky", "urbino-and-gubbio", "central-italy"]
 source: Wonders in the Sky
 ---
 

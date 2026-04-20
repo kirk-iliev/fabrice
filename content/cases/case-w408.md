@@ -2,7 +2,7 @@
 title: "W408 — an observer named Graylord Wells, who was on the eastern slope of Talcot: Mountain saw an unidentified object:"
 date: 1851
 location: "an observer named Graylord Wells, who was on the eastern slope of Talcot"
-tags: ["case", "wonders-in-the-sky", "an-observer-named-graylord-wells", "who-was-on-the-eastern-slope-of-talcot"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

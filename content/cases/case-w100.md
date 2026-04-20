@@ -2,7 +2,7 @@
 title: "W100 — Italy: Great ship in the air"
 date: 19 February 1465
 location: "Italy: Great ship in the air"
-tags: ["case", "wonders-in-the-sky", "italy-great-ship-in-the-air"]
+tags: ["case", "wonders-in-the-sky", "italy"]
 source: Wonders in the Sky
 ---
 

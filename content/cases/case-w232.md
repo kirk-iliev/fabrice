@@ -2,7 +2,7 @@
 title: "W232 — Vienna, Austria: Flying box-like object: An object resembling a coffin was seen in the air, causing much anxiety."
 date: February 1665
 location: "Vienna, Austria: Flying box-like object"
-tags: ["case", "wonders-in-the-sky", "vienna", "austria-flying-box-like-object"]
+tags: ["case", "wonders-in-the-sky", "vienna", "austria"]
 source: Wonders in the Sky
 ---
 

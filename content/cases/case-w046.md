@@ -2,7 +2,7 @@
 title: "W046 — Bohemia, Czechoslovakia: Flying \"dragon\""
 date: 1142
 location: "Bohemia, Czechoslovakia: Flying \"dragon\""
-tags: ["case", "wonders-in-the-sky", "bohemia", "czechoslovakia-flying-dragon"]
+tags: ["case", "wonders-in-the-sky", "bohemia", "czechoslovakia"]
 source: Wonders in the Sky
 ---
 

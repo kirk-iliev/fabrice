@@ -2,7 +2,7 @@
 title: "W225 — Bednall-Green, England: Pillar containing lights"
 date: 23 April 1661
 location: "Bednall-Green, England"
-tags: ["case", "wonders-in-the-sky", "bednall-green", "england"]
+tags: ["case", "wonders-in-the-sky", "bednall"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W233 — Stralsund, Germany: Domed flying saucer: Aerial ships and a saucer-shaped object with dome were reported flying over the church of"
 date: 8 April 1665
 location: "Stralsund, Germany: Domed flying saucer"
-tags: ["case", "wonders-in-the-sky", "stralsund", "germany-domed-flying-saucer"]
+tags: ["case", "wonders-in-the-sky", "stralsund", "germany"]
 source: Wonders in the Sky
 ---
 

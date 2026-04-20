@@ -2,7 +2,7 @@
 title: "W471 — Roman Empire: A pillar in the sky"
 date: 384
 location: "Roman Empire: A pillar in the sky"
-tags: ["case", "wonders-in-the-sky", "roman-empire-a-pillar-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "roman-empire"]
 source: Wonders in the Sky
 ---
 

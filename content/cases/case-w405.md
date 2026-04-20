@@ -2,7 +2,7 @@
 title: "W405 — Athens, Greece: Solar intruder"
 date: 18 February 1850
 location: "Athens, Greece: Solar intruder"
-tags: ["case", "wonders-in-the-sky", "athens", "greece-solar-intruder"]
+tags: ["case", "wonders-in-the-sky", "athens", "greece"]
 source: Wonders in the Sky
 ---
 

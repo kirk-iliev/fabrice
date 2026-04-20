@@ -2,7 +2,7 @@
 title: "W089 — Rome, Italy: Flying formation"
 date: 16 September 1408
 location: "Rome, Italy: Flying formation"
-tags: ["case", "wonders-in-the-sky", "rome", "italy-flying-formation"]
+tags: ["case", "wonders-in-the-sky", "rome", "italy"]
 source: Wonders in the Sky
 ---
 

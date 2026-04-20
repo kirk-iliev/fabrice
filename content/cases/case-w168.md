@@ -2,7 +2,7 @@
 title: "W168 — Targoviste, Wallachia, Romania Hovering object: When prince Michel the Brave besieged the city of Targoviste, the capital of Wallachia,"
 date: 15 October 1595
 location: "Targoviste, Wallachia, Romania Hovering object"
-tags: ["case", "wonders-in-the-sky", "targoviste", "wallachia", "romania-hovering-object"]
+tags: ["case", "wonders-in-the-sky", "targoviste", "wallachia", "romania"]
 source: Wonders in the Sky
 ---
 

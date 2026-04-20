@@ -2,7 +2,7 @@
 title: "W187 — Muddy River near Charlton,: Massachusetts: Missing time among the Puritans"
 date: March 1638
 location: "Muddy River near Charlton,"
-tags: ["case", "wonders-in-the-sky", "muddy-river-near-charlton"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

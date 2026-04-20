@@ -2,7 +2,7 @@
 title: "W271 — Tallin, Baltic Sea: Clouds fighting"
 date: 2 April 1716
 location: "Tallin, Baltic Sea: Clouds fighting"
-tags: ["case", "wonders-in-the-sky", "tallin", "baltic-sea-clouds-fighting"]
+tags: ["case", "wonders-in-the-sky", "tallin", "baltic-sea"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W503 — Stockholm, Sweden: Five fiery disks"
 date: 20 April 1535
 location: "Stockholm, Sweden: Five fiery disks"
-tags: ["case", "wonders-in-the-sky", "stockholm", "sweden-five-fiery-disks"]
+tags: ["case", "wonders-in-the-sky", "stockholm", "sweden"]
 source: Wonders in the Sky
 ---
 

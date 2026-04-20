@@ -2,7 +2,7 @@
 title: "W105 — Albisola, Savona Province, Italy A dazzling object stops a battle"
 date: 18 October 1482
 location: "Albisola, Savona Province, Italy A dazzling object stops a battle"
-tags: ["case", "wonders-in-the-sky", "albisola", "savona-province", "italy-a-dazzling-object-stops-a-battle"]
+tags: ["case", "wonders-in-the-sky", "albisola", "savona-province", "italy"]
 source: Wonders in the Sky
 ---
 

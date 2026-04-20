@@ -2,7 +2,7 @@
 title: "W026 — was said to be lifted to the sky with some frequency. His biographer, Chartruiz,: Bishop of Hungary, revealed that this sometimes happened spiritually and at other times"
 date: 997
 location: "was said to be lifted to the sky with some frequency. His biographer, Chartruiz,"
-tags: ["case", "wonders-in-the-sky", "was-said-to-be-lifted-to-the-sky-with-some-frequency-his-biographer", "chartruiz"]
+tags: ["case", "wonders-in-the-sky", "chartruiz"]
 source: Wonders in the Sky
 ---
 

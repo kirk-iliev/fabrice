@@ -2,7 +2,7 @@
 title: "W488 — mentions all kinds of celestial prodigies associated with religious images over the: centuries. Among these, two incidents of flying crosses are recorded. Neither case is dated"
 date: 1739
 location: "mentions all kinds of celestial prodigies associated with religious images over the"
-tags: ["case", "wonders-in-the-sky", "mentions-all-kinds-of-celestial-prodigies-associated-with-religious-images-over-the"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W462 — Roman Empire: Burning shield: \"In the consulship of Lucius Valerius and Gaius Marius a burning shield scattering sparks"
 date: 85 BC
 location: "Roman Empire: Burning shield"
-tags: ["case", "wonders-in-the-sky", "roman-empire-burning-shield"]
+tags: ["case", "wonders-in-the-sky", "roman-empire"]
 source: Wonders in the Sky
 ---
 

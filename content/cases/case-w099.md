@@ -2,7 +2,7 @@
 title: "W099 — Arras, France: Hovering object"
 date: 1 November 1461
 location: "Arras, France: Hovering object"
-tags: ["case", "wonders-in-the-sky", "arras", "france-hovering-object"]
+tags: ["case", "wonders-in-the-sky", "arras", "france"]
 source: Wonders in the Sky
 ---
 

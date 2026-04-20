@@ -2,7 +2,7 @@
 title: "W185 — Port-Louis, Brittany, France: A Procession of sky beings"
 date: Circa 1635
 location: "Port-Louis, Brittany, France"
-tags: ["case", "wonders-in-the-sky", "port-louis", "brittany", "france"]
+tags: ["case", "wonders-in-the-sky", "port"]
 source: Wonders in the Sky
 ---
 

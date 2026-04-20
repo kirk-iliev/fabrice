@@ -2,7 +2,7 @@
 title: "W417 — Orgeres, France: Sighting of Vulcan: Mr. Lescarbault, an amateur astronomer, has observed a body of planetary size crossing"
 date: 26 March 1859
 location: "Orgeres, France: Sighting of Vulcan"
-tags: ["case", "wonders-in-the-sky", "orgeres", "france-sighting-of-vulcan"]
+tags: ["case", "wonders-in-the-sky", "orgeres", "france"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W333 — Maine: White globe and glowing specter: In 1806 the Rev. Abraham Cummings set out to investigate the apparition of a ghost. A"
 date: July 1806
 location: "Maine: White globe and glowing specter"
-tags: ["case", "wonders-in-the-sky", "maine-white-globe-and-glowing-specter"]
+tags: ["case", "wonders-in-the-sky", "maine"]
 source: Wonders in the Sky
 ---
 

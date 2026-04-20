@@ -2,7 +2,7 @@
 title: "W239 — and had four daughters by him."
 date: of 21
 location: "and had four daughters by him."
-tags: ["case", "wonders-in-the-sky", "and-had-four-daughters-by-him"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

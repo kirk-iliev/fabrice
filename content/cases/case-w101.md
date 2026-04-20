@@ -2,7 +2,7 @@
 title: "W101 — Mount Kasuga, Japan: Dark object CD: In the middle of the night a dark object took off from Mount Kasuga flying west towards"
 date: 8 March 1468
 location: "Mount Kasuga, Japan: Dark object CD"
-tags: ["case", "wonders-in-the-sky", "mount-kasuga", "japan-dark-object-cd"]
+tags: ["case", "wonders-in-the-sky", "mount-kasuga", "japan"]
 source: Wonders in the Sky
 ---
 

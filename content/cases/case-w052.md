@@ -2,7 +2,7 @@
 title: "W052 — Canterbury, England: cosmic catastrophe"
 date: 18 June 1178
 location: "Canterbury, England: cosmic catastrophe"
-tags: ["case", "wonders-in-the-sky", "canterbury", "england-cosmic-catastrophe"]
+tags: ["case", "wonders-in-the-sky", "canterbury", "england"]
 source: Wonders in the Sky
 ---
 

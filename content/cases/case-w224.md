@@ -2,7 +2,7 @@
 title: "W224 — Between Ilford and Romford, England: Maneuvering light"
 date: April 1661
 location: "Between Ilford and Romford, England"
-tags: ["case", "wonders-in-the-sky", "between-ilford-and-romford", "england"]
+tags: ["case", "wonders-in-the-sky", "ilford-and-romford", "england"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W305 — unknown location: Mystery satellite of planet Venus"
 date: 28 March 1764
 location: "unknown location"
-tags: ["case", "wonders-in-the-sky", "unknown-location"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

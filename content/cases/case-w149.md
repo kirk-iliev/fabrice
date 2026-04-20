@@ -2,7 +2,7 @@
 title: "W149 — Basel, Switzerland: Aerial Combat: Many black spheres in apparent aerial combat. Several turn red and disintegrate."
 date: 7 August 1566
 location: "Basel, Switzerland: Aerial Combat"
-tags: ["case", "wonders-in-the-sky", "basel", "switzerland-aerial-combat"]
+tags: ["case", "wonders-in-the-sky", "basel", "switzerland"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W156 — Japan, exact location unknown: Flying umbrella CD"
 date: 29 January 1574
 location: "Japan, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "japan", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "japan"]
 source: Wonders in the Sky
 ---
 

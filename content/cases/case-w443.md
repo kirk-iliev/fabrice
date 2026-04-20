@@ -2,7 +2,7 @@
 title: "W443 — Peckleloh, Germany: Planetary mystery"
 date: 4 April 1876
 location: "Peckleloh, Germany: Planetary mystery"
-tags: ["case", "wonders-in-the-sky", "peckleloh", "germany-planetary-mystery"]
+tags: ["case", "wonders-in-the-sky", "peckleloh", "germany"]
 source: Wonders in the Sky
 ---
 

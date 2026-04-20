@@ -2,7 +2,7 @@
 title: "W104 — Arabia: Pointed object in the sky"
 date: 1479
 location: "Arabia: Pointed object in the sky"
-tags: ["case", "wonders-in-the-sky", "arabia-pointed-object-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "arabia"]
 source: Wonders in the Sky
 ---
 

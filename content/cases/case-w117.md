@@ -2,7 +2,7 @@
 title: "W117 — Rome, Italy: Michelangelo's flying triangle: The celebrated sculptor Michelangelo Buonarroti (1475-1564) observed a triangular light"
 date: 1513
 location: "Rome, Italy: Michelangelo's flying triangle"
-tags: ["case", "wonders-in-the-sky", "rome", "italy-michelangelo-s-flying-triangle"]
+tags: ["case", "wonders-in-the-sky", "rome", "italy"]
 source: Wonders in the Sky
 ---
 

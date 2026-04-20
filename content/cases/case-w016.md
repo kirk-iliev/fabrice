@@ -2,7 +2,7 @@
 title: "W016 — China, exact location unknown: Two huge flying objects with complex shapes CD"
 date: March 900
 location: "China, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "china", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "china"]
 source: Wonders in the Sky
 ---
 

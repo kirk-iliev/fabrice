@@ -2,7 +2,7 @@
 title: "W031 — France: A ballet of stars"
 date: Autumn 1023
 location: "France: A ballet of stars"
-tags: ["case", "wonders-in-the-sky", "france-a-ballet-of-stars"]
+tags: ["case", "wonders-in-the-sky", "france"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W516 — Rutland, England Watering intruder: An object created a sprout that roared, took water from a river, shot light beams to the"
 date: 15 September 1749
 location: "Rutland, England Watering intruder"
-tags: ["case", "wonders-in-the-sky", "rutland", "england-watering-intruder"]
+tags: ["case", "wonders-in-the-sky", "rutland", "england"]
 source: Wonders in the Sky
 ---
 

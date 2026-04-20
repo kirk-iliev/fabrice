@@ -2,7 +2,7 @@
 title: "W295 — unknown location: Unexplained satellite of Venus"
 date: 20 May 1759
 location: "unknown location"
-tags: ["case", "wonders-in-the-sky", "unknown-location"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

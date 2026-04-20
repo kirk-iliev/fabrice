@@ -2,7 +2,7 @@
 title: "W501 — Florence, Italy: Miraculous cross: An old chronicler records the following observation:"
 date: 6 November 1331
 location: "Florence, Italy: Miraculous cross"
-tags: ["case", "wonders-in-the-sky", "florence", "italy-miraculous-cross"]
+tags: ["case", "wonders-in-the-sky", "florence", "italy"]
 source: Wonders in the Sky
 ---
 

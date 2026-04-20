@@ -2,7 +2,7 @@
 title: "W103 — Milan, Italy: Two flying objects during a war CD: Two unexplained flying objects are observed during a battle."
 date: 1478
 location: "Milan, Italy: Two flying objects during a war CD"
-tags: ["case", "wonders-in-the-sky", "milan", "italy-two-flying-objects-during-a-war-cd"]
+tags: ["case", "wonders-in-the-sky", "milan", "italy"]
 source: Wonders in the Sky
 ---
 

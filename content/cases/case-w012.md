@@ -2,7 +2,7 @@
 title: "W012 — China, exact location unknown: Two \"sacred lamps\" astound the crowd"
 date: 840
 location: "China, exact location unknown"
-tags: ["case", "wonders-in-the-sky", "china", "exact-location-unknown"]
+tags: ["case", "wonders-in-the-sky", "china"]
 source: Wonders in the Sky
 ---
 

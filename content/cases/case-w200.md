@@ -2,7 +2,7 @@
 title: "W200 — The Hague, Netherlands: Fleet of airships, occupants"
 date: May 1646
 location: "The Hague, Netherlands"
-tags: ["case", "wonders-in-the-sky", "the-hague", "netherlands"]
+tags: ["case", "wonders-in-the-sky", "hague", "netherlands"]
 source: Wonders in the Sky
 ---
 

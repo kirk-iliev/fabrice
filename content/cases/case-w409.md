@@ -2,7 +2,7 @@
 title: "W409 — Paris, France: Red disk on slow trajectory: A witness named Amede Guillemin, who lived on Rue Arnelot, observed an object moving"
 date: 1853
 location: "Paris, France: Red disk on slow trajectory"
-tags: ["case", "wonders-in-the-sky", "paris", "france-red-disk-on-slow-trajectory"]
+tags: ["case", "wonders-in-the-sky", "paris", "france"]
 source: Wonders in the Sky
 ---
 

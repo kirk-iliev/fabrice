@@ -2,7 +2,7 @@
 title: "W189 — Santiago, Spain: ships in the sky: A short pamphlet published in Seville in 1639 titled An Account of the Prodigious Visions"
 date: July 1639
 location: "Santiago, Spain: ships in the sky"
-tags: ["case", "wonders-in-the-sky", "santiago", "spain-ships-in-the-sky"]
+tags: ["case", "wonders-in-the-sky", "santiago", "spain"]
 source: Wonders in the Sky
 ---
 

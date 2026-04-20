@@ -2,7 +2,7 @@
 title: "W120 — en la que fue por Comandante y Capitan General Juan de Grijalva. Escrito para su: Alteza por el Capitan mayor de la dicha armada.\" In Joaquin Garcia Icazbalceta,"
 date: 1518
 location: "en la que fue por Comandante y Capitan General Juan de Grijalva. Escrito para su"
-tags: ["case", "wonders-in-the-sky", "en-la-que-fue-por-comandante-y-capitan-general-juan-de-grijalva-escrito-para-su"]
+tags: ["case", "wonders-in-the-sky"]
 source: Wonders in the Sky
 ---
 

@@ -2,7 +2,7 @@
 title: "W377 — Tirgu-Neamt, Romania: Luminous sphere"
 date: 29 August 1837
 location: "Tirgu-Neamt, Romania"
-tags: ["case", "wonders-in-the-sky", "tirgu-neamt", "romania"]
+tags: ["case", "wonders-in-the-sky", "tirgu"]
 source: Wonders in the Sky
 ---
 

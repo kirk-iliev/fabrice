@@ -2,7 +2,7 @@
 title: "W511 — Island of Lethy, India Globe of fire with residue: A globe of fire appeared to drop a load of gelatinous substance. The strange object came"
 date: 24 March 1718
 location: "Island of Lethy, India Globe of fire with residue"
-tags: ["case", "wonders-in-the-sky", "island-of-lethy", "india-globe-of-fire-with-residue"]
+tags: ["case", "wonders-in-the-sky", "island-of-lethy"]
 source: Wonders in the Sky
 ---
 

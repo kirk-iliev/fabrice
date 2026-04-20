@@ -2,7 +2,7 @@
 title: "W063 — El Puig, Valencia: A fleet of seven lights: According to one record, seven mysterious lights in the night sky were seen on four"
 date: 1237
 location: "El Puig, Valencia: A fleet of seven lights"
-tags: ["case", "wonders-in-the-sky", "el-puig", "valencia-a-fleet-of-seven-lights"]
+tags: ["case", "wonders-in-the-sky", "el-puig", "valencia"]
 source: Wonders in the Sky
 ---
 

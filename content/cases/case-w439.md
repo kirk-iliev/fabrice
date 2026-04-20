@@ -2,7 +2,7 @@
 title: "W439 — Paris, France: Three round objects: Astronomers from Paris observatory are reported to have observed three round bodies"
 date: 2 June 1873
 location: "Paris, France: Three round objects"
-tags: ["case", "wonders-in-the-sky", "paris", "france-three-round-objects"]
+tags: ["case", "wonders-in-the-sky", "paris", "france"]
 source: Wonders in the Sky
 ---
 
