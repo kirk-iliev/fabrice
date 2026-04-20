@@ -94,7 +94,7 @@
 </div>
 
 <div id="links" class="panel" style="font-size:12px;">
-  <a href="./">wiki home</a> · <a href="./stats.html">stats</a>
+  <a href="../">wiki home</a> · <a href="./stats.html">stats</a>
 </div>
 
 <div id="tooltip"></div>
@@ -104,7 +104,7 @@
 <script src="https://unpkg.com/globe.gl@2.32.0/dist/globe.gl.min.js"></script>
 <script>
 (async function () {
-  const res = await fetch("./cases-geo.json");
+  const res = await fetch("../cases-geo.json");
   const cases = await res.json();
 
   const totalEl = document.getElementById("total-count");

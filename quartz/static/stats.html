@@ -30,7 +30,7 @@
 </head>
 <body>
 
-<div class="nav"><a href="./">wiki home</a> · <a href="./map.html">globe</a> · stats</div>
+<div class="nav"><a href="../">wiki home</a> · <a href="./map.html">globe</a> · stats</div>
 <h1>Patterns in the Vallée catalog</h1>
 <div class="sub">Aggregates across 1,452 cases from <i>Passport to Magonia</i> and <i>Wonders in the Sky</i>.</div>
 
@@ -90,7 +90,7 @@
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
 <script>
 (async function () {
-  const cases = await fetch("./cases-geo.json").then(r => r.json());
+  const cases = await fetch("../cases-geo.json").then(r => r.json());
 
   document.getElementById("total-cases").textContent = "1,452";
   document.getElementById("geo-pct").textContent =

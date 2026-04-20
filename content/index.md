@@ -8,8 +8,8 @@ A searchable, cross-referenced wiki of UFO close encounter cases and anomalies d
 
 ## Browse Cases
 
-- [🌍 Interactive globe](/map.html) — 1,451 geocoded cases plotted on a 3D globe, filterable by year and source
-- [📊 Stats & patterns](/stats.html) — timeseries, source breakdown, top countries, classification breakdown
+- [🌍 Interactive globe](static/map.html) — 1,451 geocoded cases plotted on a 3D globe, filterable by year, source, shape, and humanoid presence
+- [📊 Stats & patterns](static/stats.html) — timeseries, shapes, entities, interactions, time-of-day, and more
 - [[cases/]] — Full case index
 - [By tag](/tags/) — Filter by geographic location, classification (CE1, CE2, CE3), phenomena (humanoid, trace-evidence), and more
 
