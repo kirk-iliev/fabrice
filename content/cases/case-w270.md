@@ -1,5 +1,5 @@
 ---
-title: "W270 — London, England: Man in a flying object: At 2:00 A.M. multiple witnesses saw "a strange comet" which seemed to be carried along"
+title: "W270 — London, England: Man in a flying object: At 2:00 A.M. multiple witnesses saw \"a strange comet\" which seemed to be carried along"
 date: 11 May 1710
 location: "London, England: Man in a flying object"
 tags: ["case", "wonders-in-the-sky", "london", "england-man-in-a-flying-object"]

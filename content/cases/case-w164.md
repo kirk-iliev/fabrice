@@ -1,5 +1,5 @@
 ---
-title: "W164 — Beauvais sous Matha near Tors, France Flying Hat-shaped object: A brown "hat" with horrible red colors was observed flying close to the steeple shortly"
+title: "W164 — Beauvais sous Matha near Tors, France Flying Hat-shaped object: A brown \"hat\" with horrible red colors was observed flying close to the steeple shortly"
 date: 1586
 location: "Beauvais sous Matha near Tors, France Flying Hat-shaped object"
 tags: ["case", "wonders-in-the-sky", "beauvais-sous-matha-near-tors", "france-flying-hat-shaped-object"]

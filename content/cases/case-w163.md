@@ -1,5 +1,5 @@
 ---
-title: "W163 — Grangemuir, Scotland: Healer abducted by fairies: A woman named Alison Pearson confessed that she had met with the "Good Neighbors,""
+title: "W163 — Grangemuir, Scotland: Healer abducted by fairies: A woman named Alison Pearson confessed that she had met with the \"Good Neighbors,\""
 date: 1586
 location: "Grangemuir, Scotland: Healer abducted by fairies"
 tags: ["case", "wonders-in-the-sky", "grangemuir", "scotland-healer-abducted-by-fairies"]

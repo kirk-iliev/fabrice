@@ -1,5 +1,5 @@
 ---
-title: "W454 — in Russian). Igor Lissevich knew Chinese and was a reliable source. The original: references are quoted as "Records of the foremost deeds of Huang-Ti the Great" and"
+title: "W454 — in Russian). Igor Lissevich knew Chinese and was a reliable source. The original: references are quoted as \"Records of the foremost deeds of Huang-Ti the Great\" and"
 date: 1981
 location: "in Russian). Igor Lissevich knew Chinese and was a reliable source. The original"
 tags: ["case", "wonders-in-the-sky", "in-russian-igor-lissevich-knew-chinese-and-was-a-reliable-source-the-original"]

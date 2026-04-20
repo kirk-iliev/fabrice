@@ -1,5 +1,5 @@
 ---
-title: "W349 — Buchholz, Germany: Multiple planetoids: Astronomer J.W. Pastorff (1767-1838) observed what he thought was a "comet" close to"
+title: "W349 — Buchholz, Germany: Multiple planetoids: Astronomer J.W. Pastorff (1767-1838) observed what he thought was a \"comet\" close to"
 date: 26 June 1819
 location: "Buchholz, Germany: Multiple planetoids"
 tags: ["case", "wonders-in-the-sky", "buchholz", "germany-multiple-planetoids"]

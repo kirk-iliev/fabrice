@@ -1,5 +1,5 @@
 ---
-title: "W324 — Bruges, Belgium: Unexplained maneuvering "meteor""
+title: "W324 — Bruges, Belgium: Unexplained maneuvering \"meteor\""
 date: July 1799
 location: "Bruges, Belgium"
 tags: ["case", "wonders-in-the-sky", "bruges", "belgium"]

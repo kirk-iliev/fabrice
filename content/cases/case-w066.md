@@ -1,5 +1,5 @@
 ---
-title: "W066 — England: A battle of stars: Nicholas of Findern reported to Burton Abbey that "About the hour of vespers, the sky"
+title: "W066 — England: A battle of stars: Nicholas of Findern reported to Burton Abbey that \"About the hour of vespers, the sky"
 date: 14 October 1253
 location: "England: A battle of stars"
 tags: ["case", "wonders-in-the-sky", "england-a-battle-of-stars"]

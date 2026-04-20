@@ -1,5 +1,5 @@
 ---
-title: "W303 — Location unknown: Planetoid: Planet-like body passing in front of the sun: "Lichtenberg saw, with the naked eye, a gre$!"
+title: "W303 — Location unknown: Planetoid: Planet-like body passing in front of the sun: \"Lichtenberg saw, with the naked eye, a gre$!"
 date: 19 November 1762
 location: "Location unknown: Planetoid"
 tags: ["case", "wonders-in-the-sky", "location-unknown-planetoid"]

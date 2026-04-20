@@ -1,5 +1,5 @@
 ---
-title: "W108 — Milan, Italy: Summoning the Aliens: Seven "men" appeared before Philosopher Facius Cardan (Fazio Cardano) in his study."
+title: "W108 — Milan, Italy: Summoning the Aliens: Seven \"men\" appeared before Philosopher Facius Cardan (Fazio Cardano) in his study."
 date: 13 August 1491
 location: "Milan, Italy: Summoning the Aliens"
 tags: ["case", "wonders-in-the-sky", "milan", "italy-summoning-the-aliens"]

@@ -1,5 +1,5 @@
 ---
-title: "W128 — near Florence, Italy: Benvenuto Cellini's "enormous splendor""
+title: "W128 — near Florence, Italy: Benvenuto Cellini's \"enormous splendor\""
 date: 1537
 location: "near Florence, Italy"
 tags: ["case", "wonders-in-the-sky", "florence", "italy"]

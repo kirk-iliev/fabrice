@@ -1,5 +1,5 @@
 ---
-title: "W098 — Metz, France: Many lights, seen twice: "Between Saint Remy's day (October 1st ) and All Saints' Day (November 1st ) numerous"
+title: "W098 — Metz, France: Many lights, seen twice: \"Between Saint Remy's day (October 1st ) and All Saints' Day (November 1st ) numerous"
 date: October 1461
 location: "Metz, France: Many lights, seen twice"
 tags: ["case", "wonders-in-the-sky", "metz", "france-many-lights", "seen-twice"]

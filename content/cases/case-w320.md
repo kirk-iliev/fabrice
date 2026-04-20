@@ -1,5 +1,5 @@
 ---
-title: "W320 — Bucharest, Romania: Unexplained "moon""
+title: "W320 — Bucharest, Romania: Unexplained \"moon\""
 date: 28 December 1793
 location: "Bucharest, Romania"
 tags: ["case", "wonders-in-the-sky", "bucharest", "romania"]

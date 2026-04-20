@@ -1,5 +1,5 @@
 ---
-title: "W132 — Halberstadt, Saxony, Germany: Black sphere: A black ball-shaped object was seen, apparently "emerging from the middle of the moon""
+title: "W132 — Halberstadt, Saxony, Germany: Black sphere: A black ball-shaped object was seen, apparently \"emerging from the middle of the moon\""
 date: 24 April 1547
 location: "Halberstadt, Saxony, Germany: Black sphere"
 tags: ["case", "wonders-in-the-sky", "halberstadt", "saxony", "germany-black-sphere"]

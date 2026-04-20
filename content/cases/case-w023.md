@@ -1,5 +1,5 @@
 ---
-title: "W023 — Constantinople (Istanbul), Turkey: Erratic "comet""
+title: "W023 — Constantinople (Istanbul), Turkey: Erratic \"comet\""
 date: 989
 location: "Constantinople (Istanbul), Turkey"
 tags: ["case", "wonders-in-the-sky", "constantinople", "turkey"]

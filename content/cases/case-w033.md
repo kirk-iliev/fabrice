@@ -1,7 +1,7 @@
 ---
-title: "W033 — England: A "witch" gets abducted: "When Henrie the third of that name was Emperour of Rome, in England a certain"
+title: "W033 — England: A \"witch\" gets abducted: \"When Henrie the third of that name was Emperour of Rome, in England a certain"
 date: 1045
-location: "England: A "witch" gets abducted"
+location: "England: A \"witch\" gets abducted"
 tags: ["case", "wonders-in-the-sky", "england-a-witch-gets-abducted"]
 source: Wonders in the Sky
 ---

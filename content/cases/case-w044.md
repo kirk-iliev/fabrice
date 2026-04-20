@@ -1,5 +1,5 @@
 ---
-title: "W044 — Bohemia, Czechoslovakia: Flying "serpent" in the sky"
+title: "W044 — Bohemia, Czechoslovakia: Flying \"serpent\" in the sky"
 date: 1130
 location: "Bohemia, Czechoslovakia"
 tags: ["case", "wonders-in-the-sky", "bohemia", "czechoslovakia"]

@@ -1,5 +1,5 @@
 ---
-title: "W129 — Franconia, Thiiringen, Germany Disk, melted metal: A large "star" was seen in the sky and came down, emitting balls of fire that melted metal"
+title: "W129 — Franconia, Thiiringen, Germany Disk, melted metal: A large \"star\" was seen in the sky and came down, emitting balls of fire that melted metal"
 date: 16 January 1538
 location: "Franconia, Thiiringen, Germany Disk, melted metal"
 tags: ["case", "wonders-in-the-sky", "franconia", "thiiringen", "germany-disk", "melted-metal"]

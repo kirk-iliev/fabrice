@@ -124,11 +124,14 @@ def generate_markdown():
         clean_title = f"{case['case_number']} — {case['location']}"
         if case['title']:
             clean_title += f": {case['title']}"
+            
+        clean_title = clean_title.replace('"', '\\"')
+        clean_loc = case['location'].replace('"', '\\"')
         
         content = f"""---
 title: "{clean_title}"
 date: {case['date_display']}
-location: "{case['location']}"
+location: "{clean_loc}"
 tags: {json.dumps(case['tags'])}
 source: Wonders in the Sky
 ---

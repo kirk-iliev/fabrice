@@ -1,5 +1,5 @@
 ---
-title: "W291 — Stavanger, Norway: Flying octagon: "An octagonal luminosity in the sky emitted fireballs from its angles.""
+title: "W291 — Stavanger, Norway: Flying octagon: \"An octagonal luminosity in the sky emitted fireballs from its angles.\""
 date: 15 April 1752
 location: "Stavanger, Norway: Flying octagon"
 tags: ["case", "wonders-in-the-sky", "stavanger", "norway-flying-octagon"]

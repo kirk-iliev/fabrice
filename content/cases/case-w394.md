@@ -1,5 +1,5 @@
 ---
-title: "W394 — Arabian Sea, Arabia: Two wheels at sea: A ship at sea was approached by two "rolling wheels" that exploded with a crashing"
+title: "W394 — Arabian Sea, Arabia: Two wheels at sea: A ship at sea was approached by two \"rolling wheels\" that exploded with a crashing"
 date: 1848
 location: "Arabian Sea, Arabia: Two wheels at sea"
 tags: ["case", "wonders-in-the-sky", "arabian-sea", "arabia-two-wheels-at-sea"]

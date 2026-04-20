@@ -1,5 +1,5 @@
 ---
-title: "W404 — Sandwich, Kent, England: Slow-moving "red-hot iron ball""
+title: "W404 — Sandwich, Kent, England: Slow-moving \"red-hot iron ball\""
 date: 5 February 1850
 location: "Sandwich, Kent, England"
 tags: ["case", "wonders-in-the-sky", "sandwich", "kent", "england"]

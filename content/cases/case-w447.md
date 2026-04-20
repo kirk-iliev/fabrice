@@ -1,5 +1,5 @@
 ---
-title: "W447 — Dallas, Texas, USA: Dark object: the very first "flying saucer?""
+title: "W447 — Dallas, Texas, USA: Dark object: the very first \"flying saucer?\""
 date: 22 January 1878
 location: "Dallas, Texas, USA"
 tags: ["case", "wonders-in-the-sky", "dallas", "texas", "usa"]

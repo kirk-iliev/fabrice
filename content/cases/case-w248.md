@@ -1,5 +1,5 @@
 ---
-title: "W248 — at sea West of Granada, Spain: Unknown "star""
+title: "W248 — at sea West of Granada, Spain: Unknown \"star\""
 date: 30 December 1677
 location: "at sea West of Granada, Spain"
 tags: ["case", "wonders-in-the-sky", "at-sea-west-of-granada", "spain"]

@@ -1,5 +1,5 @@
 ---
-title: "W426 — Florence, Italy: Hovering white globe: "A white globe of fire many times larger than the full moon seemed hanging almost"
+title: "W426 — Florence, Italy: Hovering white globe: \"A white globe of fire many times larger than the full moon seemed hanging almost"
 date: 1 November 1864
 location: "Florence, Italy: Hovering white globe"
 tags: ["case", "wonders-in-the-sky", "florence", "italy-hovering-white-globe"]

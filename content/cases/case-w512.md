@@ -1,5 +1,5 @@
 ---
-title: "W512 — Ath and Liege, Belgium Circles of light: Large glowing clouds collide: fireballs and circles of light: "About 7:30 at night that"
+title: "W512 — Ath and Liege, Belgium Circles of light: Large glowing clouds collide: fireballs and circles of light: \"About 7:30 at night that"
 date: 19 October 1726
 location: "Ath and Liege, Belgium Circles of light"
 tags: ["case", "wonders-in-the-sky", "ath-and-liege", "belgium-circles-of-light"]

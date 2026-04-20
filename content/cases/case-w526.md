@@ -1,7 +1,7 @@
 ---
-title: "W526 — when North American newspapers reported on dozens of mysterious "flying: saucers" that had fallen into parks, backyards, and streams, there has existed an almost"
+title: "W526 — when North American newspapers reported on dozens of mysterious \"flying: saucers\" that had fallen into parks, backyards, and streams, there has existed an almost"
 date: Since 1947
-location: "when North American newspapers reported on dozens of mysterious "flying"
+location: "when North American newspapers reported on dozens of mysterious \"flying"
 tags: ["case", "wonders-in-the-sky", "when-north-american-newspapers-reported-on-dozens-of-mysterious-flying"]
 source: Wonders in the Sky
 ---

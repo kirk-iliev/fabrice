@@ -1,5 +1,5 @@
 ---
-title: "W021 — Trans-Rhenan Germany: Iron Globes chased away: "In some districts, burning iron globes were seen in the air, some of which, while flying,"
+title: "W021 — Trans-Rhenan Germany: Iron Globes chased away: \"In some districts, burning iron globes were seen in the air, some of which, while flying,"
 date: 944
 location: "Trans-Rhenan Germany: Iron Globes chased away"
 tags: ["case", "wonders-in-the-sky", "trans-rhenan-germany-iron-globes-chased-away"]

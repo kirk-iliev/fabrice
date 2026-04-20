@@ -1,5 +1,5 @@
 ---
-title: "W419 — Moscow, Russia: Unexplained sky object: At 9:45 P.M. "a star to the southwest of the Great Bear suddenly commenced to wax"
+title: "W419 — Moscow, Russia: Unexplained sky object: At 9:45 P.M. \"a star to the southwest of the Great Bear suddenly commenced to wax"
 date: 1 March 1860
 location: "Moscow, Russia: Unexplained sky object"
 tags: ["case", "wonders-in-the-sky", "moscow", "russia-unexplained-sky-object"]

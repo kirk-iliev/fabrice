@@ -1,5 +1,5 @@
 ---
-title: "W436 — Berlin, Germany: Slow transit: "As I was last night examining the constellation Lyra through my 4 /2-inch achromatic,"
+title: "W436 — Berlin, Germany: Slow transit: \"As I was last night examining the constellation Lyra through my 4 /2-inch achromatic,"
 date: 26 September 1870
 location: "Berlin, Germany: Slow transit"
 tags: ["case", "wonders-in-the-sky", "berlin", "germany-slow-transit"]

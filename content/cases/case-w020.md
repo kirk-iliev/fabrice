@@ -1,5 +1,5 @@
 ---
-title: "W020 — Reims, France: Armies of fire: "An army of fire was seen in the sky in Reims on a Sunday morning in the month of"
+title: "W020 — Reims, France: Armies of fire: \"An army of fire was seen in the sky in Reims on a Sunday morning in the month of"
 date: March 927
 location: "Reims, France: Armies of fire"
 tags: ["case", "wonders-in-the-sky", "reims", "france-armies-of-fire"]

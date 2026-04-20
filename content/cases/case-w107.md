@@ -1,5 +1,5 @@
 ---
-title: "W107 — Vladimir, Russia: A Figure rises in the air: The apparition in the air of the Saint Grand Prince Alexander Nevsky. "In the year 6999"
+title: "W107 — Vladimir, Russia: A Figure rises in the air: The apparition in the air of the Saint Grand Prince Alexander Nevsky. \"In the year 6999"
 date: 1491
 location: "Vladimir, Russia: A Figure rises in the air"
 tags: ["case", "wonders-in-the-sky", "vladimir", "russia-a-figure-rises-in-the-air"]

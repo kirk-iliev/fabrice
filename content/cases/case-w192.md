@@ -1,5 +1,5 @@
 ---
-title: "W192 — Madrid, Spain: Unexplained black cloud: At 9:00 P.M., "the sky being very calm, without there being a single cloud in it, (Jose"
+title: "W192 — Madrid, Spain: Unexplained black cloud: At 9:00 P.M., \"the sky being very calm, without there being a single cloud in it, (Jose"
 date: 4 May 1641
 location: "Madrid, Spain: Unexplained black cloud"
 tags: ["case", "wonders-in-the-sky", "madrid", "spain-unexplained-black-cloud"]

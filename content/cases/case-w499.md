@@ -1,7 +1,7 @@
 ---
-title: "W499 — "the perfect form and likeness of a mighty great ship," was said to have been: seen in the sky by "certain monks of St. Albans," in England. In the classic flying saucer"
+title: "W499 — \"the perfect form and likeness of a mighty great ship,\" was said to have been: seen in the sky by \"certain monks of St. Albans,\" in England. In the classic flying saucer"
 date: In 1254
-location: ""the perfect form and likeness of a mighty great ship," was said to have been"
+location: "\"the perfect form and likeness of a mighty great ship,\" was said to have been"
 tags: ["case", "wonders-in-the-sky", "the-perfect-form-and-likeness-of-a-mighty-great-ship", "was-said-to-have-been"]
 source: Wonders in the Sky
 ---

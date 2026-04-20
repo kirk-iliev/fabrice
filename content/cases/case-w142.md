@@ -1,5 +1,5 @@
 ---
-title: "W142 — Porco, Peru: An unexplained "comet" is taken as an omen"
+title: "W142 — Porco, Peru: An unexplained \"comet\" is taken as an omen"
 date: 13 January 1553
 location: "Porco, Peru"
 tags: ["case", "wonders-in-the-sky", "porco", "peru"]

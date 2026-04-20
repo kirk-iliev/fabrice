@@ -1,5 +1,5 @@
 ---
-title: "W095 — Constantinople: Light from the sky: "Every night [during the siege by the Turks] a fire descended from the sky, stood over the"
+title: "W095 — Constantinople: Light from the sky: \"Every night [during the siege by the Turks] a fire descended from the sky, stood over the"
 date: 29 May 1453
 location: "Constantinople: Light from the sky"
 tags: ["case", "wonders-in-the-sky", "constantinople-light-from-the-sky"]

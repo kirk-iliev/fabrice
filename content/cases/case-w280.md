@@ -1,5 +1,5 @@
 ---
-title: "W280 — Florence, Italy: Unexplained luminous "cloud""
+title: "W280 — Florence, Italy: Unexplained luminous \"cloud\""
 date: 9 December 1731
 location: "Florence, Italy"
 tags: ["case", "wonders-in-the-sky", "florence", "italy"]

@@ -1,7 +1,7 @@
 ---
-title: "W119 — Yucatan, Mexico: A "star" with rays of light: Spanish conquistador Juan de Grijalva (ca. 1489-1527) wrote: "On this day, in the evening,"
+title: "W119 — Yucatan, Mexico: A \"star\" with rays of light: Spanish conquistador Juan de Grijalva (ca. 1489-1527) wrote: \"On this day, in the evening,"
 date: April 1518
-location: "Yucatan, Mexico: A "star" with rays of light"
+location: "Yucatan, Mexico: A \"star\" with rays of light"
 tags: ["case", "wonders-in-the-sky", "yucatan", "mexico-a-star-with-rays-of-light"]
 source: Wonders in the Sky
 ---

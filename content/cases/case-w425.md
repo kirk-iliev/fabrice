@@ -1,5 +1,5 @@
 ---
-title: "W425 — Madrid, Spain: Maneuvering object: "The night before last there was observed on the horizon a luminous body that appeared"
+title: "W425 — Madrid, Spain: Maneuvering object: \"The night before last there was observed on the horizon a luminous body that appeared"
 date: 12 August 1863
 location: "Madrid, Spain: Maneuvering object"
 tags: ["case", "wonders-in-the-sky", "madrid", "spain-maneuvering-object"]
